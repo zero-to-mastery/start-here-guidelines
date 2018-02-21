@@ -78,4 +78,10 @@
 
 -[@DMTrooper3](https://github.com/DMTrooper3)
 
+<<<<<<< HEAD
 -[@MykeDu](https://github.com/MykeDu)
+=======
+-[@MykeDu](https://github.com/MykeDu)
+
+-[@blackchild](https://github.com/blackchild)
+>>>>>>> a5275098625efe6df8f3394f405a8b74f2be7497
