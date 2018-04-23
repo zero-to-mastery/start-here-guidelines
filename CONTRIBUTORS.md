@@ -442,5 +442,5 @@
 
 [@darrylferdinands]  (https://github.com/darrylferdinands)
 
-- [@ryanpatric](https://github.com/ryanpatric)
+[@ryanpatric](https://github.com/ryanpatric)
 
