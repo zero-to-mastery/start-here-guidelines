@@ -1,6 +1,6 @@
 # Contributors
 
--[@longgamegoodstride] (https://github.com/longgamegoodstride)
+-[@longgamegoodstride](https://github.com/longgamegoodstride)
 
 -[@lfidelino](https://github.com/lfidelino)
 
@@ -27,6 +27,8 @@
 -[@wanraitelli](https://github.com/wanraitelli)
 
 -[@raj](https://github.com/rajdeepsharma17)
+
+-[@zextis](https://github.com/zextis)
 
 -[@adrian-sarmas](https://github.com/adrian-sarmas)
 
@@ -1601,8 +1603,6 @@
 -[@AlfredoMarrero](https://github.com/AlfredoMarrero)
 
 -[@useramrit](https://github.com/useramrit)
-
--[@AlexFil1983] (https://github.com/AlexFil1983)
 
 -[@termoxin](https://github.com/termoxin)
 
