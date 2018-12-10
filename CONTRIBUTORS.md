@@ -2334,4 +2334,6 @@
 
 -[@DeweyHammers](https://github.com/DeweyHammers)
 
+-[@rbmanez](https://github.com/rbmanez)
+
 -[@johndev86](https://github.com/johndev86)
