@@ -1,0 +1,22 @@
+{
+  "name": "start-here-guidelines",
+  "version": "1.0.0",
+  "description": "Guidelines on how this open source community works. Most information is from the amazing https://opensource.guide/how-to-contribute/",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishnu93tr/start-here-guidelines.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishnu93tr/start-here-guidelines/issues"
+  },
+  "homepage": "https://github.com/vishnu93tr/start-here-guidelines#readme",
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}

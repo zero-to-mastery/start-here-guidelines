@@ -1,3 +1,4 @@
+var _ = require('lodash');
 const array1=[-100,101,102,-103,-99];
 const positivearray=array1.filter(number=>(number>0));
 alert(positivearray);
@@ -136,6 +137,68 @@ const factorial=(number)=>
     console.log(fact);
 }
 factorial(3);
+const lowestnumberinarray=(array)=>
+{
+    let lowest=0;
+    for(item of array)
+    {
+        if(lowest>item)
+        {
+            lowest=item;
+        }
+    }
+    return lowest;
+}
+const lowestnumberinarray=(array)=>
+{
+    let lowest=0;
+    array.forEach(item=>{
+        if(lowest>item)
+        {
+                lowest=item;
+        }
+})
+    return lowest;
+}
+const  lowestnumberinarray=(array)=>
+{
+    let lowest=0;
+    for(let i=0;i<array.length;i++)
+    {
+            if(lowest>array[i])
+            {
+                lowest=array[i];
+            }
+    }
+    return lowest;
+}
+const negativenumbersinarray=(array)=>
+{
+    let negativeNumbers=[];
+    for(items of array)
+    {
+        if(items<0)
+        {
+            negativeNumbers.push(items);
+        }
+    }
+
+    return negativeNumbers;
+}
+negativenumbersinarray([10,10,15,20,25,30,-30,40]);
+const negativenumbersinarray=(array)=>
+{
+    let negativeNumbers=[];
+    array.forEach(items=>{
+        if(items<0)
+        {
+            negativeNumbers.push(items);
+        }
+    })
+    return negativeNumbers;
+}
+
+
 
 
 
