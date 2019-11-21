@@ -5506,4 +5506,4 @@
 
 -[@jumno](https://github.com/yunoyunoyuno)
 
--[@blackmacy] (https://github.com/blackmacy)
+-[@blackmacy](https://github.com/blackmacy)
