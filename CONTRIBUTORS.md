@@ -2576,6 +2576,8 @@
 
 -[@alexat13](https://github.com/alexat13)
 
+-[@AnkitSalian](https://github.com/AnkitSalian)
+
 -[@NickWard414](http://github.com/NickWard414)
 
 -[@NathanCadiente](https://github.com/NathanCadiente)
@@ -5573,5 +5575,21 @@
 -[@RTP2016](https://github.com/rtp2016)
 
 -[@DesCodes](https://github.com/DesCodes)
+
+-[@PsyMadDoc](https://github.com/PsyMadDoc)
+
+-[@ErikMoxley](https://github.com/ErikMoxley)
+
+-[@Alexadejumo](https://github.com/alexadejumo)
+
+-[@mughees-asif](https://github.com/mughees-asif)
+
+-[@Angelus81](https://github.com/Angelus81)
+
+-[@maximog](https://github.com/maximog)
+
+-[@dinhl](https://github.com/dinhl)
+
+-[@ccleandro](https://github.com/ccleandro)
 
 -[@DwiDarma](https://github.com/dwikbtn)
