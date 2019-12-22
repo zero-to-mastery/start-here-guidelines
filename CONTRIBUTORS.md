@@ -5996,3 +5996,7 @@
 -[@tylerfred](http://github.com/tylerfred)
 
 -[@ArunJose](http://github.com/ArunJose)
+
+-[@kaiorosa1](http://github.com/kaiorosa1)
+
+-[@KevinGodinho](https://github.com/KevinGodinho)
