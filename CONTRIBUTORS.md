@@ -1,5 +1,4 @@
-.l# Contributors
--[@shabname](https://github.com/shabname)
+.l# Contributors -[@shabname](https://github.com/shabname)
 
 -[@AbsMechanik](https://github.com/AbsMechanik)
 
@@ -80,8 +79,6 @@
 -[@Geterp](https://github.com/Geterp)
 
 -[@Aravind](https://github.com/aravindeesh)
-
-
 
 -[@eduardoenari](https://github.com/eduardoenari)
 
@@ -6047,4 +6044,4 @@
 
 -[@derekadams-uas](https://github.com/derekadams-uas)
 
--[@youngfranko] (https://github.com/youngfranko)
+-[@youngfranko](https://github.com/youngfranko)
