@@ -1,19 +1,33 @@
-Guidelines on how this open source community works :)
+![](https://images.ctfassets.net/aq13lwl6616q/7CldUkAgaPYPOPxVqfpdDE/2465926718791a38ae9b50deed49ca24/ZTM_Opensource-Projects.png)
  
-Read below to see how you can join an existing project or create your own.
+ 
+Welcome to the [Zero To Mastery](https://zerotomastery.io) github organization! A place designed for brand new through veteran developers alike, to learn, practice and enjoy working on some really interesting projects. 
 
-## One rule of this community:
-We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
+## Who is this Github Organization for?
+Whilst intitially this Github org was created for [students](https://zerotomastery.io/students) of Zero To Mastery, everyone is encouraged to make use of it. It does not matter if you are brand new to coding or are well versed in the world of development. 
 
-## 4 Step guide to get started:
-**1**. Read the wonderful [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli.
+Since its a playground, we don't mind when you accidentily break things. Not only does this mean you are learning, but gives yourself or others the opportunity to fix it. Use this as a practice ground and enjoy contributing to projects you create with your fellow students, where many have gained real world experience *working in teams* by working on these projects.
 
-**2**. Make your first Pull Request (check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/), by adding your name to the `CONTRIBUTORS.md` file in the [start-here-guidelines](https://github.com/zero-to-mastery/start-here-guidelines) project.
 
-**3**. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get%20Started.md) for more information on selecting a project. 
+
+## Git Started In 4 Steps:
+
+**1**. Checkout the [Resources](#resources) section of this Readme!
+
+**2**. Using the resource to guide you, make your first pull request by adding your name to the [Contributors.md](/contributors.md) file in this project. 
+
+**3**. Don't let the fun stop here, now you have the basics  join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get%20Started.md) for more information on selecting a project. 
 
 **4**. In order to see the Zero to Mastery Icon in your Github profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
- 
+
+
+## Resources
+- [*gitStarted Guide*](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student @wanraitelli
+- [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/)
+- [Check out  or this free how-to tutorial](http://makeapullrequest.com/)
+
+
+
 ## Anatomy of an open source project:
 Every open source community is different.
 
