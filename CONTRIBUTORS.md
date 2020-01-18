@@ -6533,5 +6533,3 @@
 -[@AmrithaM] (https://github.com/AmrithaM/)
 
 -[@allan-oliveira] (https://github.com/allan-oliveira)
-
--[@amarcahturvedi16] (https://github.com/amarcahturvedi16)
