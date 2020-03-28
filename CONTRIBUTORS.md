@@ -8043,3 +8043,5 @@
 -[@TheSirion](https://github.com/TheSirion)
 
 -[@RanabirDey](https://github.com/RanabirDey)
+
+-[@c0llid3r](https://github.com/c0llid3r)
