@@ -1,6 +1,7 @@
 <!-- @format -->
 
 # Contributors
+-[@KidFlash2099](https://github.com/KidFlash2099)
 
 -[@codesankalp](https://github.com/codesankalp)
 
