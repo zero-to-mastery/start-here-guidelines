@@ -1,7 +1,6 @@
 <!-- @format -->
 
 # Contributors
--[@KidFlash2099](https://github.com/KidFlash2099)
 
 -[@codesankalp](https://github.com/codesankalp)
 
@@ -142,6 +141,8 @@
 -[@UnknownFearNG](https://github.com/UnknownFearNG)
 
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
+
+-[@KidFlash2099](https://github.com/KidFlash2099)
 
 -[@toughguyas](https://github.com/toughguyas)
 
