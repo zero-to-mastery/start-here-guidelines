@@ -8954,7 +8954,6 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
-
 -[@Pixass](https://github.com/Pixass/)
 
 -[@Its-Shivanshu-Sharma](https://github.com/Its-Shivanshu-Sharma)
@@ -9031,7 +9030,7 @@
 
 -[@allansp9](https://github.com/allansp9)
 
-- [@Amberchen8892] (https://github.com/Amberchen8892)
+- [@Amberchen8892](https://github.com/Amberchen8892)
 
 -[@Yousf9](https://github.com/YousF9)
 
@@ -9070,3 +9069,5 @@
 -[@natansevero](https://github.com/natansevero)
 
 -[@Lak01](https://github.com/Lak01)
+
+-[@eegli](https://github.com/eegli)
