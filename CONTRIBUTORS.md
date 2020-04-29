@@ -9260,4 +9260,4 @@
 
 -[@coa16esp](https://github.com/coa16esp)
 
--[@rartan] (https://github.com/rartan)
+-[@rartan](https://github.com/rartan)
