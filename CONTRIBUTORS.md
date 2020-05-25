@@ -11,6 +11,8 @@
 
 -[@henrysaba](https://github.com/henrysaba)
 
+-[@vaivk4](https://github.com/vaivk4)
+
 -[@Abhijeet05061998](https://github.com/Abhijeet05061998)
 
 -[@Divyasahithya](https://github.com/Divyasahithya)
@@ -48,6 +50,8 @@
 -[@inalien](https://github.com/inalien)
 
 -[@dboland77](https://github.com/dboland77)
+
+-[@olividir](https://github.com/olividir)
 
 -[@olividir](https://github.com/olividir)
 
