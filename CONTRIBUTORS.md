@@ -1,5 +1,7 @@
 mk4i86/0/0 0000000000000000 000000000 0 0 0 0 0 0# Contributors
 
+-[@lalaane](https://github.com/lalaane)
+
 -[@seakun](https://github.com/seakun)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
