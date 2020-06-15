@@ -1,4 +1,5 @@
 # Contributors
+
 -[@seakun](https://github.com/seakun)
 
 -[@divyanshukumar10](https://github.com/divyanshukumar10)
@@ -390,6 +391,8 @@
 -[@YoucefBnm](https://github.com/YoucefBnm)
 
 -[@Noufal2k](https://github.com/Noufal2k)
+
+-[@erickwithack](https://github.com/erickwithack)
 
 -[@MrAFerreira](https://github.com/MrAFerreira)
 
@@ -28800,3 +28803,57 @@
 -[@Borovnica1](https://github.com/Borovnica1)
 
 -[@mleblanc94](https://github.com/mleblanc94)
+
+-[@jsmitthimedhin](https://github.com/jsmitthimedhin)
+
+-[@jul3zone](https://github.com/jul3zone)
+
+-[@jwhi0207](https://github.com/jwhi0207)
+
+-[@Goomba](https://github.com/agentgoomba)
+
+-[@Luk1Pr0](https://github.com/Luk1Pr0)
+
+-[@monika-dzidic](https://github.com/monika-dzidic)
+
+-[@PrasadM07](https://github.com/PrasadM07)
+
+-[@Nishan-k](https://github.com/Nishan-k)
+
+-[@kavyashree088](https://github.com/kavyashree088)
+
+-[@dnexteinstein](https://github.com/dnexteinstein)
+
+-[@0xR4Z3R](https://github.com/0xR4Z3R/)
+
+-[@juma-vincent](https://github.com/juma-vincent)
+
+-[@gagan07-8](https://github.com/gagan07-8)
+
+-[@stevehari](https://github.com/stevehari)
+
+-[@Rafael0721](https://github.com/Rafael0721)
+
+-[@AliRaza1](https://github.com/AliRaza)
+
+-[@tomasbruzza](https://github.com/tomasbruzza)
+
+-[@arkeo01](https://github.com/arkeo01)
+
+-[@Deborah-R](https://github.com/Deborah-R/)
+
+-[@RituRajput](https://github.com/RituRajput)
+
+-[@JuakoDev](https://github.com/JuakoDev)
+
+-[@cwklouis07](https://github.com/cwklouis07)
+
+-[@SantoshRajput23](https://github.com/SantoshRajput23)
+
+-[@ayushagrawal708](https://github.com/ayushagrawal708/)
+
+-[@bryce013](https://github.com/bryce013)
+
+-[@rafaelnq](https://github.com/rafaelnq)
+
+-[@Fiyi-A](https://github.com/Fiyi-A)
