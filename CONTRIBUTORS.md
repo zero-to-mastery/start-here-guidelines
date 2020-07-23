@@ -30369,6 +30369,7 @@
 -[@TheBigLou](https://github.com/TheBigLou/)
 
 -[@LeonardoE20](https://github.com/LeonardoE20/)
--[@aazisanmjr](https://github.com/LeonardoE20/)
+
+-[@aazisanmjr](https://github.com/aazisanmjr/)
 
 -[@pRob3](https://github.com/pRob3/)
