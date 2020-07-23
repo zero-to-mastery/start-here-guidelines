@@ -1,5 +1,9 @@
 # Contributors
 
+-[@geecrypt](https://github.com/geecrypt)
+
+-[@anuragupperwal](https://github.com/anuragupperwal)
+
 -[@raphenium](https://github.com/raphenium)
 
 -[@Sara-2007](https://github.com/Sara-2007)
@@ -30409,4 +30413,40 @@
 -[@ashrafhussain17](https://github.com/ashrafhussain17)
 
 -[@hocevar-teodor](https://github.com/hocevar-teodor/)
+
 -[@elenor-design](https://https://github.com/Elenor-design/)
+
+-[@wrecket](https://github.com/Wrecket)
+
+-[@chrisnjw](https://github.com/chrisnjw)
+
+-[@andreoIp](https://github.com/andreoIp/)
+
+-[@subhamjain515](https://github.com/subhamjain515)
+
+-[@andreoIp](https://github.com/andreoIp/)
+
+-[@andreoIp](https://github.com/andreoIp/)
+
+-[@Mayuri-Sharma](https://github.com/Mayuri-Sharma)
+
+-[@shradhaagarwal01](https://github.com/shradhaagarwal01)
+
+-[@cormac0108](https://github.com/cormac0108)
+
+-[@ChandanCBagan](https://github.com/ChandanCBagan)
+
+-[priyal18](https://github.com/priyal18)
+
+-[@lahirurajapaksa](https://github.com/lahirurajapaksa)
+
+-[@CyberOct](https://github.com/cyberoct)
+
+-[@marja1895](https://github.com/marja1895)
+
+-[@FernandoDzay](https://github.com/FernandoDzay)
+
+-[@HackerdX](https://github.com/HackerdX)
+
+-[@jaskirat23](https://github.com/jaskirat23)
+>>>>>>> 5b38de8fe4be3494595239203240ff697cc9dd8c
