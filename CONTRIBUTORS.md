@@ -39,3 +39,5 @@
 - [@tewariyash](https://github.com/tewariyash/)
 
 -[@webdevangelie](https://github.com/webdevangelie)
+
+- [@ishdeep-dev](https://github.com/ishdeep-dev)
