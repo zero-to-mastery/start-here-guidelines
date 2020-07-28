@@ -141,3 +141,5 @@
 -[@Prateek15A](https://github.com/Prateek15A/)
 
 -[@adewagold](https://github.com/adewagold/)
+
+-[@Mad3Trip](https://github.com/Mad3Trip)
