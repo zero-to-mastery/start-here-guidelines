@@ -254,4 +254,4 @@
 
 - [@rohan123454](https://github.com/rohan123454)
 
-- [@TarrynGouveris] (https://github.com/TarrynGouveris)
+- [@TarrynGouveris](https://github.com/TarrynGouveris)
