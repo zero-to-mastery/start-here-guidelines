@@ -192,4 +192,4 @@
 
 - [@iridiumCodes](https://github.com/iridiumCodes)
 
--[@MonkeyDLuffyG2](https://github.com/MonkeyDLuffyG2)
+- [@MonkeyDLuffyG2](https://github.com/MonkeyDLuffyG2/)
