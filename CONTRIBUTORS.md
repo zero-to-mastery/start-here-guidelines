@@ -1,4 +1,3 @@
-# Contributors
 
 - [@shubham06082001](https://github.com/shubham06082001)
 
@@ -98,6 +97,8 @@
 
 - [@Pacifier25](https://github.com/Pacifier25)
 
+- [@SulthanNK](https://github.com/SulthanNK)
+
 - [@Xebec19](https://github.com/Xebec19)
 
 - [@cyborg7459](https://github.com/cyborg7459)
@@ -136,9 +137,9 @@
 
 - [@krli07717](https://github.com/krli07717/)
 
--[@Huby03](https://github.com/Huby03/)
+- [@Huby03](https://github.com/Huby03/)
 
--[@Arshcreation](https://github.com/Arshcreation)
+- [@Arshcreation](https://github.com/Arshcreation)
 
 - [@Huby03](https://github.com/Huby03/)
 
@@ -163,6 +164,8 @@
 - [@ranabameer](https://github.com/ranabameer)
 
 - [@Pouladzadeh](https://github.com/Pouladzadeh)
+
+- [@AlexTBS9](https://github.com/AlexTBS9)
 
 - [@roycechun](https://github.com/roycechun/)
 
@@ -194,11 +197,11 @@
 
 - [@adadesh](https://github.com/agadesh/)
 
--[@stevster5555](https://github.com/stevster5555/)
+- [@stevster5555](https://github.com/stevster5555/)
 
 - [@manasi2905](https://github.com/manasi2905/)
 
--[@idumanli](https://github.com/idumanli/)
+- [@idumanli](https://github.com/idumanli/)
 
 - [@Piyush_Mahapatra](https://github.com/piyush-mahapatra-au6/)
 
@@ -225,5 +228,23 @@
 - [@felipefaundez7](https://github.com/felipefaundez7)
 
 - [@shafiqAffandi](https://github.com/shafiqAffandi)
+
+- [@alex-ele-xela](https://github.com/alex-ele-xela)
+
+- [@ttatiyev](https://github.com/ttatiyev)
+
+- [@Abhishek19k97](https://github.com/Abhishek19k97/)
+
+-[@skohade1](https://github.com/skohade1)
+
+-[@Electromorphous](https://github.com/Electromorphous)
+
+-[@Emmyoks](https://github.com/emmyoks)
+
+-[@dhanesh](https://github.com/dhanesh2346)
+
+-[@MonkeyDLuffyG2](https://github.com/MonkeyDLuffyG2/)
+
+- [@Kairi](https://github.com/ShonJacob)
 
 - [@rohan123454](https://github.com/rohan123454)
