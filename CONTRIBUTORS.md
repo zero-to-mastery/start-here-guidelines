@@ -256,8 +256,10 @@
 
 - [@rohan123454](https://github.com/rohan123454)
 
-- [@TarrynGouveris] (https://github.com/TarrynGouveris)
+- [@TarrynGouveris](https://github.com/TarrynGouveris)
 
 - [@calerbucci](https://github.com/calerbucci/)
 
 -[@anneKsiy](https://github.com/anneKsiy)
+
+-[@af-kuas](https://github.com/af-kuas)
