@@ -291,3 +291,5 @@
 - [@achilleleal](https://github.com/achilleleal/)
 
 - [@DanielLivingston32](https://github.com/DanielLivingston32/)
+
+-[@klajdi44](https://github.com/klajdi44)
