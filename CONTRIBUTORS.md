@@ -8967,7 +8967,4 @@
 
 - [@stone-gchi](https://github.com/stone-gchi/)
 
-
-
-
-- [@biggestanticlimax]((https://github.com/biggestanticlimax/)
+- [@biggestanticlimax](https://github.com/biggestanticlimax/)
