@@ -8435,4 +8435,7 @@
 -[@JohnMcGrane](https://github.com/JohnMcGrane/)
 
 -[@Roycekim99](https://github.com/Roycekim99/)
-- [@magdielndantas](https://github.com/magdielndantas)
+
+-[@magdielndantas](https://github.com/magdielndantas)
+
+-[@krishnateja](https://github.com/krishnateja96/)
