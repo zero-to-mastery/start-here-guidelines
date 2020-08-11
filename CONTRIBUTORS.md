@@ -8422,7 +8422,7 @@
 
 -[@vsaikm](https://github.com/vsaikm)
 
--[@Ritavdas](https://github.com/Ritavdas)
+- [@Ritavdas](https://github.com/Ritavdas)
 
 - [@l-white](https://github.com/l-white)
 
@@ -8430,13 +8430,18 @@
 
 - [@corylamb](https://github.com/corylamb)
 
--[@norsevikingdev](https://github.com/norsevikingdev/)
+- [@norsevikingdev](https://github.com/norsevikingdev/)
 
--[@JohnMcGrane](https://github.com/JohnMcGrane/)
+- [@JohnMcGrane](https://github.com/JohnMcGrane/)
 
--[@Roycekim99](https://github.com/Roycekim99/)
+- [@Roycekim99](https://github.com/Roycekim99/)
+
 - [@magdielndantas](https://github.com/magdielndantas)
 
--[@eduquintanillae](https://github.com/eduquintanillae)
--[@sulavkhadka787](https://github.com/sulavkhadka787)
--[@jaburialeh](https://github.com/jaburialeh)
+- [@eduquintanillae](https://github.com/eduquintanillae)
+
+- [@sulavkhadka787](https://github.com/sulavkhadka787)
+
+- [@jaburialeh](https://github.com/jaburialeh)
+
+- [@richardllara05](https://github.com/richardllara05)
