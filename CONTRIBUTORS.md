@@ -665,3 +665,5 @@
 - [@roryhoulding](https://github.com/roryhoulding)
 
 - [@divyanshrastogi51](https://github.com/divyanshrastogi51)
+
+- [@edwardatkinson](https://github.com/edwardatkinson)
