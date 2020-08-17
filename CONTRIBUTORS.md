@@ -822,3 +822,6 @@
 - [@CraigMehl](https://github.com/CraigMehl/)
 
 - [@msz-coder](https://github.com/msz-coder/)
+
+- [@erickpoblete](https://github.com/erickpoblete)
+
