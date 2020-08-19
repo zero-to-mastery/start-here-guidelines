@@ -863,14 +863,15 @@
 
 - [@chirag00757](https://github.com/chirag00757)
 
-[@mayorbcode](https://github.com/mayorbcode)
+- [@mayorbcode](https://github.com/mayorbcode)
 
 - [@ilhammrg](https://github.com/ilhammrg)
   
 - [@vipul1298](https://github.com/vipul1298)
 
-<<<<<<< HEAD
 - [@stanimal93](https://github.com/stanimal93)
-=======
--[Bishesh58](https://github.com/Bishesh58)
->>>>>>> f2730e5c2bdf0b2480b27a88aa9a110ffa8af0a2
+
+- [Bishesh58](https://github.com/Bishesh58)
+
+- [@kwalls13](https://github.com/kwalls13)
+
