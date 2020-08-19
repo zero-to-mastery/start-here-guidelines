@@ -30500,4 +30500,4 @@
 
 -[@Jagveer-Gagaan](https://github.com/JagveerGagaan/)
 
--[@mrsindelic](https://github.com/mrsindelic/)
+-[@mrsindelic](https://github.com/mrsindelic/)   <!-- update for contributor list-->
