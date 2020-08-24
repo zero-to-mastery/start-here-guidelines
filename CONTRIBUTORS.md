@@ -472,6 +472,8 @@
 
 - [@ggmele1](https://github.com/ggmele1)
 
+- [@gh0sttttt](https://github.com/gh0sttttt)
+
 - [@git-the-gist](https://github.com/git-the-gist)
 
 - [@gmpgiri](https://github.com/gmpgiri/)
@@ -665,6 +667,8 @@
 - [@piincher](https://github.com/piincher)
 
 - [@pixxstudios](https://github.com/pixxstudios)
+
+- [@PleaBanshee](https://github.com/PleaBanshee)
 
 - [@puneethramchandra](https://github.com/puneethramchandra/)
 
@@ -901,3 +905,60 @@
 - [@Arya184](https://github.com/Arya184)
 
 - [@CalWilsonCreatives](https://github.com/CalWilsonCreatives)	
+
+- [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
+
+- [@Arya184](https://github.com/Arya184)
+
+- [@skkthenotorious](https://github.com/skkthenotorious)
+
+- [@anishshettyk](https://github.com/Anishshettyk/)
+
+- [@DivYuS](https://github.com/DivYuS)
+
+- [@dukatux](https://github.com/dukatux)
+
+- [@jatin0814](https://github.com/jatin0814)
+
+- [@Lonewolfiz](https://github.com/Lonewolfiz/)
+
+- [@DelooreConsulting](https://github.com/DelooreConsulting)
+
+- [@RowenahWambui](https://github.com/RowenahWambui)
+
+- [@paulzay](https://github.com/paulzay/)
+
+- [@mouraogabriel](https://github.com/mouraogabriel/)
+
+- [@Sounakde](https://github.com/Sounakde/)
+
+- [@ChallapalliHemanthsaikumar](https://github.com/ChallapalliHemanthsaikumar/)
+
+- [@Alexandrusandy](https://github.com/Alexandrusandy/)
+
+- [@ruhimorajkar](https://github.com/ruhimorajkar/)
+
+- [@Mayank0255](https://github.com/Mayank0255/)
+
+- [@reine93](https://github.com/reine93)
+
+- [@leemolton](https://github.com/leemolton)
+
+- [@Prasathdv](https://github.com/Prasathdv/)
+
+- [@kaushalmarakana](https://github.com/kaushalmarakana/)
+
+- [@Vasile-Hij](https://github.com/Vasile-Hij/)
+
+- [@esejosue1](https://github.com/esejosue1/)
+
+- [@divyanshu0512](https://github.com/divyanshu0512/)
+
+- [@VilleSavolainen1](https://github.com/VilleSavolainen1/)
+
+- [@mojopy](https://github.com/mojopy)
+
+- [@blueseanz](https://github.com/blueseanz)
+
+- [@GlennMingi](https://github.com/GlennMingi)
+>>>>>>> 9b6b3aa062203f6d1cff2c7fa4626aab436599d1
