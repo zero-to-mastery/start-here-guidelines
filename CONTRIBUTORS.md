@@ -894,8 +894,10 @@
 
 - [@zizu1681](https://github.com/zizu1681/)
 
--[@stefangiba](https://github.com/stefangiba/)
+- [@stefangiba](https://github.com/stefangiba/)
 
--[@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
+- [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
--[@Arya184](https://github.com/Arya184)
+- [@Arya184](https://github.com/Arya184)
+
+- [@CalWilsonCreatives](https://github.com/CalWilsonCreatives)	
