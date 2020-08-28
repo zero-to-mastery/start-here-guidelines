@@ -226,6 +226,8 @@
 
 - [@SachinRaja](https://github.com/sachin-raja)
 
+- [@Shendry684](https://github.com/shendry684)
+
 - [@SajjanKarn](https://github.com/SajjanKarn)
 
 - [@Salmanz18](https://github.com/Salmanz18)
@@ -1097,8 +1099,6 @@
 - [@ahamdan](https://github.com/ahamdan1990)
 
 - [@Webmathic](https://github.com/webmathic)
-
-- [@Shewardelujo](https://github.com/Shewardelujo/)
 
 - [@HeLoVas](https://github.com/HeLoVas)
 
