@@ -1512,5 +1512,3 @@
 -[@ibudubuduu](https://github.com/ibudubuduu)
 -[@Allonewolff](https://github.com/Allonewolff/)
 -[@rafazel](https://github.com/rafazel/)
-
--[@benhsieh-dev](https://github.com/benhsieh-dev)
