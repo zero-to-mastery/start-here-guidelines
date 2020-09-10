@@ -1535,9 +1535,6 @@
 
 -[@dadpops](https://github.com/dadpops)
 
-<<<<<<< HEAD
-- [@elcajo](https://github.com/elcajo/)
-
 - [@valenting111](https://github.com/valenting111)
 
 - [@valenting111](https://github.com/valenting111)
@@ -1577,13 +1574,6 @@
 -[@gifariramadhan](https://github.com/gifariramadhan/)
 
 - [@kudy01](https://github.com/kudy01)
-=======
--[@senemsoy](https://github.com/senemsoy)
->>>>>>> 780ca2e5e747f472c512931e120887a1bda140e2
-
--[@frankhaotic](https://github.com/frankhaotic)
-
--[@Vikramviki009](https://github.com/Vikramviki009)
 
 <<<<<<< HEAD
 <<<<<<< HEAD -[@irfankhn](https://github.com/irfankhn)
@@ -29977,8 +29967,7 @@
 -[@rafazel](https://github.com/rafazel/)
 
 -[@benhsieh-dev](https://github.com/benhsieh-dev)
-=======
+
 -[@pranav2012](https://github.com/pranav2012)
 
 -[@prachi1606](https://github.com/prachi1606)
->>>>>>> 780ca2e5e747f472c512931e120887a1bda140e2
