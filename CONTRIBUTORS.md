@@ -1654,7 +1654,7 @@
 
 - [@jagajeet-puttaa](https://github.com/jagajeet-puttaa/)
 
-- [@Vivek2509](htpps://github.com/Vivek2509)
+- [@Vivek2509](https://github.com/Vivek2509)
 
 - [@lutchanturia](https://github.com/lutchanturia/)
 
@@ -1668,7 +1668,7 @@
 
 - [@AnPopescu](https://github.com/AnPopescu/)
 
-- [@sunkanmiglo]((https://github.com/sunkanmiglo/)
+- [@sunkanmiglo](https://github.com/sunkanmiglo/)
 
 - [@shubh2001](https://github.com/shubh2001)
 
