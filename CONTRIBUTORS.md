@@ -1858,6 +1858,7 @@
 
 - [@tvc95](https://github.com/tvc95/)
 
+<<<<<<< HEAD
 - [@Ashish1323](https://github.com/Ashish1323)
 
 - [@jafilippini](https://github.com/jafilippini)
@@ -1885,3 +1886,6 @@
 - [@tas09009](https://github.com/tas09009)
 
 - [@Kabiriti](https://github.com/Kabiriti)
+=======
+- [@chriss707](https://github.com/chriss707/)
+>>>>>>> 03bac3a4e54c7de39b160ed69615c15979dfd198
