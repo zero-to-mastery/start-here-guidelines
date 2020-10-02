@@ -2140,3 +2140,6 @@
 - [@armedev](https://github.com/armedev)
 
 - [@bigced09](https://github.com/bigced09)
+
+- [@sadesingleton](https://github.com/sadesingleton)
+
