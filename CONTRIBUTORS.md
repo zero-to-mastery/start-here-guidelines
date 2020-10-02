@@ -1126,9 +1126,9 @@
 
 - [@GiAna-A](https://github.com/GiAna-A)
 
--[@Bidonsaha](https://github.com/Bidonsaha)
+- [@Bidonsaha](https://github.com/Bidonsaha)
 
--[@kishansinha181](https://github.com/kishansinha181) 
+- [@kishansinha181](https://github.com/kishansinha181) 
 
 - [@Bidonsaha](https://github.com/Bidonsaha)
 
@@ -1136,11 +1136,11 @@
 
 - [@rodoliva](https://github.com/rodoliva)
 
--[@Bealln](https://github.com/Bealln)
+- [@Bealln](https://github.com/Bealln)
 
 - [@dip4k](https://github.com/rodoliva)
 
--[@komalswami](https://github.com/komalswami)
+- [@komalswami](https://github.com/komalswami)
 
 - [@abhay27chauhan](https://github.com/abhay27chauhan)
 
