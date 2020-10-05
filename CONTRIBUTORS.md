@@ -923,3 +923,5 @@
 - [@paulzay](https://github.com/paulzay/)
 
 - [@mouraogabriel](https://github.com/mouraogabriel/)
+
+- [@sharrySivia](https://github.com/SharrySivia)
