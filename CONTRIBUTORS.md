@@ -2418,3 +2418,10 @@
 -[@ashuacharya123](https://github.com/ashuacharya123/)
 
 -[@abishek-sha-256](https://github.com/abishek-sha-256)
+
+-[@javi-err](https://github.com/javi-err/)
+
+-[@anirudhs1998](https://github.com/anirudhs1998/)
+ 
+-[@manfredarandiav](https://github.com/manfredarandiav)
+
