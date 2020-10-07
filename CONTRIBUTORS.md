@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@souviknsl07](https://github.com/souviknsl07)
+
 - [@0xaj](https://github.com/0xaj)
 
 - [@17Piyush](https://github.com/17Piyush/)
@@ -2530,10 +2532,28 @@
 
 - [@dlm1999](https://github.com/dlm1999/)
 
-
--[@anirudhs1998](https://github.com/anirudhs1998/)
+- [@anirudhs1998](https://github.com/anirudhs1998/)
  
- -[@manfredarandiav](https://github.com/manfredarandiav)
- -[@Taimakh](https://github.com/Taimakh/)
+- [@manfredarandiav](https://github.com/manfredarandiav)
+
+- [@Taimakh](https://github.com/Taimakh/)
+
 - [@Elldrigar](https://github.com/Elldrigar)
 
+- [@blainerb4](https://github.com/blainerb4)
+
+- [@sfaqawi](https://github.com/sfaqawi)
+
+- [@jmiguelpv](https://github.com/jmiguelpv)
+
+- [@acha0086](https://github.com/acha0086)
+
+- [@anirudhs1998](https://github.com/anirudhs1998/)
+
+- [@sinduap](https://github.com/sinduap/)
+
+- [@anirudhs1998](https://github.com/anirudhs1998/)
+
+- [@96nikhil07](https://github.com/96nikhil07/)
+
+- [@abishek-sha-256](https://github.com/abishek-sha-256)
