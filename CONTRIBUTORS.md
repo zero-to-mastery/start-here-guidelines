@@ -2746,15 +2746,15 @@
 
 - [@BogdanCrusoveanu](https://github.com/BogdanCrusoveanu)
 
-- [@NABILFIKRI99](https://github.com/NABILFIKRI99) 
+- [@NABILFIKRI99](https://github.com/NABILFIKRI99)
 
-- [@abarac24](https://github.com/abarac24) 
+- [@abarac24](https://github.com/abarac24)
 
 - [@Nav-GitHub](https://github.com/Nav-GitHub)
 
 - [@FullStackKing-DotNet](https://github.com/FullStackKing-DotNet)
 
-- [@ViliTajnic](https://github.com/ViliTajnic)
--[gianwebsites](https://github.com/gianwebsites)
+- [@ViliTajnic](https://github.com/ViliTajnic) -[gianwebsites](https://github.com/gianwebsites)
 
 - [@MartinKuracka](https://github.com/MartinKuracka)
+- [@JHorlamide](https://github.com/JHorlamide)
