@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+-[@chefritik](https://github.com/chefritik/)
 
 - [@millz83](https://github.com/millz83)
 
@@ -3000,3 +3001,5 @@
 - [@tramirez30](https://github.com/tramirez30)
 
 -[@aishwaryakore](https://github.com/aishwaryakore/)
+
+-[@chefritik](https://github.com/chefritik/)
