@@ -376,6 +376,8 @@
 
 - [@JasonHuang1213](https://github.com/JasonHuang1213)
 
+- [@JayantGoel001](https://github.com/JayantGoel001)
+
 - [@Jeff-eng363](https://github.com/Jeff-eng363)
 
 - [@JesseEarley](https://github.com/JesseEarley)
@@ -488,7 +490,7 @@
 
 - [@MarcelvdWest](https://github.com/MarcelvdWest)
 
-- [@MariiaLitviak](https://github.com/MariiaLitviak) 
+- [@MariiaLitviak](https://github.com/MariiaLitviak)
 
 - [@MartaGut](https://github.com/MartaGut)
 
