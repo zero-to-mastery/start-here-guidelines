@@ -1,4 +1,5 @@
 ﻿# CONTRIBUTORS
+
 - [@rip-phan](https://github.com/rip-phan)
 
 - [@sal9110](https://github.com/sal9110)
@@ -1011,7 +1012,7 @@
 
 - [@adillightwala](https://github.com/adillightwala)
 
-- [@adinicarel]((https://github.com/adinicarel/))
+- [@adinicarel](<(https://github.com/adinicarel/)>)
 
 - [@adinicarel](<(https://github.com/adinicarel/)>)
 
@@ -1865,7 +1866,7 @@
 
 - [@kajetan-witkowski](https://github.com/kajetan-witkowski)
 
-- [@kalpthakkar241]((https://github.com/kalpthakkar241/))
+- [@kalpthakkar241](<(https://github.com/kalpthakkar241/)>)
 
 - [@kalpthakkar241](<(https://github.com/kalpthakkar241/)>)
 
@@ -2869,8 +2870,7 @@
 
 - [@vaibhavt14](https://github.com/vaibhavt14/)
 
-- [@casiimir](https://github.com/casiimir/)
--[abdel1413](https://github.com/abdel1413)
+- [@casiimir](https://github.com/casiimir/) -[abdel1413](https://github.com/abdel1413)
 
 -[@gianplod](https://github.com/gianplod)
 
@@ -2887,3 +2887,5 @@
 -[@MariiaLitviak](https://github.com/MariiaLitviak/)
 
 -[@thingetoo](https://github.com/thingetoo/)
+
+-[@gabrielftn](https://github.com/gabrielftn/)
