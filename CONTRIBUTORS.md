@@ -2988,6 +2988,12 @@
 
 -[@mattythedev](https://github.com/mattythedev)
 
+<<<<<<< HEAD
 -[@ipkalm](https://github.com/ipkalm/)
 
 -[@Vivian-Iv](https://github.com/Vivian-Iv/)
+=======
+- [@ipkalm](https://github.com/ipkalm/)
+
+- [@anupotter](https://github.com/anupotter/)
+>>>>>>> e21dbca7663a033153e0331a88140851905d9553
