@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@0xaj](https://github.com/0xaj)
 
@@ -2983,3 +2983,5 @@
 -[@07rv] (https://github.com/07rv/)
 
 -[@aalaebl] (https://github.com/aalaebl/)
+
+-[@rudimental-again](https://github.com/rudimental-again/)
