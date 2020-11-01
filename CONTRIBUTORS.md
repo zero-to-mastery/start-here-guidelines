@@ -3027,3 +3027,5 @@
 - [@jackofallcode](https://github.com/jackofallcode)
 
 - [@abrokwah07](https://github.com/abrokwah07)
+
+- [@thanishsid](https://github.com/thanishsid)
