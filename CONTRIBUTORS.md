@@ -3032,4 +3032,4 @@
 
 - [@thanishsid](https://github.com/thanishsid)
 
-- [@badjie90](https://github.com/badjie90/)
+- [@badjie90](https://github.com/badjie90)
