@@ -3036,9 +3036,8 @@
 
 - [@thanishsid](https://github.com/thanishsid)
 
-- [@badjie90](https://github.com/badjie90/)
-=======
-- [@Reykjabik](https://github.com/Reykjabik) 
+- # [@badjie90](https://github.com/badjie90/)
+- [@Reykjabik](https://github.com/Reykjabik)
 
 - [@inspirion33](https://github.com/inspirion33)
 
@@ -3069,3 +3068,5 @@
 -[@ariannedpena](https://github.com/ariannedpena)
 
 - [@x3nosiz](https://github.com/x3nosiz)
+
+- [@yergaliev98](https://github.com/yergaliev98)
