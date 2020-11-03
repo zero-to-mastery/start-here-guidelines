@@ -3048,7 +3048,7 @@
 
 - [@Tharusara_26](https://github.com/Tharusara)
 
--[@Ranji-S](https://github.com/Ranji-S/)
+- [@Ranji-S](https://github.com/Ranji-S/)
 
 - [@LazaroIII](https://github.com/LazaroIII)
 
@@ -3068,7 +3068,7 @@
 
 - [@mttaborturtle](https://github.com/mttaborturtle)
 
--[@ariannedpena](https://github.com/ariannedpena)
+- [@ariannedpena](https://github.com/ariannedpena)
 
 - [@x3nosiz](https://github.com/x3nosiz)
 
@@ -3078,6 +3078,6 @@
 
 - [@AshishW](https://github.com/AshishW)
 
--[@AnandVMclt](https://github.com/anandvmclt)
+- [@AnandVMclt](https://github.com/anandvmclt)
 
--[@soniahooper](https://github.com/soniahooper)
+- [@soniahooper](https://github.com/soniahooper)
