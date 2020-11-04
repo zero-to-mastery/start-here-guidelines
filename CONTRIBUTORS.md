@@ -904,7 +904,7 @@
 
 - [@ThisIsKeb](https://github.com/ThisIsKeb)
 
-- [@Thom711](https://github.com/Thom711)
+- [@5m711](https://github.com/Thom711)
 
 - [@ThomasMathew1993](https://github.com/ThomasMathew1993)
 
@@ -2797,8 +2797,6 @@
 - [@theneoterik](https://github.com/theneoterik)
 
 - [@thingetoo](https://github.com/thingetoo/)
-
-- [@tho6](https://github.com/tho6)
 
 - [@thodorismount](https://github.com/thodorismount/)
 
