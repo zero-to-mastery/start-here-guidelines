@@ -2798,8 +2798,6 @@
 
 - [@thingetoo](https://github.com/thingetoo/)
 
-- [@tho6](https://github.com/tho6)
-
 - [@thodorismount](https://github.com/thodorismount/)
 
 - [@thomascoenen](https://github.com/thomascoenen)
