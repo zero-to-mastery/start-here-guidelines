@@ -3042,7 +3042,7 @@
 
 - [@badjie90](https://github.com/badjie90/)
 =======
-- [@Reykjabik](https://github.com/Reykjabik) 
+- [@Reykjabik](https://github.com/Reykjabik)
 
 - [@inspirion33](https://github.com/inspirion33)
 
@@ -3114,3 +3114,5 @@
 - [@ahmedaliqureshi](https://github.com/ahmedaliqureshi04)
 
 -[@daibeat](https://github.com/daibeat)
+
+- [@zakariyaq313] (https://github.com/zakariyaq313)
