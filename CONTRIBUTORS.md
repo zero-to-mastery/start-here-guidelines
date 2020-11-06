@@ -3115,4 +3115,4 @@
 
 -[@daibeat](https://github.com/daibeat)
 
-- [@zakariyaq313] (https://github.com/zakariyaq313)
+- [@zakariyaq313](https://github.com/zakariyaq313)
