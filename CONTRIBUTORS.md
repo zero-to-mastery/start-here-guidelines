@@ -30,6 +30,8 @@
 
 - [@Akashdeepgupta](https://github.com/Akashdeepgupta)
 
+- [@AlejandroRdzLpz](https://github.com/AlejandroRdzLpz/)
+
 - [@Alex Badila#1981](https://github.com/alex-badila)
 
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
@@ -3156,3 +3158,35 @@
 
 - [@fco-ortega](https://github.com/fco-ortega)
 
+- [@mohammadjavadnouri](https://github.com/mohammadjavadnouri)
+
+- [@engga86](https://github.com/engga86)
+
+- [@hillaoui](https://github.com/hillaoui)
+
+- [@mgbarois](https://github.com/mgbarois)
+
+- [@noohv](https://github.com/noohv)
+
+- [@emad948](https://github.com/emad948)
+
+-[@alexandreabashia](https://github.com/alexandreabashia)
+
+-[@geosar23](https://github.com/geosar23)
+-[WWidener] (https://github.com/WWidener)
+
+- [@SandyJetGitHub](https://github.com/SandyJetGitHub)
+
+- [@xavigu](https://github.com/xavigu)
+
+- [@HoussamEzzin](https://github.com/HoussamEzzin)
+
+- [@ou79](http://github.com/ou79)
+
+- [@Nicholas-Gavz](https://github.com/Nicholas-Gavz/)
+
+- [@lasnab](https://github.com/lasnab/)
+
+- [@Abha-1281](https://github.com/Abha-1281/)
+
+- [@alexkou10] (https://github.com/alexkou10)
