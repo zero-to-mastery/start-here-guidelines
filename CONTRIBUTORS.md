@@ -3187,6 +3187,6 @@
 
 - [@seanmortimer] (https://github.com/seanmortimer)
 
-- [@jeanbuhendwa](http://github.com/jeanbuhendwa)
+- [@jeanbuhendwa](https://github.com/jeanbuhendwa)
 
 - [@jeanbuh] (https://github.com/jeanbuhendwa)
