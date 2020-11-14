@@ -3242,7 +3242,6 @@
 
 - [@zoeferencova](https://github.com/zoeferencova)
 
-<<<<<<< HEAD
 - [@geosar23](https://github.com/geosar23) 
 
 - [WWidener] (https://github.com/WWidener)
@@ -3260,5 +3259,3 @@
 - [@AleksMarinova](https://github.com/AleksMarinova)
 
 - [@sidsharma96](https://github.com/sidsharma96/)
-=======
->>>>>>> master
