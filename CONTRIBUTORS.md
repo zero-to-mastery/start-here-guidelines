@@ -440,7 +440,14 @@
 
 -   [@JRyGithub](https://github.com/JRyGithub)
 
+<<<<<<< HEAD
+
+-   # [@Jachin-Manda](https://github.com/Jachin-Manda)
+-   [@JVetc](https://github.com/JVetc)
+
 -   [@Jachin-Manda](https://github.com/Jachin-Manda)
+
+    > > > > > > > upstream/master
 
 -   [@Jack-tw0510](https://github.com/Jack-tw0510/)
 
@@ -454,7 +461,14 @@
 
 -   [@JasonHuang1213](https://github.com/JasonHuang1213)
 
+<<<<<<< HEAD
+
+-   # [@JayantGoel001](https://github.com/JayantGoel001)
+-   [@Jatin975](https://github.com/Jatin975)
+
 -   [@JayantGoel001](https://github.com/JayantGoel001)
+
+    > > > > > > > upstream/master
 
 -   [@Jeff-eng363](https://github.com/Jeff-eng363)
 
@@ -2148,7 +2162,14 @@
 
 -   [@kelvinchan2406](https://github.com/kelvinchan2406)
 
+<<<<<<< HEAD
+
+-   # [@kevin5880](https://github.com/kevin5880)
+-   [@kevenduverne](https://github.com/kevenduverne)
+
 -   [@kevin5880](https://github.com/kevin5880)
+
+    > > > > > > > upstream/master
 
 -   [@khadijagardezi](https://github.com/khadijagardezi)
 
@@ -2366,7 +2387,14 @@
 
 -   [@millz83](https://github.com/millz83)
 
+<<<<<<< HEAD
+
+-   # [@ming-tsai](https://github.com/ming-tsai)
+-   [@miloszcwen] (https://github.com/miloszcwen)
+
 -   [@ming-tsai](https://github.com/ming-tsai)
+
+    > > > > > > > upstream/master
 
 -   [@minkuli](https://github.com/minkuli/)
 
@@ -3241,5 +3269,29 @@
 -   [@zizu1681](https://github.com/zizu1681/)
 
 -   [@zoeferencova](https://github.com/zoeferencova)
+
+-   [@chris-mastic](https://github.com/chris-mastic)
+
+-   [@midopooler](https://github.com/midopooler)
+
+-   [@rahulgarg28071998](https://github.com/rahulgarg28071998)
+
+-   [@hugonin](https://github.com/hugonin)
+
+-   [@Sidd-alt](https://https://github.com/Sidd-alt)
+
+-   [@jsm-28415](https://https://github.com/jsm-28415)
+
+-   [@jlomeli71](https://github.com/jlomeli71)
+
+-   [@Abishai-Mumba](https://github.com/Abishai-Mumba)
+
+-   [@Istiaque-D-Omi](https://github.com/Istiaque-D-Omi)
+
+-   [@CodeWithBorys](https://github.com/CodeWithBorys)
+
+-[@harihp29](https://github.com/harihp29)
+
+-   [@linyuwei](https://github.com/linyuwei)
 
 -   [@paulgellatly](https://github.com/paulgellatly)
