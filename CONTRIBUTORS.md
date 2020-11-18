@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@thebluedev](https://github.com/thebluedev) 
 
 - [@07rv](https://github.com/07rv/)
 
@@ -3263,3 +3264,48 @@
 - [@jsm-28415](https://github.com/jsm-28415)
 
 - [@vishmagic](https://github.com/vishmagic)
+
+- [@jsm-28415](https://github.com/jsm-28415)
+
+- [@jlomeli71](https://github.com/jlomeli71)
+
+- [@Abishai-Mumba](https://github.com/Abishai-Mumba)
+
+- [@Istiaque-D-Omi](https://github.com/Istiaque-D-Omi)
+
+- [@CodeWithBorys](https://github.com/CodeWithBorys)
+
+-[@harihp29](https://github.com/harihp29)
+
+-[@michaelparkernorton](https://github.com/michaelparkernorton)
+
+- [@linyuwei](https://github.com/linyuwei)
+
+- [@nipeli](https://github.com/nipeli)
+
+- [@paulgellatly](https://github.com/paulgellatly) 
+
+- [@krombo-kode](https://github.com/krombo-kode)
+
+- [@laurana88](https://github.com/laurana88)
+
+-[@19millionac](https://github.com/19millionac)
+
+-[@etorres-revature](https://github.com/etorres-revature)
+
+-[@andisaba](http://github.com/andisaba/)
+
+-[@Panchowasaki] (https://github.com/Panchowasaki)
+
+-[@chintan791](https://github.com/chintan791)
+
+-[@meetaffan](https://github.com/meetaffan/)
+
+-[krishnasharma591]((https://github.com/krishnasharma591/)
+
+- [@shubhamgoel90](https://github.com/shubhamgoel90) 
+
+- [@Loriel-S](https://github.com/Loriel-S)
+
+-[@RHigh01](https://github.com/RHigh01)
+
