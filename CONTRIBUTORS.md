@@ -3162,21 +3162,11 @@
 
 - [@thebluedev](https://github.com/thebluedev)
 
-<<<<<<< HEAD
 
 - [@thebluedev](https://github.com/thebluedev)
 
-=======
-
-<<<<<<< HEAD
 
 - [@thebluedev](https://github.com/thebluedev)
-
-=======
-
->>>>>>> 74350a1b8bedeb3d93072accb816dba27ab380b0
-
->>>>>>> 4b2df9f3d1ec8622fe844e12929fb4a7766246b8
 
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
@@ -3549,3 +3539,5 @@
 - [@sophielinimprov](https://github.com/sophielinimprov)
 
 - [@niftynihal](https://github.com/niftynihal)
+
+-[@rdtaylorjr](https://github.com/rdtaylorjr)
