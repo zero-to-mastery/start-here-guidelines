@@ -3588,4 +3588,23 @@
 
 - [@charumitraravi](https://github.com/charumitraravi)
 
+<<<<<<< HEAD
 - [@rendervis](https://github.com/rendervis)
+=======
+- [@syhue](https://github.com/syhue)
+
+- [@keeshaune](https://github.com/keeshaune/
+)
+
+- [@yadavmilind08](https://github.com/yadavmilind08)
+
+- [@DarianPiro](https://github.com/darianpiro)
+
+- [@thomasmccabe44](https://github.com/thomasmccabe44)
+
+- [@amirhm10](https://github.com/amirhm10)
+
+- [@cblokkeel](https://github.com/cblokkeel)
+
+-[@KailashDeena](https://github.com/KailashDeena)
+>>>>>>> upstream/master
