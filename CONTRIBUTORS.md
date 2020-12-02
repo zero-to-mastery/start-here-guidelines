@@ -3114,7 +3114,6 @@
 
 - [@thebluedev](https://github.com/thebluedev)
 
-
 - [@theenthusiastprogrammer](https://github.com/theenthusiastprogrammer/)
 
 - [@themichailov](https://github.com/themichailov)
@@ -3385,8 +3384,6 @@
 
 - [@Davidohis](https://github.com/Davidohis)
 
-- [@alexkou10](https://github.com/alexkou10)
-
 - [farhaddashtia](https://github.com/farhaddashtia/)
 
 - [@fratilar](https://github.com/fratilar)
@@ -3429,13 +3426,9 @@
 
 - [@KamikaziD](https://github.com/KamikaziD)
 
-- [@kailun-liu](https://github.com/kailun-liu)
-
 - [@AA-Arnold](https://github.com/AA-Arnold/)
 
 - [@desktopmunchies](https://github.com/desktopmunchies)
-
-- [@kailun-liu](https://github.com/kailun-liu)
 
 - [@zddd-bit](https://github.com/zddd-bit)
 
@@ -3444,10 +3437,6 @@
 - [@fgostev](https://github.com/fgostev)
 
 - [@gustojvalle](https://github.com/gustojvalle)
-
-- [@Dolphy1010](https://github.com/dolphy1010)
-
-- [@bharmalh](https://github.com/bharmalh)
 
 - [@Dolphy1010](https://github.com/dolphy1010)
 
@@ -3467,25 +3456,17 @@
 
 - [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
 
-- [@amdat99](https://github.com/amdat99/)
-
-- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
-
 - [@markang812](https://github.com/markang812)
 
 - [@JoseAReinoso](https://github.com/JoseAReinoso)
 
 - [@marianne-durumi](https://github.com/marianne-durumi)
 
-- [@prajwal-machado-au9](https://github.com/prajwal-machado-au9)
-
 - [@Shamim-Islam](https://github.com/Shamim-Islam)
 
 - [@ChipEagle](https://github.com/ChipEagle/)
 
 - [@dilemmawalker](https://github.com/dilemmawalker)
-
-- [@Tejas753](https://github.com/Tejas753)
 
 - [@olsenbudanur](https://github.com/olsenbudanur)
 
@@ -3559,12 +3540,9 @@
 
 - [@durganandan](https://github.com/durganandan/)
 
-- [@charumitraravi](https://github.com/charumitraravi)
-
 - [@syhue](https://github.com/syhue)
 
-- [@keeshaune](https://github.com/keeshaune/
-)
+- [@keeshaune](https://github.com/keeshaune/)
 
 - [@yadavmilind08](https://github.com/yadavmilind08)
 
@@ -3572,9 +3550,26 @@
 
 - [@thomasmccabe44](https://github.com/thomasmccabe44)
 
-
 -[@Arya184](https://github.com/Arya184)
 
 -[@AqsaMemon](https://github.com/AqsaMemon/)
 
 - [@amirhm10](https://github.com/amirhm10)
+
+- [@cblokkeel](https://github.com/cblokkeel)
+
+- [@KailashDeena](https://github.com/KailashDeena)
+
+- [@Franchize62](https://github.com/Franchize62)
+
+- [@rendervis](https://github.com/rendervis)
+
+- [@Rachel-Anna](https://github.com/Rachel-Anna)
+
+- [@dev-yash-nmr11](https://github.com/dev-yash-nmr11)
+
+- [@abrar78](https://github.com/abrar78)
+
+- [@aman23ks](https://github.com/aman23ks)
+
+- [@GirijaSankar61](https://github.com/GirijaSankar61)
