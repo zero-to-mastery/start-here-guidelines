@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+ CONTRIBUTORS
 
 - [@thanhson0514](https://github.com/thanhson0514)
 
@@ -3590,5 +3590,6 @@
 
 - [@syhue](https://github.com/syhue)
 
-- [@keeshaune](https://github.com/keeshaune/
-)
+- [@keeshaune](https://github.com/keeshaune/)
+
+- [@zainkazi](https://github.com/zainkazi/)
