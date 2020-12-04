@@ -3593,15 +3593,19 @@
 - [@rewebs](https://github.com/rewebs)
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
-_[@cute-born](https://github.com/cute-born)
+
+- [@cute-born](https://github.com/cute-born)
 
 - [@finnnop](https://github.com/finnnop)
 
--[@bmbranca] (https://github.com/bmbranca)
+-[@bmbranca](https://github.com/bmbranca)
 
 -[@zubayer204](https://github.com/Zubayer204)
+
 -[@jackdaniels247](https://github.com/jackdaniels247)
 
 - [@matchng](https://github.com/matchng)
 
 - [@danielvidaldev](https://github.com/danielvidaldev)
+
+- [@ScoobyDooDoo](https://github.com/ScoobyDooDoo)
