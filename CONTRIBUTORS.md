@@ -3590,6 +3590,7 @@
 
 - [@rewebs](https://github.com/rewebs)
 
+<<<<<<< HEAD
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 _[@cute-born](https://github.com/cute-born)
 
@@ -3598,3 +3599,7 @@ _[@cute-born](https://github.com/cute-born)
 -[@bmbranca] (https://github.com/bmbranca)
 
 -[@jyotikrishnan](https://github.com/jyotikrishnan/)
+=======
+- [@jyotikrishnan](https://github.com/jyotikrishnan/)
+
+>>>>>>> master
