@@ -3593,15 +3593,13 @@
 - [@rewebs](https://github.com/rewebs)
 
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
-
-- [@cute-born](https://github.com/cute-born)
+_[@cute-born](https://github.com/cute-born)
 
 - [@finnnop](https://github.com/finnnop)
 
--[@bmbranca](https://github.com/bmbranca)
+-[@bmbranca] (https://github.com/bmbranca)
 
 -[@zubayer204](https://github.com/Zubayer204)
-
 -[@jackdaniels247](https://github.com/jackdaniels247)
 
--[@Facanha10](https://github.com/Facanha10)
+-[@Facanha10]https://github.com/Facanha10
