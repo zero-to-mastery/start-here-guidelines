@@ -3600,7 +3600,7 @@
 
 <<<<<<< HEAD
 
-  \_[@cute-born](https://github.com/cute-born)
+\_[@cute-born](https://github.com/cute-born)
 
 =======
 
@@ -3610,7 +3610,7 @@
 
 - [@learningsameer](https://github.com/learningsameer/)
 
->>>>>>> d8f2a215e9a14511527335474d2292e615f26e81
+> > > > > > > d8f2a215e9a14511527335474d2292e615f26e81
 
 - [@finnnop](https://github.com/finnnop)
 
@@ -3659,3 +3659,5 @@
 - [@zouave](https://github.com/zouave)
 
 -[@Pangtuer](https://github.com/Pangtuer)
+
+- [@steveanthony999](https://github.com/steveanthony999)
