@@ -3599,11 +3599,13 @@
 - [@MarkGaunt1](https://github.com/MarkGaunt1)
 
 <<<<<<< HEAD
-  \_[@cute-born](https://github.com/cute-born)
+\_[@cute-born](https://github.com/cute-born)
 
 =======
+
 - [@cute-born](https://github.com/cute-born)
->>>>>>> origin/master
+
+  > > > > > > > origin/master
 
 - [@linchyde](https://github.com/linchyde)
 
@@ -3688,3 +3690,5 @@
 - [@MacDevep](https://github.com/MacDevep)
 
 - [@olegmavlyutov](https://github.com/olegmavlyutov)
+
+- [@juppsy](https://github.com/juppsy)
