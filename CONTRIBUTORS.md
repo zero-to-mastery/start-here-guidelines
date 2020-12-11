@@ -3716,7 +3716,7 @@
 
 - [@rockz-dev](https://github.com/rockz-dev)
 
--[@IamLuckyBoy](https://github.com/IamLuckyBoy)
+- [@IamLuckyBoy](https://github.com/IamLuckyBoy)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
@@ -3725,3 +3725,5 @@
 - [@FarhanAhmadISM](https://github.com/FarhanAhmadISM/)
 
 - [@awke](https://github.com/mawke2020/)
+
+- [@NoriakiMawatari](https://github.com/NoriakiMawatari/)
