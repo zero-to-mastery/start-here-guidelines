@@ -3727,3 +3727,10 @@
 - [@awke](https://github.com/mawke2020/)
 
 - [@NoriakiMawatari](https://github.com/NoriakiMawatari/)
+
+- [@RoutinoDesigns](https://github.com/RoutinoDesigns/)
+
+- [@Ilyasse-97](https://github.com/Ilyasse-97/)
+
+- [@Awakenxz](https://github.com/Awakenxz/)
+
