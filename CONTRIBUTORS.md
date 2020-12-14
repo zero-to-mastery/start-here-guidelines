@@ -3734,11 +3734,11 @@
 
 - [@shivamrathi99](https://github.com/shivamrathi99)
 
--[@IurianSimionDorin](https://github.com/IurianSimionDorin)
+- [@IurianSimionDorin](https://github.com/IurianSimionDorin)
 
--[@miguelDalberto](https://github.com/miguelDalberto)
+- [@miguelDalberto](https://github.com/miguelDalberto)
 
--[@reinasuzu](https://github.com/reinasuzu)
+- [@reinasuzu](https://github.com/reinasuzu)
 
 - [@MishkaZi](https://github.com/MishkaZi)
 
