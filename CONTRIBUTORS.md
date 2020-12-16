@@ -3769,7 +3769,10 @@
 - [@iexa](https://github.com/iexa)
 
 - [@rishicarter](https://github.com/rishicarter)
+
 - [@muliallan](https://github.com/muliallan/)
+
+- [@IntelligentQuantum](https://github.com/IntelligentQuantum)
 
 - [@akile](https://github.com/akile99/)
 
@@ -3799,4 +3802,28 @@
 
 - [@AgustinRangelIbarra](https://github.com/AgustinRangelIbarra)
 
-- [@Ldilan6](https://github.com/ldilan6)
+- [@Joshieeee](https://github.com/Joshieeee)
+
+- [@uchihadark](https://github.com/uchihadark)
+
+- [@hkapturkiewicz](https://github.com/hkapturkiewicz)
+
+- [@mfaisalghozi](https://github.com/mfaisalghozi)
+
+-[@MarkAlfordJr](https://github.com/MarkAlfordJr)
+
+- [@kellenwiltshire](https://github.com/kellenwiltshire)
+
+-[@ManitejaPadigela](https://github.com/ManitejaPadigela)
+
+-[@Sorche](https://github.com/Sorche)
+
+-[@siderdm](https://github.com/siderdm)
+
+-[@willingtoeatyam](https://github.com/willingtoeatyam)
+
+- [@luppin](https://github.com/luppin/)
+
+-[@rakesh467](https://github.com/rakesh467)
+
+-[@Ldilan6](https://github.com/ldilan6)
