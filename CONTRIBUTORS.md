@@ -292,7 +292,7 @@
 
 - [@Ej1seven](https://github.com/Ej1seven)
 
-- [@Eldor99](https://github.com/eldor99)/
+- [@Eldor99](https://github.com/eldor99)
 
 - [@Electromorphous](https://github.com/Electromorphous)
 
@@ -1180,7 +1180,7 @@
 
 - [@abhishekpm10](https://github.com/abhishekpm10)
 
-- [@abhishtjoshi](https://github.com/abhishtjoshi/))
+- [@abhishtjoshi](https://github.com/abhishtjoshi/)
 
 - [@abirseam](https://github.com/abirseam)
 
@@ -3634,7 +3634,7 @@
 
 - [@derekcovey](https://github.com/derekcovey)
 
-- [@toryzae211](https://github.com/toryzae211)F
+- [@toryzae211](https://github.com/toryzae211)
 
 - [@CaraignatIG](https://github.com/CaraignatIG)
 
@@ -3772,7 +3772,7 @@
 
 - [@marinazzz](https://github.com/marinazzz)
 
-- [@ankushdogradev] (https://github.com/ankushdogradev)
+- [@ankushdogradev](https://github.com/ankushdogradev)
 
 - [@iexa](https://github.com/iexa)
 
@@ -3830,7 +3830,7 @@
 
 -[@willingtoeatyam](https://github.com/willingtoeatyam)
 
-- [@luppin](https://github.com/luppin/)
+-[@luppin](https://github.com/luppin/)
 
 -[@rakesh467](https://github.com/rakesh467)
 
@@ -3839,10 +3839,12 @@
 -[@Qhub90](https://github.com/Qhub90)
 
 -[@zezhou-zhang](https://github.com/zezhou-zhang)
+
 -[@kitindi](https://github.com/kitindi)
+
 -[@Vaibhav-multi-dev](https://github.com/Vaibhav-multi-dev)
 
-- [@aysha30](https://github.com/aysha30)
+-[@aysha30](https://github.com/aysha30)
 
 -[@insanewpe](https://github.com/insanewpe)
 
@@ -3857,10 +3859,13 @@
 -[@MonwarK](https://github.com/MonwarK)
 
 -[@andresrv94](https://github.com/andresrv94)
+
 -[@karanpreet1593](https://github.com/karanpreet1593)
+
 -[@egeleto](https://github.com/egeleto/)
 
 -[@brunocodebox](https://github.com/brunocodebox/)
+
 -[@Mds21](https://github.com/Mds21/)
 
 -[@melipi](https://github.com/melipi)
@@ -3898,3 +3903,5 @@
 -[@sowrabh-adiga](https://github.com/sowrabh-adiga)
 
 -[@maxfontani](https://github.com/maxfontani)
+
+-[@Akhilesh-J](https://github.com/Akhilesh-J)
