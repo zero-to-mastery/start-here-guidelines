@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@atjoelpark](https://github.com/atjoelpark)
-
 - [@rohan-04](https://github.com/rohan-04)
 
 - [@07rv](https://github.com/07rv/)
@@ -496,8 +494,6 @@
 
 - [@JigsKapadia](https://github.com/jigskapadia)
 
-- [@JixuanRickyLi](https://github.com/jixuanrickyli)
-
 - [@Jlakay](https://github.com/Jlakay)
 
 - [@JoelFernando209](https://github.com/JoelFernando209)
@@ -897,8 +893,6 @@
 - [@Samad48](https://github.com/Samad48)
 
 - [@Samuellyworld](https://github.com/Samuellyworld)
-
-- [@sandip2224](https://github.com/sandip2224)
 
 - [@Sandp3032](https://github.com/Sandp3032)
 
@@ -3874,17 +3868,4 @@
 -[@mr-shrayan](https://github.com/mr-shrayan)
 
 -[@prajoth-b](https://github.com/prajoth-b)
-
--[@AnthonyCostanzo](https://github.com/AnthonyCostanzo)
-
--[@RatanB604](https://github.com/RatanB604)
-
--[@havishpallerla](https://github.com/havishpallerla)
-
--[@ryan1499](https://github.com/ryan1499)
-
--[@RedNeutorn](https://github.com/RedNeutorn)
-
--[@TheZak420](https://github.com/TheZak420)
-
--[@nitinroy1331](https://github.com/nitinroy1331)
+-[@NasroDZZ](https://github.com/NasroDZZ)
