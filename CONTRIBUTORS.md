@@ -3889,6 +3889,8 @@
 
 -[@nitinroy1331](https://github.com/nitinroy1331)
 
+-[@dodekafonos](https://github.com/dodekafonos)
+
 -[@yanivsagy](https://github.com/yanivsagy)
 
 -[@achwell](https://github.com/achwell)
@@ -3900,3 +3902,21 @@
 -[@maxfontani](https://github.com/maxfontani)
 
 -[@reccashi28](https://github.com/reccashi28)
+
+-[@JayantGoel001](https://github.com/JayantGoel001)
+
+-[@KillerCoderPT](https://github.com/KillerCoderPT)
+
+-[@Akhilesh-J](https://github.com/Akhilesh-J)
+
+-[@kishan1402](https://github.com/kishan1402)
+
+-[@Dawson2015](https://github.com/Dawson2015/)
+
+-[@nilanshu96](https://github.com/nilanshu96)
+
+-[@kosolkomenek](https://github.com/kosolkomenek/)
+
+-[@sidanand67](https://github.com/sidanand67/)
+
+-[@jkbess](https://github.com/jkbess/)
