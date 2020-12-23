@@ -3728,7 +3728,7 @@
 
 - [@rockz-dev](https://github.com/rockz-dev)
 
--[@IamLuckyBoy](https://github.com/IamLuckyBoy)
+- [@IamLuckyBoy](https://github.com/IamLuckyBoy)
 
 - [@JayantGoel001](https://github.com/JayantGoel001)
 
@@ -3746,11 +3746,11 @@
 
 - [@shivamrathi99](https://github.com/shivamrathi99)
 
--[@IurianSimionDorin](https://github.com/IurianSimionDorin)
+- [@IurianSimionDorin](https://github.com/IurianSimionDorin)
 
--[@miguelDalberto](https://github.com/miguelDalberto)
+- [@miguelDalberto](https://github.com/miguelDalberto)
 
--[@reinasuzu](https://github.com/reinasuzu)
+- [@reinasuzu](https://github.com/reinasuzu)
 
 - [@MishkaZi](https://github.com/MishkaZi)
 
@@ -3818,17 +3818,17 @@
 
 - [@mfaisalghozi](https://github.com/mfaisalghozi)
 
--[@MarkAlfordJr](https://github.com/MarkAlfordJr)
+- [@MarkAlfordJr](https://github.com/MarkAlfordJr)
 
 - [@kellenwiltshire](https://github.com/kellenwiltshire)
 
--[@ManitejaPadigela](https://github.com/ManitejaPadigela)
+- [@ManitejaPadigela](https://github.com/ManitejaPadigela)
 
--[@Sorche](https://github.com/Sorche)
+- [@Sorche](https://github.com/Sorche)
 
--[@siderdm](https://github.com/siderdm)
+- [@siderdm](https://github.com/siderdm)
 
--[@willingtoeatyam](https://github.com/willingtoeatyam)
+- [@willingtoeatyam](https://github.com/willingtoeatyam)
 
 - [@luppin](https://github.com/luppin/)
 
@@ -3839,7 +3839,9 @@
 -[@Qhub90](https://github.com/Qhub90)
 
 -[@zezhou-zhang](https://github.com/zezhou-zhang)
+
 -[@kitindi](https://github.com/kitindi)
+
 -[@Vaibhav-multi-dev](https://github.com/Vaibhav-multi-dev)
 
 - [@aysha30](https://github.com/aysha30)
@@ -3857,10 +3859,13 @@
 -[@MonwarK](https://github.com/MonwarK)
 
 -[@andresrv94](https://github.com/andresrv94)
+
 -[@karanpreet1593](https://github.com/karanpreet1593)
+
 -[@egeleto](https://github.com/egeleto/)
 
 -[@brunocodebox](https://github.com/brunocodebox/)
+
 -[@Mds21](https://github.com/Mds21/)
 
 -[@melipi](https://github.com/melipi)
@@ -3901,7 +3906,7 @@
 
 -[@maxfontani](https://github.com/maxfontani)
 
--[@reccashi28](https://github.com/reccashi28)
+- [@reccashi28](https://github.com/reccashi28)
 
 -[@JayantGoel001](https://github.com/JayantGoel001)
 
