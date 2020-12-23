@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@atjoelpark](https://github.com/atjoelpark)
+
 - [@rohan-04](https://github.com/rohan-04)
 
 - [@07rv](https://github.com/07rv/)
@@ -3837,7 +3839,9 @@
 -[@Qhub90](https://github.com/Qhub90)
 
 -[@zezhou-zhang](https://github.com/zezhou-zhang)
+
 -[@kitindi](https://github.com/kitindi)
+
 -[@Vaibhav-multi-dev](https://github.com/Vaibhav-multi-dev)
 
 - [@aysha30](https://github.com/aysha30)
@@ -3855,10 +3859,13 @@
 -[@MonwarK](https://github.com/MonwarK)
 
 -[@andresrv94](https://github.com/andresrv94)
--[@karanpreet1593](https://github.com/karanpreet1593) 
+
+-[@karanpreet1593](https://github.com/karanpreet1593)
+
 -[@egeleto](https://github.com/egeleto/)
 
 -[@brunocodebox](https://github.com/brunocodebox/)
+
 -[@Mds21](https://github.com/Mds21/)
 
 -[@melipi](https://github.com/melipi)
@@ -3882,3 +3889,36 @@
 -[@ryan1499](https://github.com/ryan1499)
 
 -[@Shubhankar0201](https://github.com/shubhankar0201)
+
+-[@RedNeutorn](https://github.com/RedNeutorn)
+
+-[@TheZak420](https://github.com/TheZak420)
+
+-[@nitinroy1331](https://github.com/nitinroy1331)
+
+-[@dodekafonos](https://github.com/dodekafonos)
+
+-[@yanivsagy](https://github.com/yanivsagy)
+
+-[@achwell](https://github.com/achwell)
+
+-[@bobhsiao](https://github.com/bobhsiao)
+
+-[@sowrabh-adiga](https://github.com/sowrabh-adiga)
+
+-[@maxfontani](https://github.com/maxfontani)
+
+-[@JayantGoel001](https://github.com/JayantGoel001)
+
+-[@KillerCoderPT](https://github.com/KillerCoderPT)
+
+-[@Akhilesh-J](https://github.com/Akhilesh-J)
+
+-[@kishan1402](https://github.com/kishan1402)
+
+-[@Dawson2015](https://github.com/Dawson2015/)
+
+-[@nilanshu96](https://github.com/nilanshu96)
+
+-[@kosolkomenek](https://github.com/kosolkomenek/)
+
