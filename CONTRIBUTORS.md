@@ -3732,8 +3732,6 @@
 
 - [@IamLuckyBoy](https://github.com/IamLuckyBoy)
 
-- [@JayantGoel001](https://github.com/JayantGoel001)
-
 - [@chungngai09](https://github.com/chungngai09)
 
 - [@FarhanAhmadISM](https://github.com/FarhanAhmadISM/)
@@ -3978,10 +3976,6 @@
 
 - [@gkrockz](https://github.com/gkrockz)
 
-- [@reccashi28](https://github.com/reccashi28)
-
--[@JayantGoel001](https://github.com/JayantGoel001)
-
 - [@parkjh4550](https://github.com/parkjh4550)
 
 - [@Sibusiso-Radebe](https://github.com/Sibusiso-Radebe)
@@ -3998,6 +3992,6 @@
 
 -[@addankihyma](https://github.com/@addankihyma)
 
--[@jkbess](https://github.com/jkbess/)
-
 -[@sanks20](https://github.com/sanks20)
+
+-[@reccashi28](https://github.com/reccashi28)
