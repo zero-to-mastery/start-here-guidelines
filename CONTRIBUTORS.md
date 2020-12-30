@@ -3986,7 +3986,7 @@
 
 - [@parkjh4550](https://github.com/parkjh4550)
 
-- [@brunocodebox](https://github.com/brunocodebox/) 
+- [@brunocodebox](https://github.com/brunocodebox/)
 
 - [@Sibusiso-Radebe](https://github.com/Sibusiso-Radebe)
 
@@ -4069,3 +4069,5 @@
 - [@mullijacob](https://github.com/mullijacob)
 
 - [@adjeri](https://github.com/adjeri)
+
+- [@fakesanbid](https://github.com/fakesanbid/)
