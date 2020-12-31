@@ -4079,4 +4079,4 @@
 
 - [@AlexGioffDev](https://github.com/AlexGioffDev)
 
-- [@followupboi](https://github.com/followupboi/)
+- [@followupboi](https://github.com/followupboi)
