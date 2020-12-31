@@ -3986,7 +3986,7 @@
 
 - [@parkjh4550](https://github.com/parkjh4550)
 
-- [@brunocodebox](https://github.com/brunocodebox/) 
+- [@brunocodebox](https://github.com/brunocodebox/)
 
 - [@Sibusiso-Radebe](https://github.com/Sibusiso-Radebe)
 
@@ -4078,3 +4078,5 @@
 - [@codemaniac1](https://github.com/codemaniac1)
 
 - [@AlexGioffDev](https://github.com/AlexGioffDev)
+
+- [@followupboi](https://github.com/followupboi/)
