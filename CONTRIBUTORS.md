@@ -4172,4 +4172,10 @@
 
 - [@mattAllen](https://github.com/mallen13)
 
+<<<<<<< HEAD
 - [@vincent-lee-gh](https://github.com/vincent-lee-gh)
+=======
+-[@vincent-lee-gh](https://github.com/vincent-lee-gh)
+
+-[@Wolverine-Can](https://github.com/Wolverine-Can/)
+>>>>>>> 568f4439927ddc743cae5311ba7504f380ef2746
