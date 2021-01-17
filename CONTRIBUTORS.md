@@ -1,6 +1,10 @@
 # CONTRIBUTORS
 
+- [@KayKozaronek](https://github.com/KayKozaronek)
+
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
+
+- [@Jos02378](https://github.com/Jos02378)
 
 - [@starique04](https://github.com/starique04)
 
@@ -67,8 +71,6 @@
 - [@AleksMarinova](https://github.com/AleksMarinova)
 
 - [@Alex Badila#1981](https://github.com/alex-badila)
-
-- [@Harsh Dhonchak]
 
 - [@Alex-HuXD](https://github.com/Alex-HuXD)
 
@@ -4332,9 +4334,9 @@
 
 - [@Maryyam04](https://github.com/Maryyam04/)
 
-- [@Eenjoi88](https://github.com/Eenjoi88/)
-
 - [@FranciscoGPPonce](https://github.com/FranciscoGPPonce)
+
+- [@Eenjoi88](https://github.com/Eenjoi88/)
 
 - [@Netto-JM](https://github.com/Netto-JM/)
 
@@ -4343,7 +4345,12 @@
 - [@its-me-sv](https://github.com/its-me-sv)
 
 - [@TjeerdH](https://github.com/TjeerdH)
+
+- [@mayannamarie](https://github.com/Mayannamarie/)
+
 - [@Hazel-Mathews](https://github.com/Hazel-Mathews/)
+
+- [@geraldkachi](https://github.com/geraldkachi/)
 
 - [@ajsmith925](https://github.com/ajsmith925/)
 
@@ -4355,4 +4362,64 @@
 
 - [@davidhansonc](https://github.com/davidhansonc/)
 
+<<<<<<< HEAD
 - [@ata22677] (https://github.com/ata22677)
+=======
+- [@maxly20](https://github.com/maxly20/)
+
+- [@caichenghao1991](https://github.com/caichenghao1991/)
+
+- [@hhkhan99](https://github.com/hhkhan99/)
+
+- [@mltw](https://github.com/mltw)
+
+- [@VG88580928](https://github.com/VG88580928)
+
+- [@prashanth1099](https://github.com/prashanth1099)
+
+- [@mehruddin11](https://github.com/mehruddin11)
+
+- [@mohsenyazdandust](https://github.com/mohsenyazdandust)
+
+- [@nusayer](https://github.com/nusayer)
+
+- [@daniel-luan-tran](https://github.com/daniel-luan-tran)
+
+- [@moknez](https://github.com/moknez/)
+
+- [@karmelcorn](https://github.com/karmelcorn)
+
+- [@VardaanKiran](https://github.com/VardaanKiran)
+
+- [@joyreacher](https://github.com/joyreacher)
+
+- [@OluJoseph](https://github.com/OluJoseph)
+
+- [@ericlee83](https://github.com/ericlee83)
+
+- [@shivamtiwari2112](https://github.com/shivamtiwari2112/)
+
+- [@yenn11](https://github.com/yenn11)
+
+- [@RishabhSurti](https://github.com/RishabhSurti)
+
+- [@bruno-0](https://github.com/bruno-0)
+
+- [@nancyr23](https://github.com/nancyr23)
+
+-[@radikris](https://github.com/radikris)
+
+- [@Aashimalik](https://github.com/Aashimalik)
+
+-[@AdityaZ31](https://github.com/AdityaZ31)
+
+-[@minzhoudu](https://github.com/minzhoudu)
+
+-[@Nicolascoding27](https://github.com/Nicolascoding27)
+
+-[@Asadbek525](https://github.com/Asadbek525)
+
+-[@katz11](https://github.com/katz11)
+
+-[@BradTombers](https://github.com/BradTombers)
+>>>>>>> 408c4cad8d5522b1dded38e3d688d795e91b063a
