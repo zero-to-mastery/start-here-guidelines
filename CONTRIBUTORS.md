@@ -4440,13 +4440,6 @@
 
 -  [@sharathpbharath](https://github.com/sharathpbharath)
 
-<<<<<<< HEAD
--  [@developer6229](https://github.com/developer6229)
-
--  [@RajCutinha](https://github.com/RajCutinha)
-
--  [@the-tunwebdev](https://github.com/the-tunwebdev)
-=======
 - [@developer6229](https://github.com/developer6229)
 - [@the-tunwebdev](https://github.com/the-tunwebdev)
 
@@ -4459,4 +4452,7 @@
 - [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
 
 - [@tissadeking](https://github.com/tissadeking)
->>>>>>> 9a6f20b7bf913754a87357549b99b5c077712885
+
+- [@amozis](https://github.com/amozis)
+
+-  [@RajCutinha](https://github.com/RajCutinha)
