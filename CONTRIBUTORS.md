@@ -34,7 +34,13 @@
 
 -  [@mervunxd](https://github.com/mervunxd)
 
+<<<<<<< HEAD
 -  [@BHawkins62](https://github.com/BHawkins62)
+=======
+- [@iriswdq0504](https://github.com/iriswdq0504)
+
+- [@BHawkins62](https://github.com/BHawkins62)
+>>>>>>> 751d113188082a71fc43f814d72e82d5f2054095
 
 -  [@mukullokhande99](https://github.com/mukullokhande99)
 
@@ -4362,7 +4368,11 @@
 
 -  [@davidhansonc](https://github.com/davidhansonc/)
 
+<<<<<<< HEAD
 -  [@ata22677] (https://github.com/ata22677)
+=======
+- [@ata22677](https://github.com/ata22677)
+>>>>>>> 751d113188082a71fc43f814d72e82d5f2054095
 
 -  [@maxly20](https://github.com/maxly20/)
 
@@ -4432,6 +4442,7 @@
 
 -  [@GingerRoth](https://github.com/GingerRoth)
 
+<<<<<<< HEAD
 -  [@gbakerrepo](https://github.com/gbakerrepo)
 
 -  [@bangelev](https://github.com/bangelev)
@@ -4439,17 +4450,29 @@
 -[@BradTombers](https://github.com/BradTombers)
 
 -  [@sharathpbharath](https://github.com/sharathpbharath)
+=======
+- [@bangelev](https://github.com/bangelev)
+
+- [@sharathpbharath](https://github.com/sharathpbharath)
+>>>>>>> 751d113188082a71fc43f814d72e82d5f2054095
+
+- [@ElizavetaZhukova1](https://github.com/ElizavetaZhukova1)
 
 - [@developer6229](https://github.com/developer6229)
+
 - [@the-tunwebdev](https://github.com/the-tunwebdev)
 
 - [@Adrian-Chambers](https://github.com/Adrian-Chambers/)
 
--[@Sumitkumar3628](https://github.com/Sumitkumar3628/)
+- [@Sumitkumar3628](https://github.com/Sumitkumar3628/)
 
 - [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
 
-- [@HristijanGjorgjioski](https://github.com/HristijanGjorgjioski)
+- [@Dev-muse](https://https://github.com/Dev-muse)
+
+- [@SchneckDigital](https://github.com/SchneckDigital)
+
+- [@TharindaNimnajith](https://github.com/TharindaNimnajith)
 
 - [@tissadeking](https://github.com/tissadeking)
 
@@ -4457,4 +4480,20 @@
 
 - [@ovidiuioanholca](https://github.com/ovidiuioanholca)
 
+<<<<<<< HEAD
 -  [@RajCutinha](https://github.com/RajCutinha)
+=======
+- [@robsmith155](https://github.com/robsmith155)
+
+- [@SaraLatif99](https://github.com/SaraLatif99)
+
+- [@ThesllaDev](https://github.com/ThesllaDev)
+
+- [@shazzy152](https://github.com/shazzy152)
+
+- [@Oliverfk93916](https://github.com/Oliverfk93916)
+
+- [@LeonAgustinP](https://github.com/LeonAgustinP)
+
+- [@kinshukvats](https://github.com/kinshukvats)
+>>>>>>> 751d113188082a71fc43f814d72e82d5f2054095
