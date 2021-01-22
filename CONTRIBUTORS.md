@@ -4514,7 +4514,7 @@
 
 - [@AksharAthreya](https://github.com/akshar-Athreya97)
 
-- [@deevasgrg68] (https://github.com/deevasgrg68)
+- [@deevasgrg68](https://github.com/deevasgrg68)
 
 - [@jaggehns](https://github.com/jaggehns)
 
