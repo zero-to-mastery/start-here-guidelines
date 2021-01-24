@@ -1,6 +1,12 @@
 # CONTRIBUTORS
 
+<<<<<<< HEAD
 -  [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+=======
+- [@ishansinghal9810](https://github.com/ishansinghal9810)
+
+- [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
+>>>>>>> fdc1a66f489c0722cadb2487749976358206016e
 
 -  [@LinkinN](https://github.com/linkinn)
 
@@ -4476,7 +4482,13 @@
 
 -  [@ThesllaDev](https://github.com/ThesllaDev)
 
+<<<<<<< HEAD
 -  [@shazzy152](https://github.com/shazzy152)
+=======
+- [@AchrefMekni](https://github.com/Achref-Mekni)
+
+- [@shazzy152](https://github.com/shazzy152)
+>>>>>>> fdc1a66f489c0722cadb2487749976358206016e
 
 -  [@Oliverfk93916](https://github.com/Oliverfk93916)
 
@@ -4514,36 +4526,82 @@
 
 -  [@TrifShterev](https://github.com/TrifShterev)
 
--[@AksharAthreya](https://github.com/akshar-Athreya97)
+- [@AksharAthreya](https://github.com/akshar-Athreya97)
 
--[@deevasgrg68] (https://github.com/deevasgrg68)
+- [@deevasgrg68](https://github.com/deevasgrg68)
 
--[@jaggehns](https://github.com/jaggehns)
+- [@jaggehns](https://github.com/jaggehns)
 
--[@Landbios](https://github.com/Landbios)
+- [@Landbios](https://github.com/Landbios)
 
--[@JoshMTRobinson](https://github.com/JoshMTRobinson)
+- [@samabarker](https://github.com/samabarker)
 
+- [@akshay-turkar](https://github.com/akshay-turkar)
+
+- [@JoshMTRobinson](https://github.com/JoshMTRobinson)
+
+- [@clinzy25](https://github.com/clinzy25/)
+
+- [@salutemsp](https://github.com/salutemsp)
+
+- [@kzganesan](https://github.com/kzganesan/)
+
+- [@mariko971](https://github.com/mariko971/)
+
+- [@fcarneiro88](https://github.com/fcarneiro88)
+
+- [@motheroftrouble](https://github.com/motheroftrouble)
+
+- [@c-mcmahon](https://github.com/c-mcmahon/)
+
+- [@dyl98an](https://github.com/dyl98an)
+
+- [@nachmatt](https://github.com/nachmatt/)
+
+- [@Nanda2608](https://github.com/Nanda2608/)
+
+- [@mrfury0](https://github.com/mrfury0/)
+
+- [@RobRobsonTech](https://github.com/RobRobsonTech/)
+
+- [@HunterKane](https://github.com/HunterKane)
+
+- [@mckay1818](https://github.com/mckay1818)
+
+- [@adiphoorn](https://github.com/adiphoorn/)
+
+<<<<<<< HEAD
 -  [@clinzy25](https://github.com/clinzy25)
+=======
+- [@PiyushMathur231](https://github.com/PiyushMathur231)
+>>>>>>> fdc1a66f489c0722cadb2487749976358206016e
 
--[@salutemsp](https://github.com/salutemsp)
+- [@soumya-ramteke](https://github.com/soumya-ramteke)
 
+<<<<<<< HEAD
 -  [@kzganesan](https://github.com/kzganesan)
+=======
+- [@ptreuden](https://github.com/ptreuden)
+>>>>>>> fdc1a66f489c0722cadb2487749976358206016e
 
--[@mariko971](https://github.com/mariko971/)
+- [@Herbo19](https://github.com/Herbo19/)
 
--[@c-mcmahon](https://github.com/c-mcmahon/)
+- [@gextra1](https://github.com/gextra1)
 
--[@dyl98an](https://github.com/dyl98an)
+- [@ohisee](https://github.com/ohisee)
 
--[@nachmatt](https://github.com/nachmatt/)
+- [@papesaliouka](https://github.com/papesaliouka/)
 
--[@Nanda2608](https://github.com/Nanda2608/)
+- [@bennychengws](https://github.com/bennychengws/)
 
--[@mrfury0](https://github.com/mrfury0/)
+- [@RZidan](https://github.com/RZidan/)
 
--[@RobRobsonTech](https://github.com/RobRobsonTech/)
+- [@CountRochester](https://github.com/CountRochester/)
 
+<<<<<<< HEAD
 -[@HunterKane](https://github.com/HunterKane)
 
 -[@epGameDev](https://github.com/epGameDev)
+=======
+-[@SefYellnikoff](https://github.com/SefYellnikoff)
+>>>>>>> fdc1a66f489c0722cadb2487749976358206016e
