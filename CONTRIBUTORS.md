@@ -2,7 +2,7 @@
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
--[@Dineshpk](https://github.com/Dineshpk)
+- [@Dineshpk](https://github.com/Dineshpk)
 
 - [@LinkinN](https://github.com/linkinn)
 
