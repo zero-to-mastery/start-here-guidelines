@@ -2,6 +2,8 @@
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
 
+-[@Dineshpk](https://github.com/Dineshpk)
+
 - [@LinkinN](https://github.com/linkinn)
 
 - [@KayKozaronek](https://github.com/KayKozaronek)
