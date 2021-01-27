@@ -4618,4 +4618,4 @@
 
 - [@EncryptedAsimov]('https://github.com/EncryptedAsimov')
 
-- [@rarefiction]('https://github.com/rarefiction')
+- [@rarefiction](https://github.com/rarefiction)
