@@ -4718,4 +4718,4 @@
 
 - [@satelerd](https://github.com/satelerd)
 
-- [@DEALTALFA] (https://github.com/DEALTALFA)
+- [@DEALTALFA](https://github.com/DEALTALFA)
