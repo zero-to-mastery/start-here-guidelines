@@ -4830,4 +4830,7 @@
 - [@StoodMag] (https://github.com/StoodMag/)
 
 - [@LEO0331](https://github.com/LEO0331/)
+
 - [@Shrikantpatil2197](https://github.com/Shrikantpatil2197)
+
+- [@entirelymagic](https://github.com/entirelymagic)
