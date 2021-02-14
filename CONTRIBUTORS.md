@@ -4981,3 +4981,8 @@
 - [@syedhamza15](https://github.com/syedhamza15/)
 
 - [@Hamid-Syed](https://github.com/Hamid-Syed)
+
+- [@thommccarthy](https://github.com/thommccarthy/)
+
+- [@luigi970](https://github.com/luigi970/)
+
