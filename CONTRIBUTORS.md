@@ -5002,16 +5002,16 @@
 
 - [@Lameday](https://github.com/Lameday)
 
--[@matpickett](https://github.com/matpickett)
+- [@matpickett](https://github.com/matpickett)
 
--[@yogesh7275](https://github.com/yogesh7275)
+- [@yogesh7275](https://github.com/yogesh7275)
 
--[@turpen2319](https://github.com/turpen2319)
+- [@turpen2319](https://github.com/turpen2319)
 
--[@nainabhalla123](https://github.com/nainabhalla123/)
+- [@nainabhalla123](https://github.com/nainabhalla123/)
 
--[@jh-chen95](https://github.com/jh-chen95)
+- [@jh-chen95](https://github.com/jh-chen95)
 
--[@ThomasVoets](https://github.com/ThomasVoets/)
--[@hkxxx843](https://github.com/hkxxx843)
--[@virhs](https://github.com/virhs)
+- [@ThomasVoets](https://github.com/ThomasVoets/)
+- [@hkxxx843](https://github.com/hkxxx843)
+- [@virhs](https://github.com/virhs)
