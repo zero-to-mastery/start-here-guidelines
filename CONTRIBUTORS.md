@@ -5092,4 +5092,8 @@
 
 - [@angelGarciaSantos](https://github.com/angelGarciaSantos)
 
+<<<<<<< HEAD
 - [@minasoltan7](https://github.com/minasoltan7)
+=======
+- [@j-fraza](https://github.com/j-fraza)
+>>>>>>> 6b0c400a22878cf80f6f5f74fd08063a27a9b2a0
