@@ -5091,3 +5091,5 @@
 - [@kirstymullen](https://github.com/kirstymullen)
 
 - [@angelGarciaSantos](https://github.com/angelGarciaSantos)
+
+- [@minasoltan7](https://github.com/minasoltan7)
