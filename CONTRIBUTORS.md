@@ -5030,4 +5030,4 @@
 
 - [@martincorona007](https://github.com/martincorona007)
 
-- [@chuongtang] (https://github.com/chuongtang)
+- [@chuongtang](https://github.com/chuongtang)
