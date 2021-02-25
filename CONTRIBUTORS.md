@@ -5028,19 +5028,10 @@
 
 - [@virhs](https://github.com/virhs)
 
-<<<<<<< HEAD
--[@ThomasVoets](https://github.com/ThomasVoets/) -[@hkxxx843](https://github.com/hkxxx843) -[@virhs](https://github.com/virhs)
-=======
 - [@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
->>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
-<<<<<<< HEAD
--[@sajanwrs](https://github.com/sajanwrs/)
-
-=======
->>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 - [@aryobimoww](https://github.com/aryobimoww/)
 
 - [@swad007](https://github.com/swad007)
