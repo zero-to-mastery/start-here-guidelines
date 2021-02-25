@@ -5082,12 +5082,8 @@
 - [@Irynatar](https://github.com/Irynatar/)
 
 - [@zdennyp](https://github.com/zdennyp/)
-<<<<<<< HEAD
-- [@Th3Wall](https://github.com/Th3Wall/) -[@isiakaabd](https://github.com/isiakaabd/)
-=======
 
 - [@Th3Wall](https://github.com/Th3Wall/)
->>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 
 - [@isiakaabd](https://github.com/isiakaabd/)
 
