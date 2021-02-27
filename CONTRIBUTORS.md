@@ -2867,3 +2867,5 @@
 - [@vaibhavt14](https://github.com/vaibhavt14/)
 
 - [@casiimir](https://github.com/casiimir/)
+
+- [@stefanjames](https://github.com/stefanjames/)
