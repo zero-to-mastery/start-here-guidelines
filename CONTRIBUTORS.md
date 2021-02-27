@@ -5028,19 +5028,15 @@
 
 - [@virhs](https://github.com/virhs)
 
-<<<<<<< HEAD
+
 -[@ThomasVoets](https://github.com/ThomasVoets/) -[@hkxxx843](https://github.com/hkxxx843) -[@virhs](https://github.com/virhs)
-=======
+
 - [@Kwabena-Agyeman](https://github.com/Kwabena-Agyeman/)
->>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 
 - [@sajanwrs](https://github.com/sajanwrs/)
 
-<<<<<<< HEAD
 -[@sajanwrs](https://github.com/sajanwrs/)
 
-=======
->>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
 - [@aryobimoww](https://github.com/aryobimoww/)
 
 - [@swad007](https://github.com/swad007)
@@ -5082,12 +5078,12 @@
 - [@Irynatar](https://github.com/Irynatar/)
 
 - [@zdennyp](https://github.com/zdennyp/)
-<<<<<<< HEAD
+
 - [@Th3Wall](https://github.com/Th3Wall/) -[@isiakaabd](https://github.com/isiakaabd/)
-=======
+
 
 - [@Th3Wall](https://github.com/Th3Wall/)
->>>>>>> ee72ae05e820b6b8f45a549b5e5fa7b97e31713a
+
 
 - [@isiakaabd](https://github.com/isiakaabd/)
 
@@ -5221,3 +5217,14 @@
 - [@xerly](https://github.com/xerly/)
 
 - [@temurbek-4224](https://github.com/temurbek-4224/)
+
+- [@bosshentai](https://github.com/bosshentai)
+
+- [@vicnadu](https://github.com/vicnadu)
+
+- [@daniel](https://github.com/virusxd521)
+
+- [@deltavitor](https://github.com/deltavitor)
+
+- [@Ritesh](https://github.com/oreki12)
+
