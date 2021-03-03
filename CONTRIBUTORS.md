@@ -2,6 +2,8 @@
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
+- [@CodesOfAnurag](https://github.com/CodesOfAnurag)
+
 - [@Himanshu](https://github.com/himanshu007-creator)
 
 - [@eudinson](https://github.com/Eudinson)
@@ -465,6 +467,8 @@
 - [@Hamzah9797](https://github.com/Hamzah9797)
 
 - [@HardikJain40153](https://github.com/HardikJain40153)
+
+- [@HariAcidReign](https://github.com/HariAcidReign)
 
 - [@HarshaKumar23](https://github.com/HarshaKumar23/)
 
@@ -5267,3 +5271,13 @@
 - [@rohanthakur10](https://github.com/rohanthakur10/)
 
 - [@leonedott](https://github.com/leonedott)
+
+- [@yanivyadin](https://github.com/yanivyadin)
+
+-[@Prezj1](https://github.com/Prezj1)
+
+-[@saikumarkothamasu51](https://github.com/saikumarkothamasu51)
+
+-[@Dopamin001](https://github.com/Dopamin001)
+
+-[@GiridharSundar](https://github.com/GiridharSundar)
