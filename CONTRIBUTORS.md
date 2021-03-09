@@ -5399,6 +5399,6 @@
 
 - [@rennandg](https://github.com/rennandg)
 
-- [@Stevenzs7](https://github.com/Stevenzs7)
-
 -[@Notse](https://github.com/Notse)
+
+- [@Stevenzs7](https://github.com/Stevenzs7)
