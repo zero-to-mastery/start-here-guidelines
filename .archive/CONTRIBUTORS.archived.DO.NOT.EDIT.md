@@ -30494,7 +30494,7 @@
 
 -[@gauravkohade](https://github.com/gauravkohade/)
 
--[@Pacifier25]( https://github.com/Pacifier25)
+-[@Pacifier25](https://github.com/Pacifier25)
 
 -[@Nunnelee](https://github.com/Nunnelee/)
 
@@ -30541,4 +30541,20 @@
 -[@jijojames18](https://github.com/jijojames18)
 
 -[@Harsh71019](https://github.com/Harsh71019)
+
+-[@13prashant](https://github.com/13prashant)
+
+-[@joseph-soliman](https://github.com/joseph-soliman)
+
+-[@SeanCon4](https://github.com/SeanCon4)
+
+-[@miihh](https://github.com/miihh/)
+
+-[@YV0172](https://github.com/YV0172)
+
+-[@crlsandresgb](https://github.com/crlsandresgb)
+
+-[@Adeyera](https://github.com/Adeyera)
+
+-[@matar29](https://github.com/matar29)
 
