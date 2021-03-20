@@ -5492,8 +5492,7 @@
 
 - [@jongwoop](https://github.com/Jongwoop)
 - [@ertholmer](https://github.com/ertholmer/)
-- [@Manisha0711](https://github.com/Manisha0711)
--[@ertholmer](https://github.com/ertholmer)
+- [@Manisha0711](https://github.com/Manisha0711) -[@ertholmer](https://github.com/ertholmer)
 
 -[@AngeloAdd](https://github.com/AngeloAdd)
 
@@ -5537,8 +5536,7 @@
 
 -[@Nightherald](https://github.com/Nightherald)
 
--[@AakashMathurgit](https://github.com/AakashMathurgit)
--[@Sahilparte750](https://github.com/Sahilparte750)
+-[@AakashMathurgit](https://github.com/AakashMathurgit) -[@Sahilparte750](https://github.com/Sahilparte750)
 
 -[@yassinebaji](https://github.com/yassinebaji)
 
@@ -5578,3 +5576,4 @@
 
 - [@Vianymoz](https://github.com/vianymoz)
 
+- [@ferdiokt](https://github.com/ferdiokt)
