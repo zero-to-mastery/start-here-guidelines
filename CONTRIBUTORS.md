@@ -5634,4 +5634,18 @@
 
 - [@aden00](https://github.com/aden00)
 
+<<<<<<< HEAD
 - [@spookyWalrus](https://github.com/spookyWalrus)
+=======
+- [@pythRazer](https://github.com/pythRazer)
+
+-[@serinawu](https://github.com/serinawu)
+
+- [@macieklazarz](https://github.com/macieklazarz)
+
+- [@kotharii](https://github.com/kotharii)
+
+- [@sultanbekuly](https://github.com/sultanbekuly)
+
+-[@crazysamurai](https://github.com/crazysamurai)
+>>>>>>> upstream/master
