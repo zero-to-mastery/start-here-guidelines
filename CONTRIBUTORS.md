@@ -5706,7 +5706,8 @@
 - [@natnaelh14](https://github.com/natnaelh14)
 
 - [@amir-maulana](https://github.com/amir-maulana)
-- ⚡[@DeepakRawat24](https://github.com/DeepakRawat24)
+
+- [@DeepakRawat24](https://github.com/DeepakRawat24)
 
 - [@harshkgit](https://github.com/harshkgit)
 
@@ -5733,3 +5734,5 @@
 - [@mateomazzucco11](https://github.com/mateomazzucco11/)
 
 - [@iiiGYGYiii](https://github.com/iiiGYGYiii)
+
+- [@Ethunxxx](https://github.com/Ethunxxx)
