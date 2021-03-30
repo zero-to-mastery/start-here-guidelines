@@ -16,6 +16,8 @@
 
 - [@Amoghtech](https://github.com/Amoghtech)
 
+- [@PalashHawee](https://github.com/Amoghtech)
+
 - [@CodesOfAnurag](https://github.com/CodesOfAnurag)
 
 - [@Himanshu](https://github.com/himanshu007-creator)
@@ -5739,3 +5741,5 @@
 - [@Sbaah](https://github.com/Sbaah)
 
 - [@gelford2393] (https://github.com/gelford2393)
+
+- [@PalashHawee] (https://github.com/PalashHawee)
