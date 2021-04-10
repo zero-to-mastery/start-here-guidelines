@@ -5816,7 +5816,7 @@
 
 - [@prabin-git](https://github.com/prabin-git)
 
-- [@tamones]((https://github.com/tamones)
+- [@tamones](https://github.com/tamones)
 
 - [@tmtribe20](https://github.com/tmtribe20)
 
@@ -5876,7 +5876,7 @@
 
 - [@mariagomez982](https://github.com/mariagomez982/)
 
-- [@charan225] (https://github.com/charan225)
+- [@charan225](https://github.com/charan225)
 
 - [@HrvojeRobert6](https://github.com/HrvojeRobert6)
 
@@ -5926,8 +5926,10 @@
 
 - [@mhasan341](https://github.com/mhasan341)
 
--[@aoandrade1](https://github.com/aoandrade1/)
+- [@aoandrade1](https://github.com/aoandrade1/)
 
--[@panvo](https://github.com/panvo)
+- [@panvo](https://github.com/panvo)
 
--[@DindoLeonard](https://github.com/DindoLeonard)
+- [@DindoLeonard](https://github.com/DindoLeonard)
+
+- [@Aphelion-im](https://github.com/Aphelion-im)
