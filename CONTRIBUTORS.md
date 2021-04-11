@@ -5935,3 +5935,12 @@
 - [@boraneak](https://github.com/boraneak)
 
 - [@kelvinho1020](https://github.com/kelvinho1020)
+
+- [@issacvp](https://github.com/issacvp)
+
+- [@mdz24](https://github.com/mdz24)
+
+- [@Aphelion-im](https://github.com/Aphelion-im)
+
+- [@hailstormCodes](https://github.com/hailstormCodes)
+
