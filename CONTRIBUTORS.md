@@ -5876,7 +5876,7 @@
 
 - [@mariagomez982](https://github.com/mariagomez982/)
 
-- [@charan225] (https://github.com/charan225)
+- [@charan225](https://github.com/charan225)
 
 - [@HrvojeRobert6](https://github.com/HrvojeRobert6)
 
@@ -5926,18 +5926,20 @@
 
 - [@mhasan341](https://github.com/mhasan341)
 
--[@aoandrade1](https://github.com/aoandrade1/)
+- [@aoandrade1](https://github.com/aoandrade1/)
 
--[@panvo](https://github.com/panvo)
+- [@panvo](https://github.com/panvo)
 
--[@DindoLeonard](https://github.com/DindoLeonard) 
+- [@DindoLeonard](https://github.com/DindoLeonard) 
 
--[@boraneak](https://github.com/boraneak)
+- [@boraneak](https://github.com/boraneak)
 
--[@kelvinho1020](https://github.com/kelvinho1020)
+- [@kelvinho1020](https://github.com/kelvinho1020)
 
--[@issacvp](https://github.com/issacvp)
+- [@issacvp](https://github.com/issacvp)
 
--[@mdz24](https://github.com/mdz24)
+- [@mdz24](https://github.com/mdz24)
 
--[@Aphelion-im](https://github.com/Aphelion-im)
+- [@Aphelion-im](https://github.com/Aphelion-im)
+
+- [@niravraje](https://github.com/niravraje)
