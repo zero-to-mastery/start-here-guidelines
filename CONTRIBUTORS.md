@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
@@ -5961,3 +5961,5 @@
 -[@BabymLIN](https://github.com/babymlin)
 
 -[@MatejDelic](https://github.com/MatejDelic)
+
+-[@aloresarts](https://github.com/aloresarts)
