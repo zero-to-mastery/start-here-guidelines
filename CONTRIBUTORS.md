@@ -5982,7 +5982,7 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
-- [@muczaczos](https://github.com/muczaczaczos)
+- [@muczaczos](https://github.com/muczaczos)
 
 - [@sherlocked01](https://github.com/sherlocked01)
 
