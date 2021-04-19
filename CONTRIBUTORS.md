@@ -45,7 +45,6 @@
 - [@Anthony-Rose](https://github.com/Anthony-Rose)
 
 - [@AbhijeetSatpute](https://github.com/abhijeetsatpute)
-
 - [@joancodes](https://github.com/joancodes)
 
 - [@joaquiera](https://github.com/joaquiera)
@@ -71,6 +70,7 @@
 - [@ThomasDelatte](https://github.com/ThomasDelatte)
 
 - [@MadPonHad](https://github.com/MadPonHad)
+
 
 - [@sawankhanchi](https://github.com/sawankhanchi)
 
@@ -6003,3 +6003,5 @@
 - [@j-mrosa](https://github.com/j-mrosa)
 
 - [@Rajcody](https://github.com/Rajcody)
+
+- [@thG7](https://github.com/thG7)
