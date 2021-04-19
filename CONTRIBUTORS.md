@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
@@ -6007,3 +6007,5 @@
 - [@Rajcody](https://github.com/Rajcody)
 
 - [@kazblacktopp](https://github.com/kazblacktopp)
+
+- [@adityakrm2](https://github.com/adityakrm2)
