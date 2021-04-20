@@ -6006,8 +6006,7 @@
 
 - [@Rajcody](https://github.com/Rajcody)
 
-<<<<<<< HEAD
-- [@aspmac](https://github.com/aspmac)
-=======
 - [@kazblacktopp](https://github.com/kazblacktopp)
->>>>>>> 1b200cba893e0c79d8a5fb5111a4c05d50ea50ee
+
+- [@aspmac](https://github.com/aspmac)
+
