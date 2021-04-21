@@ -6010,4 +6010,4 @@
 
 - [@aspmac](https://github.com/aspmac)
 
-- [@originalsidd](https://github.com/aspmac/originalsidd)
+- [@originalsidd](https://github.com/originalsidd)
