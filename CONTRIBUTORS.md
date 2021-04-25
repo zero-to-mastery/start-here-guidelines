@@ -1,5 +1,7 @@
 ﻿# CONTRIBUTORS
 
+- [@MattCSmith](https://github.com/mattcsmith)
+
 - [@anish-m-code](https://github.com/anish-m-code)
 
 - [@KaramveerSidhu](https://github.com/KaramveerSidhu)
@@ -13,6 +15,7 @@
 - [@AtulChourasia](https://github.com/AtulChourasia)
 
 - [@kaydee0502](https://github.com/kaydee0502)
+- [@dianacpg](https://github.com/dianacpg)
 
 - [@kira00007](https://github.com/kira00007)
 
@@ -5682,9 +5685,11 @@
 
 - [@Lynx-Lynx](https://github.com/Lynx-Lynx)
 
-- [@fidsta1990](https://github.com/fidsta1990)
-
 - [@dmei8](https://github.com/dmei8)
+
+- [@div-j](https://github.com/div-j)
+
+- [@fidsta1990](https://github.com/fidsta1990)
 
 - [@natasya-ptr](https://github.com/natasya-ptr)
 
@@ -5956,6 +5961,8 @@
 
 - [@prodevmrp](https://github.com/prodevmrp)
 
+- [@bimbo-ade](https://github.com/bimbo-ade)
+
 - [@rodrigoherrerai](https://github.com/rodrigoherrerai/)
 
 - [@mdariam](https://github.com/MDariaM)
@@ -5982,13 +5989,15 @@
 
 - [@al-yakubovich](https://github.com/al-yakubovich)
 
-- [@Insidiae](https://github.com/Insidiae)
+- [@lexlu726](https://github.com/lexlu726)
 
-- [@hubirslv](https://github.com/hubirslv)
+- [@sherlocked01](https://github.com/sherlocked01)
+
+- [@Insidiae](https://github.com/Insidiae)
 
 - [@muczaczos](https://github.com/muczaczaczos)
 
-- [@sherlocked01](https://github.com/sherlocked01)
+- [@hubirslv](https://github.com/hubirslv)
 
 - [@josueazambrano](https://github.com/josueazambrano/)
 
@@ -6006,6 +6015,6 @@
 
 - [@Rajcody](https://github.com/Rajcody)
 
-- [@kazblacktopp](https://github.com/kazblacktopp)
+- [@nomanbaig98](https://github.com/nomanbaig98)
 
-- [@bocarw121](https://github.com/bocarw121)
+- [@kazblacktopp](https://github.com/kazblacktopp)
