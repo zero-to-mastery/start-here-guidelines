@@ -1,4 +1,4 @@
- # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@vsvijay987](https://github.com/vsvijay987)
 
@@ -6175,3 +6175,5 @@
 - [@GangulySrishti](https://github.com/GangulySrishti)
 
 - [@Ayush-singh-07](https://github.com/Ayush-singh-07)
+
+- [@green0930](https://github.com/green0930)
