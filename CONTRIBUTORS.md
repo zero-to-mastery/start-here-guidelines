@@ -6309,3 +6309,17 @@
 -[@HarshAn119](https://github.com/HarshAn119)
 
 -[@aleksnnikolov](https://github.com/aleksnnikolov)
+
+-[@pankemort](https://github.com/pankemort)
+
+- [@jihmmi](https://github.com/jihmmi)
+
+- [@andersondebrito](https://github.com/andersondebrito)
+
+- [@MatheusTrinca](https://github.com/MatheusTrinca)
+
+- [@ToGenplusplus](https://github.com/ToGenplusplus/)
+
+-[@annabaroyan](https://github.com/annabaroyan)
+
+-[@Yuruki012](https://github.com/Yuruki012)
