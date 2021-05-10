@@ -1,5 +1,5 @@
 Guidelines on how this open source community works :)
-hello
+
 Read below to see how you can join an existing project or create your own.
 
 ## One rule of this community:
