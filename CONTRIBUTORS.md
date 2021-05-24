@@ -1,4 +1,4 @@
-﻿# CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@anish-m-code](https://github.com/anish-m-code)
 
@@ -5999,3 +5999,6 @@
 - [@j-mrosa](https://github.com/j-mrosa)
 
 - [@Rajcody](https://github.com/Rajcody)
+
+- [@Bear-crawl](https://github.com/Bear-crawl)
+
