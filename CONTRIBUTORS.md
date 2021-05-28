@@ -6624,4 +6624,8 @@
 
 - [@suhtoshi](https://github.com/suhtoshi)
 
+<<<<<<< HEAD
 - [@EthanKeng](https://github.com/EthanKeng)
+=======
+- [@arteficent](https://github.com/arteficent)
+>>>>>>> ef806abc3673b5129c8d51594d9c1444f4dadb1c
