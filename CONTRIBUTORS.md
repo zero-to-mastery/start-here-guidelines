@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[@Kiruthi-1312](https://github.com/Kiruthi-1312)
 
 - [@white-hat-master](https://github.com/white-hat-master)
 
@@ -6626,4 +6627,20 @@
 
 - [@arteficent](https://github.com/arteficent)
 
+
 - [@EddJamesEast](https://github.com/eddjameseast)
+
+-[@ManishHari42](https://github.com/ManishHari42)
+
+-[@Ph0enix171](https://github.com/Ph0enix171)
+
+-[@Sahil-Hate](https://github.com/Sahil-Hate)
+
+-[@Ahmedh42](https://github.com/Ahmedh42)
+
+-[@aitaDev](https://github.com/aitaDev)
+
+-[@khalillamharchi20](https://github.com/khalillamharchi20)
+
+-[@senpaii1](https://github.com/senpaii1)
+
