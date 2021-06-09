@@ -6871,5 +6871,3 @@
 -[@glaurentiu](https://github.com/glaurentiu)
 
 -[@CyKaBit](https://github.com/CyKaBit)
-
--[@olavi16](https://github.com/olavi16)
