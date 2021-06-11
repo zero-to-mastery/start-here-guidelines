@@ -6016,7 +6016,7 @@
 
 - [@MatejDelic](https://github.com/MatejDelic)
 
-- [@ArshiaAggarwal] (https://github.com/ArshiaAggarwal749)
+- [@ArshiaAggarwal](https://github.com/ArshiaAggarwal749)
 
 - [@jsam7](https://github.com/jsam7)
 
@@ -6742,7 +6742,7 @@
 
 - [@ShajadulGH](https://github.com/ShajadulGH)
 
- - [@hackhim18](https://github.com/hackhim18)
+- [@hackhim18](https://github.com/hackhim18)
 
 - [@Ravi-FEHCJ-Developer](https://github.com/Ravi-FEHCJ-Developer)
 
@@ -6878,8 +6878,8 @@
 
 - [@rubyspch](https://github.com/rubyspch)
 
--[@DavidKMuchiri](https://github.com/DavidKMuchiri)
+- [@DavidKMuchiri](https://github.com/DavidKMuchiri)
 
--[@llugo-dev](https://github.com/llugo-dev)
+- [@llugo-dev](https://github.com/llugo-dev)
 
--[@anharsuganda](https://github.com/anharsuganda)
+- [@anharsuganda](https://github.com/anharsuganda)
