@@ -6563,3 +6563,5 @@
 - [@sophfx](https://github.com/sophfx)
 
 - [@josemoralesdev](https://github.com/josemoralesdev)
+
+- [@faridanuar21](https://github.com/faridanuar21)
