@@ -7369,5 +7369,3 @@
 -[@UiPath-li](https://github.com/UiPath-li/)
 
 -[@mdfakih](https://github.com/mdfakih/)
-
--[Ayikanying-ux](https://github.com/Ayikanying-ux/)
