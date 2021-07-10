@@ -7354,30 +7354,30 @@
 
 - [@hamilton-mike](https://github.com/hamilton-mike)
 
-- [@carlosdgild] (https://github.com/Carlosdgild)
+- [@carlosdgild](https://github.com/Carlosdgild)
 
-- [@victoriacheng15] (https://github.com/victoriacheng15)
+- [@victoriacheng15](https://github.com/victoriacheng15)
 
--[@bcwin-i](https://github.com/bcwin-i)
+- [@bcwin-i](https://github.com/bcwin-i)
 
--[@godsy07](https://github.com/godsy07)
+- [@godsy07](https://github.com/godsy07)
 
--[@Divyesh-C](https://github.com/Divyesh-C/)
+- [@Divyesh-C](https://github.com/Divyesh-C/)
 
--[@Gahstanz](http://github.com/Gahstanz)
+- [@Gahstanz](http://github.com/Gahstanz)
 
--[@UiPath-li](https://github.com/UiPath-li/)
+- [@UiPath-li](https://github.com/UiPath-li/)
 
--[@Abhay2342](https://github.com/Abhay2342)
+- [@Abhay2342](https://github.com/Abhay2342)
 
--[@mdfakih](https://github.com/mdfakih/)
+- [@mdfakih](https://github.com/mdfakih/)
 
--[Ayikanying-ux](https://github.com/Ayikanying-ux/)
+- [Ayikanying-ux](https://github.com/Ayikanying-ux/)
 
--[@ycleo](https://github.com/ycleo)
+- [@ycleo](https://github.com/ycleo)
 
--[@healertrix](https://github.com/healertrix)
+- [@healertrix](https://github.com/healertrix)
 
--[@ujjwal-2706](https://github.com/ujjwal-2706)
+- [@ujjwal-2706](https://github.com/ujjwal-2706)
 
--[@RioCantre](https://github.com/RioCantre/)
+- [@RioCantre](https://github.com/RioCantre/)
