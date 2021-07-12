@@ -7399,3 +7399,5 @@ PulseFiction
 
 -[@manish-jandu](https://github.com/manish-jandu)
 -[@victoradesamuel](https://github.com/victoradesamuel)
+
+-[@ezenielrios](https://github.com/ezenielrios)
