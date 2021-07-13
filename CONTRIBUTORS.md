@@ -7397,4 +7397,14 @@ PulseFiction
 
 -[@sylvesterimerion](https://github.com/sylvesterimerion/)
 
+-[@manish-jandu](https://github.com/manish-jandu)
+-[@victoradesamuel](https://github.com/victoradesamuel)
+
+-[@mocz] (https://github.com/mocz)
+
+-[@jox51] (https://github.com/jox51)
+-[@jeancds29] (https://github.com/jeancds29)
+
+- [@yashitanamdeo](https://github.com/yashitanamdeo)
+
 -[@keng0205](https://github.com/keng0205/)
