@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@ainurabek](https://github.com/ainurabek)
 
@@ -7401,3 +7402,4 @@ PulseFiction
 -[@victoradesamuel](https://github.com/victoradesamuel)
 
 -[@ezenielrios](https://github.com/ezenielrios)
+
