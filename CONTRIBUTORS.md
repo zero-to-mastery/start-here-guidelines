@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
 - [@ainurabek](https://github.com/ainurabek)
@@ -7379,8 +7380,7 @@ PulseFiction
 
 -[@ycleo](https://github.com/ycleo)
 
--[@healertrix](https://github.com/healertrix)
--[@ujjwal-2706](https://github.com/ujjwal-2706)
+-[@healertrix](https://github.com/healertrix) -[@ujjwal-2706](https://github.com/ujjwal-2706)
 
 -[@aad3rinto](https://github.com/aad3rinto)
 
@@ -7398,13 +7398,11 @@ PulseFiction
 
 -[@sylvesterimerion](https://github.com/sylvesterimerion/)
 
--[@manish-jandu](https://github.com/manish-jandu)
--[@victoradesamuel](https://github.com/victoradesamuel)
+-[@manish-jandu](https://github.com/manish-jandu) -[@victoradesamuel](https://github.com/victoradesamuel)
 
 -[@mocz] (https://github.com/mocz)
 
--[@jox51] (https://github.com/jox51)
--[@jeancds29] (https://github.com/jeancds29)
+-[@jox51] (https://github.com/jox51) -[@jeancds29] (https://github.com/jeancds29)
 
 - [@yashitanamdeo](https://github.com/yashitanamdeo)
 
@@ -7431,3 +7429,5 @@ PulseFiction
 -[@stevenliu595](https://github.com/stevenliu595)
 
 -[@zaapen](https://github.com/zaapen)
+
+-[@anonsas](https://github.com/anonsas)
