@@ -7452,3 +7452,7 @@ PulseFiction
 -[@galuhdipa](https://github.com/galuhdipa)
 
 -[@djokhar05](https://github.com/djokhar05)
+
+-[@jmopolis](https://github.com/jmopolis)
+
+-[@dorianCBrwn](https://github.com/DorianCBrwn)
