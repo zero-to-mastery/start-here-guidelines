@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
+- [@bhanutejachindukuri](https://github.bhanutejachindukuri)
+
 - [@ainurabek](https://github.com/ainurabek)
 
 - [@nikita12c](https://github.com/nikita12c)
@@ -7415,5 +7417,35 @@ PulseFiction
 - [@UGarvicu](https://github.com/UGarvicu)
 
 -[@Guruprasad-S-R](https://github.com/Guruprasad-S-R)
+
+=======
+- [@msdinesh07](https://github.com/msdinesh07)
+
+-[@spyrohiro](https://github.com/spyrohiro)
+
+-[@eman2211](https://github.com/eman2211)
+
+-[@sdxsofteng](https://github.com/sdxsofteng)
+
+-[@dxnjeta](https://github.com/dxnjeta)
+
+-[@RMTTech](https://github.com/RMTTech)
+
+-[@stevenliu595](https://github.com/stevenliu595)
+
+-[@zaapen](https://github.com/zaapen)
+
+-[@darkflowkc](https://github/darkflowkc)
+
+-[@jaiswalakash170](https://github.com/jaiswalakash170/)
+
+-[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
+
+-[@Radnyanyy](https://github.com/Radnyanyy/)
+-[@dmintrip](https://github.com/DmiNTriP)
+-[@HudaShahid11](https://github.com/HudaShahid11/)
+
+-[@Atharva12Bowlekar](https://github.com/Atharva12Bowlekar/)
+-[@NomanXD97](https://github.com/Atharva12Bowlekar/NomanXD97)
 
 - [@Parvezsohail](https://github.com/Parvez13)
