@@ -7439,4 +7439,7 @@ PulseFiction
 -[@brighton-mcfarlane](https://github.com/brighton-mcfarlane/)
 
 -[@Radnyanyy](https://github.com/Radnyanyy/)
--[@dmintrip](https://github.com/DmiNTriP)
+
+-[@dmintrip](https://github.com/DmiNTriP/)
+
+-[@Nice1Rach](https://github.com/Nice1Rach/)
