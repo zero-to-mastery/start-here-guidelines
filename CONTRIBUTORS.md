@@ -7516,5 +7516,5 @@ PulseFiction
 -[@nithish0301](https://github.com/nithish0301)
 
 -[@allansanyaz](https://github.com/allansanyaz/)
--[@Samandcode]
-(https://github.com/samandcode/)
+-[@Samandcode](https://github.com/samandcode/)
+-[@Wolfslicht](https://github.com/Wolfslicht)
