@@ -7534,3 +7534,5 @@ master
 -[@adrinorosario](https://github.com/adrinorosario/)
 -[@Osemeke10](https://github.com/Osemeke10)
 -[@kamdem-arielle](https://github.com/kamdem-arielle)
+
+-[@michael-roq] (https://github.com/michael-roq)
