@@ -1,24 +1,24 @@
 # CONTRIBUTORS
-- [@Chrisg](https://github.com/chrisgithubok)
 
-- [@shashwatbangar](https://github.com/shashwatbangar)
+- [@IM-Deane](https://github.com/IM-Deane)
 
-- [@bhanutejachindukuri](https://github.bhanutejachindukuri)
+- [@VitaExMachina-dev](https://github.com/VitaExMAchina-dev/)
 
-- [@minaxi6](https://github.com/minaxi6)
+- [@Kendallbrown1021](https://github.com/Kendallbrown1021)
 
-- [@ainurabek](https://github.com/ainurabek)
+- [@AvidCoder101](https://github.com/AvidCoder101)
 
-- [@nikita12c](https://github.com/nikita12c)
+- [@sunuwar-isme](https://github.com/sunuwar-isme/)
 
-- [@RupamG](https://github.com/RupamG)
+- [@chellemo](https://github.com/chellemo)
 
-- [@hariharen9](https://github.com/hariharen9)
+- [@Lucifer](https://github.com/ashish-patwal)
 
-- [@clevermiraz](https://github.com/clevermiraz)
+- [@pedro742k2](https://github.com/pedro742k2)
 
-- [@smeubank](https://github.com/smeubank)
+- [@emmanuel-sarpedon](https://github.com/emmanuel-sarpedon)
 
+<<<<<<< HEAD
 - [@LJones95](https://github.com/LJones95)
 
 - [@Hanh](https://github.com/hanh845)
@@ -7584,3 +7584,6 @@ PulseFiction
 -[@IvanaCarolina](https://github.com/IvanaCarolina)
 
 -[@rishabh9946](https://github.com/rishabh9946)
+
+-[@Yafet-Segid](https://github.com/Yafet-Segid)
+
