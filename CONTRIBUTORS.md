@@ -54,7 +54,6 @@
 
 - [@kokoblack](https://github.com/kokoblack/)
 
-
 - [@JMCrawf](https://github.com/JMCrawf)
 
 - [@KaramveerSidhu](https://github.com/KaramveerSidhu)
@@ -7538,4 +7537,8 @@ master
 -[@michael-roq] (https://github.com/michael-roq)
 
 - [@hjamienordstrom](https://github.com/hjamienordstrom)
+
+- [@hjamienordstrom](https://github.com/hjamienordstrom)
+
+- [@kesava-karri](https://github.com/kesava-karri)
 
