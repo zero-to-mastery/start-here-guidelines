@@ -7571,4 +7571,4 @@ PulseFiction
 
 -[@katynguyen96](https://github.com/katynguyen96)
 
--[@kelechi-nwankpa](https://github.com/kelechi-nwankpa/)
+-[@kelechi-nwankpa](https://github.com/kelechi-nwankpa)
