@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@BluemaverickIKRU](https://github.com/BluemaverickIKRU)
+
 - [@yash-2115](https://github.com/yash-2115)
 
 - [@kmrajibfaysal](https://github.com/kmrajibfaysal)
