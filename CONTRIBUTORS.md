@@ -382,23 +382,23 @@
 - [@fabgrel10](https://github.com/fabgrel10)
 
 - [@chirag-ji](https://github.com/chirag-ji)
--[@ayush-0111](https://github.com/ayush-0111)
+- [@ayush-0111](https://github.com/ayush-0111)
 
--[@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
+- [@morebeautifulthandoriangray](https://github.com/morebeautifulthandoriangray)
 
--[@eric12s](https://github.com/eric12s)
+- [@eric12s](https://github.com/eric12s)
 
 - [@frontEndJohn](https://github.com/frontEndJohn)
--[@Neha9849](https://github.com/Neha9849)
+- [@Neha9849](https://github.com/Neha9849)
 
 - [@vihahuynh](https://github.com/vihahuynh)
 
--[@ashcbrd](https://github.com/ashcbrd)
+- [@ashcbrd](https://github.com/ashcbrd)
 
--[@senthil-pandi](https://github.com/senthil-pandi)
+- [@senthil-pandi](https://github.com/senthil-pandi)
 
--[@hchowdha](https://github.com/hchowdha)
+- [@hchowdha](https://github.com/hchowdha)
 
 - [@aliceinthebighistory](https://github.com/aliceinthebighistory/)
 
--[@rafimuh19](https://github.com/rafimuh19)
+- [@rafimuh19](https://github.com/rafimuh19)
