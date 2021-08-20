@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[ritik is best]
+
 - [@CloudsProgram](https://github.com/CloudsProgram)
 
 - [@yash-2115](https://github.com/yash-2115)
