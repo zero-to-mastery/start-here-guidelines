@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
--[ritik is best]2wkw2nnw
+-[ritik is best]2wkw2nnwkndek
 
 - [@CloudsProgram](https://github.com/CloudsProgram)
 
