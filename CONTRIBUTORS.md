@@ -1,16 +1,17 @@
 # CONTRIBUTORS
 
-- [@0000x582d6976](https://github.com/0000x582d6976)
+- [@mohamedvol1](https://github.com/mohamedvol1/)
 
-- [@ALanq93](https://github.com/ALanq93/)
+- [@hychanbn1009](https://github.com/hychanbn1009/)
 
-- [@Abideenprogram](https://github.com/Abideen-program/)
+- [@SilahicAmil](https://github.com/SilahicAmil)
 
-- [@Abideenprogram](https://github.com/Abideen-program/)
+- [@lsherman2](https://github.com/lsherman2)
 
-- [@Abishek3896](https://github.com/Abishek3896)
+- [@qmkDuran](https://github.com/qmkDuran/)
 
-- [@AdamAlRahman](https://github.com/Adam-Al-Rahman)
+- [@cemil-crypto](https://github.com/cemil-crypto/)
+
 
 - [@Adeyemitj](https://github.com/Adeyemitj)
 
@@ -8027,6 +8028,8 @@ PulseFiction
 
 -[@abhimehrotra99](https://github.com/abhimehrotra99)
 
--[@joeban0608](https://github.com/joeban0608)
+-[@joeban0608](https://github.com/joeban0608/)
+
+-[@malkavianleon](https://github.com/malkavianleon/)
 
 -[@swaydevstan](https://github.com/swaydevstan/)
