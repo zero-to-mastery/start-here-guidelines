@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
--[ritik is best]2wkw2nnwkndekslwmlsmw mlwmlsmlwms smwlms
+-[ritik is best]2wkw2nnwkndekslwmlsmw mlwmlsmlwms smwlms wslmslwm
 
 - [@CloudsProgram](https://github.com/CloudsProgram)
 
