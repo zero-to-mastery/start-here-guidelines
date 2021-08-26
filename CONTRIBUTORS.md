@@ -97,4 +97,4 @@
 - [@gkaframanis](https://github.com/gkaframanis/)
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
-- [@sproff](https://github.com/Sproff)
+- [@Sproff](https://github.com/Sproff)
