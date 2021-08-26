@@ -92,4 +92,4 @@
 
 - [@Aswin40](https://github.com/Aswin40/)
 
-- [@maksymmi](https://github.com/maksymmi/)
+- [@maksymmi](https://github.com/maksymmi)
