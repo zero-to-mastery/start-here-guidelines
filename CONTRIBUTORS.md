@@ -98,5 +98,9 @@
 
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
+- [@KnowingWithShrish](https://github.com/KnowingWithShrish)
+
+- [@aniketh-varma](https://github.com/aniketh-varma)
+
 - [@AJLM10](https://github.com/AJLM10/)
 
