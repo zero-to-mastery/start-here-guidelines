@@ -99,12 +99,14 @@
 
 -[@KnowingWithShrish](https://github.com/KnowingWithShrish)
 
--[@aniketh-varma](https://github.com/aniketh-varma)
+- [@aniketh-varma](https://github.com/aniketh-varma)
 
--[@akshaytare](https://github.com/akshaytare)
+- [@akshaytare](https://github.com/akshaytare)
 
 - [@ddaniel90](https://github.com/ddaniel90)
 
--[@AJLM10](https://github.com/AJLM10)
+- [@AJLM10](https://github.com/AJLM10)
 
 - [@Supratim30](https://github.com/Supratim30)
+
+- [@sedulance] (https://github.com/sedulance)
