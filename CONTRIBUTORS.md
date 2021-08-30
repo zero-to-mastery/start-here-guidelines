@@ -98,3 +98,5 @@
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
 -[@KnowingWithShrish](https://github.com/KnowingWithShrish)
+
+-[@JoeSeVis](https://github.com/JoeSeVis/)
