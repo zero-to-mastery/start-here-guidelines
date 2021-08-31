@@ -98,3 +98,47 @@
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
 - [@Sproff](https://github.com/Sproff)
+
+-[@KnowingWithShrish](https://github.com/KnowingWithShrish)
+
+-[@aniketh-varma](https://github.com/aniketh-varma)
+
+-[@akshaytare](https://github.com/akshaytare)
+
+- [@ddaniel90](https://github.com/ddaniel90)
+
+-[@AJLM10](https://github.com/AJLM10)
+
+- [@Supratim30](https://github.com/Supratim30)
+
+- [@Eternal\_](https://github.com/Tarun-Kamboj)
+
+- [@rariveraa](https://github.com/rariveraa)
+
+- [@rariveraa](https://github.com/rariveraa)
+
+- [@Abdulmalik](https://github.com/abdulmalik-ayorinde)
+
+- [@Nierusan](https://github.com/nierusan)
+
+- [@sayedsadat98](https://github.com/sayedsadat98)
+
+- [@ceelogre](https://github.com/ceelogre)
+
+-[@didargml](https://github.com/didargml)
+
+-[@Raunak173](https://github.com/Raunak173)
+
+- [@Kolako17](https://github.com/Kolako17)
+
+- [@arishwin](https://github.com/arishwin)
+
+-[@avilovi](https://github.com/avilovi)
+
+- [@lopsluan](https://github.com/lopsluan)
+
+- [@anettta](https://github.com/anettta)
+
+- [@tranfh](https://github.com/tranfh)
+
+- [@Double-T1](https://github.com/Double-T1)
