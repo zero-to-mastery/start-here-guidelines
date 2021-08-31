@@ -95,6 +95,7 @@
 - [@lgolin](https://github.com/lgolin/)
 
 - [@gkaframanis](https://github.com/gkaframanis/)
+
 - [@developer-metalhead](https://github.com/developer-metalhead/)
 
 -[@KnowingWithShrish](https://github.com/KnowingWithShrish)
@@ -146,3 +147,5 @@
 - [@SebastianAdi](https://github.com/SebastianAdi)
 
 -[@Akashkumar2898](https://github.com/Akashkumar2898)
+
+-[@JWMedeiros](https://github.com/JWMedeiros)
