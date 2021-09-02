@@ -62,6 +62,10 @@
 
 - [@anettta](https://github.com/anettta)
 
+-[@mark123jesper](https://github.com/mark123jesper)
+
+- [@tihusky](https://github.com/tihusky/)
+
 - [@anikethvarma](https://github.com/aniketh-varma)
 
 - [@arhab07](https://github.com/arhab07)
@@ -159,4 +163,12 @@
 - [@tranfh](https://github.com/tranfh)
 
 - [@varsha631](https://github.com/varsha631)
+
+-[@DanijelSVK](https://github.com/DanijelSVK)
+
+-[@Gomatheeswaran](https://github.com/Gomatheeswaran)
+
+-[@almeidapedro07](https://github.com/almeidapedro07)
+
+-[@KyngCoder](https://github.com/KyngCoder)
 
