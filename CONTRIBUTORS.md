@@ -172,3 +172,9 @@
 
 -[@KyngCoder](https://github.com/KyngCoder)
 
+-[@Clannis](https://github.com/Clannis)
+
+-[@abdullah19000](https://github.com/abdullah19000)
+
+-[@abaran803](http://github.com/abaran803)
+
