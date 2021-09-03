@@ -96,4 +96,4 @@
 
 - [@gkaframanis](https://github.com/gkaframanis/)
 - [@developer-metalhead](https://github.com/developer-metalhead/)
--[@Danghuy12](https://github.com/Danghuy12/)
+- [@Danghuy12](https://github.com/Danghuy12/)
