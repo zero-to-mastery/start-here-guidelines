@@ -174,7 +174,6 @@
 
 - [@mpbasto](https://github.com/mpbasto)
 
-=======
 
 - [@dreamzCode](https://github.com/dreamzCode)
 
@@ -273,9 +272,6 @@
 - [@abdullah19000](https://github.com/abdullah19000)
 
 - [@abaran803](http://github.com/abaran803)
-
->>>>>>> 33baf3d571a5155eff7d97b70dbd62ce91a18774
-
 - [@Prithviraj1810](https://github.com/Prithviraj1810)
 - [@ALanq93](https://github.com/ALanq93/)
 - [@CodeWithBilal](https://github.com/CodeWithBilal)
@@ -366,4 +362,4 @@
 - [@samimalki-023](https://github.com/samimalki-023/)
 - [@phatnguyenuit](https://github.com/phatnguyenuit)
 - [@prajwalj27](https://github.com/prajwalj27)
-
+- [@udaay](https://github.com/Udaay)
