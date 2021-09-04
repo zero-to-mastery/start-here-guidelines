@@ -62,7 +62,7 @@ Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-dev
   git commit -m "your message"
   ```
 
-  Write good commit messages, this is very important, so people reviewing can know what your fix, feature e.t.c. is doing
+  Write good commit messages, this is very important, so people reviewing can know what your fix, feature e.t.c is doing
 
 9. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
