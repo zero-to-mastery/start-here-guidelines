@@ -446,4 +446,3 @@
 
 - [@vjeko95](https://github.com/vjeko95)
 
-- [@squinones92](https://github.com/squinones92)
