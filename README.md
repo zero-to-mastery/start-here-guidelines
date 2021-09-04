@@ -8,41 +8,65 @@ We don't care if you break things. This is a playground and we encourage failing
 
 ## A Guide to Get Started
 
+This process here should be able to guide you on how to contribute effectively to this project, follow the steps below. You should not be new to the git workflow process however if you still are, the guide should still be able to help you through the process.
+
+### Master is the default branch.
+
 1. Read the wonderful [_gitStarted Guide_](https://github.com/zero-to-mastery/start-here-guidelines/blob/855a00243db60c71905f6e3afd95ebf2cf7459a0/gitstartedguideoptimized.pdf) by our fellow student [@wanraitelli](https://github.com/wanraitelli).
 
-   Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
+Check out [Andrei's videos on github](https://www.udemy.com/the-complete-web-developer-in-2018/learn/v4/t/lecture/8725782/) or this free how-to tutorial at http://makeapullrequest.com/.
 
-2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
+2. Fork the repository to generate a copy of your own.
 
-   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
 
-3. Clone _your forked repository_ to your computer:
+3. Clone the repository.
 
-   ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
+  ```
+   git clone 'your forked repo link'
 
-    For example, run this command inside your terminal:
+  ```
 
-    ```bash
-    git clone https://github.com/<your-github-username>/start-here-guidelines.git
-    ```
+  ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
-    **Replace \<your-github-username\>!**
+  Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+4. Checkout from master branch to a new branch
+  ```
+    git checkout -b feat/chore/bugs/fix(just choose one)/branch-name
+  ```
+5. Make the original zero-to-mastery repo the remote upstream (at upstream)
+  ```
+  git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+  ```
+6. To confirm the remote upstream/origin
 
+  ```
+  git remote -v
+  ```
+7.  Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+ ```
+  git pull upstream master
+  ```
+  If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
 
-4. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+8. Make your changes, add them
 
-    ```bash
-    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
-    git pull upstream master
-    ```
+  ```
+  git add .
+  ```
 
-    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can try this one by [opensource.com](https://opensource.com/article/20/4/git-merge-conflict).
+  Make your commits
 
-5. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+  ```
+  git commit -m "your message"
+  ```
 
-6. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
+  Write good commit messages, this is very important, so people reviewing can know what your fix, feature e.t.c. is doing
+
+9. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+
+10. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
     ```bash
     git add CONTRIBUTORS.md
@@ -51,23 +75,76 @@ We don't care if you break things. This is a playground and we encourage failing
 
     **Replace \<your-github-username\>!**
 
-7. Push your changes _to your repository_:
+11. Push your changes to the branch on your forked remote upstream repository -
+  "for-example: git push origin fix/new-readme"
 
-    ```bash
-    git push origin master
-    ```
+  ```
+  git push origin your-branch-name
+  ```
 
-8. Go to the GitHub page of _your fork_, and make a pull request:
+Make your Pull request from that branch of your repo to the develop branch of this (zero-to-mastery) repo and wait for it to be merged.
 
-    ![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
+![pull request image](https://help.github.com/assets/images/help/pull_requests/choose-base-and-compare-branches.png)
 
-    Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+  Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-9. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
+Write good commit messages, this is very important, so people reviewing can know what your fix, feature e.t.c. is doing.
+Your PR should carry the story / task URL (instruction from above).
+if you are going to make changes to an existing code, state why you are doing so in the commit messages.
 
-10. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+It is not just about the changes, user workflow matters too!!
 
-11. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
+12. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification.
+
+13. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all level of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+
+14. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete step 1 and 2 for this to work).
+
+## Commit Structure
+
+- type: subject e.g body, footer
+
+The title consists of the type of the message and subject.
+The type is contained within the title and can be one of these types:
+
+- feat: a new feature
+
+- fix: a bug fix
+
+- docs: changes to documentation
+
+- style: formatting, missing semi colons, etc; no code change
+
+- refactor: refactoring production code
+
+- test: adding tests, refactoring test; no production code change
+
+- chore: updating build tasks, package manager configs, etc; no production code change
+
+**An example of a good commit message**
+
+    fix: Updated the readme file.
+
+More detailed explanatory text, if necessary. Wrap it to about 72 characters or so. In some contexts, the first line is treated as the
+subject of the commit and the rest of the text as the body. The blank line separating the summary from the body is critical (unless
+you omit the body entirely); various tools like `log, shortlog and rebase` can get confused if you run the two together.
+Explain the problem that this commit is solving. Focus on why you are making this change as opposed to how (the code explains that).
+Are there side effects or other unintuitive consequenses of this change? Here's the place to explain them.
+
+- Further paragraphs come after blank lines.
+
+* Bullet points are okay, too
+* Typically a hyphen or asterisk is used for the bullet, preceded
+  by a single space, with blank lines in between, but conventions
+  vary here
+
+- If you use an issue tracker, put references to them at the bottom,
+  like this:
+  Resolves: #123
+  See also: #456, #789
+  And if your commit is just a simple thing, then make the message very short, but not just a title
+
+### Happy hacking!!!!
 
 ## Anatomy of an open source project:
 
