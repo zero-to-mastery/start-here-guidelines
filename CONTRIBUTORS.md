@@ -467,3 +467,6 @@
 - [@Pawnesh03](https://github.com/Pawnesh03)
 
 - [@PrinceSandal20](https://github.com/PrinceSandal20)
+
+- [@majidshakeelshawl](https://github.com/majidshakeelshawl)
+
