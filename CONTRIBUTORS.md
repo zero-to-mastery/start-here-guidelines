@@ -476,5 +476,5 @@
 
 - [@majidshakeelshawl](https://github.com/majidshakeelshawl)
 
-- [@Kampani] (https://github.com/Kampani)
+- [@Kampani] (https://github.com/Kampani/)
 
