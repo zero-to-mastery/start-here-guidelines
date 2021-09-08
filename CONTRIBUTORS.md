@@ -505,9 +505,9 @@
 
 -[@Armand0alexis](https://github.com/Armand0alexis)
 
-<<<<<<< HEAD
 -[@Insidiae](https://github.com/Insidiae)
+
 - [@lexlu726](https://github.com/lexlu726)
-=======
+
 -[@Zephy11](https://github.com/Zephy11)
->>>>>>> f68e37b06e2273f50fcc9eaab6a56aeb2ba3d6cf
+
