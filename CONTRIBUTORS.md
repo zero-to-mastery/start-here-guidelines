@@ -511,3 +511,22 @@
 
 -[@Zephy11](https://github.com/Zephy11)
 
+-[@willyarrows](https://github.com/willyarrows)
+
+-[@Jacob-Wong](https://github.com/Jacob-Wong)
+
+-[@masih4](https://github.com/masih4)
+
+-[@Apower11](https://github.com/Apower11)
+
+-[@ssanudin](https://github.com/ssanudin)
+
+[@Ezeh20](https://github.com/Ezeh20)
+
+-[@PradhyumArora](https://github.com/PradhyumArora)
+
+- [@Ushisha](https://github.com/Ushisha)
+
+- [@luscarus](https://github.com/luscarus)
+
+- [@Mihir3](https://github.com/Mihir3)
