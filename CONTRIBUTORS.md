@@ -541,3 +541,5 @@
 - [@HaylzRandom](https://github.com/HaylzRandom)
 
 - [@Anco2](https://github.com/Anco2)
+
+- [@vincentlai91](https://github.com/vincentlai91)
