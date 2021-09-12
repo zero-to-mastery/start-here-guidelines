@@ -544,13 +544,13 @@
 
 - [@abulyousuf](https://github.com/abulyousuf)
 
-- [@Jejorm](https://github.com/Jejorm);
+- [@Jejorm](https://github.com/Jejorm)
 
-- [@PrakharGupta36](https://github.com/PrakharGupta36);
+- [@PrakharGupta36](https://github.com/PrakharGupta36)
 
-- [@seif57](https://github.com/seif57);
+- [@seif57](https://github.com/seif57)
 
-- [@Muhammad-Yasser1](https://github.com/Muhammad-Yasser1);
+- [@Muhammad-Yasser1](https://github.com/Muhammad-Yasser1)
 
 - [@hecgzz](https://github.com/hecgzz)
 
