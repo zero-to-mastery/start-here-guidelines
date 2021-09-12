@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@]()
-
 - [@0000x582d6976](https://github.com/0000x582d6976)
 
 - [@AJLM10](https://github.com/AJLM10)
@@ -575,8 +573,6 @@
 - [@tejasn14](https://github.com/tejasn14/)
 
 - [@tejaswate7](https://github.com/tejaswate7)
-
-- [@test](https://github.com/test)
 
 - [@tiagocostarebelo](https://github.com/tiagocostarebelo)
 
