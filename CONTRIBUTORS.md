@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@codingwithkinny](https://github.com/codingwithkinny)
+
 - [@betulince](https://github.com/betulince)
 
 - [@alijouni](https://github.com/alijouni)
@@ -606,6 +608,8 @@
 
 - [@dhsluk](https://github.com/dhsluk)
 
+- [@Ram-Chandra-Marandi](https://github.com/Ram-Chandra-Marandi)
+
 - [@Manideep07](https://github.com/Manideep07)
 
 - [@fawwaz95](https://github.com/fawwaz95)
@@ -624,6 +628,8 @@
 
 - [@shubhamk-code](https://github.com/shubhamk-code/)
 
+- [@manzouri-10](https://github.com/manzouri-10/)
+
 - [@priyaVora13](https://github.com/priyaVora13)
 
 - [@Vijay2249](https://github.com/vijay2249)
@@ -634,8 +640,6 @@
 
 - [@aayush89890](https://github.com/aayush89890/)
 
-- [@rajehmerhi](https://github.com/rajehmerhi/)
-
 - [@MehrshadKh](https://github.com/MehrshadKh/)
 
 - [@MohtasimEram](https://github.com/MohtasimEram/)
@@ -645,3 +649,23 @@
 - [@sanks20](https://github.com/sanks20/)
 
 - [@ultimatelokal](https://github.com/ultimatelokal)
+
+- [@Bidyutmaji](https://github.com/Bidyutmaji/)
+
+- [@coderj001](https://github.com/coderj001)
+
+- [@hdahou](https://github.com/hdahou)
+
+- [@zabarullah](https://github.com/zabarullah)
+
+- [@sagarparker](https://github.com/sagarparker)
+
+- [@enoch02](https://github.com/enoch02)
+
+- [@lucyd133](https://github.com/lucyd133)
+
+- [@AnweshaRoutray](https://github.com/AnweshaRoutray/)
+
+- [@MdIrfan-ul](https://github.com/MdIrfan-ul/)
+
+- [@akuma-phawx](https://github.com/akuma-phawx/)
