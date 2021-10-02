@@ -1,0 +1,562 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newUsers"
+			],
+			[
+				"last",
+				"lastName"
+			],
+			[
+				"password",
+				"passwordPrompt"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"delete",
+				"deleteBtn"
+			],
+			[
+				"create",
+				"createDeleteBtn"
+			],
+			[
+				"delee",
+				"deleteBtn"
+			],
+			[
+				"LIST",
+				"listener"
+			],
+			[
+				"list",
+				"listLength"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"m",
+				"myArea"
+			],
+			[
+				"e",
+				"equalsIgnoreCase"
+			],
+			[
+				"age",
+				"ageAsString"
+			],
+			[
+				"local",
+				"local_date"
+			],
+			[
+				"date",
+				"date_input"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"q",
+				"question_end"
+			],
+			[
+				"question",
+				"question_start"
+			],
+			[
+				"quest",
+				"question_types"
+			],
+			[
+				"total",
+				"total_correct"
+			],
+			[
+				"link",
+				"link_format"
+			],
+			[
+				"print",
+				"print_hello"
+			],
+			[
+				"interse",
+				"intersection"
+			],
+			[
+				"in",
+				"intersect"
+			],
+			[
+				"year",
+				"year_one_hundred"
+			],
+			[
+				"word_",
+				"word_count"
+			],
+			[
+				"clear",
+				"clear_screen"
+			],
+			[
+				"secret",
+				"secret_num"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"hash",
+				"hash_confirm_password"
+			],
+			[
+				"margon",
+				"margin-bottom"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"con",
+				"contact_number"
+			],
+			[
+				"sign",
+				"sign_up"
+			],
+			[
+				"ad",
+				"admin_username"
+			],
+			[
+				"AUTO",
+				"AUTO_INCREMENT"
+			],
+			[
+				"add",
+				"add_new_account"
+			],
+			[
+				"number",
+				"number_format"
+			],
+			[
+				"cty",
+				"ctype_xdigit-Checks"
+			],
+			[
+				"base",
+				"base_convert"
+			],
+			[
+				"gmp",
+				"gmp_sign"
+			],
+			[
+				"is",
+				"is_null"
+			],
+			[
+				"array",
+				"array_map"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"how",
+				"how-many"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"lef",
+				"padding-left"
+			],
+			[
+				"paddn",
+				"padding-top"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"s",
+				"sans-serif"
+			],
+			[
+				"re",
+				"render_template"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"UI: Customize Theme"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Marizel/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/Users/Marizel/Library/Application Support/Sublime Text 3/Packages/User/Material-Theme.sublime-theme",
+		"/Users/Marizel/Library/Application Support/Sublime Text 3/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/Users/Marizel/Desktop/TEST1/webapp1/index.html",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES2020/es2020/es2020-solutions.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES2020/es2020/es2020.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/Advanced Loops/advanced_exercise_looping/advanced-looping-solution.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/Advanced Loops/advanced_exercise_looping/advanced-looping-exercise.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES10/advanced_exercise_es10/ES10-Solutions.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES10/advanced_exercise_es10/ES10-Exercise.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES8/advanced_exercise_es8/exerciseES8.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES8/advanced_exercise_es8/exerciseES8-SOLUTIONS.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/ES8/advanced_exercise_es7/exerciseES7.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/Advanced Objects/advanced_exercise_6/exercise6-SOLUTIONS.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/Advanced Objects/advanced_exercise_6/exercise6.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/Advanced Javascript/Advanced Arrays/advanced_exercise_5/exercise5.js",
+		"/Users/Marizel/Downloads/advanced_exercise_3 (1)/exercise3-SOLUTIONS.js",
+		"/Users/Marizel/Downloads/advanced_exercise_3 (1)/exercise3.js",
+		"/Users/Marizel/Downloads/advanced_exercise_1 (1)/exercise1.js",
+		"/Users/Marizel/Desktop/Udemy 2021/Javascript/script.js",
+		"/Users/Marizel/Desktop/sample.html",
+		"/Users/Marizel/Desktop/Feb1.html",
+		"/Users/Marizel/Desktop/Feb1.js",
+		"/Users/Marizel/Desktop/Udemy/ES5 and ES6/script.js",
+		"/Users/Marizel/Desktop/Udemy/Advanced Javascript/Advanced Control Flow/script.js",
+		"/Users/Marizel/Desktop/Udemy/Advanced Javascript/Advanced Control Flow/index.html",
+		"/Users/Marizel/Desktop/Udemy/JS - own practice/converter/script.js",
+		"/Users/Marizel/Desktop/Udemy/JS - own practice/converter/index.html",
+		"/Users/Marizel/Desktop/converter/script.js",
+		"/Users/Marizel/Desktop/index.html",
+		"/Users/Marizel/Desktop/random quote generator/style.css",
+		"/Users/Marizel/Desktop/JS - own practice/style.css",
+		"/Users/Marizel/Desktop/JS - own practice/index.html",
+		"/Users/Marizel/Desktop/JS - own practice/myScript.js",
+		"/Users/Marizel/Pictures/myScript.js",
+		"/Users/Marizel/Pictures/style.css",
+		"/Users/Marizel/Pictures/index.html",
+		"/Users/Marizel/Desktop/Udemy/CSS Grid - own practice/style.css",
+		"/Users/Marizel/Desktop/Udemy/CSS Grid - own practice/index.html",
+		"/Users/Marizel/Documents/style.css",
+		"/Users/Marizel/Desktop/Udemy/startup_files/style.css",
+		"/Users/Marizel/Desktop/Udemy/startup_files/index.html",
+		"/Users/Marizel/Desktop/Udemy/startup_files/header.jpg",
+		"/Users/Marizel/Desktop/style.css",
+		"/Users/Marizel/Desktop/jscrashcourse.js",
+		"/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/Headers/Processes.h",
+		"/usr/include/sasl/hmac-md5.h",
+		"/Users/Marizel/Downloads/laravel-develop/webpack.mix.js",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/composer.json",
+		"/Users/Marizel/NetBeansProjects/JavaApplication11/src/javaapplication11/JavaApplication11.java",
+		"/Users/Marizel/NetBeansProjects/JavaApplication21/src/javaapplication21/JavaApplication21.java",
+		"/Users/Marizel/Desktop/verify.php",
+		"/Users/Marizel/Desktop/CS377 - Sir Jeff/conn.php",
+		"/Users/Marizel/Desktop/Java Object/Hangman.java",
+		"/Users/Marizel/Desktop/Java Object/Game.java",
+		"/Users/Marizel/Desktop/Java Object/Prompter.java",
+		"/Users/Marizel/Desktop/Java Object/PezDispenser.java",
+		"/Users/Marizel/Desktop/Java Object/Example.java",
+		"/Users/Marizel/Desktop/Example.java",
+		"/Users/Marizel/Desktop/Java Basics/TreeStory.java",
+		"/Users/Marizel/Desktop/TreeStory.java",
+		"/Users/Marizel/Desktop/Introductions.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/res/layout/activity_kinematics_lesson.xml",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/VectorsAndScalarsActivity.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/StartingScreenVectorsScalarsActivity.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/StartingScreenStandardsUnitsActivity.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/StartingScreenKinematicsActivity.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/StandardsAndUnitsActivity.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/QuizDbHelper.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/QuizContract.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/Quiz.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/KinematicsActivity.java",
+		"/Volumes/ANAJ/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/Conversion.java",
+		"/Users/Marizel/Desktop/PHYSICS EDUCATIONAL TOOL BACK UP/PhysicsEducationalTool/app/src/main/java/cs372/physicseducationaltool/KinematicsActivity.java",
+		"/Volumes/ANAJ/Treehouse/Python/pay.py",
+		"/Volumes/ANAJ/Treehouse/Python/Jana Aragon/CH3 - Act 1.py",
+		"/Users/Marizel/Desktop/overtime.py",
+		"/Volumes/ANAJ/Treehouse/Python/celsius.py",
+		"/Volumes/ANAJ/Treehouse/Python/all.py",
+		"/Volumes/ANAJ/Treehouse/Python/overtime.py",
+		"/Volumes/ANAJ/Treehouse/Python/hello.py",
+		"/Users/Marizel/Desktop/jana.py",
+		"/Users/Marizel/Desktop/Midterm Physics/Midterm Exam Physics 5_files/grades.svg",
+		"/Users/Marizel/Downloads/python-3.6.5-docs-html/searchindex.js",
+		"/Users/Marizel/Downloads/python-3.6.5-docs-html/_static/searchtools.js",
+		"/Users/Marizel/Downloads/python-3.6.5-docs-html/_static/switchers.js",
+		"/Users/Marizel/Desktop/htdocs backup/wordpress/wp-admin/about.php",
+		"/Users/Marizel/Desktop/htdocs backup/wp-includes/js/media-editor.min.js",
+		"/Users/Marizel/Downloads/wp without coding/wp package/wordpress/wp-includes/Requests/Exception/HTTP/408.php",
+		"/Users/Marizel/Desktop/htdocs backup/bicolit/wp-content/themes/twentyfifteen/js/functions.js",
+		"/Users/Marizel/Desktop/htdocs backup/bicolit/wp-includes/js/media-audiovideo.js",
+		"/Users/Marizel/Desktop/htdocs backup/bicolit/wp-admin/includes/options.php",
+		"/Users/Marizel/Downloads/wp without coding/wp package/wordpress/wp-admin/includes/class-wp-post-comments-list-table.php",
+		"/Users/Marizel/Desktop/htdocs backup/wordpress/wp-includes/SimplePie/Author.php",
+		"/Users/Marizel/Desktop/htdocs backup/bicolit/wp-includes/SimplePie/Content/Type/Sniffer.php",
+		"/Users/Marizel/Desktop/htdocs backup/wordpress/wp-content/index.php",
+		"/Users/Marizel/Desktop/htdocs backup/bicolit/wp-content/index.php",
+		"/Users/Marizel/Desktop/htdocs backup/wp-content/index.php",
+		"/Users/Marizel/Downloads/wp without coding/wp package/wordpress/wp-content/index.php",
+		"/Users/Marizel/Desktop/htdocs backup/wordpress/wp-includes/js/swfupload/plugins/swfupload.cookies.js",
+		"/Users/Marizel/Desktop/htdocs backup/wp-admin/js/farbtastic.js",
+		"/Users/Marizel/Desktop/CS377justine/connection.php",
+		"/Users/Marizel/Desktop/student_info/login.php",
+		"/Users/Marizel/Desktop/student_info/info.php",
+		"/Users/Marizel/Desktop/student_info/db.php",
+		"/Users/Marizel/Desktop/CS377justine/login.php",
+		"/Users/Marizel/Desktop/teachers.txt",
+		"/Users/Marizel/Desktop/remember.py",
+		"/Users/Marizel/Desktop/address_book.py",
+		"/Users/Marizel/Desktop/names.txt",
+		"/Users/Marizel/Desktop/meetings.py",
+		"/Users/Marizel/Desktop/quiz2.py",
+		"/Users/Marizel/Desktop/quiz.py",
+		"/Users/Marizel/Desktop/questions.py",
+		"/Users/Marizel/Desktop/wiki.py",
+		"/Users/Marizel/Desktop/buggy.py",
+		"/Users/Marizel/Desktop/app.py",
+		"/Users/Marizel/Desktop/terminal_app.py",
+		"/Users/Marizel/Desktop/exercise6.py",
+		"/Users/Marizel/Desktop/game.log",
+		"/Users/Marizel/Desktop/dd_game.py",
+		"/Users/Marizel/Desktop/docstrings.py",
+		"/Users/Marizel/Desktop/badpep8.py",
+		"/Users/Marizel/Desktop/second_app.py",
+		"/Users/Marizel/Desktop/exercise5.py",
+		"/Users/Marizel/Desktop/exercise4.py",
+		"/Users/Marizel/Desktop/exercise3.py",
+		"/Users/Marizel/Desktop/exercise2.py"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "CONTRIBUTORS.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
