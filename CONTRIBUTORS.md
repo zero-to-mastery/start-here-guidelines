@@ -1067,3 +1067,5 @@
 - [@hrushikute](https://github.com/hrushikute)
 
 - [@limatfc](https://github.com/limatfc)
+
+- [@viktorlinus](https://github.com/viktorlinus)
