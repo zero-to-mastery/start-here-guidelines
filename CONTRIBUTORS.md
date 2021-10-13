@@ -1125,9 +1125,10 @@
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
 - [@Just4CodingNow](https://github.com/Just4CodingNow)
--[@Arpigouswami](https://github.com/Arpigouswami)
 
-- [JordanABruce] (https://github.com/JordanABruce)
+- [@Arpigouswami](https://github.com/Arpigouswami)
+
+- [@JordanABruce] (https://github.com/JordanABruce)
 
 - [@Vnykshrma](https://github.com/Vnykshrma)
 
