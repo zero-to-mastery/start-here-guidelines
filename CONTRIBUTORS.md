@@ -1128,8 +1128,8 @@
 
 - [@Arpigouswami](https://github.com/Arpigouswami)
 
-- [@JordanABruce] (https://github.com/JordanABruce)
+- [@JordanABruce](https://github.com/JordanABruce)
 
 - [@Vnykshrma](https://github.com/Vnykshrma)
 
-- [@KhadeejaSaeed] (https://github.com/KhadeejaSaeed)
+- [@KhadeejaSaeed](https://github.com/KhadeejaSaeed)
