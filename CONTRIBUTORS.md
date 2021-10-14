@@ -1148,8 +1148,8 @@
 
 - [@weichun0911](https://github.com/WeiChun0911)
 
-[@Luis-Pinho](https://github.com/Luis-Pinho)
+- [@Luis-Pinho](https://github.com/Luis-Pinho)
 
--[@JyotiKumari2](https://github.com/JyotiKumari2)
+- [@JyotiKumari2](https://github.com/JyotiKumari2)
 
--[@ccs211] (https://github.com/ccs211)
+- [@ccs211](https://github.com/ccs211)
