@@ -1096,7 +1096,8 @@
 
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
-- # [@codewithanish](https://github.com/codewithanish/)
+- [@codewithanish](https://github.com/codewithanish/)
+
 - [@Binbaker](https://github.com/Binbaker/)
 
 - [@HiTekRedneck](https://github.com/hitekredneck/)
@@ -1125,7 +1126,9 @@
 
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
-- [@Just4CodingNow](https://github.com/Just4CodingNow) -[@Arpigouswami](https://github.com/Arpigouswami)
+- [@Just4CodingNow](https://github.com/Just4CodingNow)
+
+- [@Arpigouswami](https://github.com/Arpigouswami)
 
 - [JordanABruce] (https://github.com/JordanABruce)
 
