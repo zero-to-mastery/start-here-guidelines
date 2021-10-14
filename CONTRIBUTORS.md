@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@AADHISM](https://github.com/AADHISM)
+
 - [@kylengn](https://github.com/kylengn)
 
 - [@nataliarossini](https://github.com/nataliarossini)
@@ -311,6 +313,8 @@
 - [@Roadtomillion04](https://github.com/Roadtomillion04)
 
 - [@Rohanvolety](https://github.com/RohanVolety)
+
+- [@rtewari056](https://github.com/rtewari056)
 
 - [@RuanEsterhuyse](https://github.com/RuanEsterhuyse)
 
@@ -1121,6 +1125,28 @@
 
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
-- [@Just4CodingNow](https://github.com/Just4CodingNow)
+- [@Just4CodingNow](https://github.com/Just4CodingNow) -[@Arpigouswami](https://github.com/Arpigouswami)
 
-- [@ccs211](https://github.com/ccs211)
+- [JordanABruce] (https://github.com/JordanABruce)
+
+- [@Vnykshrma](https://github.com/Vnykshrma)
+
+- [@KhadeejaSaeed] (https://github.com/KhadeejaSaeed)
+
+- [@Edss888] (https://github.com/Edss888)
+
+- [@raduWD](https://github.com/raduWD)
+
+- [@xdiegors](https://github.com/xdiegors)
+
+- [@chistle](https://github.com/chistle)
+
+- [@andrewtdunn](https://github.com/andrewtdunn)
+
+- [@weichun0911](https://github.com/WeiChun0911)
+
+[@Luis-Pinho](https://github.com/Luis-Pinho)
+
+-[@JyotiKumari2](https://github.com/JyotiKumari2)
+
+-[@ccs211] (https://github.com/ccs211)
