@@ -1175,5 +1175,26 @@
 
 -[@RishiRathore7](https://github.com/RishiRathore7)
 
+
 -[@abbey1298](https://github.com/abbey1298)
 
+
+-[@Aaronphilip2003](https://github.com/Aaronphilip2003)
+-[MattKubica](https://github.com/MattKubica)
+-[mtkaul](https://github.com/mtkaul)
+
+- [@cocogelato](https://github.com/cocogelato/)
+
+- [@dylanb6](https://github.com/dylanb6)
+
+- [@9sebastian2](https://github.com/9sebastian2/)
+- [joineree](https://github.com/joineree/)
+- [adiram7096](https://github.com/adiram7096/)
+
+- [boycany](https://github.com/boycany)
+
+- [@markitos314](https://github.com/markitos314/)
+
+- [@Psalmseen](https://github.com/Psalmseen/)
+
+- [@bartserafin](https://github.com/bartserafin)
