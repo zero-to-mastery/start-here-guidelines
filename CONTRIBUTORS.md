@@ -26,4 +26,4 @@
 
 - [@Bryan11](https://github.com/namocbryan11)
 
-- [huzmasood](https://github.com/huzmasood)
+- [@huzmasood](https://github.com/huzmasood)
