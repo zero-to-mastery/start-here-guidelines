@@ -108,7 +108,6 @@
 
 - [@gastighost](https://github.com/gastighost)
 
-<<<<<<< HEAD
 - [@KayKozaronek](https://github.com/KayKozaronek)
 
 - [@Gulshanaggarwal](https://github.com/Gulshanaggarwal)
@@ -7377,12 +7376,10 @@
 
 -[@ycleo](https://github.com/ycleo)
 
--[@healertrix](https://github.com/healertrix)
--[@ujjwal-2706](https://github.com/ujjwal-2706)
+-[@healertrix](https://github.com/healertrix) -[@ujjwal-2706](https://github.com/ujjwal-2706)
 
 -[@aad3rinto](https://github.com/aad3rinto)
 
 -[@MauricioAliendre182](https://github.com/MauricioAliendre182)
-=======
+
 - [@fokouarnaud](https://github.com/fokouarnaud)
->>>>>>> de2da47ab9965c9acdbd480e4cf5c37b55af254f
