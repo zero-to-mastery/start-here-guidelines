@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@12otherWays](https://github.com/12otherWays)
+
 - [@ducanh4531](https://github.com/ducanh4531)
 
 - [@AADHISM](https://github.com/AADHISM)
@@ -2404,10 +2406,13 @@
 
 -[@keanojorda] (https://github.com/keanojorda)
 
--[ElizabethA01] (https://github.com/ElizabethA01))
+-[ElizabethA01] (https://github.com/ElizabethA01)
 
 -[@cmleo](https://github.com/cmleo/)
 
 -[@ashley-alt](https://github.com/ashley-alt/)
 
 -[@ded5ec-vop](https://github.com/ded5ec-vop/)
+
+-[@maringrgatovic](https://github.com/maringrgatovic/)
+
