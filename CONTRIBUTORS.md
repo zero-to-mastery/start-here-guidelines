@@ -2426,7 +2426,7 @@
 
 -[@JoshuaEmor](https://github.com/JoshuaEmor)
 
--[@chin24](https://github.com/chin24))
+-[@chin24](https://github.com/chin24)
 
 -[@Lejla1502](https://github.com/Lejla1502)
 
@@ -2441,3 +2441,5 @@
 -[@troypouliot](https://github.com/troypouliot)
 
 -[@febieclinton](https://github.com/febieclinton)
+
+-[@CoreyMiller85](https://github.com/CoreyMiller85/)
