@@ -1069,7 +1069,7 @@
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
 - [@hamzahouri](https://github.com/hamzahouri)
--
+- 
 - [@diogoson11](https://github.com/diogoson11)
 
 - [@cebener-maake](https://github.com/cebener-maake)
@@ -1135,15 +1135,17 @@
 
 - [@robertWalker68501](https://github.com/robertWalker68501/)
 
-- [@Just4CodingNow](https://github.com/Just4CodingNow) -[@Arpigouswami](https://github.com/Arpigouswami)
+- [@Just4CodingNow](https://github.com/Just4CodingNow) 
 
-- [JordanABruce] (https://github.com/JordanABruce)
+- [@Arpigouswami](https://github.com/Arpigouswami)
+
+- [JordanABruce](https://github.com/JordanABruce)
 
 - [@Vnykshrma](https://github.com/Vnykshrma)
 
-- [@KhadeejaSaeed] (https://github.com/KhadeejaSaeed)
+- [@KhadeejaSaeed](https://github.com/KhadeejaSaeed)
 
-- [@Edss888] (https://github.com/Edss888)
+- [@Edss888](https://github.com/Edss888)
 
 - [@raduWD](https://github.com/raduWD)
 
@@ -2306,15 +2308,15 @@
 
 - [@Arpigouswami](https://github.com/Arpigouswami)
 
-- [JordanABruce] (https://github.com/JordanABruce)
+- [JordanABruce](https://github.com/JordanABruce)
 
 - [@luistorres0](https://github.com/luistorres0)
 
 - [@MirnaKvc](https://github.com/MirnaKvc)
 
-- [@Edss888] (https://github.com/Edss888)
+- [@Edss888](https://github.com/Edss888)
 
-- [@rahulagrawal26] (https://github.com/rahulagrawal26)
+- [@rahulagrawal26](https://github.com/rahulagrawal26)
 
 - [@TeodoraMM](https://github.com/TeodoraMM)
 
@@ -2358,7 +2360,7 @@
 
 - [@akinyeleoe](https://github.com/akinyeleoe)
 
-- [@Hazichomwarr] (https://github.com/Hazichomwarr)
+- [@Hazichomwarr](https://github.com/Hazichomwarr)
 
 - [@seemranxec](https://github.com/seemranxec)
 
@@ -2402,11 +2404,11 @@
 
 -[@mosabami](https://github.com/mosabami)
 
--[@sedulance] (https://github.com/sedulance)
+-[@sedulance](https://github.com/sedulance)
 
--[@keanojorda] (https://github.com/keanojorda)
+-[@keanojorda](https://github.com/keanojorda)
 
--[ElizabethA01] (https://github.com/ElizabethA01))
+-[ElizabethA01](https://github.com/ElizabethA01)
 
 -[@cmleo](https://github.com/cmleo/)
 
@@ -2426,7 +2428,7 @@
 
 -[@JoshuaEmor](https://github.com/JoshuaEmor)
 
--[@chin24](https://github.com/chin24))
+-[@chin24](https://github.com/chin24)
 
 -[@Lejla1502](https://github.com/Lejla1502)
 
@@ -2455,3 +2457,5 @@
 -[@kusmoro](https://github.com/kusmoro)
 
 -[@albertb24](https://github.com/albertb24/)
+
+- [@bgD91](https://github.com/bgD91)
