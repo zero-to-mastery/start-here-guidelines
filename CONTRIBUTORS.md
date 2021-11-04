@@ -1069,7 +1069,7 @@
 - [@karthiknatarajan-27558](https://github.com/karthiknatarajan-27558)
 
 - [@hamzahouri](https://github.com/hamzahouri)
-- 
+
 - [@diogoson11](https://github.com/diogoson11)
 
 - [@cebener-maake](https://github.com/cebener-maake)
@@ -2458,4 +2458,4 @@
 
 -[@albertb24](https://github.com/albertb24/)
 
-- [@bgD91](https://github.com/bgD91)
+- # [@bgD91](https://github.com/bgD91)
