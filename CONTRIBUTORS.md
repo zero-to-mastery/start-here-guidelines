@@ -1481,4 +1481,4 @@
 
 - [@SimonJankowski](https://github.com/SimonJankowski)
 
-- [@BilalAhmed-Dev](https://github.com/BilalAhmed-Dev/)
+- [@BilalAhmed-Dev](https://github.com/BilalAhmed-Dev)
