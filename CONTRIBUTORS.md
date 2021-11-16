@@ -1467,16 +1467,18 @@
 
 - [@drmarcell](https://github.com/drmarcell)
 
--[@avrambozanovic](https://github.com/avrambozanovic)
+- [@avrambozanovic](https://github.com/avrambozanovic)
 
-- [@MihreteabNahom] (https://github.com/MihreteabNahom)
+- [@MihreteabNahom](https://github.com/MihreteabNahom)
 
 - [@devgupta1907](https://github.com/devgupta1907)
 
 - [@Dzayo](https://github.com/Dzayo)
 
--[@honeysaxena](https://github.com/honeysaxena/)
+- [@honeysaxena](https://github.com/honeysaxena/)
 
--[@KenJRamos](https://github.com/KenJRamos)
+- [@KenJRamos](https://github.com/KenJRamos)
 
--[@SimonJankowski](https://github.com/SimonJankowski)
+- [@SimonJankowski](https://github.com/SimonJankowski)
+
+- [@BilalAhmed-Dev](https://github.com/BilalAhmed-Dev/)
