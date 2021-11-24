@@ -1572,3 +1572,4 @@
 -[@antoniosaoc](https://github.com/antoniosaoc)
 
 -[@theatjln](https://github.com/theatjln)
+-[@kennethtml](https://github.com/kennethtml)
