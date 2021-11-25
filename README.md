@@ -119,10 +119,10 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 **Issue tracker**: Where people discuss issues related to the project.
 
-**Pull requests**: Where people discuss and review changes that are in progress.
+**Pull requests (PR)**: Where people discuss and review changes that are in progress.
 
 **Discussion forums or mailing lists**: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 
-**Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
+**Synchronous chat channel**: Some projects use chat channels (such as Discord, Slack huddle or IRC) for casual conversation, collaboration, and quick exchanges.
 
 **Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
