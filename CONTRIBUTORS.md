@@ -1614,4 +1614,12 @@
 
 - [@MaxyG43](https://github.com/MaxyG43)
 
+- [@Jaeger-11](https://github.com/Jaeger-11)
+
+- [@hichambq](https://github.com/hichambq)
+
+- [@anas-cho](https://github.com/anas-cho)
+
+- [@alexandrupetrut](https://github.com/alexandrupetrut)
+
 - [@05guptaneha](https://github.com/05guptaneha)
