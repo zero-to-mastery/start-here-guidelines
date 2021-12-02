@@ -1636,8 +1636,10 @@
 
 - [@PedroFumero](https://github.com/PedroFumero)
 
--[@ksXV](https://github.com/ksXV)
+- [@ksXV](https://github.com/ksXV)
 
--[@aman111222](https://github.com/aman111222)
+- [@aman111222](https://github.com/aman111222)
 
 - [@StaroMoon](https://github.com/StaroMoon)
+
+- [@gpalleschi](https://github.com/gpalleschi)
