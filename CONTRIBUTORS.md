@@ -1795,3 +1795,5 @@
 -[@lucasvoltera](https://github.com/lucasvoltera/)
 
 -[@jacobcasas](https://github.com/jacobcasas/)
+
+-[@isaacsummers](https://github.com/isaacsummers/)
