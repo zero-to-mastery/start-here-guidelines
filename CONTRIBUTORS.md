@@ -1756,15 +1756,15 @@
 
 - [@FatemaBohra](https://github.com/FatemaBohra)
 
-- [@mahiworld] (https://github.com/mahiworld)
+- [@mahiworld](https://github.com/mahiworld)
 
 - [@MelissaOfficina](https://github.com/MelissaOfficina)
 
 - [@pruthvianveshmuga](https://github.com/pruthvianveshmuga)
 
-- [@antoninabagrin] (https://github.com/antoninabagrin)
+- [@antoninabagrin](https://github.com/antoninabagrin)
 
-- [@kum9748ar] (https://github.com/kum9748ar)
+- [@kum9748ar](https://github.com/kum9748ar)
 
 - [eelnagem](https://github.com/eelnagem)
 
