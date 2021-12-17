@@ -2,7 +2,7 @@
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
--  [@Shyamu431](https://github.com/Shyamu431)
+- [@Shyamu431](https://github.com/Shyamu431)
 
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
@@ -1797,3 +1797,5 @@
 -[@jacobcasas](https://github.com/jacobcasas/)
 
 -[@hamzaaldirawi](https://github.com/hamzaaldirawi)
+
+-[@johnDMurphy](https://github.com/johnDMurphy)
