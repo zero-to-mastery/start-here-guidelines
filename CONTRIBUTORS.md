@@ -2,7 +2,7 @@
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
--  [@Shyamu431](https://github.com/Shyamu431)
+- [@Shyamu431](https://github.com/Shyamu431)
 
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
@@ -832,7 +832,7 @@
 
 - [@moinkhan4](https://github.com/moinkhan4)
 
-- [@mojok1444]()
+- [@mojok1444](https://github.com/mojok1444)
 
 - [@mpbasto](https://github.com/mpbasto)
 
@@ -1094,8 +1094,6 @@
 
 - [@hamzahouri](https://github.com/hamzahouri)
 
--
-
 - [@diogoson11](https://github.com/diogoson11)
 
 - [@cebener-maake](https://github.com/cebener-maake)
@@ -1132,7 +1130,7 @@
 
 - [@mohsenpasdar](https://github.com/mohsenpasdar/)
 
-- # [@codewithanish](https://github.com/codewithanish/)
+- [@codewithanish](https://github.com/codewithanish/)
 
 - [@Binbaker](https://github.com/Binbaker/)
 
@@ -1490,7 +1488,7 @@
 
 - [@avrambozanovic](https://github.com/avrambozanovic)
 
-- [@MihreteabNahom] (https://github.com/MihreteabNahom)
+- [@MihreteabNahom](https://github.com/MihreteabNahom)
 
 - [@devgupta1907](https://github.com/devgupta1907)
 
@@ -1758,15 +1756,15 @@
 
 -[@FatemaBohra](https://github.com/FatemaBohra)
 
--[@mahiworld] (https://github.com/mahiworld)
+-[@mahiworld](https://github.com/mahiworld)
 
 -[@MelissaOfficina](https://github.com/MelissaOfficina)
 
 -[@pruthvianveshmuga](https://github.com/pruthvianveshmuga)
 
--[@antoninabagrin] (https://github.com/antoninabagrin)
+-[@antoninabagrin](https://github.com/antoninabagrin)
 
--[@kum9748ar] (https://github.com/kum9748ar)
+-[@kum9748ar](https://github.com/kum9748ar)
 
 -[eelnagem](https://github.com/eelnagem)
 
@@ -1797,3 +1795,5 @@
 -[@jacobcasas](https://github.com/jacobcasas/)
 
 -[@hamzaaldirawi](https://github.com/hamzaaldirawi)
+
+-[@isaacsummers](https://github.com/isaacsummers/)
