@@ -1827,3 +1827,19 @@
 -[@KevinT27](https://github.com/KevinT27)
 
 -[@olatunde2525](https://github.com/olatunde2525)
+-[@SoloLevelUp](https://github.com/SoloLevelUp)
+
+-[@KevinT27](https://github.com/KevinT27)
+
+-[@reactmallo](https://github.com/reactmallo)
+
+-[@amycapel92](https://github.com/amycapel92)
+
+-[@ofirbu](https://github.com/ofirbu)
+
+-[@Mirai](https://github.com/eyedent1ty)
+
+-[@lyntee](https://github.com/lyntee)
+
+-[@vanimus](https://github.com/vanimus)
+
