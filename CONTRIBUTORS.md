@@ -1826,6 +1826,4 @@
 
 -[@KevinT27](https://github.com/KevinT27)
 
-[@olatunde2525](https://github.com/olatunde2525)
-
 -[@olatunde2525](https://github.com/olatunde2525)
