@@ -2,7 +2,7 @@
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
--  [@Shyamu431](https://github.com/Shyamu431)
+- [@Shyamu431](https://github.com/Shyamu431)
 
 - [@abinayaprasad](https://github.com/abinayaprasad)
 
@@ -1768,9 +1768,9 @@
 
 - [@kum9748ar] (https://github.com/kum9748ar)
 
-- [eelnagem](https://github.com/eelnagem)
+- [@eelnagem](https://github.com/eelnagem)
 
-- [jggsus88](https://github.com/jggsus88)
+- [@jggsus88](https://github.com/jggsus88)
 
 - [@Marek-Kosmowski](https://github.com/Marek-Kosmowski)
 
@@ -1817,3 +1817,25 @@
 - [@D3stDark](https://github.com/D3stDark)
 
 - [@alexyin0978](https://github.com/alexyin0978)
+
+- [@JohannLHD](https://github.com/JohannLHD)
+
+- [@Vikranttyagi95](https://github.com/Vikranttyagi95)
+
+- [@guydahang7](https://github.com/guydahang7)
+
+- [@SoloLevelUp](https://github.com/SoloLevelUp)
+
+- [@KevinT27](https://github.com/KevinT27)
+
+- [@reactmallo](https://github.com/reactmallo)
+
+- [@amycapel92](https://github.com/amycapel92)
+
+- [@ofirbu](https://github.com/ofirbu)
+
+- [@Mirai](https://github.com/eyedent1ty)
+
+- [@lyntee](https://github.com/lyntee)
+
+- [@vanimus](https://github.com/vanimus)
