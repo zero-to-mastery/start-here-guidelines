@@ -1848,9 +1848,9 @@
 
 - [@JohannLHD](https://github.com/JohannLHD)
 
--[@lyntee](https://github.com/lyntee)
+- [@lyntee](https://github.com/lyntee)
 
--[@JockeyMini](https://github.com/JockeyMini)
+- [@JockeyMini](https://github.com/JockeyMini)
 
 - [@tranhoangan22](https://github.com/tranhoangan22)
 
@@ -1894,8 +1894,8 @@
 
 - [@edu2andrade](https://github.com/edu2andrade)
 
--[@pranitrathod](https://github.com/pranitrathod)
+- [@pranitrathod](https://github.com/pranitrathod)
 
--[@Mohamed-amhil](https://github.com/Mohamed-amhil)
+- [@Mohamed-amhil](https://github.com/Mohamed-amhil)
 
--[@KenTandrian](https://github.com/KenTandrian)
+- [@KenTandrian](https://github.com/KenTandrian)
