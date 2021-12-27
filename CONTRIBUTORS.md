@@ -1848,9 +1848,9 @@
 
 -   [@JohannLHD](https://github.com/JohannLHD)
 
--[@lyntee](https://github.com/lyntee)
+-   [@lyntee](https://github.com/lyntee)
 
--[@JockeyMini](https://github.com/JockeyMini)
+-   [@JockeyMini](https://github.com/JockeyMini)
 
 -   [@tranhoangan22](https://github.com/tranhoangan22)
 
@@ -1894,22 +1894,22 @@
 
 -   [@edu2andrade](https://github.com/edu2andrade)
 
--[@pranitrathod](https://github.com/pranitrathod)
+-   [@pranitrathod](https://github.com/pranitrathod)
 
--[@Mohamed-amhil](https://github.com/Mohamed-amhil)
+-   [@Mohamed-amhil](https://github.com/Mohamed-amhil)
 
--[@KenTandrian](https://github.com/KenTandrian)
+-   [@KenTandrian](https://github.com/KenTandrian)
 
--[@minhajiqball](https://github.com/minhajiqball)
+-   [@minhajiqball](https://github.com/minhajiqball)
 
--[@mb16biswas](https://github.com/mb16biswas)
+-   [@mb16biswas](https://github.com/mb16biswas)
 
--[@lkdgr8](https://github.com/lkdgr8/)
+-   [@lkdgr8](https://github.com/lkdgr8/)
 
--[@deniafe](https://github.com/deniafe)
+-   [@deniafe](https://github.com/deniafe)
 
--[@AbdelHadiTurk](https://github.com/AbdelHadiTurk)
+-   [@AbdelHadiTurk](https://github.com/AbdelHadiTurk)
 
--[@Rahuls-Cool](https://github.com/Rahuls-Cool)
+-   [@Rahuls-Cool](https://github.com/Rahuls-Cool)
 
--[@abdalla-abbass][https://github.com/abdalla-abbass]
+-   [@abdalla-abbass][https://github.com/abdalla-abbass]
