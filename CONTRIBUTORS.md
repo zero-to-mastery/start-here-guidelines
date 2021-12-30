@@ -1950,28 +1950,30 @@
 
 -[@nahrinoda](https://github.com/nahrinoda)
 
--[@duanemitchell] (https://github.com/duanemitchell)
+-[@duanemitchell](https://github.com/duanemitchell)
 
--[@coryjerni] (https://github.com/coryjerni)
+-[@coryjerni](https://github.com/coryjerni)
 
--[@lunkanstifis] (https://github.com/lunkanstifis)
+-[@lunkanstifis](https://github.com/lunkanstifis)
 
--[@shirshak89] (https://github.com/shirshak89)
+-[@shirshak89](https://github.com/shirshak89)
 
--[@abdrahmansoltan] (https://github.com/abdrahmansoltan)
+-[@abdrahmansoltan](https://github.com/abdrahmansoltan)
 
--[@chanjook1m] (https://github.com/chanjook1m/)
+-[@chanjook1m](https://github.com/chanjook1m/)
 
--[@faisalibal33] (https://github.com/faisalibal33)
+-[@faisalibal33](https://github.com/faisalibal33)
 
--[@sukanta1991] (https://github.com/sukanta1991)
+-[@sukanta1991](https://github.com/sukanta1991)
 
--[@tilltonystark] (https://github.com/tilltonystark/)
+-[@tilltonystark](https://github.com/tilltonystark/)
 
--[@SamoKrose] (https://github.com/SamoKrose/)
+-[@SamoKrose](https://github.com/SamoKrose/)
 
--[@jcvegan] (https://github.com/jcvegan/)
+-[@jcvegan](https://github.com/jcvegan/)
 
--[@tiln7] (https://github.com/tiln7)
+-[@tiln7](https://github.com/tiln7)
 
--[@spielmeisterG] (https://github.com/spielmeisterG)
+-[@spielmeisterG](https://github.com/spielmeisterG)
+
+-[@nmktad](https://github.com/nmktad)
