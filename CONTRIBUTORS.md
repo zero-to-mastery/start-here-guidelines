@@ -1980,8 +1980,6 @@
 
 -[@BrunaGj] (https://github.com/brunagj)
 
--[@Omkar110401] (https://github.com/Omkar110401/)
-
 -[@schospel] (https://github.com/schospel/)
 
 -[@dnjoe96] (https://github.com/dnjoe96/)
@@ -1997,3 +1995,5 @@
 -[@TessuJohny](https://github.com/TessuJohny)
 
 -[@shannontorcato](https://github.com/shannontorcato)
+
+-[@Omkar110401](https://github.com/Omkar110401)
