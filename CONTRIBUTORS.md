@@ -2046,7 +2046,7 @@
 
 -[@npxrus](https://github.com/npxrus)
 
--[@NguyenJohnnyT](https://github.com/NguyenJohnnyT) 
+-[@NguyenJohnnyT](https://github.com/NguyenJohnnyT)
 
 -[@Borensz](https://github.com/Borensz/)
 
@@ -2057,3 +2057,5 @@
 -[@Paddi1893](https://github.com/Paddi1893)
 
 -[@Logan-Manor](https://github.com/Logan-Manor)
+
+-[@chance0509](http://github.com/chance0509)
