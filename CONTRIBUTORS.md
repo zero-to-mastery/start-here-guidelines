@@ -2079,3 +2079,17 @@
 -[@jack-oleary](https://github.com/jack-oleary/)
 
 -[@PrinceMahdi](https://github.com/PrinceMahdi)
+
+-[@vigneshshettyin](https://github.com/vigneshshettyin)
+
+-[@MrJithil](https://github.com/MrJithil)
+
+-[@renatopetean](https://github.com/renatopetean)
+
+-[@CHMALU](https://github.com/CHMALU)
+
+-[@Xmara](https://github.com/Xmara)
+
+-[@Terminex19] (https://github.com/Terminex19)
+
+-[@Mareks1993] (https://github.com/Mareks1993)
