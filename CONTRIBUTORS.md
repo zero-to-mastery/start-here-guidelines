@@ -2090,6 +2090,6 @@
 
 -[@Xmara](https://github.com/Xmara)
 
--[@Terminex19] (https://github.com/Terminex19)
+-[@Terminex19](https://github.com/Terminex19)
 
--[@Mareks1993] (https://github.com/Mareks1993)
+-[@Mareks1993](https://github.com/Mareks1993)
