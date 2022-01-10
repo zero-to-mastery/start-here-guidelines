@@ -2081,3 +2081,18 @@
 -[@PrinceMahdi](https://github.com/PrinceMahdi)
 
 -[@shailesh-95](https://github.com/shailesh-95)
+
+-[@vigneshshettyin](https://github.com/vigneshshettyin)
+
+-[@MrJithil](https://github.com/MrJithil)
+
+-[@renatopetean](https://github.com/renatopetean)
+
+-[@CHMALU](https://github.com/CHMALU)
+
+-[@Xmara](https://github.com/Xmara)
+
+-[@Terminex19] (https://github.com/Terminex19)
+
+-[@Mareks1993] (https://github.com/Mareks1993)
+
