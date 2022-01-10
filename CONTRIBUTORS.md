@@ -2090,8 +2090,6 @@
 
 -[@Terminex19] (https://github.com/Terminex19)
 
--[@Terminex19] (https://github.com/Terminex19)
-
 -[@Mareks1993] (https://github.com/Mareks1993)
 
 -[@Vishal-ux-spec](https://github.com/Vishal-ux-spec)
