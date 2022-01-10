@@ -1958,41 +1958,41 @@
 
 -[@nahrinoda](https://github.com/nahrinoda)
 
--[@duanemitchell] (https://github.com/duanemitchell)
+-[@duanemitchell](https://github.com/duanemitchell)
 
--[@coryjerni] (https://github.com/coryjerni)
+-[@coryjerni](https://github.com/coryjerni)
 
--[@lunkanstifis] (https://github.com/lunkanstifis)
+-[@lunkanstifis](https://github.com/lunkanstifis)
 
--[@shirshak89] (https://github.com/shirshak89)
+-[@shirshak89](https://github.com/shirshak89)
 
--[@abdrahmansoltan] (https://github.com/abdrahmansoltan)
+-[@abdrahmansoltan](https://github.com/abdrahmansoltan)
 
--[@chanjook1m] (https://github.com/chanjook1m/)
+-[@chanjook1m](https://github.com/chanjook1m/)
 
--[@sukanta1991] (https://github.com/sukanta1991)
+-[@sukanta1991](https://github.com/sukanta1991)
 
--[@tilltonystark] (https://github.com/tilltonystark/)
+-[@tilltonystark](https://github.com/tilltonystark/)
 
--[@SamoKrose] (https://github.com/SamoKrose/)
+-[@SamoKrose](https://github.com/SamoKrose/)
 
--[@jcvegan] (https://github.com/jcvegan/)
+-[@jcvegan](https://github.com/jcvegan/)
 
--[@tiln7] (https://github.com/tiln7)
+-[@tiln7](https://github.com/tiln7)
 
--[@spielmeisterG] (https://github.com/spielmeisterG)
+-[@spielmeisterG](https://github.com/spielmeisterG)
 
--[@shinyiho] (https://github.com/shinyiho)
+-[@shinyiho](https://github.com/shinyiho)
 
--[@BrunaGj] (https://github.com/brunagj)
+-[@BrunaGj](https://github.com/brunagj)
 
--[@Omkar110401] (https://github.com/Omkar110401/)
+-[@Omkar110401](https://github.com/Omkar110401/)
 
--[@schospel] (https://github.com/schospel/)
+-[@schospel](https://github.com/schospel/)
 
--[@dnjoe96] (https://github.com/dnjoe96/)
+-[@dnjoe96](https://github.com/dnjoe96/)
 
--[@gitJoshuaSamuel] (https://github.com/gitJoshuaSamuel)
+-[@gitJoshuaSamuel](https://github.com/gitJoshuaSamuel)
 
 -[@TonyCookey](https://github.com/TonyCookey)
 
@@ -2088,9 +2088,9 @@
 
 -[@Xmara](https://github.com/Xmara)
 
--[@Terminex19] (https://github.com/Terminex19)
+-[@Terminex19](https://github.com/Terminex19)
 
--[@Mareks1993] (https://github.com/Mareks1993)
+-[@Mareks1993](https://github.com/Mareks1993)
 
 -[@Vishal-ux-spec](https://github.com/Vishal-ux-spec)
 
