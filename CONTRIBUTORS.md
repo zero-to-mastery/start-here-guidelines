@@ -1970,8 +1970,6 @@
 
 -[@chanjook1m] (https://github.com/chanjook1m/)
 
--[@faisalibal33] (https://github.com/faisalibal33)
-
 -[@sukanta1991] (https://github.com/sukanta1991)
 
 -[@tilltonystark] (https://github.com/tilltonystark/)
@@ -2097,3 +2095,5 @@
 -[@Vishal-ux-spec](https://github.com/Vishal-ux-spec)
 
 -[@Adityajl](https://github.com/Adityajl)
+
+-[@faisalibal33](https://github.com/faisalibal33)
