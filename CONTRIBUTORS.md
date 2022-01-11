@@ -2102,7 +2102,7 @@
  
 -[@OlgVol] (https://github.com/OlgVol)
 
--[@fidicin] (https://github.com/fidicin)
+-[@fidicin](https://github.com/fidicin)
 
 -[@anakinsonone](https://github.com/anakinsonone)
 
@@ -2116,6 +2116,6 @@
 
 -[@siddhantmittal024](https://github.com/siddhantmittal024)
 
--[@fidicin] (https://github.com/fidicin)
+-[@fidicin](https://github.com/fidicin)
 
 
