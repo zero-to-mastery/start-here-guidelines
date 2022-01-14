@@ -2148,7 +2148,7 @@
 
 -[@joesayat](https://github.com/joesayat)
 
--[@Animesh-sudo](https://github.com/Animesh-sudo) 
+-[@Animesh-sudo](https://github.com/Animesh-sudo)
 
 -[@DonMarvex](https://github.com/DonMarvex)
 
@@ -2163,3 +2163,5 @@
 -[@stephnna](https://github.com/stephnna)
 
 -[@inesreis](https://github.com/inesreis)
+
+-[@squirrelsushi](https://github.com/squirrelsushi)
