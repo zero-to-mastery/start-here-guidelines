@@ -2148,7 +2148,7 @@
 
 -[@joesayat](https://github.com/joesayat)
 
--[@Animesh-sudo](https://github.com/Animesh-sudo) 
+-[@Animesh-sudo](https://github.com/Animesh-sudo)
 
 -[@DonMarvex](https://github.com/DonMarvex)
 
@@ -2157,3 +2157,5 @@
 -[@ThisIsAryan](https://github.com/ThisIsAryan)
 
 -[@BreyRivera2021](https://github.com/BreyRivera2021)
+
+-[@Rashi1999](https://github.com/Rashi1999)
