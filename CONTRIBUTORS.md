@@ -2164,9 +2164,8 @@
 
 -[@inesreis](https://github.com/inesreis)
 
-<<<<<<< HEAD
 -[@martim0t0](https://github.com/martim0t0)
-=======
+
 -[@chadegomez](https://github.com/chadegomez)
 
 -[@rizquadnan](https://github.com/rizquadnan)
@@ -2182,5 +2181,3 @@
 -[@gxdreamy](https://github.com/gxdreamy)
 
 -[@yaelbel](https://github.com/yaelbel)
-
->>>>>>> b708fd412fe23476d8af09361a5092386e3823d9
