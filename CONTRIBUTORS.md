@@ -2,6 +2,8 @@
 
 - [@b-blazej](https://github.com/b-blazej)
 
+- [@Manish Bajagai](https://github.com/manishbajagai2)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
@@ -2207,3 +2209,11 @@
 - [@datdevdez](https://github.com/datdevdez)
 
 - [@Noems20](https://github.com/Noems20)
+
+- [@Noems20](https://github.com/Noems20)
+
+- [@ArturPoole24](https://github.com/ArturPoole24)
+
+- [@fofana215](https://github.com/fofana215)
+
+- [@Shashanka8](https://github.com/Shashanka8)
