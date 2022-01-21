@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@b-blazej](https://github.com/b-blazej)
+
+- [@Manish Bajagai](https://github.com/manishbajagai2)
+
 - [@dan-sftdev](https://github.com/dan-sftdev)
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
@@ -413,6 +417,8 @@
 - [@Uma998](https://github.com/Uma998)
 
 - [@Ushisha](https://github.com/Ushisha)
+
+- [@Utkarsh736](https://github.com/Utkarsh736)
 
 - [@VKMBOSS](https://github.com/VKM-BOSS)
 
@@ -2181,3 +2187,39 @@
 -[@gxdreamy](https://github.com/gxdreamy)
 
 -[@yaelbel](https://github.com/yaelbel)
+
+-[@ColonelBucket8](https://github.com/ColonelBucket8)
+
+-[@anubhavdevv](https://github.com/anubhavdevv)
+
+-[@pangambu](https://github.com/pangambu)
+
+- [@JoshuaM13](https://github.com/JoshuaM13)
+
+-[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)
+
+-[@anquabkhan](https://github.com/anquabkhan)
+
+-[@adrian007i](https://github.com/adrian007i)
+
+- [@mia-7-7](https://github.com/mia-7-7)
+
+- [@iambolu](https://github.com/iambolu)
+
+-[@ansi13c](https://github.com/ansi13c)
+
+-[@Premkrishna2442](https://github.com/Premkrishna2442)
+
+-[@datdevdez](https://github.com/datdevdez)
+
+-[@Noems20](https://github.com/Noems20)
+
+-[@ArturPoole24](https://github.com/ArturPoole24)
+
+-[@fofana215](https://github.com/fofana215)
+
+-[@Shashanka8](https://github.com/Shashanka8)
+
+-[@cyhfe](https://github.com/cyhfe)
+
+-[@mpenkal](https://github.com/mpenkal)
