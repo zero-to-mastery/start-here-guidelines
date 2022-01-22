@@ -30,6 +30,8 @@
 
 - [@mengo6988](https://github.com/mengo6988)
 
+- [@preetham-m](https://github.com/preetham-m)
+
 - [@Sanket00900](https://github.io/Sanket00900)
 
 - [@SriLekhaMondreti](https://github.com/mengo6988SriLekhaMondreti)
@@ -2223,3 +2225,11 @@
 -[@mpenkal](https://github.com/mpenkal)
 
 -[@kanishkjha](https://github.com/kanishkjha)
+
+-[@Harley-Marshall](https://github.com/Harley-marshall)
+
+- [@Sycendin](https://github.com/Sycendin)
+
+-[@zekpause](https://github.com/zekpause)
+
+-[@muhammadasif2017](https://github.com/muhammadasif2017)
