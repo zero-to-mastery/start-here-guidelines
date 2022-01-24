@@ -2271,3 +2271,5 @@
 - [@candebarcelo](https://github.com/candebarcelo)
 
 - [@maijasb](https://github.com/maijasb)
+
+- [@xark-10](https://github.com/xark-10)
