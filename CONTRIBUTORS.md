@@ -2271,3 +2271,5 @@
 - [@candebarcelo](https://github.com/candebarcelo)
 
 - [@maijasb](https://github.com/maijasb)
+
+- [@GarrettMcGuire54](https://github.com/GarrettMcGuire54)
