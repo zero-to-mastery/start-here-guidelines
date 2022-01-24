@@ -2272,4 +2272,4 @@
 
 - [@maijasb](https://github.com/maijasb)
 
-- [@ChugilC](https://github.com/ChugilC)
+- [@ChugilCR](https://github.com/ChugilC)
