@@ -2022,7 +2022,7 @@
 
 - [@Metwesh](https://github.com/Metwesh)
 
-- [@Taylorburk](https://github.com/Taylorburk/) 
+- [@Taylorburk](https://github.com/Taylorburk/)
 
 - [@gasemjabbari](https://github.com/gasemjabbari)
 
@@ -2287,3 +2287,5 @@
 - [@arianagh](https://github.com/arianagh)
 
 - [@Alouche-Mustapha](https://github.com/Alouche-Mustapha)
+
+-[@griffinbaker12](https://github.com/griffinbaker12)
