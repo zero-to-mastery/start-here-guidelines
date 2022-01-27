@@ -2028,7 +2028,7 @@
 
 - [@Metwesh](https://github.com/Metwesh)
 
-- [@Taylorburk](https://github.com/Taylorburk/) 
+- [@Taylorburk](https://github.com/Taylorburk/)
 
 - [@gasemjabbari](https://github.com/gasemjabbari)
 
@@ -2305,3 +2305,5 @@
 - [@HaimHamiel](https://github.com/HaimHamiel)
 
 - [@don1525](https://github.com/don1525)
+
+- [@kenhorlador](https://github.com/kenhorlador)
