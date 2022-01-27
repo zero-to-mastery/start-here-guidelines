@@ -2278,7 +2278,7 @@
 
 - [@An2ans](https://github.com/An2ans)
 
-- [@Smallz97] (https://github.com/Smallz97)
+- [@Smallz97](https://github.com/Smallz97)
 
 - [@candebarcelo](https://github.com/candebarcelo)
 
@@ -2287,3 +2287,5 @@
 - [@arianagh](https://github.com/arianagh)
 
 - [@Alouche-Mustapha](https://github.com/Alouche-Mustapha)
+
+- [@deperiv](https://github.com/deperiv)
