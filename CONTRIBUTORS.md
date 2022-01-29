@@ -2303,7 +2303,9 @@
 
 - [@arianagh](https://github.com/arianagh)
 
-- [@Anand_Balasubramanian] (https://github.com/ananthu99)
+- [@xark-10](https://github.com/xark-10)
+
+- [@Anand_Balasubramanian](https://github.com/ananthu99)
 
 - [@asau75](https://github.com/asau75)
 
@@ -2330,8 +2332,6 @@
 - [@AyberkTatoglu](https://github.com/AyberkTatoglu)
 
 - [@antonio-erick](https://github.com/antonio-erick)
-
-- [@xark-10](https://github.com/xark-10)
 
 -[@anquabkhan](https://github.com/anquabkhan)
 
