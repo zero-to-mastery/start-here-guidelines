@@ -2383,4 +2383,7 @@
 - [@arnibalt](https://github.com/arnibalt)
 
 - [@MHShayek](https://github.com/MHShayek)
+
 - [@Diegoes7](https://github.com/Diegoes7/)
+
+- [@terrifricker](https://github.com/terrifricker)
