@@ -384,6 +384,8 @@
 
 - [@RishiKoul](https://github.com/rishi-koul)
 
+- [@rkrupnick](https://github.com/rkrupnick)
+
 - [@Roadtomillion04](https://github.com/Roadtomillion04)
 
 - [@Rohanvolety](https://github.com/RohanVolety)
@@ -2435,4 +2437,24 @@
 
 - [@joberbr](https://github.com/joberbr)
 
+
 - [@Muneeb Ul Rehman](https://github.com/muneebulrehman)
+
+-[@joberbr](https://github.com/joberbr)
+
+-[@hitansh29](https://github.com/hitansh29)
+
+-[@nelson2411](https://github.com/nelson2411)
+
+-[@jareddyck](https://github.com/jareddyck)
+
+-[@pranav1597](https://github.com/pranav1597)
+
+-[@KingCobraPy](https://github.com/KingCobraPy)
+
+-[@albertsalgueda](https://github.com/albertsalgueda)
+
+-[@S-Sidharthan](https://github.com/S-Sidharthan)
+
+-[@priyanshu9241](https://github.com/priyanshu9241)
+
