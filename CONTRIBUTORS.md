@@ -2318,6 +2318,8 @@
 
 - [@suren-sn](https://github.com/suren-sn)
 
+- [@amberitas17](https://github.com/amberitas17)
+
 - [@arianagh](https://github.com/arianagh)
 
 - [@joeTHAgoat](https://github.com/joeTHAgoat)
@@ -2414,6 +2416,8 @@
 
 - [@EmmanuelUriasl](https://github.com/EmmanuelUriasl)
 
+- [@whosedreamisthis](https://github.com/whosedreamisthis)
+
 - [@tookulmx](https://github.com/tookulmx)
 
 - [@Endleaf](https://github.com/Endleaf)
@@ -2422,6 +2426,8 @@
 
 - [@narayan954](https://github.com/narayan954)
 
+- [@jmossesgeld](https://github.com/jmossesgeld)
+  
 - [@tonrugeria](https://github.com/tonrugeria)
 
 - [@kerwindows](https://github.com/kerwindows)
@@ -2479,5 +2485,3 @@
 - [@zaidajain](https://github.com/zaidajani)
 
 - [@UTKARSH5038](https://github.com/UTKARSH5038)
-
-- [@shakerdl](https://github.com/shakerdl)
