@@ -2501,6 +2501,6 @@
 
 - [@ajaybasra](https://github.com/ajaybasra)
 
--[@sickerman](https://github.com/sickerman)
+- [@sickerman](https://github.com/sickerman)
 
--[@aabdulk862](https://github.com/aabdulk862)
+- [@aabdulk862](https://github.com/aabdulk862)
