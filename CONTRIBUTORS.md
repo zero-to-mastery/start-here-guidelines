@@ -178,6 +178,8 @@
 
 - [@Ernestocanada](https://github.com/Ernestocanada)
 
+- [@Edilson](https://github.com/edilsonmatola)
+
 - [@Ezeh20](https://github.com/Ezeh20)
 
 - [@FayasNoushad](https://github.com/FayasNoushad)
@@ -2318,6 +2320,8 @@
 
 - [@suren-sn](https://github.com/suren-sn)
 
+- [@amberitas17](https://github.com/amberitas17)
+
 - [@arianagh](https://github.com/arianagh)
 
 - [@joeTHAgoat](https://github.com/joeTHAgoat)
@@ -2485,6 +2489,8 @@
 
 - [@al-jacks](https://github.com/al-jacks)
 
+- [@TheRockonVHS](https://github.com/TheRockonVHS)
+
 - [@c-vefra](https://github.com/c-vefra)
 
 - [@minkos](https://github.com/minkos)
@@ -2495,8 +2501,28 @@
 
 - [@Vilma](https://github.com/codevivi/)
 
+- [@Arijit10x](https://github.com/Arijit10x/)
+
 - [@tousifahmedah](https://github.com/tousifahmedah/)
 
 - [@armelk0](https://github.com/armelk0)
 
 - [@labakg](https://github.com/labakg)
+
+- [@ajaybasra](https://github.com/ajaybasra)
+
+- [@Tingnotstinting](https://github.com/Tingnotstinting)
+
+- [@mrsakib94](https://github.com/mrsakib94)
+
+- [@JoaquinB2000](https://github.com/Joaquinb2000)
+
+- [@TerriLowe07](https://github.com/TerriLowe07)
+
+- [@rahbar11](https://github.com/rahbar11)
+
+- [@han044](https://github.com/han044)
+- 
+- [@shakerdl](https://github.com/shakerdl)
+
+- [@nvsco-10](https://github.com/nvsco-10)
