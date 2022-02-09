@@ -2574,4 +2574,6 @@
 
 - [@superkoteman](https://github.com/superkoteman)
 
+- [@foopizza](https://github.com/foopizza)
+
 - [@egeyil](https://github.com/egeyil)
