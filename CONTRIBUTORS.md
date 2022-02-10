@@ -2560,6 +2560,33 @@
 
 - [@RjHuffaker](https://github.com/RjHuffaker)
 
--[@pbmanapat](https://github.com/pbmanapat)
+- [@pbmanapat](https://github.com/pbmanapat)
 
--[@dannylc24] (https://github.com/dannylc24)
+- [@dannylc24] (https://github.com/dannylc24)
+
+- [@pbmanapat](https://github.com/pbmanapat)
+
+- [@KRollins25](https://github.com/KRollins26)
+
+- [@huzaifaghazali](https://github.com/huzaifaghazali)
+
+- [@F3ll0w](https://github.com/f3ll0w)
+
+- [@ibnbakare](https://github.com/ibnbakare)
+
+- [@gmunro](https://github.com/gmunro90)
+
+- [@superkoteman](https://github.com/superkoteman)
+
+- [@foopizza](https://github.com/foopizza)
+  
+- [@MukendiMputu](https://github.com/MukendiMputu)
+
+- [@KonstantynRomanowski](https://github.com/KonstantynRomanowski)
+
+- [@msrana25](https://github.com/msrana25)
+
+- [@jonfaldmo](https://github.com/jonfaldmo)
+
+- [@EsmailAlemad](https://github.com/EsmailAlemad)
+
