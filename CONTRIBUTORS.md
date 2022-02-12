@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+-[@Hegeman-Thomas001](https://github.com/Hegeman-Thomas001)
+
+- [@chiayenho](https://github.com/chiayenho)
+
 - [@DavidAlejandro18](https://github.com/DavidAlejandro18)
 
 - [@pcamelofreitas](https://github.com/pcamelofreitas)
@@ -2578,3 +2582,47 @@
 
 - [@foopizza](https://github.com/foopizza)
 
+- [@foopizza](https://github.com/foopizza)
+
+- [@MukendiMputu](https://github.com/MukendiMputu)
+
+- [@KonstantynRomanowski](https://github.com/KonstantynRomanowski)
+
+- [@msrana25](https://github.com/msrana25)
+
+-[@jonfaldmo](https://github.com/jonfaldmo)
+
+- [@EsmailAlemad](https://github.com/EsmailAlemad)
+
+- [@kien123456k](https://github.com/kien123456k)
+
+- [@SreemaanKCKS](https://github.com/SreemaanKCKS)
+- [@Anosh21](https://github.com/Anosh21)
+
+-[@Artantat](https://github.com/Artantat)
+
+- [@quantranwot](https://github.com/quantranwot)
+
+- [@Abhishekbhalekar](https://github.com/Abhishekbhalekar)
+
+-[@SamLasky](https://github.com/SamLasky)
+
+-[@khaivern](https://github.com/khaivern)
+
+-[@Farhadhpr](https://github.com/Farhadhpr)
+
+-[@kushal1922](https://github.com/kushal1922)
+
+-[@itsvvill](https://github.com/itsvvill)
+
+-[@gcastrocastro](https://github.com/gcastrocastro)
+
+- [@dev-sampsonorson](https://github.com/dev-sampsonorson)
+
+-[@robertwby87](https://github.com/robertwby87)
+
+-[@Tarunvegi-dev](https://github.com/Tarunvegi-dev)
+
+-[@Mkr1984](https://github.com/Mkr1984)
+
+-[@Moso2006-gh](https://github.com/Moso2006-gh)
