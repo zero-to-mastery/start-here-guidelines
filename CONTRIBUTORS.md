@@ -13,6 +13,8 @@
 
 - [@Ahmed-Elhamy-Allam](https://github.com/Ahmed-Elhamy-Allam)
 
+- [@klacsamana15](https://github.com/klacsamana15)
+
 - [@b-blazej](https://github.com/b-blazej)
 
 - [@sananm](https://github.com/sananm)
@@ -2070,7 +2072,7 @@
 - [@rdcrth](https://github.com/rdcrth)
 
 - [@sahilpatel09](https://github.com/sahilpatel09)
-
+-[@Quingsley](https://github.com/Quingsley/)
 - [@Sheng-wei-Tsai](https://github.com/Sheng-wei-Tsai)
 
 - [@l-ram](https://github.com/l-ram)
@@ -2725,3 +2727,6 @@
 -[@Edwin254-byte](https://github.com/Edwin254-byte)
 
 -[olefson](https://github.com/olefson)
+-[@fortunekenny](https://github.com/fortunekenny/)
+
+-[@firdousnath](https://github.com/firdousnath)
