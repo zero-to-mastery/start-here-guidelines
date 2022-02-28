@@ -2864,7 +2864,6 @@
 
 - [@zita07](https://github.com/zita07)
 
-<<<<<<< HEAD
 - [@kendzisah](https://github.com/kendzisah)
 
 - [@lefson](https://github.com/olefson)
@@ -2898,5 +2897,3 @@
 -[@KhaledEllabban1](https://github.com/KhaledEllabban1)
 
 -[@MartinKearney](https://github.com/MartinKearney)
-=======
->>>>>>> 68fb2ad481b1ebd581a283ed15e66853d8ad0ea0
