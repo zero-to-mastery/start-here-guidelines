@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Siddharth-Bisht](https://github.com/OfficialSiddharthBisht)
+
 - [@1181092](https://github.com/1181092/)
 
 - [@12otherWays](https://github.com/12otherWays)
@@ -21,6 +23,8 @@
 - [@9sebastian2](https://github.com/9sebastian2/)
 
 - [@AADHISM](https://github.com/AADHISM)
+
+- [@DarrickFauvel](https://github.com/DarrickFauvel/)
 
 - [@ACRUNO](https://github.com/ACRUNO)
 
@@ -3089,3 +3093,28 @@
 -[@jvaughn1230](https://github.com/jvaughn1230)
 
 - [@kennedy-ogutu](https://github.com/kennedy-ogutu)
+
+-[@ParthaCheleng](https://github.com/ParthaCheleng)
+
+-[@devfep](https://github.com/devfep)
+
+-[@ParthSatasiya](https://github.com/ParthSatasiya)
+
+-[@Infinity-Mineeva](https://github.com/Infinity-Mineeva)
+
+-[@Ruslan-SWE-ML](https://github.com/ruslan-shulhan)
+
+-[@catehardy](https://github.com/catehardy)
+
+-[@ny20](https://github.com/ny20)
+
+-[@MichaelClautice](https://github.com/MichaelClautice)
+
+-[@Ayn-Tanvir](https://github.com/Ayn-Tanvir)
+
+-[@gmihaic](https://github.com/gmihaic)
+
+-[@lukerebeirowebdev](https://github.com/lukerebeirowebdev)
+ 
+-[@rehant123](https://github.com/rehant123)
+
