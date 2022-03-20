@@ -3112,6 +3112,12 @@
 
 -[@gmihaic](https://github.com/gmihaic)
 
+<<<<<<< HEAD
 [@lukerebeirowebdev](https://github.com/lukerebeirowebdev)
 
 [@MoalemLior](https://github.com/MoalemLior)
+=======
+-[@lukerebeirowebdev](https://github.com/lukerebeirowebdev)
+ 
+-[@rehant123](https://github.com/rehant123)
+>>>>>>> 0078a572b93ff7c09976fa34ab6545084f13bb88
