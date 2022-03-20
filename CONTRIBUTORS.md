@@ -3088,4 +3088,4 @@
 
 -[@jvaughn1230](https://github.com/jvaughn1230)
 
-[@kennedy-ogutu](https://github.com/kennedy-ogutu)
+- [@kennedy-ogutu](https://github.com/kennedy-ogutu)
