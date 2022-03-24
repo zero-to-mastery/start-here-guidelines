@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@DevTomilola](https://github.com/DevTomilola)
+
 - [@Siddharth-Bisht](https://github.com/OfficialSiddharthBisht)
 
 - [@1181092](https://github.com/1181092/)
@@ -3159,3 +3161,14 @@
 -[@IuriAlmeida](https://github.com/Iuri-Almeida)
 
 -[@robwill236](https://github.com/robwill236/)
+
+-[@mvisanu](https://github.com/mvisanu)
+
+-[@Sramadan7](https://github.com/sramadan7)
+
+-[@HaniehGRN](https://github.com/HaniehGRN)
+
+-[@mmtbora](https://github.com/mmtbora)
+
+-[@saintsarkis](https://github.com/saintsarkis/)
+
