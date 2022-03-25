@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@DevTomilola](https://github.com/DevTomilola)
+
 - [@Siddharth-Bisht](https://github.com/OfficialSiddharthBisht)
 
 - [@1181092](https://github.com/1181092/)
@@ -3074,6 +3076,8 @@
 
 - [@benedictj](https://github.com/benedictj)
 
+- [@vlhsmylv](https://github.com/vlhsmylv)
+
 -[@safar27](https://github.com/safar27)
 
 -[@snyggme](https://github.com/snyggme)
@@ -3081,6 +3085,8 @@
 - [@purna-dev](https://github.com/purna-dev)
 
 - [@aditya8Raj](https://github.com/aditya8Raj)
+
+- [@francomoraes](https://github.com/francomoraes)
 
 - [@christounetcom](https://github.com/christounetcom)
 
@@ -3106,18 +3112,74 @@
 
 -[@ny20](https://github.com/ny20)
 
+-[@sherifsharafstein](https://github.com/sherifsharafstein)
+
 -[@MichaelClautice](https://github.com/MichaelClautice)
+
+-[@zhangliluoyang](https://github.com/zhangliluoyang)
 
 -[@Ayn-Tanvir](https://github.com/Ayn-Tanvir)
 
 -[@gmihaic](https://github.com/gmihaic)
 
-<<<<<<< HEAD
-[@lukerebeirowebdev](https://github.com/lukerebeirowebdev)
+- [@lukerebeirowebdev](https://github.com/lukerebeirowebdev)
 
-[@MoalemLior](https://github.com/MoalemLior)
-=======
+- [@MoalemLior](https://github.com/MoalemLior)
 -[@lukerebeirowebdev](https://github.com/lukerebeirowebdev)
  
 -[@rehant123](https://github.com/rehant123)
->>>>>>> 0078a572b93ff7c09976fa34ab6545084f13bb88
+
+-[@adriancf-br](https://github.com/adriancf-br)
+
+-[@SomeRandom02](https://github.com/SomeRandom02)
+-[@mahivkpatel](https://github.com/mahivkpatel/)
+
+-[@simonyank](https://github.com/simonyank/)
+
+-[@finnsbones](https://github.com/finnsbones/)
+
+-[@rizkisiraj](https://github.com/rizkisiraj/)
+
+-[@natankin](https://github.com/natankin/)
+
+-[@maria-miro](https://github.com/maria-miro/)
+
+-[@r4zu](https://github.com/r4zu/)
+
+-[@MarioJean](https://github.com/MarioJean/)
+
+-[@YarinAm](https://github.com/YarinAm/)
+
+-[@notthattal](https://github.com/notthattal/)
+
+-[@mcyiyue](https://github.com/mcyiyue/)
+
+-[@ZamZao](https://github.com/ZamZao/)
+
+-[sabihamohhamed](https://github.com/sabihamohammed/)
+
+-[@mavaziri](https://github.com/mavaziri/)
+
+-[@anant1818731024](https://github.com/anant1818731024/)
+
+-[@singhalaman23](https://github.com/singhalaman23)
+
+-[@IuriAlmeida](https://github.com/Iuri-Almeida)
+
+-[@mvisanu](https://github.com/mvisanu)
+
+-[@Sramadan7](https://github.com/sramadan7)
+
+-[@HaniehGRN](https://github.com/HaniehGRN)
+
+-[@mmtbora](https://github.com/mmtbora)
+
+-[@saintsarkis](https://github.com/saintsarkis/)
+
+- [@gcincilla](https://github.com/gcincilla/)
+
+-[@Kodkod10](https://github.com/Kodkod10/)
+
+-[@audrey2001](https://github.com/audrey2001)
+
+-[@Dammy46](https://github.com/Dammy46)
