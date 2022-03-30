@@ -3233,10 +3233,10 @@
 
 - [@adryana24](https://github.com/adryana24/)
 
- [@alpacino767](https://github.com/alpacino767/)
+- [@alpacino767](https://github.com/alpacino767/)
 
- -[@jsueiro](https://github.com/jsueiro)
+- [@jsueiro](https://github.com/jsueiro)
 
- - [@commanderdestro](https://github.com/commanderdestro/)
+- [@commanderdestro](https://github.com/commanderdestro/)
 
 - [@jnscott](https://github.com/jnscott)
