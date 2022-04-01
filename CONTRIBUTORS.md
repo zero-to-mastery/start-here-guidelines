@@ -3232,10 +3232,6 @@
 
 - [@adryana24](https://github.com/adryana24/)
 
-- [@alpacino767](https://github.com/alpacino767/)
-
-- [@jsueiro](https://github.com/jsueiro)
-
 - [@commanderdestro](https://github.com/commanderdestro/)
 
 - [@jnscott](https://github.com/jnscott)
@@ -3264,10 +3260,13 @@
 
 - [@AlexCraciun](https://github.com/alxcraciun/)
 
-
 - [@jnscott](https://github.com/jnscott)
 
 - [@Raykao731](https://github.com/Raykao731)
+
+- [@Tnjonny](https://github.com/Tnjonny)
+
+- [@timbabs1](https://github.com/timbabs1)
 
 - [@alanhcrdz](https://github.com/alanhcrdz/)
 
