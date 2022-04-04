@@ -3315,5 +3315,3 @@
 - [@Alilenko](https://github.com/Alilenko)
 
 - [@elvinyeka](https://github.com/elvinyeka)
-
-- [@EmeraldColour](https://github.com/EmeraldColour)
