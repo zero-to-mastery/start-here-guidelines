@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 
 -   [@letz0703](https://github.com/letz0703)
+-   [@letz0703](https://github.com/letz0703)
 
 -   [@poirei](https://github.com/poirei)
 
