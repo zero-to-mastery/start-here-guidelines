@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@angelo-james](https://github.com/angelo-james)
+
 - [@poirei](https://github.com/poirei)
 
 - [@sheenagonzalez](https://github.com/sheenagonzalez)
@@ -3330,3 +3332,26 @@
 -[@Ashish0Bansal](https://github.com/Ashish0Bansal)
 
 -[@alicjadabr](https://github.com/alicjadabr)
+
+-[@elinmarte](https://github.com/elinmarte)
+
+-[@TimSorrow](https://github.com/TimSorrow)
+
+-[@frustrabe] (https://github.com/frustrabe)
+
+-[@letz0703](https://github.com/letz0703)
+
+-[@ChadEvenrud] (https://github.com/ChadEvenrud)
+
+-[@callMeSam808](https://github.com/callMeSam808)
+
+-[@vuquangpham](https://github.com/vuquangpham)
+
+
+-[@devngnx] (https://github.com/devngnx)
+
+-[@Delanox] (https://github.com/Delanox)
+
+-[@deepakb] (https://github.com/deepakb)
+
+-[@joshuayannix] (https://github.com/joshuayannix)
