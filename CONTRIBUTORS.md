@@ -3300,9 +3300,9 @@
 
 - [@mohammadkiaei](https://github.com/mohammadkiaei)
 
--[@Anuragcr](https://github.com/anuragcr)
+- [@Anuragcr](https://github.com/anuragcr)
 
--[@ershawarma](https://github.com/ershawarma/)
+- [@ershawarma](https://github.com/ershawarma/)
 
 - [@dashorus](https://github.com/dashorus)
 
@@ -3312,7 +3312,7 @@
 
 - [@nybunny54](https://github.com/nybunny54/)
 
--[@Arundeep2001](https://github.com/Arundeep2001/)
+- [@Arundeep2001](https://github.com/Arundeep2001/)
 
 - [@asaini533](https://github.com/asaini533)
 
@@ -3323,6 +3323,7 @@
 - [@EmeraldColour](https://github.com/EmeraldColour)
 
 - [@YamunaPerumalsamy](https://github.com/Yamuna-Perumalsamy)
+
 - [@searchs](https://github.com/searchs)
 
 -[@kaifmkhan](https://github.com/kaifmkhan)
@@ -3347,7 +3348,6 @@
 
 -[@vuquangpham](https://github.com/vuquangpham)
 
-
 -[@devngnx] (https://github.com/devngnx)
 
 -[@Delanox] (https://github.com/Delanox)
@@ -3355,3 +3355,5 @@
 -[@deepakb] (https://github.com/deepakb)
 
 -[@joshuayannix] (https://github.com/joshuayannix)
+
+-[@RockTharsh] (https://github.com/RockTharsh)
