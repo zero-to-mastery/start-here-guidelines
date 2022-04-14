@@ -3429,4 +3429,4 @@
 
 - [@Danteie](https://github.com/Danteie)
 
-- [@Olotuah](https://github.com/Olotuah)
+- [@Olotuah](https://github.com/Olotuah/)
