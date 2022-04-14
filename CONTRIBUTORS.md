@@ -2,6 +2,8 @@
 
 - [@angelo-james](https://github.com/angelo-james)
 
+- [@milan-960](https://github.com/milan-960)
+
 - [@poirei](https://github.com/poirei)
 
 - [@sheenagonzalez](https://github.com/sheenagonzalez)
@@ -634,7 +636,7 @@
 
 - [@Lejla1502](https://github.com/Lejla1502)
 
-- [@ldelgarias](https://github.com/ldelgarias/) 
+- [@ldelgarias](https://github.com/ldelgarias/)
 
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
@@ -3391,7 +3393,7 @@
 
 - [@IslamAkbarli](https://github.com/IslamAkbarli)
 
-- [@AnEdgyVeggie](https://github.com/AnEdgyVeggie/) 
+- [@AnEdgyVeggie](https://github.com/AnEdgyVeggie/)
 
 - [@memehdii98](https://github.com/memehdii98)
 
