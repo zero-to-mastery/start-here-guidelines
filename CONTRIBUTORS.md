@@ -634,6 +634,8 @@
 
 - [@Lejla1502](https://github.com/Lejla1502)
 
+- [@ldelgarias](https://github.com/ldelgarias/) 
+
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
 - [@LinTsaiI](https://github.com/LinTsaiI)
@@ -3426,3 +3428,17 @@
 - [@AL-ABYADH](https://github.com/AL-ABYADH)
 
 - [@aunhengly](https://github.com/aunhengly)
+
+- [@seemanshaikh](https://github.com/seemanshaikh)
+
+- [@Danteie](https://github.com/Danteie)
+
+-[@augustinenwike](https://github.com/augustinenwike)
+
+- [@qq82501](https://github.com/qq82501)
+
+- [@ardiandharminto](https://github.com/ardiandharminto)
+
+- [@DVXSW](https://github.com/DVXSW)
+
+- [@Olotuah](https://github.com/Olotuah)
