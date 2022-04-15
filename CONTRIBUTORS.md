@@ -3431,7 +3431,7 @@
 
 - [@Danteie](https://github.com/Danteie)
 
--[@augustinenwike](https://github.com/augustinenwike)
+- [@augustinenwike](https://github.com/augustinenwike)
 
 - [@qq82501](https://github.com/qq82501)
 
@@ -3440,3 +3440,5 @@
 - [@DVXSW](https://github.com/DVXSW)
 
 - [@Olotuah](https://github.com/Olotuah)
+
+- [@sangwan01](https://github.com/sangwan01)
