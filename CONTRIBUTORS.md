@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@jrleijnse](https://github.com/jrleijnse)
 
 - [@angelo-james](https://github.com/angelo-james)
 
@@ -3433,7 +3434,7 @@
 
 - [@Danteie](https://github.com/Danteie)
 
--[@augustinenwike](https://github.com/augustinenwike)
+- [@augustinenwike](https://github.com/augustinenwike)
 
 - [@qq82501](https://github.com/qq82501)
 
@@ -3444,8 +3445,11 @@
 - [@Olotuah](https://github.com/Olotuah)
 
 - [@birvagangurde](https://github.com/birvagangurde)
-<<<<<<< HEAD
-=======
 
--[@I1hpI](https://github.com/I1hpI)
->>>>>>> 61e2bd76ea7b9452d07c7d5493d42d54dd351910
+- [@I1hpI](https://github.com/I1hpI)
+
+- [@mrCreese](https://github.com/mrCreese/)
+
+- [@SenjuSama2012] (https://github.com/SenjuSama2012)
+
+- [@YuvanDeb0](https://github.com/YuvanDeb0)
