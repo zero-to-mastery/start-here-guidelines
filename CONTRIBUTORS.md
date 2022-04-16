@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-
 - [@jrleijnse](https://github.com/jrleijnse)
 
 - [@angelo-james](https://github.com/angelo-james)
@@ -3458,7 +3457,7 @@
 - [@SenjuSama2012] (https://github.com/SenjuSama2012)
 
 <<<<<<< HEAD
-
-- # [@qq82501](https://github.com/qq82501)
+- [@qq82501](https://github.com/qq82501)
+=======
 - [@YuvanDeb0](https://github.com/YuvanDeb0)
-  > > > > > > > 8c1c9f294f50abe24c601478e703c37acf7660f0
+>>>>>>> 8c1c9f294f50abe24c601478e703c37acf7660f0
