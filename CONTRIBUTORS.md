@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jrleijnse](https://github.com/jrleijnse)
+
 - [@angelo-james](https://github.com/angelo-james)
 
 - [@milan-960](https://github.com/milan-960)
@@ -1007,6 +1009,8 @@
 - [@SergiuPlesco](https://github.com/SergiuPlesco)
 
 - [@ShengweiTsai](https://github.com/Sheng-wei-Tsai)
+
+- [@shermainelim](https://github.com/shermainelim)
 
 - [@Shimpali](https://github.com/Shimpali)
 
@@ -3429,10 +3433,32 @@
 
 - [@AL-ABYADH](https://github.com/AL-ABYADH)
 
+- [@aunhengly](https://github.com/aunhengly)
+
 - [@seemanshaikh](https://github.com/seemanshaikh)
 
 - [@Danteie](https://github.com/Danteie)
 
--[@augustinenwike](https://github.com/augustinenwike)
+- [@augustinenwike](https://github.com/augustinenwike)
 
 - [@qq82501](https://github.com/qq82501)
+
+- [@ardiandharminto](https://github.com/ardiandharminto)
+
+- [@DVXSW](https://github.com/DVXSW)
+
+- [@Olotuah](https://github.com/Olotuah)
+
+- [@birvagangurde](https://github.com/birvagangurde)
+
+- [@I1hpI](https://github.com/I1hpI)
+
+- [@mrCreese](https://github.com/mrCreese/)
+
+- [@SenjuSama2012] (https://github.com/SenjuSama2012)
+
+<<<<<<< HEAD
+
+- # [@qq82501](https://github.com/qq82501)
+- [@YuvanDeb0](https://github.com/YuvanDeb0)
+  > > > > > > > 8c1c9f294f50abe24c601478e703c37acf7660f0
