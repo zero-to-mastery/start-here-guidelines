@@ -634,7 +634,7 @@
 
 - [@Lejla1502](https://github.com/Lejla1502)
 
-- [@ldelgarias](https://github.com/ldelgarias/) 
+- [@ldelgarias](https://github.com/ldelgarias/)
 
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
@@ -3391,7 +3391,7 @@
 
 - [@IslamAkbarli](https://github.com/IslamAkbarli)
 
-- [@AnEdgyVeggie](https://github.com/AnEdgyVeggie/) 
+- [@AnEdgyVeggie](https://github.com/AnEdgyVeggie/)
 
 - [@memehdii98](https://github.com/memehdii98)
 
@@ -3448,3 +3448,5 @@
 - [@mrCreese](https://github.com/mrCreese/)
 
 - [@SenjuSama2012] (https://github.com/SenjuSama2012)
+
+- [@JacquesvZyl](https://github.com/JacquesvZyl)
