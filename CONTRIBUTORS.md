@@ -3348,23 +3348,23 @@
 
 - [@TimSorrow](https://github.com/TimSorrow)
 
-- [@frustrabe] (https://github.com/frustrabe)
+- [@frustrabe](https://github.com/frustrabe)
 
 - [@letz0703](https://github.com/letz0703)
 
-- [@ChadEvenrud] (https://github.com/ChadEvenrud)
+- [@ChadEvenrud](https://github.com/ChadEvenrud)
 
 - [@callMeSam808](https://github.com/callMeSam808)
 
 - [@vuquangpham](https://github.com/vuquangpham)
 
-- [@devngnx] (https://github.com/devngnx)
+- [@devngnx](https://github.com/devngnx)
 
-- [@Delanox] (https://github.com/Delanox)
+- [@Delanox](https://github.com/Delanox)
 
-- [@deepakb] (https://github.com/deepakb)
+- [@deepakb](https://github.com/deepakb)
 
-- [@joshuayannix] (https://github.com/joshuayannix)
+- [@joshuayannix](https://github.com/joshuayannix)
 
 - [@Ibonom](https://github.com/Ibonom)
 
@@ -3382,7 +3382,7 @@
 
 - [@jenstheuns](https://github.com/jenstheuns)
 
-- [@jasonpn] (https://github.com/jasonpn)
+- [@jasonpn](https://github.com/jasonpn)
 
 - [@dnkoziatek](https://github.com/dnkoziatek)
 
@@ -3476,9 +3476,9 @@
 
 - [CyberBoyAyush](https://github.com/cyberboyayush)
 
-- [kabirbapson] (https://github.com/kabirbapson)
+- [kabirbapson](https://github.com/kabirbapson)
 
-- [@shivesh-ranjan] (https://github.com/shivesh-ranjan)
+- [@shivesh-ranjan](https://github.com/shivesh-ranjan)
 
 - [@SunilKumarYadav1991](https://github.com/SunilKumarYadav1991)
 
@@ -3487,3 +3487,6 @@
 - [@magedmohammed834](https://github.com/magedmohammed834/)
 
 - [@s-khandakar](https://github.com/s-khandakar/)
+
+- [@notKingConan](https://github.com/notKingConan/)
+
