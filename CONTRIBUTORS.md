@@ -3489,3 +3489,7 @@
 - [@s-khandakar](https://github.com/s-khandakar/)
 
 - [@lam-brian](https://github.com/lam-brian/)
+
+- [@Adek15](https://github.com/Adek15/)
+
+- [@RafaelM011](https://github.com/RafaelM011/)
