@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@jrleijnse](https://github.com/jrleijnse)
 
 - [@Milan Sachani](https://github.com/milan-960)
@@ -3461,7 +3462,6 @@
 - [@brandon850213](https://github.com/brandon850213)
 
 - [@mresch03](https://github.com/mresch03)
-  
 - [denislomos27](https://github.com/denislomos27)
 
 - [Iftee97](https://github.com/Iftee97)
@@ -3487,3 +3487,5 @@
 - [@magedmohammed834](https://github.com/magedmohammed834/)
 
 - [@s-khandakar](https://github.com/s-khandakar/)
+
+- [@lam-brian](https://github.com/lam-brian/)
