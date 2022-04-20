@@ -3421,4 +3421,6 @@
 
 - [@Vamphyr](https://github.com/Vamphyr)
 
-- [@shyheemb](https://github.com/shyheemb)
+- [@shyheemb](https://github.com/shyeemb)
+
+- [@Denis11M](https://github.com/denis11m)
