@@ -3521,18 +3521,4 @@
 
 -[@LucasGM17](https://github.com/LucasGM17/)
 
-<<<<<<< HEAD
 -[@bcolovas](https://github.com/bcolovas)
-=======
--[@Apiskye98](https://github.com/Apiskye98/)
-
--[@knoxjamesus](https://github.com/knoxjamesus/)
-
--[@freshqt](https://github.com/freshqt/)
-
--[@jinalgoyani](https://github.com/jinalgoyani/)
-
--[@junichi-source](https://github.com/junichi-source/)
-
--[@chetan2332](https://github.com/chetan2332/)
->>>>>>> 6b60c30f7eb856e50b02b1fc5928168ddcd07c2e
