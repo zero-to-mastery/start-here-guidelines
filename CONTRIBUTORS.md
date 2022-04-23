@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@jrleijnse](https://github.com/jrleijnse)
 
 - [@Milan Sachani](https://github.com/milan-960)
@@ -3461,7 +3462,6 @@
 - [@brandon850213](https://github.com/brandon850213)
 
 - [@mresch03](https://github.com/mresch03)
-  
 - [denislomos27](https://github.com/denislomos27)
 
 - [Iftee97](https://github.com/Iftee97)
@@ -3498,7 +3498,7 @@
 
 - [@robsondev](https://github.com/robsondev/)
 - [@nazimulhossain](https://github.com/nazimulhossain/)
- 
+
 -[@adakeita](https://github.com/adakeita/)
 
 -[@yasht-twri2k1](https://github.com/yasht-twri2k1/)
@@ -3532,3 +3532,5 @@
 -[@junichi-source](https://github.com/junichi-source/)
 
 -[@chetan2332](https://github.com/chetan2332/)
+
+-[@vedantyetekar7](https://github.com/vedantyetekar7)
