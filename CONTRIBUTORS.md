@@ -3556,10 +3556,12 @@
 
 - [@ppattamasaevi](https://github.com/ppattamasaevi/)
 
-- [@calderonvasquez](<https://github.com/calderonvasquez/>)
+- [@calderonvasquez](https://github.com/calderonvasquez/)
 
-- [@Jerich1992](<https://https://github.com/Jerich1992/>)
+- [@Jerich1992](https://https://github.com/Jerich1992/)
 
--[@mi16co2012](<https://github.com/mi16co2012/>)
+-[@mi16co2012](https://github.com/mi16co2012/)
 
-- [@cancinoray](<https://github.com/cancinoray>)
+- [@cancinoray](https://github.com/cancinoray)
+
+- [@romerolae](https://github.com/romerolae)
