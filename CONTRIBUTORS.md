@@ -3424,6 +3424,8 @@
 
 - [@erickbey](https://github.com/erickbey)
 
+- [@Kephass](https://github.com/Kephass)
+
 - [@Prishasureja](https://github.com/Prishasureja)
 
 - [@superNovaScript](https://github.com/superNovaScript)
@@ -3560,8 +3562,24 @@
 
 - [@Jerich1992](https://https://github.com/Jerich1992/)
 
--[@mi16co2012](https://github.com/mi16co2012/)
+- [@mi16co2012](https://github.com/mi16co2012/)
 
 - [@cancinoray](https://github.com/cancinoray)
 
 - [@romerolae](https://github.com/romerolae)
+
+- [@mi16co2012](<https://github.com/mi16co2012/>)
+
+- [@cancinoray](<https://github.com/cancinoray>)
+
+- [@praneetshekhar](https://github.com/praneetshekhar)
+
+- [@vinodkotagiri](<https://github.com/vinodkotagiri/>)
+
+- [@toni123321] (https://github.com/toni123321)
+
+- [@Mejia-Luke] (https://github.com/Mejia-Luke)
+
+- [@dflo55](https://github.com/dflo55/)
+
+- [@vivian-sam] (https://github.com/vivian-sam)
