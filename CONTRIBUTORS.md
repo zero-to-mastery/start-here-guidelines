@@ -3572,13 +3572,13 @@
 
 - [@romerolae](https://github.com/romerolae)
 
-- [@mi16co2012](<https://github.com/mi16co2012/>)
+- [@mi16co2012](https://github.com/mi16co2012/)
 
-- [@cancinoray](<https://github.com/cancinoray>)
+- [@cancinoray](https://github.com/cancinoray)
 
 - [@praneetshekhar](https://github.com/praneetshekhar)
 
-- [@vinodkotagiri](<https://github.com/vinodkotagiri/>)
+- [@vinodkotagiri](https://github.com/vinodkotagiri/)
 
 - [@toni123321] (https://github.com/toni123321)
 
@@ -3599,4 +3599,7 @@
 - [@saiteja13427](https://github.com/saiteja13427)
 
 - [@ant4x](https://github.com/ant4x)
+
 - [@Odion-Sonny](https://github.com/Odion-Sonny)
+
+- [@pchawin40](https://github.com/pchawin40)
