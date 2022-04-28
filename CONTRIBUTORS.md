@@ -600,8 +600,6 @@
 
 - [@Kevinnm](https://github.com/Kevnnm)
 
-- [@Kevsely](https://github.com/Kevsely/)
-
 - [@KhadeejaSaeed](https://github.com/KhadeejaSaeed)
 
 - [@KhaledEllabban1](https://github.com/KhaledEllabban1)
@@ -3622,3 +3620,5 @@
 -[@Hamzaaminyz](https://github.com/Hamzaaminyz/)
 
 -[@phirefly](https://github.com/phirefly/)
+
+- [@Kevsely](https://github.com/Kevsely/)
