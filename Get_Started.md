@@ -7,7 +7,7 @@ It may appear a very challenging and overwhelming task at first, but it is, in f
 # Community Led Collaboration Projects
 Providing the opportunity for you to flex your developer muscles, whilst working within a team of developers. Gaining valuable skills, employers are always seeking, such as:
 - **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
-- **Github and source control** - In these projects you will have the opportunity to understand why branching is important along with other key github skills.
+- **Github and source control** - In these projects you will have the opportunity to understand why branching is important along with other key GitHub skills.
 - **New stacks and technologies** - Each project is likely to use slightly varying stacks, providing the opportunity to jump into something new
 
 # How You Benefit
