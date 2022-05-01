@@ -180,6 +180,8 @@
 
 - [@Benr027](https://github.com/Benr027)
 
+- [@Berkanktk](https://github.com/Berkanktk)
+
 - [@Bidyutmaji](https://github.com/Bidyutmaji/)
 
 - [@BigPabby](https://github.com/Big-Pabby)
@@ -3667,5 +3669,3 @@
 - [@Nafsuki](https://github.com/Nafsuki)
 
 - [@therealjedeye98](https://github.com/therealjedeye98)
-
-- [@ErezAvni9](https://github.com/ErezAvni9)
