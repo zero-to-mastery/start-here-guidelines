@@ -3686,4 +3686,8 @@
 
 - [@GokZ465](https://github.com/GokZ465)
 
+- [@realJohnAdex](https://github.com/realJohnAdex)
+
+- [@Barenbik](https://github.com/Barenbik)
+
 - [@muqsitadam](https://github.com/muqsitadam)
