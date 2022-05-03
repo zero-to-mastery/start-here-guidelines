@@ -3676,7 +3676,8 @@
 
 - [@Pitac99](https://github.com/Pitac99)
 
--[@mattespoz] (https://github.com/MattEspoz/)
+-[@mattespoz](https://github.com/MattEspoz/)
+
 - [@rubiin](https://github.com/rubiin)
 
 - [@therealsylaucoin](https://github.com/therealsylaucoin)
@@ -3684,3 +3685,5 @@
 - [@BrandonGriffith](https://github.com/BrandonGriffith)
 
 - [@GokZ465](https://github.com/GokZ465)
+
+- [@muqsitadam](https://github.com/muqsitadam)
