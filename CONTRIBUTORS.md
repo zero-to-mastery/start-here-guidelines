@@ -3667,5 +3667,3 @@
 - [@Nafsuki](https://github.com/Nafsuki)
 
 - [@therealjedeye98](https://github.com/therealjedeye98)
-
-- [@muqsitadam](https://github.com/muqsitadam)
