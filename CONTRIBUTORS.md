@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+-[@kogbuokiri02](https://github.com/kogbuokiri02)
+
+-[@DominicMxrtinez](https://github.com/dominicmxrtinez)
 
 -[@selvendranks](https://github.com/selvendranks)
 
@@ -3778,7 +3781,7 @@
 
 - [@Thainge](https://github.com/thainge)
 
--[@helloSanmi](https://github.com/helloSanmi)
+- [@helloSanmi](https://github.com/helloSanmi)
 
 - [@alexlionnel](https://github.com/alexlionnel)
 
@@ -3789,13 +3792,13 @@
 - [@raaghavbhyana] (https://github.com/raaghavbhyana)
 - [@jasminetam](https://github.com/jasminetam/)
 
--[@bryanrillstone](https://github.com/bryanrillstone)
+- [@bryanrillstone](https://github.com/bryanrillstone)
 
--[@hubert123490](https://github.com/hubert123490)
+- [@hubert123490](https://github.com/hubert123490)
 
--[@Rhynr](https://github.com/Rhynr)
+- [@Rhynr](https://github.com/Rhynr)
 
--[@ammarSweid](https://github.com/ammarSwied)
+- [@ammarSweid](https://github.com/ammarSwied)
 
 -[@kpatel1010](https://github.com/kpatel1010)
 
@@ -3824,9 +3827,53 @@
 -[@diipanshuu](https://github.com/diipanshuu/)
 
 -[@MarkHonz](https://github.com/MarkHonz/)
--[@D-Ram1](https://github.com/D-Ram1/)
 
 -[@theLimaceGuy](https://github.com/theLimaceGuy/)
 
+-[@rakalantari](https://github.com/rakalantari)
+ 
+-[@D-Ram1](https://github.com/D-Ram1/)
 
+-[@Dimariah](https://github.com/Dimariah/)
 
+-[@ssoppet1] (https://github.com/ssoppet1)
+
+-[@FoadOloumi](https://github.com/FoadOloumi)
+
+-[@parrtakenn](https://github.com/parrtakenn)
+
+-[@graphitexhd](https://github.com/graphitexhd)
+
+-[@Simone-Carriero](https://github.com/Simone-Carriero)
+
+-[@kciccolella](https://github.com/kciccolella)
+
+-[@darkresq14](https://github.com/darkresq14)
+
+-[@Amber-Robeck](https://github.com/Amber-Robeck)
+
+-[@tolufbg](https://github.com/tolufbg)
+
+-[@FulcrumTunji](https://github.com/FulcrumTunji)
+
+-[@clemcy9](https://github.com/clemcy9)
+
+-[@EddyBautista-93](https://github.com/EddyBautista-93)
+
+-[@yarravalley](https://github.com/yarravalley)
+
+-[@KrsPatrick](https://github.com/KrsPatrick)
+
+-[@AshiqurRah](https://github.com/AshiqurRah)
+
+-[@LordA2117](https://github.com/LordA2117)
+
+-[@bhatdeepika](https://github.com/bhatdeepika)
+
+-[@renandi](https://github.com/renandi)
+
+-[@DavidPolos](https://github.com/DavidPolos)
+
+-[@Hectorlima92](https://github.com/Hectorlima92)
+
+-[@modupeadeonojobi](https://github.com/modupeadeonojobi)
