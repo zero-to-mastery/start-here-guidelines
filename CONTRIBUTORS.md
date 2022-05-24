@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@byungmin-choi](https://github.com/PhilosopherProgrammer)
+
 - [@kogbuokiri02](https://github.com/kogbuokiri02)
 
 - [@DominicMxrtinez](https://github.com/dominicmxrtinez)
@@ -3836,7 +3838,7 @@
 - [@theLimaceGuy](https://github.com/theLimaceGuy/)
 
 - [@rakalantari](https://github.com/rakalantari)
- 
+
 - [@D-Ram1](https://github.com/D-Ram1/)
 
 - [@Dimariah](https://github.com/Dimariah/)
@@ -3896,4 +3898,30 @@
 - [@kmdshojib](https://github.com/kmdshojib)
 
 - [@mateen993](https://github.com/mateen993)
+
+- [@YourFavouriteUnicorn](https://github.com/YourFavouriteUnicorn)
+
+- [@dada-mhmd](https://github.com/dada-mhmd)
+
+- [@dagartga](https://github.com/dagartga)
+
+- [@MichaelFED](https://github.com/MichaelFED/)
+
+- [@Krishna-123](https://github.com/Krishna-123/)
+
+- [@viskarra](https://github.com/viskarra)
+
+- [@GFX23](https://github.com/GFX23)
+
+- [@MarceloLopezS](https://github.com/MarceloLopezS)
+
+- [@Yuem9862](https://github.com/Yuem9862)
+
+- [@Leoshuvo](https://github.com/Leoshuvo)
+
+- [@ornitcg](https://github.com/ornitcg)
+
+- [@devasse](https://github.com/devassse)
+
+-[@kalitanyi58](https://github.com/kalitanyi58/)
 
