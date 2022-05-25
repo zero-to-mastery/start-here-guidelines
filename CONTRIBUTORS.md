@@ -3927,6 +3927,7 @@
 
 - [@zadolphe](https://github.com/zadolphe)
 
+
 - [@davidagbaeze](https://github.com/davidagbaeze)
 
 - [@avinashraj-151](https://github.com/avinashraj-151)
@@ -3935,3 +3936,12 @@
 
 
 - [@simonataylor](https://github.com/simonataylor)
+
+-[@davidagbaeze](https://github.com/davidagbaeze)
+
+-[@avinashraj-151](https://github.com/avinashraj-151)
+
+-[@Aquila-byte](https://github.com/Aquila-byte)
+
+-[@jangoscript](https://github.com/jangoscript)
+
