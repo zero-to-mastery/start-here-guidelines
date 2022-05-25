@@ -3919,14 +3919,19 @@
 
 - [@devasse](https://github.com/devassse)
 
--[@kalitanyi58](https://github.com/kalitanyi58/)
+- [@kalitanyi58](https://github.com/kalitanyi58/)
 
--[@PranavDVyas](https://github.com/PranavDVyas/)
+- [@PranavDVyas](https://github.com/PranavDVyas/)
 
--[@edwardshanahan7](https://github.com/edwardshanahan7)
+- [@edwardshanahan7](https://github.com/edwardshanahan7)
 
--[@zadolphe](https://github.com/zadolphe)
+- [@zadolphe](https://github.com/zadolphe)
 
--[@davidagbaeze](https://github.com/davidagbaeze)
--[@avinashraj-151](https://github.com/avinashraj-151)
--[@Aquila-byte](https://github.com/Aquila-byte)
+- [@davidagbaeze](https://github.com/davidagbaeze)
+
+- [@avinashraj-151](https://github.com/avinashraj-151)
+
+- [@Aquila-byte](https://github.com/Aquila-byte)
+
+
+- [@simonataylor](https://github.com/simonataylor)
