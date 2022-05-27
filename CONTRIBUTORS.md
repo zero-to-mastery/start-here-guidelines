@@ -3670,6 +3670,7 @@
 - [@kevsely](https://github.com/kevsely/)
 
 - [@billie-anderson](https://github.com/billie-anderson)
+
 - [@onionSequences](https://github.com/onionSequences)
 
 - [@St-shaddai](https://github.com/St-shaddai)
@@ -3725,7 +3726,7 @@
 - [@HaileyByun](https://github.com/HaileyByun)
 
 - [@MedusaVM](https://github.com/MedusaVM)
--
+
 - [@PrinceNwaonicha](https://github.com/PrinceNwaonicha)
 
 - [@Mikandex](https://github.com/Mikandex)
@@ -3795,8 +3796,11 @@
 - [@Jamasio](https://github.com/Jamasio)
 
 - [@candicefdev](https://github.com/candicefdev)
+
 - [@thisisdamilola](https://github.com/thisisdamilola)
+
 - [@raaghavbhyana](https://github.com/raaghavbhyana)
+
 - [@jasminetam](https://github.com/jasminetam/)
 
 - [@bryanrillstone](https://github.com/bryanrillstone)
@@ -3923,21 +3927,26 @@
 
 - [@devasse](https://github.com/devassse)
 
--[@kalitanyi58](https://github.com/kalitanyi58/)
+- [@kalitanyi58](https://github.com/kalitanyi58/)
 
--[@PranavDVyas](https://github.com/PranavDVyas/)
+- [@PranavDVyas](https://github.com/PranavDVyas/)
 
--[@edwardshanahan7](https://github.com/edwardshanahan7)
+- [@edwardshanahan7](https://github.com/edwardshanahan7)
 
--[@zadolphe](https://github.com/zadolphe)
+- [@zadolphe](https://github.com/zadolphe)
 
--[@davidagbaeze](https://github.com/davidagbaeze)
--[@avinashraj-151](https://github.com/avinashraj-151)
--[@Aquila-byte](https://github.com/Aquila-byte)
--[@jangoscript](https://github.com/jangoscript)
+- [@davidagbaeze](https://github.com/davidagbaeze)
+
+- [@avinashraj-151](https://github.com/avinashraj-151)
+
+- [@Aquila-byte](https://github.com/Aquila-byte)
+
+- [@jangoscript](https://github.com/jangoscript)
 
 - [@Kaors](https://github.com/Kaors)
 
 - [@magdalenastachova](https://github.com/magdalenastachova)
--[@sravani2501](https://github.com/sravani2501)
--[@stanhenriquez](https://github.com/stanhenriquez)
+
+- [@sravani2501](https://github.com/sravani2501)
+
+- [@stanhenriquez](https://github.com/stanhenriquez)
