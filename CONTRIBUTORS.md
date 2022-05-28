@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [@michymichelle](https://github.com/michymichelle)
+
+- [@Amaan262](https://github.com/Amaan262)
+
 - [@byungmin-choi](https://github.com/PhilosopherProgrammer)
 
 - [@kogbuokiri02](https://github.com/kogbuokiri02)
@@ -3923,5 +3927,54 @@
 
 - [@devasse](https://github.com/devassse)
 
--[@kalitanyi58](https://github.com/kalitanyi58/)
+- [@kalitanyi58](https://github.com/kalitanyi58/)
 
+- [@PranavDVyas](https://github.com/PranavDVyas/)
+
+- [@edwardshanahan7](https://github.com/edwardshanahan7)
+
+- [@zadolphe](https://github.com/zadolphe)
+
+- [@davidagbaeze](https://github.com/davidagbaeze)
+
+- [@avinashraj-151](https://github.com/avinashraj-151)
+
+- [@Aquila-byte](https://github.com/Aquila-byte)
+
+- [@simonataylor](https://github.com/simonataylor)
+
+- [@davidagbaeze](https://github.com/davidagbaeze)
+
+- [@avinashraj-151](https://github.com/avinashraj-151)
+
+- [@Aquila-byte](https://github.com/Aquila-byte)
+
+- [@jangoscript](https://github.com/jangoscript)
+
+- [@Kaors](https://github.com/Kaors)
+
+- [@magdalenastachova](https://github.com/magdalenastachova)
+
+- [@sravani2501](https://github.com/sravani2501)
+
+- [@Adeku1997](https://github.com/adeku1997)
+
+- [@47evan07](https://github.com/47evan07)
+
+- [@Reaper922](https://github.com/Reaper922)
+
+- [@davidagbaeze](https://github.com/davidagbaeze)
+
+- [@avinashraj-151](https://github.com/avinashraj-151)
+
+- [@Aquila-byte](https://github.com/Aquila-byte)
+
+- [@jangoscript](https://github.com/jangoscript)
+
+- [@Kaors](https://github.com/Kaors)
+
+- [@davisnyabwari1](https://github.com/davisnyabwari1)
+
+- [@kippulainen04](https://github.com/kippulainen04)
+
+- [@dishitahz](https://github.com/dishitahz)
