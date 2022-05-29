@@ -3675,7 +3675,7 @@
 - [@kevsely](https://github.com/kevsely/)
 
 - [@billie-anderson](https://github.com/billie-anderson)
-  
+
 - [@onionSequences](https://github.com/onionSequences)
 
 - [@St-shaddai](https://github.com/St-shaddai)
@@ -3801,11 +3801,11 @@
 - [@Jamasio](https://github.com/Jamasio)
 
 - [@candicefdev](https://github.com/candicefdev)
-  
+
 - [@thisisdamilola](https://github.com/thisisdamilola)
-  
+
 - [@raaghavbhyana](https://github.com/raaghavbhyana)
-  
+
 - [@jasminetam](https://github.com/jasminetam/)
 
 - [@bryanrillstone](https://github.com/bryanrillstone)
@@ -3971,7 +3971,7 @@
 - [@47evan07](https://github.com/47evan07)
 
 - [@Reaper922](https://github.com/Reaper922)
-  
+
 - [@kippulainen04](https://github.com/kippulainen04)
 
 - [@stanhenriquez](https://github.com/stanhenriquez)
@@ -4013,3 +4013,5 @@
 - [@ahmed-almawardy](https://github.com/ahmed-almawardy)
 
 - [@PlanetNamekTech](https://github.com/PlanetNamekTech)
+
+- [@Denisse-AB](https://github.com/Denisse-AB)
