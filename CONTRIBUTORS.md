@@ -4034,9 +4034,6 @@
 
 - [@robinpunn](https://github.com/robinpunn)
 
-<<<<<<< HEAD
-- [@danyventura](https://github.com/danyventura)
-=======
 - [@danyventura](https://github.com/danyventura)
 
 - [@zanijay](https://github.com/zanijay)
