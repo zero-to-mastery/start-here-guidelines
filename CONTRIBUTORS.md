@@ -98,6 +98,8 @@
 
 - [@AjinkyaBhagat](https://github.com/AjinkyaBhagat)
 
+- [@FilipKoci](https://github.com/sos321)
+
 - [@Aksachlisimo](https://github.com/Aksachlisimo/)
 
 - [@Akshay9705](https://github.com/Akshay9705)
@@ -4002,9 +4004,9 @@
 
 - [@I-AmFED](https://github.com/I-AmFED)
 
--[@xed43](https://github.com/xed43/)
+- [@xed43](https://github.com/xed43/)
 
--[@arnavm7](https://github.com/arnavm7/)
+- [@arnavm7](https://github.com/arnavm7/)
 
 - [@EB-Joel](https://github.com/EB-Joel)
 
@@ -4015,3 +4017,17 @@
 - [@PlanetNamekTech](https://github.com/PlanetNamekTech)
 
 - [@Denisse-AB](https://github.com/Denisse-AB)
+
+- [@leonardotarpani](https://github.com/leonardotrapani)
+
+- [@nicolaGenovese](https://github.com/nicolaGenovese)
+
+- [@kisaga](https://github.com/kisaga)
+
+- [@cricri777](https://github.com/cricri777)
+
+- [@smriad](https://github.com/smriad)
+
+- [@PutraFajarF](https://github.com/PutraFajarF)
+
+- [@lethalsilicon](https://github.com/lethalsilicon)
