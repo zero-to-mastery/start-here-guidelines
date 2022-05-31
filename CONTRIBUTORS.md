@@ -3932,17 +3932,12 @@
 -[@zadolphe](https://github.com/zadolphe)
 
 -[@davidagbaeze](https://github.com/davidagbaeze)
-
 -[@avinashraj-151](https://github.com/avinashraj-151)
-
 -[@Aquila-byte](https://github.com/Aquila-byte)
-
 -[@jangoscript](https://github.com/jangoscript)
 
--[@Kaors](https://github.com/Kaors)
+- [@Kaors](https://github.com/Kaors)
 
--[@magdalenastachova](https://github.com/magdalenastachova)
-
+- [@magdalenastachova](https://github.com/magdalenastachova)
 -[@sravani2501](https://github.com/sravani2501)
-
 -[@lethalsilicon](https://github.com/lethalsilicon)
