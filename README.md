@@ -1,10 +1,10 @@
-Guidelines on how this open source community works :)
+Here re guidelines on how this open source community works :)
 
-Read below to see how you can join an existing project or create your own.
+Read below to see how you can either join an existing project or create your own.
 
 ## One rule of this community:
 
-We don't care if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
+We don't really mind if you break things. This is a playground and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real world experience "working in teams" by working on these projects.
 
 ## A Guide to Get Started (used to be the 4 step guide)
 
@@ -12,7 +12,7 @@ We don't care if you break things. This is a playground and we encourage failing
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the Button "Fork".
 
-   ![fork image](https://help.github.com/assets/images/help/repository/fork_button.jpg)
+   ![fork image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
 
 3. Clone _your forked repository_ to your computer:
 

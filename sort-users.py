@@ -1,5 +1,6 @@
 PATH = 'CONTRIBUTORS.md'
 
+
 def get_contents(path):
     with open(path, 'r') as f:
         contents = f.read().splitlines()
