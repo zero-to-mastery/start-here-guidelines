@@ -4247,5 +4247,3 @@
 - [@emmaclarem](https://github.com/emmaclarem)
 
 - [@a7madmostafa](https://github.com/a7madmostafa)
-
-- [@Khot-abhishek](https://github.com/Khot-abhishek)
