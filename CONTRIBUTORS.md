@@ -4088,9 +4088,9 @@
 
 - [@parifranco8](https://github.com/parifranco8)
 
-- [@otisdev95](https://github.com/otisdev95)  
+- [@otisdev95](https://github.com/otisdev95)
 
-- [@savday](https://github.com/savday) 
+- [@savday](https://github.com/savday)
 
 - [@Andy2398](https://github.com/Andy2398)
 
@@ -4145,7 +4145,7 @@
 - [@josemlf](https://github.com/josemlf)
 
 - [@AndrewsHUB](https://github.com/AndrewsHUB)
- 
+
 - [@TamilRajun](https://github.com/TamilRajun)
 
 - [@IdrissiHamza](https://github.com/idrissi-hamza)
@@ -4241,3 +4241,5 @@
 - [@tianwen42](https://github.com/tianwen42/)
 
 - [@Shradha-2491](https://github.com/Shradha-2491/)
+
+- [@MrQuanzi](https://github.com/MrQuanzi/)
