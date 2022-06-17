@@ -3978,7 +3978,7 @@
 
 - [@jangoscript](https://github.com/jangoscript)
 
-- [@Kaors](https://github.com/Kaors)
+- [@Kaors](https://githubom/Kaors)
 
 - [@magdalenastachova](https://github.com/magdalenastachova)
 
@@ -4155,4 +4155,4 @@
 
 - [@prumiz](https://github.com/prumiz/)
 
-- [@Sayein](https://github.com/Sayein/)
+- [@Sayein](https://github.com/Sayein)
