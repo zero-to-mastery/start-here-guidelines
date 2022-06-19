@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+-[@KaranChandekar](https://github.com/KaranChandekar)
+
 -[@kogbuokiri02](https://github.com/kogbuokiri02)
 
 - [@1181092](https://github.com/1181092/)
@@ -355,6 +357,8 @@
 - [@ChadEvenrud](https://github.com/ChadEvenrud)
 
 - [@Chaitanya1512](https://github.com/Chaitanya1512)
+
+- [@YehudaElyasaf](https://github.com/YehudaElyasaf)
 
 - [@ChamodiDH](https://github.com/ChamodiDH)
 
@@ -5800,7 +5804,7 @@
 
 - [@ahmed-almawardy](https://github.com/ahmed-almawardy)
 
--[@KrsPatrick](https://github.com/KrsPatrick)
+[@KrsPatrick](https://github.com/KrsPatrick)
 
 
 -[@Amber-Robeck](https://github.com/Amber-Robeck)
