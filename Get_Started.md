@@ -28,7 +28,7 @@ We are always on the lookout for new and exciting projects to add to Zero to Mas
 - If the project has enough demand, a dedicated channel will be created to accommodate discussions
 
 ### **Rules**
-In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
+In order to ensure that students' hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
 - The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
 - The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
 - The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
