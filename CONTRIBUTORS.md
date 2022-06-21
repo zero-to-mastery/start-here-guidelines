@@ -6,6 +6,8 @@
 
 - [@1181092](https://github.com/1181092/)
 
+- [Dark-Knight-Rises](https://github.com/Dark-Knight-Rises)
+
 - [@12otherWays](https://github.com/12otherWays)
 
 - [@14oualid](https://github.com/14-oualid)
@@ -5847,3 +5849,43 @@
 
 -[@AbdifatahYassen](https://github.com/AbdifatahYasin1)
 
+-[@amugisha7](https://github.com/amugisha7)
+
+-[@ioghistudio](https://github.com/IoghiStudio)
+
+ -[@marcelo-msbg](https://github.com/marcelo-msbg)
+
+-[@Ari-o12code](https://github.com/Ari-o12code)
+
+-[@dinesh-729](https://github.com/dinesh-729)
+
+-[@KelvinDo183](https://github.com/KelvinDo183)
+
+- [@rveliza](https://github.com/rveliza)
+
+-[@rananjaysingh20](https://github.com/rananjaysingh20/)
+
+-[@HXiangChang](https://github.com/HXiangChang)
+
+-[@abbazsrahman](https://github.com/abbazsrahman)
+-[@HamidMokh](https://github.com/HamidMokh)
+
+-[@SimHerling](https://github.com/SimSerling/)
+
+-[@beatformer](https://github.com/beatformer/)
+
+-[@osas-Idemudia](https://github.com/osas-Idemudia)
+
+-[@vig-tirakapadi18](https://github.com/vig-tirakapadi18)
+
+-[@mbizo1](https://github.com/mbizo1)
+
+-[@vega-jg](https://github.com/vega-jg)
+
+-[@isibra](https://github.com/isIbra)
+
+-[@AnthonyAkiniz](https://github.com/AnthonyAkiniz)
+
+-[@kenzo92](https://github.com/kenzo92/)
+
+-[sds-smith](https://github.com/sds-smith)
