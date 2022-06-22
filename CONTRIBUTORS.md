@@ -86,7 +86,7 @@
 
 - [@AbdiBedaso](https://github.com/abdibedaso)
 
-- [@AbdifatahYassen](https://github.com/AbdifatahYasin1)
+- [@Abdifatah-Yassen](https://github.com/AbdifatahYasin1)
 
 - [@Abdullah_Wawi](https://github.com/AboodW)
 
