@@ -5906,8 +5906,8 @@ _[@lajan2012]( https://github.com/lajan2012)
 
 -[@_McKinley27](https://github.com/mckinleyforster)
 
-- [@jamesnjovu](https://github.com/jamesnjovu)
+-[@jamesnjovu](https://github.com/jamesnjovu)
 
-- [@newman1212](https://github.com/newman1212)
+-[@newman1212](https://github.com/newman1212)
 
-- [@ds](https://github.com/Dharana-Sharma)
+-[@ds](https://github.com/Dharana-Sharma)
