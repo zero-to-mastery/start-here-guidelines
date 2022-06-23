@@ -1,0 +1,124 @@
+[1mdiff --git a/CONTRIBUTORS.md b/CONTRIBUTORS.md[m
+[1mindex 6419f11f4..c0f962293 100644[m
+[1m--- a/CONTRIBUTORS.md[m
+[1m+++ b/CONTRIBUTORS.md[m
+[36m@@ -5461,7 +5461,6 @@[m
+ - [@kevsely](https://github.com/kevsely/)[m
+ [m
+ - [@billie-anderson](https://github.com/billie-anderson)[m
+[31m-  [m
+ - [@onionSequences](https://github.com/onionSequences)[m
+ [m
+ - [@St-shaddai](https://github.com/St-shaddai)[m
+[36m@@ -5587,11 +5586,8 @@[m
+ - [@Jamasio](https://github.com/Jamasio)[m
+ [m
+ - [@candicefdev](https://github.com/candicefdev)[m
+[31m-  [m
+ - [@thisisdamilola](https://github.com/thisisdamilola)[m
+[31m-  [m
+ - [@raaghavbhyana](https://github.com/raaghavbhyana)[m
+[31m-  [m
+ - [@jasminetam](https://github.com/jasminetam/)[m
+ [m
+ - [@bryanrillstone](https://github.com/bryanrillstone)[m
+[36m@@ -5755,7 +5751,6 @@[m
+ - [@47evan07](https://github.com/47evan07)[m
+ [m
+ - [@Reaper922](https://github.com/Reaper922)[m
+[31m-  [m
+ - [@kippulainen04](https://github.com/kippulainen04)[m
+ [m
+ - [@stanhenriquez](https://github.com/stanhenriquez)[m
+[36m@@ -5778,24 +5773,20 @@[m
+ [m
+ - [@dishitahz](https://github.com/dishitahz)[m
+ [m
+[31m-[m
+ -[@kciccolella](https://github.com/kciccolella)[m
+ [m
+ - [@viniciusveloso](https://github.com/viniciusveloso)[m
+ [m
+ - [@jyotsna3121](https://github.com/jyotsna3121)[m
+ [m
+[31m-[m
+ - [@peeyush98](https://github.com/peeyush98)[m
+ [m
+[31m-[m
+ -[@Simone-Carriero](https://github.com/Simone-Carriero)[m
+ [m
+ -[@Amber-Robeck](https://github.com/Amber-Robeck)[m
+ [m
+ - [@I-AmFED](https://github.com/I-AmFED)[m
+ [m
+[31m-[m
+ -[@xed43](https://github.com/xed43/)[m
+ [m
+ -[@arnavm7](https://github.com/arnavm7/)[m
+[36m@@ -5808,13 +5799,12 @@[m
+ [m
+ -[@KrsPatrick](https://github.com/KrsPatrick)[m
+ [m
+[31m-[m
+ -[@Amber-Robeck](https://github.com/Amber-Robeck)[m
+ [m
+ -[@sonali-dudekula](https://github.com/sonali-dudekula)[m
+ [m
+ - [@PlanetNamekTech](https://github.com/PlanetNamekTech)[m
+[31m- [m
+[32m+[m
+ - [@Mayorman07](https://github.com/Mayorman07)[m
+ [m
+ -[@modupeadeonojobi](https://github.com/modupeadeonojobi)[m
+[36m@@ -5853,7 +5843,7 @@[m
+ [m
+ -[@ioghistudio](https://github.com/IoghiStudio)[m
+ [m
+[31m- -[@marcelo-msbg](https://github.com/marcelo-msbg)[m
+[32m+[m[32m-[@marcelo-msbg](https://github.com/marcelo-msbg)[m
+ [m
+ -[@Ari-o12code](https://github.com/Ari-o12code)[m
+ [m
+[36m@@ -5867,8 +5857,7 @@[m
+ [m
+ -[@HXiangChang](https://github.com/HXiangChang)[m
+ [m
+[31m--[@abbazsrahman](https://github.com/abbazsrahman)[m
+[31m--[@HamidMokh](https://github.com/HamidMokh)[m
+[32m+[m[32m-[@abbazsrahman](https://github.com/abbazsrahman) -[@HamidMokh](https://github.com/HamidMokh)[m
+ [m
+ -[@SimHerling](https://github.com/SimSerling/)[m
+ [m
+[36m@@ -5878,7 +5867,7 @@[m
+ [m
+ -[@vig-tirakapadi18](https://github.com/vig-tirakapadi18)[m
+ [m
+[31m-_[@lajan2012]( https://github.com/lajan2012) [m
+[32m+[m[32m\_[@lajan2012](https://github.com/lajan2012)[m
+ [m
+ -[@mbizo1](https://github.com/mbizo1)[m
+ [m
+[36m@@ -5904,7 +5893,7 @@[m [m_[@lajan2012]( https://github.com/lajan2012)[m
+ [m
+ -[@ctalpos](https://github.com/ctalpos)[m
+ [m
+[31m--[@_McKinley27](https://github.com/mckinleyforster)[m
+[32m+[m[32m-[@\_McKinley27](https://github.com/mckinleyforster)[m
+ [m
+ - [@jamesnjovu](https://github.com/jamesnjovu)[m
+ [m
+[36m@@ -5912,9 +5901,10 @@[m [m_[@lajan2012]( https://github.com/lajan2012)[m
+ [m
+ -[@rikki0405](https://github.com/rikki0405)[m
+ [m
+[31m--[@dev-hail](https://github.com/dev-hail)[m
+[31m--[@omar679](https://github.com/Omar679)[m
+[32m+[m[32m-[@dev-hail](https://github.com/dev-hail) -[@omar679](https://github.com/Omar679)[m
+ [m
+ - [@Abdifatah](https://github.com/AbdifatahYasin1)[m
+ [m
+[31m--[@gamerjanai](https://github.com/gamerjanai)[m
+\ No newline at end of file[m
+[32m+[m[32m-[@gamerjanai](https://github.com/gamerjanai)[m
+[32m+[m
+[32m+[m[32m-[@samuel-mo](https://github.com/samuel-mo)[m
