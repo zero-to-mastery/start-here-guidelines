@@ -2740,6 +2740,8 @@
 
 - [@edu2andrade](https://github.com/edu2andrade)
 
+- [@eduardobattisti](https://github.com/eduardobattisti)
+
 - [@edwardshanahan7](https://github.com/edwardshanahan7)
 
 - [@edwinmbugua](https://github.com/edwinmbugua)
@@ -5917,3 +5919,33 @@ _[@lajan2012]( https://github.com/lajan2012)
 -[@dev-hail](https://github.com/dev-hail)
 
 -[@abhishek-singh0](https://github.com/abhishek-singh0)
+
+-[@omar679](https://github.com/Omar679)
+
+- [@Abdifatah](https://github.com/AbdifatahYasin1)
+
+-[@gamerjanai](https://github.com/gamerjanai)
+
+-[@GayanaJinde](https://github.com/GayanaJinde)
+
+-[@JayJ98] (https://github.com/JayJ98)
+
+-[@Prashant-soft-hub] (https://github.com/Prashant-soft-hub)
+-[@lol500q](https://github.com/lol500q)
+
+-[@alfredofan](https://github.com/alfredofan)
+
+-[@yenju0249](https://github.com/yenju0249)
+
+-[@a7coder](https://github.com/a7coder)
+
+-[@Hiten1708](https://github.com/Hiten1708)
+
+-[@JayantJha99](https://github.com/JayantJha99/)
+
+-[@kishan42791](https://github.com/kishan42791/)
+
+-[@avi9401](https://github.com/avi9401/)
+
+-[@olusolaDav](https://github.com/olusolaDav)
+
