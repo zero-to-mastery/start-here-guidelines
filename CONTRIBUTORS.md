@@ -4375,8 +4375,13 @@
 
 - [@mecskyverse](https://github.com/mecskyverse)
 
--[@Alpha-Delfa](https://github.com/Alpha-Delfa/)
+- [@Alpha-Delfa](https://github.com/Alpha-Delfa/)
+
+- [@Carlos-Mantovani](https://github.com/Carlos-Mantovani)
+
+- [@Asvorz](https://github.com/asvorz)
 
 - [@AndreiRutty](https://github.com/AndreiRutty)
 
 - [@Haroon-jay](https://github.com/Haroon-jay)
+
