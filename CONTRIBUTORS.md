@@ -11,7 +11,7 @@
 
 - [@14Oualid](https://github.com/14-oualid)
 
-- [@1C0Theking](https://github.com/1c0TheKing)
+- [@1C0Theking](https://github.com/1c0TheK
 
 - [@29Ankur](https://github.com/29aNKUR)
 
@@ -4672,3 +4672,5 @@
 -[@hammypig] (https://github.com/hammypig)
 
 -[@Asier-D-Reveire] (https://github.com/Asier-D-Reveire)
+
+-[@Akk2397] (https://github.com/Akk2397)
