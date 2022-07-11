@@ -4698,16 +4698,17 @@
 -[@samertarcha](https://github.com/samertarcha)
 
 -[@Thermopylai](https://github.com/thermopylai)
+
 -[@henryotieno](https://github.com/henryotieno)
 
 -[@jack-collins98](https://github.com/jack-collins98)
 
 -[@Mjorldir](https://github.com/Mjorldir)
 
--[@mackmeggie] (https://github.com/mackmeggie)
+-[@mackmeggie](https://github.com/mackmeggie)
 
--[@RahulGanesh123] (https://github.com/RahulGanesh123)
+-[@RahulGanesh123](https://github.com/RahulGanesh123)
 
--[@yongsu1995] (https://github.com/yongsu1995)
+-[@yongsu1995](https://github.com/yongsu1995)
 
--[@rashedxyz] (https://github.com/rashedxyz)
+-[@rashedxyz](https://github.com/rashedxyz)
