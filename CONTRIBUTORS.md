@@ -2,6 +2,8 @@
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 -[@gi-corp](https://github.com/GI-Corp)
 
+- [@kavyachigurupati](https://github.com/kavyachigurupati)
+
 - [@TheCypher](https://github.com/Vishal-Padia)
 
 - [@aatharvauti](https://github.com/aatharvauti)
@@ -4751,5 +4753,21 @@
 
 -[@KavGo](https://github.com/KavGo)
 
+-[@abderafi3](http://github.com/abderafi3)
+
+-[@connorjnel](https://github.com/connorjnel)
+
+-[@lwelsh5](https://github.com/lwelsh5)
+
+-[@mariapopa19](https://github.com/mariapopa19)
+
+-[@gisellerx](https://github.com/gisellerx)
+
+-[@sikherjs](https://github.com/sikherjs)
+
+-[@grace569](https://github.com/grace569)
+
 -[@PerfekTy](https://github.com/PerfekTy)
+
 -[@dapsongbite](https://github.com/dapsongbite)
+
