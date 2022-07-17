@@ -6,8 +6,6 @@
 
 - [@TheCypher](https://github.com/Vishal-Padia)
 
-- [@921Mdas](https://github.com/921Mdas)
-
 - [@aatharvauti](https://github.com/aatharvauti)
 
 - [@arpitmalik832](https://github.com/arpitmalik832/)
@@ -4735,3 +4733,5 @@
 -[@unhenei](https://github.com/unhenei)
 
 -[@aslanovmustafa](https://github.com/aslanovmustafa)
+
+- [@921Mdas](https://github.com/921Mdas)
