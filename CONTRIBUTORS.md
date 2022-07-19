@@ -1800,6 +1800,8 @@
 
 - [@Ivylive](https://github.com/ivylive)
 
+- [@Jackkluz](https://github.com/Jackkluz)
+
 - [@Jackoleary](https://github.com/jack-oleary/)
 
 - [@Jackpacktv](https://github.com/jackpacktv/)
@@ -4807,4 +4809,24 @@
 
 -[@ClaudioIrianni](https://github.com/ClaudioIrianni)
 
+
 -[@fwhoami] (https://github.com/fwhoami)
+
+-[@Zocum] (https://github.com/Zocum)
+
+-[@alanajac](https://github.com/alanajac)
+
+-[@kishky101](https://github.com/kishky101)
+
+-[@jeremychung1999](https://github.com/jeremychung1999)
+
+-[@laulupidu](https://github.com/laulupidu)  
+
+-[@Rex-1031](https://github.com/Rex-1031)
+-[@Chrysogonus01](https://github.com/Chrysogonus01)
+
+-[@Pratham34](https://github.com/Pratham34)
+
+-[@mpflynnx](https://github.com/mpflynnx)
+-[@Slade499](https://github.com/Slade499)
+
