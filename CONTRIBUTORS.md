@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-- [@michealgabriel](https://github.com/michealgabriel)
+- [@mikegabriel](https://github.com/michealgabriel)
 
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 -[@gi-corp](https://github.com/GI-Corp)
