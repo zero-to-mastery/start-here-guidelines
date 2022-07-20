@@ -4809,7 +4809,6 @@
 
 -[@ClaudioIrianni](https://github.com/ClaudioIrianni)
 
-
 -[@fwhoami] (https://github.com/fwhoami)
 
 -[@Zocum] (https://github.com/Zocum)
@@ -4829,4 +4828,20 @@
 
 -[@mpflynnx](https://github.com/mpflynnx)
 -[@Slade499](https://github.com/Slade499)
+
+-[@replikduplik](https://github.com/replikduplik)
+
+-[@jeffnyman](https://github.com/jeffnyman)
+
+-[@jho012299](https://github.com/jho012299)
+
+-[@jestined](https://github.com/jestined)
+
+-[@arjorb](https://github.com/arjorb/)
+
+-[@varshasmile](https://github.com/varshasmile/)
+
+-[@navseq](https://github.com/navseq)
+
+-[@solomon-2210](https://github.com/solomon-2210/)
 
