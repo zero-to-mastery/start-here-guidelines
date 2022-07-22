@@ -4858,3 +4858,23 @@
 
 -[yashwaghale](https://github.com/yashwaghale/)
 
+-[@bantoin1](https://github.com/bantoin1)
+
+-[@malloJS](https://github.com/malloJS)
+
+-[@ruosyuanmei](https://github.com/ruosyuanmei)
+
+-[@SpacePedro](https://github.com/SpacePedro/)
+
+-[@emanuelretamozo](https://github.com/emanuelretamozo)
+
+-[@dharanikumar893](https://github.com/dharanikumar893)
+
+-[@briendeau](https://github.com/briendeau)
+
+-[@danielekpa](https://github.com/danielekpa)
+
+-[@HimanshuSinghR](https://github.com/HimanshuSinghR)
+
+-[@Kapil527](https://github.com/Kapil527/)
+
