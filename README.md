@@ -24,7 +24,7 @@ We don't care if you break things. This is a playground and we encourage failing
     git clone https://github.com/<your-github-username>/start-here-guidelines.git
     ```
 
-    **Test**
+    **Replace \<your-github-username\>!**
 
     Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
