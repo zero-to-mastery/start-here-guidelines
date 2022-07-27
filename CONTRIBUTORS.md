@@ -4903,3 +4903,15 @@
 -[@12cassie34](https://github.com/12cassie34)
 
 -[@LeandreDerpo](https://github.com/LeandreDerpo)
+
+-[@GolceaCrina](https://github.com/GolceaCrina)
+
+-[@MiguelCSVanzela](https://github.com/MiguelCSVanzela/)
+
+-[@szilG](https://github.com/szilG)
+
+-[@MohammadNomankhan](https://github.com/MohammadNomankhan)
+
+-[@cmacnamara](https://github.com/cmacnamara)
+
+-[@SebSz63](https://github.com/SebSz63)
