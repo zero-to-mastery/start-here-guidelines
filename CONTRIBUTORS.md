@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
+
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
+
 -[@gi-corp](https://github.com/GI-Corp)
 
 - [@kavyachigurupati](https://github.com/kavyachigurupati)
@@ -4961,3 +4963,5 @@
 -[@ktyntang](https://github.com/@ktyntang)
 
 -[@Davraph](https://github.com/@Davraph)
+
+-[@mz-suzin](https://github.com/mz-suzin)
