@@ -1,5 +1,8 @@
 # CONTRIBUTORS
 
+-[@gateniomer](https://github.com/gateniomer)
+
+
 - [@mig-uel](https://github.com/mig-uel)
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
 - [@stuartmuyambi](https://github.com/stuartmuyambi/) -[@gi-corp](https://github.com/GI-Corp)
@@ -4974,3 +4977,6 @@
 
 -[@MRFREEZER07](https://github.com/MRFREEZER07)
 
+-[@musthak032](https://github.com/musthak032)
+
+-[@erellindzen](https://github.com/erellindzen)
