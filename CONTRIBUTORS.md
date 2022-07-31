@@ -4,6 +4,8 @@
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
 - [@stuartmuyambi](https://github.com/stuartmuyambi/) -[@gi-corp](https://github.com/GI-Corp)
 
+-[@adhirajkar3103](https://github.com/adhirajkar3103)
+
 - [@kavyachigurupati](https://github.com/kavyachigurupati)
 
 - [@TheCypher](https://github.com/Vishal-Padia)
@@ -4949,3 +4951,26 @@
 -[@Bryan](https://github.com/HeyaIe)
 
 -[@ClaireKarsenti](https://github.com/ClaireKarsenti)
+
+-[@febomtempo](https://github.com/febomtempo)
+
+-[@NeginOlfat](https://github.com/NeginOlfat/)
+
+-[@fj17x](https://github.com/fj17x)
+
+-[@Bielesz](https://github.com/Bielesz)
+
+-[@rishavkrd11](https://github.com/rishavkrd11)
+
+-[@Ana-teston](https://github.com/Ana-teston)
+
+-[@dwebbdesigner](https://github.com/dwebbdesigner)
+
+-[@anwalker293](https://github.com/anwalker293/)
+
+-[@tanakajera](https://github.com/tanakajera)
+
+-[@AspiringMay2022](https://github.com/AspiringMay2022)
+
+-[@MRFREEZER07](https://github.com/MRFREEZER07)
+
