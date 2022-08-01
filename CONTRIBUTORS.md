@@ -4980,3 +4980,14 @@
 -[@musthak032](https://github.com/musthak032)
 
 -[@erellindzen](https://github.com/erellindzen)
+
+-[@BennyBlvck](https://github.com/BennyBlvck)
+
+-[@Elezuadavid](https://github.com/Elezuadavid)
+
+-[@Nomishka] (https://github.com/Nomishka)
+
+-[@stoneymcwheels](https://github.com/stoneymcwheels)
+
+-[@themis1986](https://github.com/themis1986/)
+
