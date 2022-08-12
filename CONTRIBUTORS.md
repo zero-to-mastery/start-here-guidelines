@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+- [@Thrishank](https://github.com/thrishank)
+
+
 -[@gateniomer](https://github.com/gateniomer)
 
 - [@mig-uel](https://github.com/mig-uel)
