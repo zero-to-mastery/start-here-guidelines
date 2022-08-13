@@ -3995,6 +3995,8 @@
 
 - [@Therockonvhs](https://github.com/TheRockonVHS)
 
+- [@ThierryRakotomanana](https://github.com/ThierryRakotomanana)
+
 - [@Thinh19981998](https://github.com/thinh19981998)
 
 - [@Thisisaryan](https://github.com/ThisIsAryan)
@@ -4632,7 +4634,7 @@
 -[@ssood12](https://github.com/ssood12)
 
 -[@KirillGos](https://github.com/KirillGos)
-=======
+
 -[@Jatin-7](https://github.com/Jatin-7)
 
 - [@cardonaw](https://github.com/cardonaw)
@@ -5138,3 +5140,11 @@
 -[@SubhadipMaji](https://github.com/SubhadipMaji)
 
 -[@111akash](https://github.com/111akash)
+
+-[@mondoboia](https://github.com/mondoboia)
+
+-[@zuiluj](https://github.com/Zuiluj)
+
+-[@Johnwickd](https://github.com/Johnwickd)
+
+-[@JasonTamYukShing](https://github.com/JasonTamYukShing)
