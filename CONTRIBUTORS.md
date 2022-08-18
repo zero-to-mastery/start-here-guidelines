@@ -1,5 +1,8 @@
 # CONTRIBUTORS
--[@GyanRatan](https://github.com/GyanRatan)
+
+- [@monish-gupta](https://github.com/monish-gupta)
+
+- [@GyanRatan](https://github.com/GyanRatan)
 
 - [@FabricioCC](https://github.com/FabricioCC)
 
