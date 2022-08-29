@@ -2,6 +2,8 @@
 
 - [An Nguyen Phuoc](https://github.com/phuocantd)
 
+- [Hemant](https://github.com/hemantwasthere)
+
 - [Amelia Dutta](https://github.com/amelia2802)
 
 -[@GyanRatan](https://github.com/GyanRatan)
@@ -5355,3 +5357,44 @@
 -[@nelsonalgarve](https://github.com/nelsonalgarve)
 
 -[@adamazizi10](https://github.com/adamazizi10)
+
+-[@nelsonalgarve](https://github.com/nelsonalgarve)
+
+-[@LaurenceColeman](https://github.com/LaurenceColeman)
+
+-[@kshreepadk](https://github.com/kshreepadk/)
+
+-[@rickoslyder](https://github.com/rickoslyder/)
+
+-[@itims1](https://github.com/itims1)
+
+-[@bokharim24](https://github.com/bokharim24)
+
+-[@streuby](https://github.com/streuby)
+
+-[@Liam1809](https://github.com/Liam1809)
+
+-[@andrewsolonets](https://github.com/andrewsolonets)
+
+-[@AbhiD1678](https://github.com/AbhiD1678)
+
+-[@MartinLednar](https://github.com/MartinLednar)
+
+-[@belaid-dali](https://github.com/belaid-dali/)
+
+-[@ValentinRagusa](https://github.com/ValentinRagusa)
+
+-[@niyuti](https://github.com/niyuti)
+
+-[@chriskollias](https://github.com/chriskollias)
+
+-[@Tsai-Ching](https://github.com/Tsai-Ching)
+
+-[@sydney-charles](https://github.com/sydneycharles)
+
+-[Juandavid9909](https://github.com/Juandavid9909)
+
+-[ankitsankhyan](https://github.com/ankitsankhyan)
+
+-[@fmognon-bw](https://github.com/fmognon-bw)
+
