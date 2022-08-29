@@ -5352,9 +5352,13 @@
 
 -[@midocoder87](https://github.com/midocoder87/)
 
-- [@DanieleTursi] (https://github.com/DanieleTursi)
+- [@DanieleTursi](https://github.com/DanieleTursi)
 
--[@nelsonalgarve] (https://github.com/nelsonalgarve)
+-[@nelsonalgarve](https://github.com/nelsonalgarve)
+
+-[@adamazizi10](https://github.com/adamazizi10)
+
+-[@nelsonalgarve](https://github.com/nelsonalgarve)
 
 -[@LaurenceColeman](https://github.com/LaurenceColeman)
 
@@ -5393,3 +5397,4 @@
 -[ankitsankhyan](https://github.com/ankitsankhyan)
 
 -[@fmognon-bw](https://github.com/fmognon-bw)
+
