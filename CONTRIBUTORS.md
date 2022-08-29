@@ -5395,3 +5395,5 @@
 -[@fmognon-bw](https://github.com/fmognon-bw)
 
 -[@coreyxking](https://github.com/CoreyxKing)
+
+-[@duartegameiro](https://github.com/duartegameiro)
