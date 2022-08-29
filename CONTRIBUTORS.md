@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[@PatrickAttankurugu][https://github.com/PatrickAttankurugu]
 
 - [An Nguyen Phuoc](https://github.com/phuocantd)
 
@@ -5401,3 +5402,6 @@
 -[@AdityaNarayan05](https://github.com/AdityaNarayan05)
 
 -[@Atikrg][https://github.com/Atikrg]
+
+-[PatrickAttankurugu][https://github.com/PatrickAttankurugu]
+
