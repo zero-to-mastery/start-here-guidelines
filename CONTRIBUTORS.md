@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 -[@PatrickAttankurugu][https://github.com/PatrickAttankurugu]
 
+- [Walid Elbir](https://github.com/walidelbiir)
+
 - [An Nguyen Phuoc](https://github.com/phuocantd)
 
 - [Hemant](https://github.com/hemantwasthere)
@@ -5401,7 +5403,13 @@
 
 -[@AdityaNarayan05](https://github.com/AdityaNarayan05)
 
+<<<<<<< HEAD
 -[@Atikrg][https://github.com/Atikrg]
 
 -[PatrickAttankurugu][https://github.com/PatrickAttankurugu]
 
+=======
+-[@Atikrg]([https://github.com/Atikrg])
+
+-[@hellogung]([https://github.com/hellogung])
+>>>>>>> c3f0c6e5d509d7aff749d003ccfb9360458dfbd6
