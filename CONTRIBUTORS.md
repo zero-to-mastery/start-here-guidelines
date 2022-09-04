@@ -5495,3 +5495,6 @@
 - [@Blackbullet99](https://github.com/Blackbullet99)
 
 - [@rubberduck-offline](https://github.com/rubberduck-offline)
+
+- [@iamanuragdhiman](https://github.com/iamanuragdhiman)
+
