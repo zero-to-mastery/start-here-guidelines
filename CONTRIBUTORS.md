@@ -5553,5 +5553,3 @@
 - [@Glow-rhee](https://github.com/Glow-rhee )
 
 - [@dan-chui](https://github.com/dan-chui)
-
-- [@realvicandy](https://github.com/realvicandy)
