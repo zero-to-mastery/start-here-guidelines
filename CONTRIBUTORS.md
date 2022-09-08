@@ -5556,6 +5556,8 @@
 
 -   [@jeisonverjan](https://github.com/jeisonverjan)
 
--   [@realvicandy](https://github.com/realvicandy)
+- [@realvicandy](https://github.com/realvicandy)
+- [@kirisutoweb](https://github.com/kirisutoweb)
+- [@tayzewen](https://github.com/tayzewen)
+- [@timDeHof](https://github.com/timDeHof)
 
-    [@kirisutoweb](https://github.com/kirisutoweb)
