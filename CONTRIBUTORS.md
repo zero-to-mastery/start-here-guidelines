@@ -5568,3 +5568,7 @@
 - [@Kakomis](https://github.com/Kakomis)
 
 - [@captain-Akshay](https://github.com/captain-Akshay)
+
+- [@OlavoMartsinkevich](https://github.com/OlavoMartsinkevich)
+
+- [@oliviaqm](https://github.com/oliviaqm)
