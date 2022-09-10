@@ -1,6 +1,9 @@
 # CONTRIBUTORS
+- [@Lucyloop](https://github.com/Lucyloop)
 
 - [@yogamandayu](https://github.com/yogamandayu)
+
+- [Asma](https://github.com/asma-mughal)
 
 - [@himashuBisht](https://github.com/himashuBisht)
 
@@ -5489,7 +5492,11 @@
 
 - [@amannegi](https://github.com/amannegi)
 
--[@cristimanea26](https://github.com/cristimanea26)
+- [@SuveerGoyal](https://github.com/SuveerGoyal)
+
+- [@nitinjaswal](https://github.com/nitinjaswal)
+
+- [@cristimanea26](https://github.com/cristimanea26)
 
 - [@adimrs](https://github.com/adimrs/)
 
@@ -5523,6 +5530,8 @@
 
 - [@Triijay](https://github.com/Triijay)
 
+-[@AnuradhaSha](https://github.com/AnuradhaSha)
+
 - [@MalloPython](https://github.com/MalloPython)
 
 - [@BGS89](https://github.com/BGS89)
@@ -5532,3 +5541,61 @@
 - [@pkini2002](https://github.com/pkini2002)
 
 - [@consciously](https://github.com/Consciously)
+
+- [@sebposada](https://github.com/sebposada)
+
+- [@edwardswisher](https://github.com/edwardswisher)
+
+- [@jlmonar17](https://github.com/jlmonar17)
+- [@WilliamsOgbodo](https://github.com/WilliamsOgbodo)
+
+- [@gkupdx](https://github.com/gkupdx)
+
+- [@jonhayjr](https://github.com/jonhayjr)
+
+- [@TJRelly](https://github.com/TJRelly)
+
+- [@chan1992241](https://github.com/chan1992241)
+
+- [@Glow-rhee](https://github.com/Glow-rhee )
+
+- [@dan-chui](https://github.com/dan-chui)
+
+- [@jeisonverjan](https://github.com/jeisonverjan)
+
+- [@realvicandy](https://github.com/realvicandy)
+
+- [@tayzewen](https://github.com/tayzewen)
+- [@timDeHof](https://github.com/timDeHof)
+
+- [@Kakomis](https://github.com/Kakomis)
+
+- [@OlavoMartsinkevich](https://github.com/OlavoMartsinkevich)
+
+- [@oliviaqm](https://github.com/oliviaqm)
+- [@W-D-ARYAN](https://github.com/W-D-ARYAN/)
+
+- [@isabellechiu](https://github.com/isabellechiu)
+
+- [@tukang-logika](https://github.com/tukang-logika)
+
+- [@paije97](https://github.com/paije97)
+
+- [@OlaAbdallah1](https://github.com/OlaAbdallah1)
+
+- [@cjhaspenfalls](https://github.com/cjhaspenfalls)
+
+- [@AnsulaDev](https://github.com/AnsulaDev)
+
+- [@galiardi](https://github.com/galiardi)
+
+- [@anmolmathias](https://github.com/anmolmathias)
+
+- [@BaoNgocPham](https://github.com/BaoNgocPham)
+
+- [@ajdin1303](https://github.com/ajdin1303)
+
+- [@amarchiori](https://github.com/amarchiori)
+
+- [@bundithir](https://github.com/bundithir)
+
