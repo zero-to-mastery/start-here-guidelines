@@ -682,9 +682,9 @@
 
 - [@Bentan101](https://github.com/BenTan101)
 
-- [@Bergstenarn](https://github.com/bergstenarn)
-
 - [@Berkanktk](https://github.com/Berkanktk)
+
+- [@Bergstenarn](https://github.com/bergstenarn)
 
 - [@Bertustenhoor](https://github.com/bertustenhoor)
 
