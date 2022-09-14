@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Ayobami6](https://github.com/Ayobami6)
+
 - [@youcefsax](https://github.com/youcefsax)
 
 - [@Shraddha-V22](https://github.com/Shraddha-V22)
@@ -5698,7 +5700,13 @@
 
 - [@VoDuyThienVinh](https://github.com/VoDuyThienVinh)
 
--[@ArunBohra12](https://github.com/ArunBohra12)
+- [@ArunBohra12](https://github.com/ArunBohra12)
 
--[@ismailydev](https://github.com/ismailydev)
+- [@ismailydev](https://github.com/ismailydev)
+
+- [@Libraprime](https://github.com/Libraprime)
+
+- [@aldopaganijr](https://github.com/aldopaganijr)
+
+
 
