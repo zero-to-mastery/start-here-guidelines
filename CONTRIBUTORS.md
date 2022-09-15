@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Md-Aquib](https://github.com/Md-Aquib)
+
 - [@Ayobami6](https://github.com/Ayobami6)
 
 - [@youcefsax](https://github.com/youcefsax)
@@ -5711,3 +5713,26 @@
 - [@MichaelZaslavsky](https://github.com/MichaelZaslavsky/)
 
 - [@angv2852](https://github.com/angv2852/)
+
+- [@DiogoLeiteF](https://github.com/DiogoLeiteF/)
+
+- [@Nguyen](https://github.com/BabyfaceDeveloper)
+
+- [@ykim25](https://github.com/ykim25)
+
+- [@ben-lang-eng](https://github.com/ben-lang-eng)
+
+- [@papoulov](https://github.com/papoulov/)
+
+- [@Ssiva1182](https://github.com/Ssiva1182/)
+
+- [@cpetraru](https://github.com/cpetraru)
+
+- [@codeDentist](https://github.com/codeDentist)
+
+- [@jorgearbelaez](https://github.com/jorgearbelaez/)
+
+- [@alpha-uzair](https://github.com/alpha-uzair)
+
+-[@wkaiser21](https://github.com/wkaiser21)
+
