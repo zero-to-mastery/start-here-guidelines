@@ -5728,9 +5728,7 @@
 
 - [@codeDentist](https://github.com/codeDentist)
 
-- [@jorgearbelaez](https://github.com/jorgearbelaez/)
-  
-- [@leahobot](https://github.com/leahobot/)
+- [@jorgearbelaez](https://github.com/jorgearbelaez/
 
 - [@alpha-uzair](https://github.com/alpha-uzair)
 
