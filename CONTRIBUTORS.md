@@ -5734,5 +5734,8 @@
 
 - [@alpha-uzair](https://github.com/alpha-uzair)
 
--[@wkaiser21](https://github.com/wkaiser21)
+- [@wkaiser21](https://github.com/wkaiser21)
 
+- [@BCIs-maniac81](https://github.com/BCIs-maniac81/)
+
+- [@ZeroTwo5166](https://github.com/ZeroTwo5166)
