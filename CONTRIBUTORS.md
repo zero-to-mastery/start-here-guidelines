@@ -40,7 +40,7 @@
 
 - [@Jenniferwonder](https://github.com/Jenniferwonder)
 
-- [@hoyeen01](https://github.com/hoyeen01)
+- [@hoyeen01](https://github.com/hoyeen
 
 - [@stuartmuyambi](https://github.com/stuartmuyambi/)
 
@@ -5745,4 +5745,12 @@
 - [@AK-mehr](https://github.com/AK-mehr)
 
 - [@Mikeyvon](https://github.com/Mikeyvon/)
+
+- [@Mikeyvon](https://github.com/Mikeyvon/)
+
+- [@hanzala-bhutto](https://github.com/hanzala-bhutto)
+
+- [@mesaie](https://github.com/mesaie/)
+
+- [@tichagodwill](https://github.com/tichagodwill/)
 
