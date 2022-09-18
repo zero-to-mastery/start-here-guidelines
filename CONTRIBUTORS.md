@@ -5768,3 +5768,5 @@
 
 - [@arslonga83](https://github.com/arslonga83)
 - [@anipetrosyan7717](https://github.com/anipetrosyan7717)
+
+- [@AdelineSire](https://github.com/AdelineSire)
