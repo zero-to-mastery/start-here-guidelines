@@ -5768,6 +5768,48 @@
 
 - [@arslonga83](https://github.com/arslonga83)
 
+- [@yes-im-harsh](https://github.com/yes-im-harsh)
+
 - [@anipetrosyan7717](https://github.com/anipetrosyan7717)
 
-- [@yes-im-harsh](https://github.com/yes-im-harsh)
+- [@Aakarshan-369](https://github.com/Aakarshan-369)
+
+- [@ibnumanmr](https://github.com/ibnumanmr/)
+
+- [@Eazy-H](https://github.com/EazyH)
+
+- [@deepshikhadey4](https://github.com/deepshikhadey4/)
+
+- [@maquimby](https://github.com/maquimby)
+
+- [@Pulki8](https://github.com/Pulki8)
+
+- [@Kelsy-Dev](https://github.com/Kelsy-Dev)
+
+- [@JyothishMB](https://github.com/JyothishMB)
+
+- [@ajcanalija](https://github.com/ajcanalija)
+
+- [@jain-divyanshu](https://github.com/jain-divyanshu)
+
+- [@hanifhefaz](https://github.com/hanifhefaz)
+
+- [@Jira-saki](https://github.com/Jira-saki/)
+
+- [@emorilebo](https://github.com/emorilebo/)
+
+- [@LouisNarcis29](https://github.com/LouisNarcis29)
+
+- [@DenisaKo](https://github.com/DenisaKo)
+
+- [@popovalexei](https://github.com/popovalexei)
+
+- [@Jeni92](https://github.com/Jeni92)
+
+- [@araguaci](https://github.com/araguaci)
+
+- [@mastrepee](https://github.com/mastrepee)
+
+- [@Iulia-Gaitanaru](https://github.com/Iulia-Gaitanaru)
+
+- [@klarasaurus](https://github.com/klarasaurus/)
