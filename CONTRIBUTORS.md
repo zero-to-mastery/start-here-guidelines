@@ -4102,6 +4102,8 @@
 
 - [@Tizspagno](https://github.com/tizspagno)
 
+- [@TjanMichela](https://github.com/TjanMichela)
+
 - [@Tkaul](https://github.com/mtkaul)
 
 - [@Tnehd1998](https://github.com/tnehd1998)
@@ -5831,3 +5833,19 @@
 - [@dhruvit07](https://github.com/Dhruvit07)
 
 - [@Mortematic](https://github.com/Mortematic)
+
+- [@dhruvit07](https://github.com/Dhruvit07)
+
+- [@tavettehepburn] (https://github.com/TavetteHepburn)
+
+- [@dhruvit07](https://github.com/Dhruvit07) 
+
+- [@Abhishek02121](https://github.com/Abhishek02121/)
+
+- [@iamrahul8](https://github.com/iamrahul8/)
+
+- [@jampopoy](https://github.com/jampopoy/)
+
+- [@Peixotons](https://github.com/peixotons/)
+
+- [@PetrovicArmin](https://github.com/PetrovicArmin/)
