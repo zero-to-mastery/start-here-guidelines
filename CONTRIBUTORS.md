@@ -5860,4 +5860,4 @@
 
 - [@qasimmughalz](https://github.com/qasimmughalz)
 
-- [@Hugo-Delattre](https://github.com/Hugo-Delattre)
+- [@HugoDelattre](https://github.com/Hugo-Delattre)
