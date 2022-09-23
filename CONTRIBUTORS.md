@@ -5864,6 +5864,8 @@
 
 - [@willamgdev](https://github.com/willamgdev)
 
--[@spielmeisterG] (https://github.com/spielmeisterG)
+- [@spielmeisterG](https://github.com/spielmeisterG)
 
-[@aorazaq] (https://github.com/aorazaq)
+- [@aorazaq](https://github.com/aorazaq)
+
+- [@michal-ostrodicky](https://github.com/michal-ostrodicky)
