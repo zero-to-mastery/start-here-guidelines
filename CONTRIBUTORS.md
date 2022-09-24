@@ -1,4 +1,5 @@
-# CONTRIBUTORS
+
+,,,,,,,,,,,,,,,,,,,,,,# CONTRIBUTORS
 
 - [@jaminwebdev](https://github.com/jaminwebdev)
 
@@ -1907,3 +1908,5 @@
 -[@lkdgr8](https://github.com/lkdgr8/)
 
 -[@deniafe](https://github.com/deniafe)
+
+-[@maciej88](https://github.com/maciej88)
