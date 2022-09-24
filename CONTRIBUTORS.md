@@ -5868,15 +5868,15 @@
 
 - [@taingmenghai](https://github.com/taingmenghai)
 
--[@spielmeisterG] (https://github.com/spielmeisterG)
+- [@spielmeisterG] (https://github.com/spielmeisterG)
 
-[@aorazaq] (https://github.com/aorazaq)
+- [@aorazaq] (https://github.com/aorazaq)
 
-[@kevinokonofua1] (https://github.com/kevinokonofua1)
+- [@kevinokonofua1] (https://github.com/kevinokonofua1)
 
-[@maan-eth] (https://github.com/maan-eth)
+- [@maan-eth] (https://github.com/maan-eth)
 
-[@Shivangi-Sharma-CS] (https://github.com/Shivangi-Sharma-CS/)
+- [@Shivangi-Sharma-CS] (https://github.com/Shivangi-Sharma-CS/)
 
 - [@NJBLAGA](https://github.com/NJBLAGA)
 
@@ -5884,8 +5884,8 @@
 
 - [@ShahzaibNaeem](https://github.com/ShahzaibNaeem)
 
-[@vishalpatil20] (https://github.com/vishalpatil20)
+- [@vishalpatil20] (https://github.com/vishalpatil20)
 
--[@lech1n](https://github.com/lech1n)
+- [@lech1n](https://github.com/lech1n)
 
 - [@Ad019El](https://github.com/Ad019El)
