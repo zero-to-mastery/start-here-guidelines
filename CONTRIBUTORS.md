@@ -5911,3 +5911,5 @@
 - [@bilalkhan360](https://github.com/bilalkhan360)
 
 - [@abilashmadhusudhanan](https://github.com/abilashmadhusudhanan)
+
+- [@dinhthang2307](https://github.com/dinhthang2307/start-here-guidelines)
