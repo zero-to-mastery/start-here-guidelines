@@ -5866,9 +5866,19 @@
 
 - [@willamgdev](https://github.com/willamgdev)
 
-- [@taingmenghai](https://github.com/taingmenghai)
+- [@spielmeisterG](https://github.com/spielmeisterG)
 
 - [@spielmeisterG] (https://github.com/spielmeisterG)
+
+- [@aorazaq] (https://github.com/aorazaq)
+
+- [@kevinokonofua1] (https://github.com/kevinokonofua1)
+
+- [@maan-eth] (https://github.com/maan-eth)
+
+- [@aorazaq](https://github.com/aorazaq)
+
+- [@michal-ostrodicky](https://github.com/michal-ostrodicky)
 
 - [@aorazaq] (https://github.com/aorazaq)
 
@@ -5889,3 +5899,9 @@
 - [@lech1n](https://github.com/lech1n)
 
 - [@Ad019El](https://github.com/Ad019El)
+
+- [@aameshie](https://github.com/aameshie)
+
+- [@hyonbokan](https://github.com/hyonbokan)
+
+- [@okutewonah](https://github.com/okutewonah)
