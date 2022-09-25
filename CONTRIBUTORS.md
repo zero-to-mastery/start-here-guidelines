@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@devsclem](https://github.com/DevsClem)
+
 - [@omgaydhane](https://github.com/omgaydhane)
 
 - [@sangeethkc](https://github.com/sangeethkc)
@@ -5869,3 +5871,29 @@
 - [@aorazaq](https://github.com/aorazaq)
 
 - [@michal-ostrodicky](https://github.com/michal-ostrodicky)
+
+- [@aorazaq] (https://github.com/aorazaq)
+
+- [@kevinokonofua1] (https://github.com/kevinokonofua1)
+
+- [@maan-eth] (https://github.com/maan-eth)
+
+- [@Shivangi-Sharma-CS] (https://github.com/Shivangi-Sharma-CS/)
+
+- [@NJBLAGA](https://github.com/NJBLAGA)
+
+- [@skaamoogs](https://github.com/skaamoogs)
+
+- [@ShahzaibNaeem](https://github.com/ShahzaibNaeem)
+
+- [@vishalpatil20] (https://github.com/vishalpatil20)
+
+- [@lech1n](https://github.com/lech1n)
+
+- [@Ad019El](https://github.com/Ad019El)
+
+- [@aameshie](https://github.com/aameshie)
+
+- [@hyonbokan](https://github.com/hyonbokan)
+
+- [@okutewonah](https://github.com/okutewonah)
