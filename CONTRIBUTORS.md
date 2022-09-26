@@ -5912,4 +5912,8 @@
 
 - [@abilashmadhusudhanan](https://github.com/abilashmadhusudhanan)
 
-- [@dinhthang2307](https://github.com/dinhthang2307/start-here-guidelines)
+- [@kidus-feleke](https://github.com/kidus-feleke)
+
+-[@MohamedImouchane](https://github.com/MohamedImouchane)
+
+- [@dinhthang2307](https://github.com/dinhthang2307)
