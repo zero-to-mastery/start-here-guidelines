@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
+
 - [@devsclem](https://github.com/DevsClem)
 
 - [@omgaydhane](https://github.com/omgaydhane)
@@ -5918,6 +5920,14 @@
 
 - [@Skullomanic84](https://github.com/Skullomanic84)
 
+<<<<<<< HEAD
 - [@kanha638](https://github.com/kanha638)
 - [@Clifftech123](https://github.com/Clifftech123)
 - [@tusharpatange01](https://github.com/TusharPatange01)
+=======
+-[@kanha638](https://github.com/kanha638)
+[@Clifftech123](https://github.com/Clifftech123)
+
+[@evghenias](https://github.com/evgheniasgit)
+
+>>>>>>> 26042f343e4389a232fa87f18ffde0ffe69b54e4
