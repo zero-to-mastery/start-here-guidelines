@@ -4588,7 +4588,7 @@
 
 - [@TenmaChinen](https://github.com/TenmaChinen/)
 
-[@DDikshaL](https://github.com/DDikshaL)
+- [@DDikshaL](https://github.com/DDikshaL)
 
 - [@chijason99](https://github.com/chijason99)
 
@@ -5674,9 +5674,7 @@
 
 - [@alameen8739](https://github.com/alameen8739)
 
-- [@elizabethkatk] (https://github.com/elizabethkatk)
-
-- [@NawasRaza] (https://github.com/NawasRaza)
+- [@elizabethkatk](https://github.com/elizabethkatk)
 
 - [@NawasRaza](https://github.com/NawasRaza)
 
@@ -5764,8 +5762,6 @@
 
 - [@Mikeyvon](https://github.com/Mikeyvon/)
 
-- [@Mikeyvon](https://github.com/Mikeyvon/)
-
 - [@hanzala-bhutto](https://github.com/hanzala-bhutto)
 
 - [@mesaie](https://github.com/mesaie/)
@@ -5840,11 +5836,7 @@
 
 - [@Mortematic](https://github.com/Mortematic)
 
-- [@dhruvit07](https://github.com/Dhruvit07)
-
-- [@tavettehepburn] (https://github.com/TavetteHepburn)
-
-- [@dhruvit07](https://github.com/Dhruvit07)
+- [@tavettehepburn](https://github.com/TavetteHepburn)
 
 - [@Abhishek02121](https://github.com/Abhishek02121/)
 
@@ -5870,25 +5862,15 @@
 
 - [@spielmeisterG](https://github.com/spielmeisterG)
 
-- [@spielmeisterG] (https://github.com/spielmeisterG)
-
-- [@aorazaq] (https://github.com/aorazaq)
-
-- [@kevinokonofua1] (https://github.com/kevinokonofua1)
-
-- [@maan-eth] (https://github.com/maan-eth)
-
 - [@aorazaq](https://github.com/aorazaq)
 
+- [@kevinokonofua1](https://github.com/kevinokonofua1)
+
+- [@maan-eth](https://github.com/maan-eth)
+
+- [@Shivangi-Sharma-CS](https://github.com/Shivangi-Sharma-CS/)
+
 - [@michal-ostrodicky](https://github.com/michal-ostrodicky)
-
-- [@aorazaq] (https://github.com/aorazaq)
-
-- [@kevinokonofua1] (https://github.com/kevinokonofua1)
-
-- [@maan-eth] (https://github.com/maan-eth)
-
-- [@Shivangi-Sharma-CS] (https://github.com/Shivangi-Sharma-CS/)
 
 - [@NJBLAGA](https://github.com/NJBLAGA)
 
@@ -5896,7 +5878,7 @@
 
 - [@ShahzaibNaeem](https://github.com/ShahzaibNaeem)
 
-- [@vishalpatil20] (https://github.com/vishalpatil20)
+- [@vishalpatil20](https://github.com/vishalpatil20)
 
 - [@lech1n](https://github.com/lech1n)
 
@@ -5916,37 +5898,52 @@
 
 - [@kidus-feleke](https://github.com/kidus-feleke)
 
--[@MohamedImouchane](https://github.com/MohamedImouchane)
+- [@MohamedImouchane](https://github.com/MohamedImouchane)
 
--[@Skullomanic84](https://github.com/Skullomanic84)
+- [@Skullomanic84](https://github.com/Skullomanic84)
 
--[@kanha638](https://github.com/kanha638)
-[@Clifftech123](https://github.com/Clifftech123)
+- [@dinhthang2307](https://github.com/dinhthang2307)
 
-[@evghenias](https://github.com/evgheniasgit)
+- [@kanha638](https://github.com/kanha638)
 
-[@mossi4476](https://github.com/mossi4476)
+- [@Clifftech123](https://github.com/Clifftech123)
 
--[@alexArdigo](https://github.com/alexArdigo)
+- [@tusharpatange01](https://github.com/TusharPatange01)
 
--[@M-Massoud](https://github.com/M-Massoud)
+- [@evghenias](https://github.com/evgheniasgit)
 
--[@klkolly](https://github.com/klkolly)
+- [@mossi4476](https://github.com/mossi4476)
 
--[@PredragUrban](https://github.com/PredragUrban)
+- [@alexArdigo](https://github.com/alexArdigo)
 
--[manyara001](https://github.com/manyara001)
+- [@M-Massoud](https://github.com/M-Massoud)
 
--[@opquail](https://github.com/opquail)
+- [@klkolly](https://github.com/klkolly)
 
--[@superman566](https://github.com/superman566)
+- [@PredragUrban](https://github.com/PredragUrban)
 
--[@kailew](https://github.com/kailew)
+- [@PinkDwarf](https://github.com/PinkDwarf)
 
--[@Raufnarejo505](https://github.com/Raufnarejo505)
+- [manyara001](https://github.com/manyara001)
 
--[@yyyen93](https://github.com/yyyen93)
+- [@opquail](https://github.com/opquail)
+
+- [@superman566](https://github.com/superman566)
+
+- [@kailew](https://github.com/kailew)
+
+- [@Raufnarejo505](https://github.com/Raufnarejo505)
+
+- [@yyyen93](https://github.com/yyyen93)
+
+- [@AmanV07](https://github.com/AmanV07)
+
+- [@Eyedcupid](https://github.com/Eyedcupid)
+
+- [@rajashreedutta15](https://github.com/rajashreedutta15/)
 
 -[@AmanV07](https://github.com/AmanV07)
 
 -[@xaphaniafox](https://github.com/xaphaniafox)
+
+- [@AashiGoel](https://github.com/AashiGoel)
