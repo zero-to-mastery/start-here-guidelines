@@ -5974,5 +5974,6 @@
 
 - [@SL972](https://github.com/SL972)
 
-- [@blesiandc](https://github.com/blesiandc)
--[@nsikakdavid](https://github.com/nsikakdavid)
+- [@blesiandc](https://github.com/blesiandc) -[@nsikakdavid](https://github.com/nsikakdavid)
+
+-[@05Maelket] (https://github.com/05Maelket)
