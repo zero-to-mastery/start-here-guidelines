@@ -5976,8 +5976,7 @@
 
 - [@SL972](https://github.com/SL972)
 
-- [@blesiandc](https://github.com/blesiandc)
--[@nsikakdavid](https://github.com/nsikakdavid)
+- [@blesiandc](https://github.com/blesiandc) -[@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@jeslyw](https://github.com/jeslyw)
 
@@ -6006,3 +6005,5 @@
 -[@zoroot](https://github.com/zoroot)
 
 -[@PunGrumpy](https://github.com/PunGrumpy)
+
+-[@Shioencja](https://github.com/Shioencaja)
