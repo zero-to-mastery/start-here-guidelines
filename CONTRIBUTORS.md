@@ -5996,4 +5996,4 @@
 - [@bawanegi](https://github.com/bawanegi)
 - [Maneesha-Maduranga](https://github.com/Maneesha-Maduranga)
 
-- [Dedan-Msafari](https://github.com/dedanmsafari)
+- [@dedanmsafari](https://github.com/dedanmsafari)
