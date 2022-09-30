@@ -5976,8 +5976,7 @@
 
 - [@SL972](https://github.com/SL972)
 
-- [@blesiandc](https://github.com/blesiandc)
--[@nsikakdavid](https://github.com/nsikakdavid)
+- [@blesiandc](https://github.com/blesiandc) -[@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@jeslyw](https://github.com/jeslyw)
 
@@ -5996,3 +5995,5 @@
 - [@hrishikesh-g](https://github.com/hrishikesh-g)
 - [@bawanegi](https://github.com/bawanegi)
 - [Maneesha-Maduranga](https://github.com/Maneesha-Maduranga)
+
+- [Dedan-Msafari](https://github.com/dedanmsafari)
