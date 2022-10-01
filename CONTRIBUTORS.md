@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
 
@@ -3334,8 +3335,6 @@
 
 - [@Rakalantari](https://github.com/rakalantari)
 
--
-
 - [@Raki-12](https://github.com/Raki-12)
 
 - [@Rakshitmakadia](https://github.com/rakshitmakadia)
@@ -5892,7 +5891,7 @@
 
 - [@okutewonah](https://github.com/okutewonah)
 
-- [raman2482](https://github.com/raman2482)
+- [@raman2482](https://github.com/raman2482)
 
 - [@bilalkhan360](https://github.com/bilalkhan360)
 
@@ -5926,7 +5925,7 @@
 
 - [@PinkDwarf](https://github.com/PinkDwarf)
 
-- [manyara001](https://github.com/manyara001)
+- [@manyara001](https://github.com/manyara001)
 
 - [@opquail](https://github.com/opquail)
 
@@ -5958,13 +5957,15 @@
 
 - [@bot5294](https://github.com/bot5294)
 
-- [@papichuloooo99] (https://github.com/papichuloooo99)
+- [@papichuloooo99](https://github.com/papichuloooo99)
 
-- [Aryan_8615_] (https://github.com/bankank)
+- [@Aryan_8615_](https://github.com/bankank)
 
-- [tbot1738](https://github.com/tbot1738)
+- [@tbot1738](https://github.com/tbot1738)
 
 - [@sakshimudrale](https://github.com/sakshimudrale)
+
+- [@amulyaprasanth](https://github.com/amulyaprasanth)
 
 - [@sahissta](https://github.com/sahissta)
 
@@ -5978,8 +5979,17 @@
 
 - [@blesiandc](https://github.com/blesiandc) -[@nsikakdavid](https://github.com/nsikakdavid)
 
+
+-[@05Maelket] (https://github.com/05Maelket)
+- [@KatandRaf](https://github.com/KatandRaf)
+
+- [@blesiandc](https://github.com/blesiandc)
+
+- [@nsikakdavid](https://github.com/nsikakdavid)
+
 - [@jeslyw](https://github.com/jeslyw)
 
+- [@samarjeetpatankar](https://github.com/samarjeetpatankar)
 - [@LULU255](https://github.com/LULU255)
 
 - [@codechelsea] (https://github.com/codechelsea)
@@ -5993,8 +6003,15 @@
 - [@Yefe71] (https://github.com/Yefe71)
 
 - [@hrishikesh-g](https://github.com/hrishikesh-g)
+
+- [@bawanegi](https://github.com/bawanegi)
+
+- [@grimmyxiii](https://github.com/grimmyxiii)
+- [@cklf537](https://github.com/cklf537/)
 - [@bawanegi](https://github.com/bawanegi)
 - [Maneesha-Maduranga](https://github.com/Maneesha-Maduranga)
+
+- [@dedanmsafari](https://github.com/dedanmsafari)
 
 - [@NetStriKerX](https://github.com/NetStriKerX)
 
@@ -6007,3 +6024,10 @@
 -[@PunGrumpy](https://github.com/PunGrumpy)
 
 -[@Shioencja](https://github.com/Shioencaja)
+-[@alimertcakar](https://github.com/alimertcakar)
+
+-[@cs2sandeep](https://github.com/cs2sandeep)
+
+-[@nathi464](https://github.com/nathi464/)
+
+- [@prashantkumarkaushik](https://github.com/prashantkumarkaushik) 
