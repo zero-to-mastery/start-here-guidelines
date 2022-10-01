@@ -5976,8 +5976,7 @@
 
 - [@SL972](https://github.com/SL972)
 
-- [@blesiandc](https://github.com/blesiandc)
--[@nsikakdavid](https://github.com/nsikakdavid)
+- [@blesiandc](https://github.com/blesiandc) -[@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@jeslyw](https://github.com/jeslyw)
 
@@ -6010,3 +6009,5 @@
 -[@alimertcakar](https://github.com/alimertcakar)
 
 -[@cs2sandeep](https://github.com/cs2sandeep)
+
+-[@Ritika-Agrawal811](https://github.com/Ritika-Agrawal811)
