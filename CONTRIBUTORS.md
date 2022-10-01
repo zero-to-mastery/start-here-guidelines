@@ -5960,7 +5960,7 @@
 
 - [@papichuloooo99](https://github.com/papichuloooo99)
 
-- [@Aryan_8615_](https://github.com/bankank)
+- [@Aryan*8615*](https://github.com/bankank)
 
 - [@tbot1738](https://github.com/tbot1738)
 
@@ -5980,7 +5980,7 @@
 
 - [@blesiandc](https://github.com/blesiandc)
 
- - [@nsikakdavid](https://github.com/nsikakdavid)
+- [@nsikakdavid](https://github.com/nsikakdavid)
 
 - [@05Maelket](https://github.com/05Maelket)
 
@@ -6039,3 +6039,5 @@
 - [@prashantkumarkaushik](https://github.com/prashantkumarkaushik)
 
 - [@KwassiSenam](https://github.com/KwassiSenam)
+
+- [@billlunger](https://github.com/billlunger)
