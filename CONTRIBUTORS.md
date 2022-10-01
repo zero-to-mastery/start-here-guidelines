@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@siddharthsinghvats](https://github.com/siddharthsinghvats)
 
 - [@MR-Abbasnejad](https://github.com/MR-Abbasnejad)
 
@@ -5892,7 +5893,7 @@
 
 - [@okutewonah](https://github.com/okutewonah)
 
-- [raman2482](https://github.com/raman2482)
+- [@raman2482](https://github.com/raman2482)
 
 - [@bilalkhan360](https://github.com/bilalkhan360)
 
@@ -5926,7 +5927,7 @@
 
 - [@PinkDwarf](https://github.com/PinkDwarf)
 
-- [manyara001](https://github.com/manyara001)
+- [@manyara001](https://github.com/manyara001)
 
 - [@opquail](https://github.com/opquail)
 
@@ -5958,13 +5959,15 @@
 
 - [@bot5294](https://github.com/bot5294)
 
-- [@papichuloooo99] (https://github.com/papichuloooo99)
+- [@papichuloooo99](https://github.com/papichuloooo99)
 
-- [Aryan_8615_] (https://github.com/bankank)
+- [@Aryan_8615_](https://github.com/bankank)
 
-- [tbot1738](https://github.com/tbot1738)
+- [@tbot1738](https://github.com/tbot1738)
 
 - [@sakshimudrale](https://github.com/sakshimudrale)
+
+- [@amulyaprasanth](https://github.com/amulyaprasanth)
 
 - [@sahissta](https://github.com/sahissta)
 
@@ -5975,6 +5978,11 @@
 - [@T0wa](https://github.com/T0wa)
 
 - [@SL972](https://github.com/SL972)
+
+- [@blesiandc](https://github.com/blesiandc) -[@nsikakdavid](https://github.com/nsikakdavid)
+
+-[@05Maelket] (https://github.com/05Maelket)
+- [@KatandRaf](https://github.com/KatandRaf)
 
 - [@blesiandc](https://github.com/blesiandc)
 -[@nsikakdavid](https://github.com/nsikakdavid)
@@ -5987,6 +5995,8 @@
 
 - [@abhimom03](https://github.com/abhimom03)
 
+- [@AnthonyEmede](https://github.com/AnthonyEmede)
+
 - [@tajunta](https://github.com/tajunta)
 
 - [@Yefe71] (https://github.com/Yefe71)
@@ -5996,3 +6006,23 @@
 - [@bawanegi](https://github.com/bawanegi)
 
 - [@cklf537](https://github.com/cklf537/)
+- [@bawanegi](https://github.com/bawanegi)
+- [Maneesha-Maduranga](https://github.com/Maneesha-Maduranga)
+
+- [@NetStriKerX](https://github.com/NetStriKerX)
+
+- [@Hunking9797](https://github.com/Hunking9797)
+
+-[@ChrRepou](https://github.com/ChrRepou)
+
+-[@zoroot](https://github.com/zoroot)
+
+-[@PunGrumpy](https://github.com/PunGrumpy)
+
+-[@alimertcakar](https://github.com/alimertcakar)
+
+-[@cs2sandeep](https://github.com/cs2sandeep)
+
+-[@nathi464](https://github.com/nathi464/)
+
+- [@prashantkumarkaushik](https://github.com/prashantkumarkaushik) 
