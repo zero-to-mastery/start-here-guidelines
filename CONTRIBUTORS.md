@@ -5568,6 +5568,8 @@
 
 - [@MrHawker](https://github.com/MrHawker)
 
+- [@inonattias](https://github.com/inonattias)
+
 - [@Triijay](https://github.com/Triijay)
 
 - [@AnuradhaSha](https://github.com/AnuradhaSha)
@@ -5579,6 +5581,10 @@
 - [@Kas6517](https://github.com/Kas6517)
 
 - [@pkini2002](https://github.com/pkini2002)
+
+- [@sebposada](https://github.com/sebposada)
+
+- [@HilaryYates](https://github.com/HilaryYates)
 
 - [@consciously](https://github.com/Consciously)
 
@@ -5614,6 +5620,9 @@
 
 - [@timDeHof](https://github.com/timDeHof)
 
+ Nazmul
+- [@Nazmul6180](https://github.com/Nazmul6180)
+
 - [@Kakomis](https://github.com/Kakomis)
 
 - [@captain-Akshay](https://github.com/captain-Akshay)
@@ -5640,6 +5649,8 @@
 
 - [@anmolmathias](https://github.com/anmolmathias)
 
+-[@Josdadev](https://github.com/Josdadev)
+
 - [@BaoNgocPham](https://github.com/BaoNgocPham)
 
 - [@ajdin1303](https://github.com/ajdin1303)
@@ -5652,9 +5663,15 @@
 
 - [@majinblue](https://github.com/majinblue)
 
+- [@eliteCipher] (https://github.com/eliteCipher)
+
 - [@hazimaiman](https://github.com/hazimaiman)
 
 - [@mvnitish](https://github.com/mvnitish)
+
+- [@actll](https://github.com/actll)
+
+- [@theresa-em](https://github.com/Theresa-Em)
 
 - [@levilawliet7](https://github.com/levilawliet7)
 
@@ -5776,7 +5793,11 @@
 
 - [@KOLEAJEOLAYINKA](https://github.com/KOLEAJEOLAYINKA)
 
+- [@Nazmul6180](https://github.com/Nazmul6180)
+
 - [@arslonga83](https://github.com/arslonga83)
+
+- [@anipetrosyan7717](https://github.com/anipetrosyan7717)
 
 - [@yes-im-harsh](https://github.com/yes-im-harsh)
 
@@ -6043,3 +6064,29 @@
 - [@avatar-10000](https://github.com/avatar-10000)
 
 - [@billlunger](https://github.com/billlunger)
+
+- [@loganbecket](https://github.com/loganbecket)
+
+- [@dantesadeghi](https://github.com/dantesadeghi)
+
+- [@ASANIYAN](https://github.com/ASANIYAN/)
+
+- [@krichey15](https://github.com/krichey15) 
+
+- [@Sedra313](https://github.com/Sedra313/)
+
+- [@ChloeZhou1997](https://github.com/ChloeZhou1997)
+
+- [@karan919](https://github.com/karan919)
+
+- [@nelsonalgarve] (https://github.com/nelsonalgarve)
+
+- [@HassanNewDev] (https://github.com/HassanNewDev)
+
+- [@abdurahim-us](https://github.com/abdurahim-us)
+
+- [@ShubhamJ2004](https://github.com/ShubhamJ2004)
+
+- [@conor-v](https://github.com/conor-v)
+
+- [@sammkodes96](https://github.com/sammkodes96)
