@@ -5660,7 +5660,7 @@ Nazmul
 
 - [@anmolmathias](https://github.com/anmolmathias)
 
--[@Josdadev](https://github.com/Josdadev)
+- [@Josdadev](https://github.com/Josdadev)
 
 - [@BaoNgocPham](https://github.com/BaoNgocPham)
 
@@ -6162,15 +6162,15 @@ Nazmul
 
 - [kaushal-mohit](https://github.com/kaushal-mohit)
 
--[Sonnyburni](https://github.com/Sonnyburni)
+- [Sonnyburni](https://github.com/Sonnyburni)
 
--[@Philip Bos](https://github.com/Philip-Bos)
+- [@Philip Bos](https://github.com/Philip-Bos)
 
--[@Sxvacl](https://github.com/Sxvacl)
+- [@Sxvacl](https://github.com/Sxvacl)
 
--[@Arun069gupta](https://github.com/Arun069gupta)
+- [@Arun069gupta](https://github.com/Arun069gupta)
 
--[@guptaarth87](https://github.com/guptaarth87)
+- [@guptaarth87](https://github.com/guptaarth87)
 
 - [@SabbirAhmedChowdhury](https://github.com/SabbirAhmedChowdhury)
 
@@ -6182,7 +6182,7 @@ Nazmul
 
 - [@shiizam](https://github.com/shiizam)
 
--[@JutsuAfterHours](https://github.com/JutsuAfterHours)
+- [@JutsuAfterHours](https://github.com/JutsuAfterHours)
 
 - [@Addyk16](https://github.com/Addyk16)
 
@@ -6191,3 +6191,5 @@ Nazmul
 - [@mrxshinji]https://github.com/mrxshinji
 
 - [@ThomasCode92](https://github.com/ThomasCode92)
+
+- [@AlexanderLaFountain](https://github.com/AlexanderLaFountain)
