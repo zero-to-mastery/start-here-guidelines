@@ -5680,7 +5680,7 @@ Nazmul
 
 - [@majinblue](https://github.com/majinblue)
 
-- [@eliteCipher] (https://github.com/eliteCipher)
+- [@eliteCipher](https://github.com/eliteCipher)
 
 - [@hazimaiman](https://github.com/hazimaiman)
 
@@ -6098,9 +6098,9 @@ Nazmul
 
 - [@karan919](https://github.com/karan919)
 
-- [@nelsonalgarve] (https://github.com/nelsonalgarve)
+- [@nelsonalgarve](https://github.com/nelsonalgarve)
 
-- [@HassanNewDev] (https://github.com/HassanNewDev)
+- [@HassanNewDev](https://github.com/HassanNewDev)
 
 - [@abdurahim-us](https://github.com/abdurahim-us)
 
@@ -6142,7 +6142,7 @@ Nazmul
 
 - [@maciej88](https://github.com/maciej88)
 
-- [Jro-mattus23] (https://github.com/Jro-mattus23)
+- [Jro-mattus23](https://github.com/Jro-mattus23)
 
 - [Dhei-vid](https://github.com/Dhei-vid)
 
@@ -6168,15 +6168,15 @@ Nazmul
 
 - [kaushal-mohit](https://github.com/kaushal-mohit)
 
--[Sonnyburni](https://github.com/Sonnyburni)
+- [Sonnyburni](https://github.com/Sonnyburni)
 
--[@Philip Bos](https://github.com/Philip-Bos)
+- [@Philip Bos](https://github.com/Philip-Bos)
 
--[@Sxvacl](https://github.com/Sxvacl)
+- [@Sxvacl](https://github.com/Sxvacl)
 
--[@Arun069gupta](https://github.com/Arun069gupta)
+- [@Arun069gupta](https://github.com/Arun069gupta)
 
--[@guptaarth87](https://github.com/guptaarth87)
+- [@guptaarth87](https://github.com/guptaarth87)
 
 - [@SabbirAhmedChowdhury](https://github.com/SabbirAhmedChowdhury)
 
@@ -6188,13 +6188,13 @@ Nazmul
 
 - [@shiizam](https://github.com/shiizam)
 
--[@JutsuAfterHours](https://github.com/JutsuAfterHours)
+- [@JutsuAfterHours](https://github.com/JutsuAfterHours)
 
 - [@Addyk16](https://github.com/Addyk16)
 
 - [@rdgdonizetti](https://github.com/rdgdonizetti)
 
-- [@mrxshinji]https://github.com/mrxshinji
+- [@mrxshinji](https://github.com/mrxshinji)
 
 - [@ThomasCode92](https://github.com/ThomasCode92)
 
@@ -6202,8 +6202,10 @@ Nazmul
 
 - [@Ahmed-Abdeldayem](https://github.com/Ahmed-Abdeldayem)
 
--[@sebastianr812](https://github.com/sebastianr812)
+- [@sebastianr812](https://github.com/sebastianr812)
 
--[@samkcrespo](https://github.com/samkcrespo)
+- [@samkcrespo](https://github.com/samkcrespo)
 
--[@idris0077](https://github.com/idris0077)
+- [@idris0077](https://github.com/idris0077)
+
+- [@0xt0pdata](https://github.com/0xt0pdata)
