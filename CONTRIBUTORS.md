@@ -5684,7 +5684,7 @@ Nazmul
 
 - [@majinblue](https://github.com/majinblue)
 
-- [@eliteCipher] (https://github.com/eliteCipher)
+- [@eliteCipher](https://github.com/eliteCipher)
 
 - [@hazimaiman](https://github.com/hazimaiman)
 
@@ -6102,9 +6102,9 @@ Nazmul
 
 - [@karan919](https://github.com/karan919)
 
-- [@nelsonalgarve] (https://github.com/nelsonalgarve)
+- [@nelsonalgarve](https://github.com/nelsonalgarve)
 
-- [@HassanNewDev] (https://github.com/HassanNewDev)
+- [@HassanNewDev](https://github.com/HassanNewDev)
 
 - [@abdurahim-us](https://github.com/abdurahim-us)
 
@@ -6146,7 +6146,7 @@ Nazmul
 
 - [@maciej88](https://github.com/maciej88)
 
-- [Jro-mattus23] (https://github.com/Jro-mattus23)
+- [Jro-mattus23](https://github.com/Jro-mattus23)
 
 - [Dhei-vid](https://github.com/Dhei-vid)
 
@@ -6241,3 +6241,5 @@ Nazmul
 -[@beytullah-dc](https://github.com/beytullah-dc)
 
 -[@JavadBIM](https://github.com/JavadBIM)
+
+-[@tamyksu](https://github.com/tamyksu)
