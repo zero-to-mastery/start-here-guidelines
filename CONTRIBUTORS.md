@@ -92,6 +92,8 @@
 
 - [@adhirajkar3103](https://github.com/adhirajkar3103)
 
+- [@V1ccus](https://github.com/V1ccus)
+
 - [@samikshakute](https://github.com/samikshakute)
 
 - [@kavyachigurupati](https://github.com/kavyachigurupati)
@@ -6340,8 +6342,32 @@
 
 -[@irvrivera](https://github.com/irvrivea)
 
--[@senior-web-dev0807](https://github.com/senior-web-dev0807) -[@ainerug](https://github.com/ainerug/)
+-[@senior-web-dev0807](https://github.com/senior-web-dev0807)
+
+-[@ainerug](https://github.com/ainerug/)
 
 -[@Maeziii](https://github.com/Maeziii)
 
 -[@erickrod54](https://github.com/erickrod54/)
+
+-[@senior-web-dev0807](https://github.com/senior-web-dev0807)
+
+-[@ainerug](https://github.com/ainerug/)
+
+-[@oluchidev](https://github.com/oluchidev)
+
+-[@Maeziii](https://github.com/Maeziii)
+
+-[@panjetaraveena](https://github.com/panjetaraveena)
+
+-[@saket61195](https://github.com/saket61195)
+
+-[@Kisame030](https://github.com/Kisame030)
+
+-[@Eghasbp](https://github.com/Eghasbp)
+
+-[@Jisan-mia](https://github.com/Jisan-mia)
+
+-[@Joshluk3328j](https://github.com/Joshluk3328j/)
+
+-[@xmiwon](https://github.com/xmiwon)
