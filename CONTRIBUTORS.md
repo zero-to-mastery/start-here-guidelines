@@ -6415,3 +6415,19 @@
 -[@xed43](https://github.com/xed43)
 
 -[@SimpleLuke](https://github.com/SimpleLuke)
+
+-[@JossiDroid](https://github.com/JossiDroid])
+
+-[@mreinke1](https://github.com/mreinke1)
+
+-[@nminhle94](https://github.com/nminhle94)
+
+-[@FaithOzoanieke](https://github.com/FaithOzoanieke)
+
+-[Melissa Mitchell](https://github.com/mel-codingphoenix)
+
+-[GannaMatiiko](https://github.com/GannaMatiiko)
+
+-[@amerajat](https://github.com/amerajat)
+
+-[@Kobby-jones](https://github.com/Kobby-jones)
