@@ -6408,11 +6408,8 @@
 
 -[@aizhuxue007](https://github.com/aizhuxue007)
 
-<<<<<<< HEAD
 -[@phillippchu](https://github.com/phillippchu)
 
-=======
->>>>>>> ea0a4cf228b7c837b97655ac73b3c5459fb31398
 -[@JamieWalkerSTF](https://github.com/JamieWalkerSTF)
 
 -[@SelyanaSF](https://github.com/SelyanaSF)
@@ -6425,8 +6422,4 @@
 
 -[@nminhle94](https://github.com/nminhle94)
 
-<<<<<<< HEAD
 -[@FaithOzoanieke](https://github.com/FaithOzoanieke)
-=======
--[@FaithOzoanieke](https://github.com/FaithOzoanieke)
->>>>>>> ea0a4cf228b7c837b97655ac73b3c5459fb31398
