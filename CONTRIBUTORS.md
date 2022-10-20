@@ -6409,3 +6409,17 @@
 -[@aizhuxue007](https://github.com/aizhuxue007)
 
 -[@phillippchu](https://github.com/phillippchu)
+
+-[@JamieWalkerSTF](https://github.com/JamieWalkerSTF)
+
+-[@SelyanaSF](https://github.com/SelyanaSF)
+
+-[@xed43](https://github.com/xed43)
+
+-[@JossiDroid](https://github.com/JossiDroid])
+
+-[@mreinke1](https://github.com/mreinke1)
+
+-[@nminhle94](https://github.com/nminhle94)
+
+-[@FaithOzoanieke](https://github.com/FaithOzoanieke)
