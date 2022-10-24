@@ -6502,4 +6502,4 @@
 
 - [@ShaniServices](https://github.com/ShaniServices)
 
-- [@brychjakub](https://github.com/brychjakub)
+-[@brychjakub](https://github.com/brychjakub)
