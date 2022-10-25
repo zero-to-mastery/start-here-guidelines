@@ -54,7 +54,6 @@ We don't care if you break things. This is a playground, and we encourage failin
     git switch <branch-name>
     ```
 
-
 7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
 8. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
