@@ -1,16 +1,29 @@
 # CONTRIBUTORS
 
+- [@Alex870209](https://github.com/Alex870209)
+
+- [@Bhavna Makode](https://github.com/Bhavna2003)
+
+- [@omicreativedev](https://github.com/omicreativedev)
+
+- [@WarBoar86](https://github.com/WarBoar86)
+
+- [@vedantmgoyal2009](https://github.com/vedantmgoyal2009)
+
 - [@Gio Martin](https://github.com/giolmartin)
 
 - [@Danijel Adrinek](https://github.com/DanijelAdrinek)
 
-- [@jsh0512](https://github.com/jsh0512)
+- [@spiderxp3](https://github.com/spiderxp3)
 
+- [@jsh0512](https://github.com/jsh0512)
 - [@jalalbmnf](https://github.com/jalalbmnf)
 
 - [@Ari Jaya](https://github.com/AriJaya07)
 
 - [@Pritesh Kiri](https://github.com/PriteshKiri)
+
+- [@Anyi Joy](https://github.com/AnyiJoy)
 
 - [@Ingrid Kelsey](https://github.com/ingridclaire)
 
@@ -1484,6 +1497,8 @@
 
 - [@Fawwaz95](https://github.com/fawwaz95)
 
+- [@Remy349](https://github.com/Remy349)
+
 - [@Fayasnoushad](https://github.com/FayasNoushad)
 
 - [@Febieclinton](https://github.com/febieclinton)
@@ -2866,7 +2881,7 @@
 
 - [@Movicat](https://github.com/movicat)
 
-- [@Moyu597](https:github.com/moyu597)
+- [@Moyu597](https://github.com/moyu597)
 
 - [@Mpbasto](https://github.com/mpbasto)
 
@@ -2941,6 +2956,8 @@
 - [@Nandumoura](https://github.com/nandumoura)
 
 - [@Narayan954](https://github.com/narayan954)
+
+- [@Marcin-podgorski93](https://github.com/Marcin-podgorski93)
 
 - [@Nasarblaze](https://github.com/nasarblaze)
 
@@ -6432,6 +6449,8 @@
 
 - [@phillippchu](https://github.com/phillippchu)
 
+- [@o-tahboub](https://github.com/o-tahboub)
+
 - [@RoxanaAnamariaTurc](https://github.com/RoxanaAnamariaTurc)
 
 - [@muzlightyear](https://github.com/muzlightyear)
@@ -6492,8 +6511,6 @@
 
 - [@kramferolino](https://github.com/kramferolino)
 
--[@AsharAA](https://github.com/AsharAA)
+- [@AsharAA](https://github.com/AsharAA)
 
 -[@presianrusinov](https://github.com/presianrusinov)
-
-- [@Mirzo001](https://github.com/Mirzo001)
