@@ -6693,9 +6693,10 @@
 
 - [@escobarrro](https://github.com/escobarrro)
 
-- [@aust1inn](https://github.com/aust1inn)
--[@Monique-Shaqiri](https://github.com/Monique-Shaqiri)
+- [@aust1inn](https://github.com/aust1inn) -[@Monique-Shaqiri](https://github.com/Monique-Shaqiri)
 
 -[@EdgarG2020](https://github.com/EdgarG2020/)
 
 -[@AndradaDobocan](https://github.com/AndradaDobocan)
+
+-[@ZalimTkhagazitov](https://github.com/ZalimTkhagazitov/)
