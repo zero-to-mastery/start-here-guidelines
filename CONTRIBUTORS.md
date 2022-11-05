@@ -6695,8 +6695,7 @@
 
 - [@escobarrro](https://github.com/escobarrro)
 
-- [@aust1inn](https://github.com/aust1inn)
--[@Monique-Shaqiri](https://github.com/Monique-Shaqiri)
+- [@aust1inn](https://github.com/aust1inn) -[@Monique-Shaqiri](https://github.com/Monique-Shaqiri)
 
 -[@EdgarG2020](https://github.com/EdgarG2020/)
 
@@ -6714,7 +6713,8 @@
 
 -[@alexstein28](https://github.com/alexstein28/)
 
--[@WilliamDavidson-02](https://github.com/WilliamDavidson-02/)
--[@saydou231](https://github.com/Saydou231/)
+-[@WilliamDavidson-02](https://github.com/WilliamDavidson-02/) -[@saydou231](https://github.com/Saydou231/)
 
 -[@fjrmario](https://github.com/fjrmario)
+
+-[@sonio-deji](https://github.com/sonio-deji)
