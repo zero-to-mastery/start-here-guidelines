@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [@AyushAgarwal15 ](https://github.com/AyushAgarwal15)
-
 - [@Jonotassia](https://github.com/jonotassia)
 
 - [@Alex870209](https://github.com/Alex870209)
@@ -6732,3 +6730,5 @@
 -[@cjusticeprime](https://github.com/justiceprime)
 
 -[@mizanur-16](https://github.com/mizanur-16)
+
+- [@AyushAgarwal15 ](https://github.com/AyushAgarwal15)
