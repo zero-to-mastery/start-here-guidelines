@@ -6799,3 +6799,64 @@
 -[@seangray-dev](https://github.com/seangray-dev)
 
 =[@davidsallusti](https://github.com/davidsallusti)
+<<<<<<< HEAD
+=======
+
+-[@fiacre-io](https://github.com/fiacre-io)
+
+-[@fiacre-io](https://github.com/nxelia99)
+
+-[@jonasfounkeu](https://github.com/jonasfounkeu/)
+
+-[@vollmann-ariel](https://github.com/vollmann-ariel)
+
+-[@oryan86](https://github.com/oryan86)
+
+-[@Traviski93](https://github.com/Traviski93)
+
+-[@sjmabs](https://github.com/sjmabs)
+
+- [@tradengr](https://github.com/tradengr)
+
+- [@josewebdev2000](https://github.com/josewebdev2000)
+
+- [@andriel300](https://github.com/andriel300)
+
+- [@MartimMadaleno](https://github.com/MartimMadaleno)
+
+- [@Alena909](https://github.com/Alena909)
+
+- [@sadique009](https://github.com/sadique009/)
+
+- [@MPRCode](https://github.com/MPRCode)
+
+- [@fabienMarchand] (https://github.com/fabienMarchand)
+
+- [@a-majk] (https://github.com/a-majk/)
+
+- [@abaytek] (https://github.com/abaytek)
+
+- [@Issam7Abou] (https://github.com/Issam7Abou)
+
+- [@kaiwalya-07] (https://github.com/kaiwalya-07)
+
+- [mbah7onez](https://github.com/mbah7onez)
+
+- [prerakpanwar](https://github.com/prerakpanwar)
+
+- [@SpanishMamba] (https://github.com/SpanishMamba)
+
+- [@Apostolos172](https://github.com/Apostolos172/)
+
+- [@FehH13](https://github.com/FehH13)
+
+- [@jhaycee11](https://github.com/jhaycee11)
+
+
+- [@Suraj-Patra](https://github.com/Suraj-Patra)
+- [@ramsundar07](https://github.com/ramsundar07/)
+
+- [@cadumrod](https://github.com/cadumrod)
+
+- [@Matthew-Makepeace](https://github.com/Matthew-Makepeace)
+>>>>>>> 37ce81fedf46f99ee6f7c23d09eac1768d2f077f
