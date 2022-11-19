@@ -6702,8 +6702,7 @@
 
 - [@escobarrro](https://github.com/escobarrro)
 
-- [@aust1inn](https://github.com/aust1inn)
--[@Monique-Shaqiri](https://github.com/Monique-Shaqiri)
+- [@aust1inn](https://github.com/aust1inn) -[@Monique-Shaqiri](https://github.com/Monique-Shaqiri)
 
 -[@EdgarG2020](https://github.com/EdgarG2020/)
 
@@ -6721,16 +6720,13 @@
 
 -[@alexstein28](https://github.com/alexstein28/)
 
--[@WilliamDavidson-02](https://github.com/WilliamDavidson-02/)
--[@saydou231](https://github.com/Saydou231/)
+-[@WilliamDavidson-02](https://github.com/WilliamDavidson-02/) -[@saydou231](https://github.com/Saydou231/)
 
 -[@fjrmario](https://github.com/fjrmario)
 
 -[@migfra1](https://github.com/migfra1/)
 
--[1ChrisH1](https://github.com/1ChrisH1)
--[FSeneve](https://github.com/FSeneve/)
--[Moe Theint Thandar](https://github.com/Moe-Theint-Thandar)
+-[1ChrisH1](https://github.com/1ChrisH1) -[FSeneve](https://github.com/FSeneve/) -[Moe Theint Thandar](https://github.com/Moe-Theint-Thandar)
 
 -[@onyedika-anagha](https://github.com/onyedika-anagha)
 
@@ -6858,7 +6854,6 @@
 
 - [@jhaycee11](https://github.com/jhaycee11)
 
-
 - [@Suraj-Patra](https://github.com/Suraj-Patra)
 - [@ramsundar07](https://github.com/ramsundar07/)
 
@@ -6909,3 +6904,5 @@
 -[@karimsamir](https://github.com/karimsamir)
 
 -[@CodingCase](https://github.com/CodingCase)
+
+-[@Armands1983](https://github.com/Armands1983)
