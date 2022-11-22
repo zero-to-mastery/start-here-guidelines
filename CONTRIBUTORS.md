@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@mbajinaru](https://github.com/mbajinaru)
 -[@Meis01](https://github.com/Meis01)
 
 - [@Jonotassia](https://github.com/jonotassia)
@@ -26,6 +27,9 @@
 - [@spiderxp3](https://github.com/spiderxp3)
 
 - [@jsh0512](https://github.com/jsh0512)
+
+- [@tharrry](https://github.com/tharrry)
+
 - [@jalalbmnf](https://github.com/jalalbmnf)
 
 - [@Ari Jaya](https://github.com/AriJaya07)
@@ -6928,4 +6932,18 @@
 -[@GeorgeBeasleyJr](https://github.com/GeorgeBeasleyJr)
 
 -[@RaremoonCreations](https://github.com/RaremoonCreations)
+
 -[@Pratistha-17](https://github.com/Pratistha-17)
+
+
+-[@AnnnieWann](https://github.com/AnnnieWann)
+
+-[@Zainabayomide](https://github.com/Zainabayomide)
+
+-[@Naja97](ttps://github.com/Naja97)
+
+-[@AbhiMishra-Now](https://github.com/AbhiMishra-Now)
+
+-[@dbring](https://github.com/dbring)
+-[@navesm](https://github.com/navesm)
+
