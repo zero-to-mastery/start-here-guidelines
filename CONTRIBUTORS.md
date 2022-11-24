@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 - [@mbajinaru](https://github.com/mbajinaru)
--[@Meis01](https://github.com/Meis01)
+
+- [@Meis01](https://github.com/Meis01)
 
 - [@Jonotassia](https://github.com/jonotassia)
 
@@ -19,8 +20,6 @@
 - [@omicreativedev](https://github.com/omicreativedev)
 
 - [@WarBoar86](https://github.com/WarBoar86)
-
-- [@vedantmgoyal2009](https://github.com/vedantmgoyal2009)
 
 - [@Gio Martin](https://github.com/giolmartin)
 
