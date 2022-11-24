@@ -6,6 +6,8 @@
 
 - [@j_muguna](https://github.com/JIMMUGUNA789)
 
+- [Michael Sasi](https://github.com/MichaelSasi)
+
 - [@Tariq Khan](https://github.com/Tariq-act)
 
 - [@Alex870209](https://github.com/Alex870209)
@@ -6943,6 +6945,24 @@
 
 -[@dbring](https://github.com/dbring)
 
--[@navesm](https://github.com/navesm)
 
 -[@petermdunn](https://github.com/petermdunn)
+
+-[@navesm](https://github.com/navesm)
+-[@ymw0331](https://github.com/ymw0331/)
+
+-[@EzClops](https://github.com/EzClops)
+-[@sowvino](https://github.com/sowvino/)
+
+-[@MisterTabasco](https://github.com/MisterTabasco/)
+-[@AbebeWolie](https://github.com/AbebeWolie/)
+
+-[@dirga89](https://github.com/dirga89/)
+
+-[@kuriboh31](https://github.com/kuriboh31/)
+
+-[@T-Bax](https://github.com/T-Bax)
+
+-[@rornek](https://github.com/rornek)
+
+- [@ashrafuljoypb](https://github.com/ashrafuljoypb)
