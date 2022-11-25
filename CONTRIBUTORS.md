@@ -6944,13 +6944,17 @@
 -[@AbhiMishra-Now](https://github.com/AbhiMishra-Now)
 
 -[@dbring](https://github.com/dbring)
+
 -[@navesm](https://github.com/navesm)
+
 -[@ymw0331](https://github.com/ymw0331/)
 
 -[@EzClops](https://github.com/EzClops)
+
 -[@sowvino](https://github.com/sowvino/)
 
 -[@MisterTabasco](https://github.com/MisterTabasco/)
+
 -[@AbebeWolie](https://github.com/AbebeWolie/)
 
 -[@dirga89](https://github.com/dirga89/)
@@ -6961,10 +6965,12 @@
 
 -[@rornek](https://github.com/rornek)
 
-- [@ashrafuljoypb](https://github.com/ashrafuljoypb)
+-[@ashrafuljoypb](https://github.com/ashrafuljoypb)
   
-  -[@faithpacifica](https://github.com/faithpacifica)
+-[@faithpacifica](https://github.com/faithpacifica)
 
-  -[@JakeMoretz](https://github.com/JakeMoretz)
+-[@JakeMoretz](https://github.com/JakeMoretz)
   
 -[@bakasajoshua](https://github.com/bakasajoshua)
+
+-[@mz-suzin](https://github.com/mz-suzin)
