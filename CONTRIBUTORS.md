@@ -6961,8 +6961,10 @@
 
 -[@rornek](https://github.com/rornek)
 
-- [@ashrafuljoypb](https://github.com/ashrafuljoypb)
+-[@ashrafuljoypb](https://github.com/ashrafuljoypb)
   
-  -[@faithpacifica](https://github.com/faithpacifica)
+-[@faithpacifica](https://github.com/faithpacifica)
 
-  -[@JakeMoretz](https://github.com/JakeMoretz)
+-[@JakeMoretz](https://github.com/JakeMoretz)
+
+-[@mdevonshire](https://github.com/mdevonshire)
