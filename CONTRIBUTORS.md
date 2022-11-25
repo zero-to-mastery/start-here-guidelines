@@ -6963,6 +6963,9 @@
 
 - [@ashrafuljoypb](https://github.com/ashrafuljoypb)
   
-  -[@faithpacifica](https://github.com/faithpacifica)
+-[@faithpacifica](https://github.com/faithpacifica)
 
-  -[@JakeMoretz](https://github.com/JakeMoretz)
+-[@JakeMoretz](https://github.com/JakeMoretz)
+
+-[@Cristian-sanchez14](https://github.com/Cristian-sanchez14)
+
