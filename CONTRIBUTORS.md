@@ -7078,6 +7078,6 @@
 
 -[@kristybell](https://github.com/kristybell)
 
-- [@EA5](https://github.com/EA5)
+-[@EA5](https://github.com/EA5)
 
 -[@alexk1919](https://github.com/alexk1919)
