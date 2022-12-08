@@ -1,9 +1,12 @@
 # CONTRIBUTORS
+
+- [@vollmann-ariel](https://github.com/vollmann-ariel)
+
 - [@p-acs8](https://github.com/p-acs8/)
 
 - [@mbajinaru](https://github.com/mbajinaru)
 
--[@Meis01](https://github.com/Meis01)
+- [@Meis01](https://github.com/Meis01)
 
 - [@Jonotassia](https://github.com/jonotassia)
 
@@ -6826,8 +6829,6 @@
 
 -[@jonasfounkeu](https://github.com/jonasfounkeu/)
 
--[@vollmann-ariel](https://github.com/vollmann-ariel)
-
 -[@oryan86](https://github.com/oryan86)
 
 -[@Traviski93](https://github.com/Traviski93)
@@ -7097,3 +7098,4 @@
 -[@eoamegassi](https://github.com/eoamegassi)
 
 -[@borkusgod](https://github.com/borkusgod)
+
