@@ -5416,8 +5416,6 @@
 
 - [@katanaji](https://github.com/katanaji)
 
-- [@08freyza](https://github.com/08freyza)
-
 - [@rubenverkuylen](https://github.com/rubenverkuylen)
 
 - [@AudleyCoding](https://github.com/AudleyCoding)
@@ -7109,3 +7107,5 @@
 -[@paramjeetdhiman](https://github.com/paramjeetdhiman)
 
 -[@AdityaPote](https://github.com/AdityaPote)
+
+- [@08freyza](https://github.com/08freyza)
