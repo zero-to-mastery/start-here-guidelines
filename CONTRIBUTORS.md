@@ -14,6 +14,8 @@
 
 - [@Gio Martin](https://github.com/giolmartin)
 
+- [@Shinagawa-monkey](https://github.com/Shinagawa-monkey)
+
 - [@Danijel Adrinek](https://github.com/DanijelAdrinek)
 
 - [@spiderxp3](https://github.com/spiderxp3)
