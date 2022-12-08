@@ -6906,8 +6906,6 @@
 
 -[@percivaltogara](https://github.com/Percivaltogara)
 
--[@Snopcare](https://github.com/Snopcare/)
-
 -[@muvonglao](https://github.com/muvonglao/)
 
 -[@natcat38](https://github.com/natcat38)
@@ -7111,3 +7109,5 @@
 -[@AdityaPote](https://github.com/AdityaPote)
 
 -[@sjoemetsa](https://github.com/sjoemetsa)
+
+-[@Snopcare](https://github.com/Snopcare/)
