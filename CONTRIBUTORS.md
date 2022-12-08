@@ -53,3 +53,5 @@
 -[@ritabradley](https://github.com/ritabradley)
 
 -[@jideabdqudus](https://github.com/jideabdqudus)
+
+-[@Stika01](https://github.com/Stika01)
