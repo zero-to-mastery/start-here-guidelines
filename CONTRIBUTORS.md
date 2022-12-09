@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Purple-Slayer](https://github.com/Purple-Slayer)
 
 -[@paramjeetdhiman](https://github.com/paramjeetdhiman)
@@ -73,5 +74,7 @@
 
 -[@Arioum](https://github.com/Arioum)
 
--[@q-rault](https://github.com/q-rault)
--[@leul1212] (https://github.com/leul1212)
+-[@q-rault](https://github.com/q-rault) -[@leul1212]
+(https://github.com/leul1212)
+
+-[@HaylzRandom](https://github.com/haylzrandom)
