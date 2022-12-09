@@ -64,4 +64,4 @@
 
 - [@afrokayie](https://github.com/afrokayie)
 
-- (https://github.com/boneswvb)
+- [@boneswvb](https://github.com/boneswvb)
