@@ -57,3 +57,5 @@
 -[@lcveron](https://github.com/lcveron)
 
 -[@Stika01](https://github.com/Stika01)
+
+-[@danieljimenzg](https://github.com/danieljimenzg)
