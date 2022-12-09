@@ -71,7 +71,10 @@
 
 - [@amrindra](https://github.com/Amrindra)
 
--[@Arioum](https://github.com/Arioum)
+- [@Arioum](https://github.com/Arioum)
 
--[@q-rault](https://github.com/q-rault)
--[@leul1212] (https://github.com/leul1212)
+- [@q-rault](https://github.com/q-rault)
+
+- [@leul1212] (https://github.com/leul1212)
+
+- [@Pfrommer1982] (https://github.com/Pfrommer1982)
