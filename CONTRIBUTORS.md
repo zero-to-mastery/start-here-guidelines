@@ -1,5 +1,7 @@
 # CONTRIBUTORS
-- [@Purple-Slayer](https://github.com/Purple-Slayer)
+-[@dumezthomas](https://github.com/dumezthomas)
+
+-[@Purple-Slayer](https://github.com/Purple-Slayer)
 
 -[@paramjeetdhiman](https://github.com/paramjeetdhiman)
 
@@ -59,33 +61,36 @@
 
 -[@Stika01](https://github.com/Stika01)
 
-- [@jlachondo](https://github.com/jlachondo)
+-[@jlachondo](https://github.com/jlachondo)
 
-- [@rccondotta](https://github.com/rccondotta)
+-[@rccondotta](https://github.com/rccondotta)
 
-- [@afrokayie](https://github.com/afrokayie)
+-[@afrokayie](https://github.com/afrokayie)
 
-- [@shahrokh-t](https://github.com/shahrokh-t)
+-[@shahrokh-t](https://github.com/shahrokh-t)
 
-- [@shravanksubrahmanya](https://github.com/shravanksubrahmanya)
+-[@shravanksubrahmanya](https://github.com/shravanksubrahmanya)
 
-- [@amrindra](https://github.com/Amrindra)
+-[@amrindra](https://github.com/Amrindra)
 
 -[@Arioum](https://github.com/Arioum)
 
 -[@q-rault](https://github.com/q-rault)
+
 -[@leul1212] (https://github.com/leul1212)
+
 -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@akifunal](https://github.com/akifunal)
 
-- [@terryllowery](https://github.com/terryllowery)
+-[@terryllowery](https://github.com/terryllowery)
 
-- [@enthr](https://github.com/enthr)
+-[@enthr](https://github.com/enthr)
 
-- [@mikedadalin](https://github.com/mikedadalin)
+-[@mikedadalin](https://github.com/mikedadalin)
 
-- [@beavinco](https://github.com/beavinco)
+-[@beavinco](https://github.com/beavinco)
 
 -[@dkembre](https://github.com/dkembre)
+
 -[@pinatic](https://github.com/Pinatic79)
