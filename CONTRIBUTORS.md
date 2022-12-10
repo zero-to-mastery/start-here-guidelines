@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Purple-Slayer](https://github.com/Purple-Slayer)
 
 -[@paramjeetdhiman](https://github.com/paramjeetdhiman)
@@ -73,9 +74,7 @@
 
 -[@Arioum](https://github.com/Arioum)
 
--[@q-rault](https://github.com/q-rault)
--[@leul1212] (https://github.com/leul1212)
--[@Radiostranger](https://github.com/Radiostranger)
+-[@q-rault](https://github.com/q-rault) -[@leul1212](https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@akifunal](https://github.com/akifunal)
 
@@ -87,5 +86,6 @@
 
 - [@beavinco](https://github.com/beavinco)
 
--[@dkembre](https://github.com/dkembre)
--[@pinatic](https://github.com/Pinatic79)
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
+
+-[@iamheewonkim](https://github.com/iamheewonkim)
