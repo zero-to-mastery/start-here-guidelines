@@ -1,9 +1,10 @@
 # CONTRIBUTORS
-- [@Purple-Slayer](https://github.com/Purple-Slayer)
+
+-   [@Purple-Slayer](https://github.com/Purple-Slayer)
 
 -[@paramjeetdhiman](https://github.com/paramjeetdhiman)
 
-- [@SunilBoopalan](https://github.com/sunilboopalan)
+-   [@SunilBoopalan](https://github.com/sunilboopalan)
 
 -[@AdityaPote](https://github.com/AdityaPote)
 
@@ -61,36 +62,33 @@
 
 -[@Stika01](https://github.com/Stika01)
 
-- [@jlachondo](https://github.com/jlachondo)
+-   [@jlachondo](https://github.com/jlachondo)
 
-- [@rccondotta](https://github.com/rccondotta)
+-   [@rccondotta](https://github.com/rccondotta)
 
-- [@afrokayie](https://github.com/afrokayie)
+-   [@afrokayie](https://github.com/afrokayie)
 
-- [@shahrokh-t](https://github.com/shahrokh-t)
+-   [@shahrokh-t](https://github.com/shahrokh-t)
 
-- [@shravanksubrahmanya](https://github.com/shravanksubrahmanya)
+-   [@shravanksubrahmanya](https://github.com/shravanksubrahmanya)
 
-- [@amrindra](https://github.com/Amrindra)
+-   [@amrindra](https://github.com/Amrindra)
 
 -[@Arioum](https://github.com/Arioum)
 
--[@q-rault](https://github.com/q-rault)
--[@leul1212] (https://github.com/leul1212)
--[@Radiostranger](https://github.com/Radiostranger)
+-[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@akifunal](https://github.com/akifunal)
 
-- [@terryllowery](https://github.com/terryllowery)
+-   [@terryllowery](https://github.com/terryllowery)
 
-- [@enthr](https://github.com/enthr)
+-   [@enthr](https://github.com/enthr)
 
-- [@mikedadalin](https://github.com/mikedadalin)
+-   [@mikedadalin](https://github.com/mikedadalin)
 
-- [@beavinco](https://github.com/beavinco)
+-   [@beavinco](https://github.com/beavinco)
 
--[@dkembre](https://github.com/dkembre)
--[@pinatic](https://github.com/Pinatic79)
+-[@dkembre](https://github.com/dkembre) -[@pinatic](https://github.com/Pinatic79)
 
 -[@rzilla92](https://github.com/rzilla92/)
 
@@ -111,3 +109,5 @@
 -[@brenovlb](https://github.com/brenovlb)
 
 -[@jorlar](https://github.com/jorlar)
+
+-[@kb-git-hub](https://github.com/kb-git-hub)
