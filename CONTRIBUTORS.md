@@ -145,3 +145,6 @@
 - [@the0ninjas](https://github.com/the0ninjas)
 
 - [@daniloHung](https://github.com/danilo-hung)
+
+- [@Davidcaralza15](https://github.com/Davidcaralza15/)
+
