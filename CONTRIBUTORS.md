@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+
+-[@gaetanBloch](https://github.com/gaetanBloch)
+
 - [@Purple-Slayer](https://github.com/Purple-Slayer)
 
 -[@paramjeetdhiman](https://github.com/paramjeetdhiman)
