@@ -146,5 +146,5 @@
 
 - [@daniloHung](https://github.com/danilo-hung)
 
-- [@Davidcaralza15](https://github.com/Davidcaralza15/)
+- [@Davidcaralza15](https://github.com/Davidcaralza15)
 
