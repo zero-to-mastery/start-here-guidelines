@@ -141,3 +141,10 @@
 -[@joshperlette](https://github.com/joshperlette)
 
 -[@1Bianca0](https://github.com/1Bianca0)
+
+- [@mohamedvol1](https://github.com/mohamedvol1)
+
+-[@wcares](https://github.com/wcares/)
+
+-[@jeddstudio](https://github.com/jeddstudio)
+
