@@ -136,3 +136,5 @@
 -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 - [@leeorf](https://github.com/leeorf)
+
+-[@j0sm](https://github.com/j0sm/)
