@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+
+- [@febomtempo](https://github.com/febomtempo)
+
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
 - [@p-acs8](https://github.com/p-acs8/)
@@ -5119,8 +5122,6 @@
 - [@Bryan](https://github.com/HeyaIe)
 
 - [@ClaireKarsenti](https://github.com/ClaireKarsenti)
-
-- [@febomtempo](https://github.com/febomtempo)
 
 - [@NeginOlfat](https://github.com/NeginOlfat/)
 
