@@ -236,3 +236,5 @@
 -[@KennyMcGeoch](https://github.com/KennyMcGeoch)
 
 -[@mikowhyHUB](https://github.com/mikowhyHUB)
+
+-[@clarsendartois](https://github.com/clarsendartois)
