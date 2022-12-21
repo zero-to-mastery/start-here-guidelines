@@ -6868,6 +6868,7 @@
 - [@jhaycee11](https://github.com/jhaycee11)
 
 - [@Suraj-Patra](https://github.com/Suraj-Patra)
+
 - [@ramsundar07](https://github.com/ramsundar07/)
 
 - [@cadumrod](https://github.com/cadumrod)
@@ -6944,11 +6945,19 @@
 
 -[@AbhiMishra-Now](https://github.com/AbhiMishra-Now)
 
--[@dbring](https://github.com/dbring) -[@navesm](https://github.com/navesm) -[@ymw0331](https://github.com/ymw0331/)
+-[@dbring](https://github.com/dbring) 
 
--[@EzClops](https://github.com/EzClops) -[@sowvino](https://github.com/sowvino/)
+-[@navesm](https://github.com/navesm) 
 
--[@MisterTabasco](https://github.com/MisterTabasco/) -[@AbebeWolie](https://github.com/AbebeWolie/)
+-[@ymw0331](https://github.com/ymw0331/)
+
+-[@EzClops](https://github.com/EzClops) 
+
+-[@sowvino](https://github.com/sowvino/)
+
+-[@MisterTabasco](https://github.com/MisterTabasco/) 
+
+-[@AbebeWolie](https://github.com/AbebeWolie/)
 
 -[@dirga89](https://github.com/dirga89/)
 
@@ -6958,11 +6967,11 @@
 
 -[@rornek](https://github.com/rornek)
 
-- [@ashrafuljoypb](https://github.com/ashrafuljoypb)
+-[@ashrafuljoypb](https://github.com/ashrafuljoypb)
 
-  -[@faithpacifica](https://github.com/faithpacifica)
+-[@faithpacifica](https://github.com/faithpacifica)
 
-  -[@JakeMoretz](https://github.com/JakeMoretz)
+-[@JakeMoretz](https://github.com/JakeMoretz)
 
 -[@bakasajoshua](https://github.com/bakasajoshua)
 
@@ -6974,11 +6983,17 @@
 
 -[@Abinusawa](https://github.com/Abinusawa)
 
-- [<i><b>@RaviTechnoMindz</i></b>](https://github.com/RaviTechnoMindz)
+-[@RaviTechnoMindz](https://github.com/RaviTechnoMindz)
 
 -[@kwaichanz](https://github.com/kwaichanz/)
 
--[@FadedAditya](https://github.com/FadedAditya/) -[@imanirak](https://github.com/imanirak/) -[@Ankitkumar116](https://github.com/Ankitkumar116) -[@AngelaBowen](https://github.com/AngelaBowen)
+-[@FadedAditya](https://github.com/FadedAditya/) 
+
+-[@imanirak](https://github.com/imanirak/) 
+
+-[@Ankitkumar116](https://github.com/Ankitkumar116) 
+
+-[@AngelaBowen](https://github.com/AngelaBowen)
 
 -[@ivansing](https://github.com/ivansing)
 
