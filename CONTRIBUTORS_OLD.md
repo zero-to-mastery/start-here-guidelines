@@ -7078,8 +7078,6 @@
 
 -[@DecodeAjay](https://github.com/DecodeAjay)
 
--[@BrandonT3](https://github.com/BrandonT3)
-
 -[@InternetOG](https://github.com/InternetOG)
 
 -[@sajda](https://github.com/sajdakabir)
