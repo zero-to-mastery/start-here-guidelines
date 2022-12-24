@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@marustas](https://github.com/marustas)
+
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
 - [@brandonHafley](https://github.com/brandonHafley)
@@ -275,3 +277,17 @@
 -[@02fede02](https://github.com/02fede02)
 
 -[@york-citynew](https://github.com/York-Citynew)
+
+-[@pvsaraf](https://github.com/Pvsaraf)
+
+-[@BrandonT3](https://github.com/BrandonT3)
+
+- [@javigong](https://github.com/javigong)
+
+-[@ezzykine](https://github.com/ezzykine)
+
+-[@Tushar458](https://github.com/Tushar458)
+
+-[@Dofften](https://github.com/Dofften)
+
+-[@viktory456](https://github.com/viktory456)
