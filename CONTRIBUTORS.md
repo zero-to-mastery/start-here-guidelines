@@ -195,11 +195,11 @@
 
 - [@Samudrala-Apurva](https://github.com/Samudrala-Apurva/)
 
-- [@Tom-Savage](https://github.com/Tom-Savage)
+-[@Tom-Savage](https://github.com/Tom-Savage)
 
-- [@Nisan94](https://github.com/Nisan94/)
+-[@Nisan94](https://github.com/Nisan94/)
 
-- [@dreamdev41](https://github.com/dreamdev41)
+-[@dreamdev41](https://github.com/dreamdev41)
 
 -[@marshlendel](https://github.com/marshlendel)
 
@@ -265,7 +265,7 @@
 
 -[@pradytpk](https://github.com/pradytpk)
 
--[@Taruna-Rawat)](https://github.com/Taruna-Rawat
+-[@Taruna-Rawat](https://github.com/Taruna-Rawat
 
 -[@rgreenfield](https://github.com/rgreenfield)
 
@@ -273,11 +273,11 @@
 
 -[@rayfield5000](https://github.com/rayfield5000)
 
-- [artursniegowski](https://github.com/artursniegowski)
+-[artursniegowski](https://github.com/artursniegowski)
 
-- [@Strela196](https://github.com/Strela196)
+-[@Strela196](https://github.com/Strela196)
 
-- [@em-wiz](https://github.com/em-wiz)
+-[@em-wiz](https://github.com/em-wiz)
 
 -[@cem-1](https://github.com/cem-1)
 
@@ -321,9 +321,9 @@
 
 -[@amodeusr](https://github.com/amodeusr)
 
-- [@dragonstar41](https://github.com/dragonstar41)
+-[@dragonstar41](https://github.com/dragonstar41)
 
-- [@Chiranjeev-Kartik](https://github.com/Chiranjeev-Kartik)
+-[@Chiranjeev-Kartik](https://github.com/Chiranjeev-Kartik)
 
 -[@@Sayed-Afnan-Khazi](https://github.com/Sayed-Afnan-Khazi)
 
