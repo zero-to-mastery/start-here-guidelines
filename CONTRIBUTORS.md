@@ -393,4 +393,7 @@
 
 -[@kamalustech](https://github.com/kamalustech)
 
--[@Rachel-Cellulose] (https://github.com/Rachel-Cellulose)
+-[@Rachel-Cellulose](https://github.com/Rachel-Cellulose)
+
+-[@jasonjamesmoore](https://github.com/jasonjamesmoore)
+
