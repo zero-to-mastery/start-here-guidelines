@@ -452,9 +452,9 @@
 
 - [@Wilken311](https://github.com/wilken311)
 
-<<<<<<< HEAD
+
 -[@Govind713](https://github.com/Govind713)
-=======
+
 -[@Nishiramirai](https://github.com/Nishiramirai)
 
 - [@Beerens20](https:////github.com/beerens20)
@@ -466,4 +466,3 @@
 -[@Mahir118](https://github.com/mahir118)
 
 -[@ioapap](https://github.com/ioapap)
->>>>>>> ddb9c1bcfe0c1c4164400794cf8f3cdf4880960e
