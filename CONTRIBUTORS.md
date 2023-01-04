@@ -1,5 +1,8 @@
 # CONTRIBUTORS
 
+- [@joancodes] (https://github.com/joancodes)
+- [@fabioauroradev](https://github.com/FabioAurora)
+
 - [@ekramasif](https://github.com/ekramasif)
 
 -[@ekramasif](https://github.com/parvej2001)
@@ -449,4 +452,18 @@
 
 - [@Wilken311](https://github.com/wilken311)
 
+<<<<<<< HEAD
 -[@Govind713](https://github.com/Govind713)
+=======
+-[@Nishiramirai](https://github.com/Nishiramirai)
+
+- [@Beerens20](https:////github.com/beerens20)
+
+-[@dbastos1](https://github.com/dbastos1)
+
+-[@EHFuentes](https://github.com/EHFuentes)
+
+-[@Mahir118](https://github.com/mahir118)
+
+-[@ioapap](https://github.com/ioapap)
+>>>>>>> ddb9c1bcfe0c1c4164400794cf8f3cdf4880960e
