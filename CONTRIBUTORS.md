@@ -490,8 +490,8 @@
 
 -[@Pablobarrerae](https://github.com/Pablobarrerae)
 
-- [@THoj13](https://github.com/THoj13)
+-[@THoj13](https://github.com/THoj13)
 
-- [@roshan798](https://github.com/roshan798)
+-[@roshan798](https://github.com/roshan798)
 
-- [@Emil13ach](https://github.com/Emi13ach)
+-[@Emil13ach](https://github.com/Emi13ach)
