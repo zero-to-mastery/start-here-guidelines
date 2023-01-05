@@ -494,4 +494,4 @@
 
 - [@roshan798](https://github.com/roshan798)
 
-- [@MaierMihai90](https://github.com/MaierMihai90/)
+- [@MaierMihai90](https://github.com/MaierMihai90)
