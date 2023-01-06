@@ -492,6 +492,4 @@
 
 - [@THoj13](https://github.com/THoj13)
 
-- [@roshan798](https://github.com/roshan798)
-
 -[@Emi13ach](https://github.com/Emi13ach)
