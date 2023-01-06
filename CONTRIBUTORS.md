@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@belaid-dali] (<https://github.com/belaid-dali>)
+
 - [@joancodes] (https://github.com/joancodes)
 - [@fabioauroradev](https://github.com/FabioAurora)
 
@@ -466,3 +468,32 @@
 -[@f1v3-dev](https://github.com/f1v3-dev)
 
 -[@Vinod-Deshmukh](https://github.com/Vinod-Deshmukh)
+-[@nostalgiccat](https://github.com/nostalgiccat)
+
+-[@terrence-gonsalves](https://github.com/terrence-gonsalves)
+
+-[@Israq](https://github.com/Israq)
+
+-[@sarthakkimtani](https://github.com/sarthakkimtani)
+
+-[@Sid-Varangaonkar](https://github.com/Sid-Varangaonkar)
+
+-[@Pablobarrerae](https://github.com/Pablobarrerae)
+
+- [@THoj13](https://github.com/THoj13)
+
+- [@roshan798](https://github.com/roshan798)
+
+- [@SaiAungMinKhant](https://github.com/SaiAungMinKhant)
+
+- [@iAmSella](https://github.com/iAmSella)
+
+- [@dtietje](https://github.com/dtietje)
+
+- [@mtpeir](https://github.com/mtpeir)
+
+-[@TimothyTanKW](https://github.com/TimothyTanKW)
+
+-[@jiten1711](https://github.com/jiten1711/)
+
+-[@jaydww](https://github.com/jaydww/)
