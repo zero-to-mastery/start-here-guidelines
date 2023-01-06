@@ -73,7 +73,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 10. Go to the GitHub page of _your fork_, and make a pull request:
 
-    ![pull request image](https://docs.github.com/assets/cb-87213/images/help/pull_requests/pull-request-review-edit-branch.png/)
+    ![pull request image](https://docs.github.com/assets/cb-87213/images/help/pull_requests/pull-request-review-edit-branch.png)
 
     Read more about pull requests on the [GitHub help pages](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
