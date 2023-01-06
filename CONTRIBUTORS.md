@@ -483,4 +483,14 @@
 
 - [@roshan798](https://github.com/roshan798)
 
-- [@Harixomxsingh](https://github.com/Harixomxsingh)
+- [@SaiAungMinKhant](https://github.com/SaiAungMinKhant)
+
+- [@iAmSella](https://github.com/iAmSella)
+
+- [@dtietje](https://github.com/dtietje)
+
+- [@mtpeir](https://github.com/mtpeir)
+
+-[@TimothyTanKW](https://github.com/TimothyTanKW)
+
+-[@jiten1711](https://github.com/jiten1711/)
