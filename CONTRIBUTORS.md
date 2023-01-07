@@ -522,4 +522,4 @@
 
 -[@arpadikuma](https://github.com/arpadikuma)
 
-- [@highvibez](https://github.com/highvibez)
+-[@highvibez](https://github.com/highvibez/)
