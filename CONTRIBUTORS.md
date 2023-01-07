@@ -502,4 +502,24 @@
 
 - [@mtpeir](https://github.com/mtpeir)
 
+-[@TimothyTanKW](https://github.com/TimothyTanKW)
+
+-[@jiten1711](https://github.com/jiten1711/)
+
+-[@jaydww](https://github.com/jaydww/)
+
+-[@alexfedorov86](https://github.com/alexfedorov86/)
+
+-[@DigitalSpice](https://github.com/DigitalSpice)
+
+- [@frhel](https://github.com/frhel/)
+
+-[@Emi13ach](https://github.com/Emi13ach/)
+
+-[@Sebadm20](https://github.com/Sebadm20)
+
+-[@aandoney](https://github.com/aandoney)
+
+-[@arpadikuma](https://github.com/arpadikuma)
+
 - [@highvibez](https://github.com/highvibez)
