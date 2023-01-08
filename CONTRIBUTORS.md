@@ -527,4 +527,18 @@
 
 -[@MamounAttaallah](https://github.com/MamounAttaallah)
 
+-[@masonsinner](https://github.com/masonsinner)
+
+-[@papacuerpo](https://github.com/papacuerpo)
+
+-[@lizbethdimonti](https://github.com/lizbethdimonti)
+
+-[@highvibez](https://github.com/highvibez)
+
+-[@FaresLab](https://github.com/Fareslab)
+
+-[@MaierMihai90](https://github.com/MaierMihai90)
+
+-[@ThePiyushAggarwal](https://github.com/ThePiyushAggarwal)
+
 -[@ErosAranibar](https://github.com/ErosAranibar)
