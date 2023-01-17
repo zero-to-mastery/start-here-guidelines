@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jalonghurst] (https://github.com/jalonghurst)
+
 - [@belaid-dali] (<https://github.com/belaid-dali>)
 
 - [@joancodes] (https://github.com/joancodes)
@@ -10,6 +12,8 @@
 -[@ekramasif](https://github.com/parvej2001)
 
 - [@marustas](https://github.com/marustas)
+
+- [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanielMartinGit](https://github.com/DanielMartinGit)
 
@@ -353,6 +357,8 @@
 
 -[@EdouardVW](https://github.com/EdouardVW)
 
+-[Vaishnavi Swarnoj](https://github.com/Vaishu03)
+
 -[@MartinBurton](https://github.com/MartinBurton)
 
 -[@danzalone5](https://github.com/danzalone5)
@@ -495,4 +501,4 @@
 
 -[@jiten1711](https://github.com/jiten1711/)
 
--[@Harixomxsingh](https://github.com/Harixomxsingh)
+- [@Harixomxsingh](https://github.com/Harixomxsingh)
