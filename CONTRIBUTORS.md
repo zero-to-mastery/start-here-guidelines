@@ -266,6 +266,8 @@
 
 -[@ItzJammyZz](https://github.com/ItzJammyZz)
 
+-[@shkoda21](https://github.com/shkoda21)
+
 -[@varshininehru](https://github.com/varshininehru)
 
 -[@W1ldr](https://github.com/W1ldr)
@@ -698,4 +700,3 @@
 
 -[@ARSL22](https://github.com/ARSL22)
 
--[@shkoda21](https://github.com/shkoda21)
