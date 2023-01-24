@@ -88,6 +88,8 @@
 
 - [@Jlachondo](https://github.com/jlachondo)
 
+- [@bekalue](https://github.com/bekalue)
+
 - [@joonkyu](https://github.com/joonkyu)
 
 - [@Kingshuk97](https://github.com/Kingshuk97)
