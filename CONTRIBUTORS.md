@@ -118,6 +118,7 @@
 
 - [@williamhill11](https://github.com/WilliamHill11)
 
--[@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
 
--[ayaphillip]((https://github.com/ayaphillip/)
+[@ramakrishnanshreya](https://github.com/ramakrishnanshreya)
+
+-[@ayaphillip](https://github.com/ayaphillip/)
