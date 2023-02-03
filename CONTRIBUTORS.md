@@ -8228,3 +8228,6 @@
 - [@JackCaldwellNichols](https://github.com/JackCaldwellNichols)
 
 - [@VladOneBls](https://github.com/VladOneBls/)
+
+- [@hoangdigan](https://github.com/hoangdigan/)
+
