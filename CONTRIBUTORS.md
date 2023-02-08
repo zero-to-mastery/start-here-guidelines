@@ -65,7 +65,7 @@
 - [@Akifunal](https://github.com/akifunal)
 
 - [@paramjeetdhiman](https://github.com/paramjeetdhiman)
-
+- [@ahguanz](https://github.com/ahguanz)
 - [@Alimardan64](https://github.com/alimardan64)
 
 - [@Amrindra](https://github.com/Amrindra)
@@ -187,6 +187,8 @@
 - [@Sjoemetsa](https://github.com/sjoemetsa)
 
 - [@Stika01](https://github.com/Stika01)
+
+- [@dipankarupd] (https://github.com/dipankarupd)
 
 - [@Terryllowery](https://github.com/terryllowery)
 
@@ -313,6 +315,8 @@
 -[@bigeomaha](https://github.com/bigeomaha)
 
 -[@MarcoM0404](https://github.com/MarcoM0404)
+
+-[@amoferreira](https://github.com/amoferreira)
 
 -[@hakedo](https://github.com/hakedo)
 
@@ -493,6 +497,8 @@
 - [@Bhatdeepika](https://github.com/bhatdeepika)
 
 - [@Bhav1K](https://github.com/bhav1k)
+
+- [@Bhavant](https://github.com/bhavant)
 
 - [@Bidyutmaji](https://github.com/Bidyutmaji/)
 
@@ -3429,6 +3435,8 @@
 
 - [@Sananm](https://github.com/sananm)
 
+- [@carolinejoenson](https://github.com/carolinejoenson)
+
 - [@Sandeepgprec](https://github.com/Sandeepgprec)
 
 - [@Sandranaim](https://github.com/SandraNaim)
@@ -4443,6 +4451,8 @@
 - [@prumiz](https://github.com/prumiz/)
 
 - [@cirstea97](https://github.com/cirstea97)
+
+- [@WardMark](https://github.com/WardMark)
 
 - [@TenmaChinen](https://github.com/TenmaChinen/)
 
@@ -8020,7 +8030,9 @@
 
 - [@jonesjac20](https://github.com/jonesjac20)
 
-- [@luwam-tesfamariam](https://github.com/LuwamTesfamariam)
+-   [@linv2198](https://github.com/linv2198)
+
+-   [@luwam-tesfamariam](https://github.com/LuwamTesfamariam)
 
 - [@princeokoibu](https://github.com/princeokoibu)
 
@@ -8304,3 +8316,17 @@
 - [@shafiqh2](https://github.com/shafiqh2)
 
 - [@Mauricio-Torresl](https://github.com/Mauricio-Torresl/)
+
+- [@alieldab3](https://github.com/alieldab3)
+
+- [@hrithikSanthosh](https://github.com/hrithiksanthosh)
+
+- [@ZahidShah786](https://github.com/ZahidShah786)
+
+- [@victoriagullotti](https://github.com/victoriagullotti)
+
+- [@ben-abbott](https://github.com/ben-abbott)
+
+- [@JeffOlima](https://github.com/JeffOlima)
+
+- [@jacek2003](https://github.com/jacek2003)
