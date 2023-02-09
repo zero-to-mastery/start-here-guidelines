@@ -1862,6 +1862,8 @@
 
 - [@Jleemccaslin](https://github.com/jleemccaslin)
 
+- [@jll19gGH](https://github.com/jll19gGH)
+
 - [@Jmossesgeld](https://github.com/jmossesgeld)
 
 - [@Jnlp](https://github.com/jn-lp)
@@ -1873,6 +1875,8 @@
 - [@Jobbrodriguez](https://github.com/jobb-rodriguez)
 
 - [@Joberbr](https://github.com/joberbr)
+
+- [@Jobkroon](https://github.com/jobkroongit)
 
 - [@Jockeymini](https://github.com/JockeyMini)
 
@@ -3986,6 +3990,8 @@
 - [@Tolufbg](https://github.com/tolufbg)
 
 - [@Tomerbaranes](https://github.com/TomerBaranes)
+
+- [@Almopt](https://github.com/Almopt)
 
 - [@Toni123321](https://github.com/toni123321)
 
@@ -8309,6 +8315,17 @@
 
 - [@JeffOlima](https://github.com/JeffOlima)
 
+- [@JuneyoungMiller](https://github.com/juneyoungMiller)
+
 - [@jacek2003](https://github.com/jacek2003)
 
 - [@kennedy-ogutu](https://github.com/kennedy-ogutu/)
+
+- [@Marinaka22](https://github.com/Marinaka22)
+
+-[@ShinyStarFruit](https://github.com/ShinyStarFruit)
+
+-[@tradengr](https://github.com/tradengr)
+
+-[@ningen-sekai](https://github.com/ningen-sekai)
+ 
