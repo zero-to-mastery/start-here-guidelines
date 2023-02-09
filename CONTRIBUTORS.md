@@ -8321,12 +8321,12 @@
 
 - [@Marinaka22](https://github.com/Marinaka22)
 
--[@ShinyStarFruit](https://github.com/ShinyStarFruit)
+- [@ShinyStarFruit](https://github.com/ShinyStarFruit)
 
--[@tradengr](https://github.com/tradengr)
+- [@tradengr](https://github.com/tradengr)
 
--[@ningen-sekai](https://github.com/ningen-sekai)
+- [@ningen-sekai](https://github.com/ningen-sekai)
 
--[@airmancs](https://github.com/AirmanCS)
+- [@airmancs](https://github.com/AirmanCS)
 
 - [@icarusphoenix](https://github.com/IcarusPhoenix27)
