@@ -185,6 +185,8 @@
 
 - [@Stika01](https://github.com/Stika01)
 
+- [@dipankarupd] (https://github.com/dipankarupd)
+
 - [@Terryllowery](https://github.com/terryllowery)
 
 -[@dkembre](https://github.com/dkembre)
@@ -1860,6 +1862,8 @@
 
 - [@Jleemccaslin](https://github.com/jleemccaslin)
 
+- [@jll19gGH](https://github.com/jll19gGH)
+
 - [@Jmossesgeld](https://github.com/jmossesgeld)
 
 - [@Jnlp](https://github.com/jn-lp)
@@ -1871,6 +1875,8 @@
 - [@Jobbrodriguez](https://github.com/jobb-rodriguez)
 
 - [@Joberbr](https://github.com/joberbr)
+
+- [@Jobkroon](https://github.com/jobkroongit)
 
 - [@Jockeymini](https://github.com/JockeyMini)
 
@@ -8007,6 +8013,8 @@
 
 -   [@jonesjac20](https://github.com/jonesjac20)
 
+-   [@linv2198](https://github.com/linv2198)
+
 -   [@luwam-tesfamariam](https://github.com/LuwamTesfamariam)
 
 -   [@princeokoibu](https://github.com/princeokoibu)
@@ -8302,3 +8310,17 @@
 - [@victoriagullotti](https://github.com/victoriagullotti)
 
 - [@ElenaGregov](https://github.com/ElenaGregov/)
+
+- [@ben-abbott](https://github.com/ben-abbott)
+
+- [@JeffOlima](https://github.com/JeffOlima)
+
+- [@JuneyoungMiller](https://github.com/juneyoungMiller)
+
+- [@jacek2003](https://github.com/jacek2003)
+
+- [@Marinaka22](https://github.com/Marinaka22)
+
+-[@ShinyStarFruit](https://github.com/ShinyStarFruit)
+
+-[@tradengr](https://github.com/tradengr)
