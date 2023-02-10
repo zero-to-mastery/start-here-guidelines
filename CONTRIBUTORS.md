@@ -3343,6 +3343,8 @@
 
 - [@Rubiin](https://github.com/rubiin)
 
+- [@elysenewland](https://github.com/elysenewland)
+
 - [@Rubyzhuang](https://github.com/Ruby-Zhuang)
 
 - [@Ruslansweml](https://github.com/ruslan-shulhan)
@@ -8339,5 +8341,3 @@
 -[@qiaoooo](https://github.com/qiaoooo/)
 
 -[@alperencngz] (https://github.com/alperencngz)
-
--[@elysenewland] (https://github.com/elysenewland)
