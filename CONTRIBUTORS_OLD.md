@@ -15273,3 +15273,5 @@
 - [@AndyCarriere](https://github.com/AndyCarriere/)
 
 - [@AditKhandelwal](https://github.com/AditKhandelwal)
+
+- [@HavreLoic](https://github.com/HavreLoic/)
