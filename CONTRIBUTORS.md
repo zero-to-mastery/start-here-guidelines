@@ -3264,6 +3264,8 @@
 
 - [@Rehanqasimk](https://github.com/rehanqasimk)
 
+- [@SopheeThomas](https://github.com/SopheeThomas)
+
 - [@Rehant123](https://github.com/rehant123)
 
 - [@Relieyanhilman](https://github.com/relieyanhilman)
@@ -4222,6 +4224,8 @@
 - [@Whit321000](https://github.com/whit3210000)
 
 - [@Whosedreamisthis](https://github.com/whosedreamisthis)
+
+- [@poulsen1114] (https://github.com/poulsen1114)
 
 - [@Wickerman24](https://github.com/Wickerman24)
 
@@ -8407,3 +8411,11 @@
 -[@MuhammadQasimSiddiqui](https://github.com/MuhammadQasimSiddiqui/)
 
 -[@adrvnc](https://github.com/adrvnc)
+
+-[@Moccasym](https://github.com/Moccasym/)
+-[@BHARGAV596](https://github.com/BHARGAV596/)
+
+-[@poulsen1114](https://github.com/poulsen1114)
+
+-[@miikepine] (https://github.com/MiikePine)
+
