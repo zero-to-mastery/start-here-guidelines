@@ -28,8 +28,9 @@
 
   -[@fabioauroradev](https://github.com/FabioAurora)
 
-- [@joancodes] (https://github.com/joancodes)
-- [@ananddixit007] (https://github.com/ananddixit007)
+- [@joancodes](https://github.com/joancodes)
+
+- [@ananddixit007](https://github.com/ananddixit007)
 
 - [@fabioauroradev](https://github.com/FabioAurora)
 
@@ -81,7 +82,7 @@
 
 - [@Amrindra](https://github.com/Amrindra)
 
-- [@countOfMonteCristo13] (https://github.com/countOfMonteCristo13)
+- [@countOfMonteCristo13](https://github.com/countOfMonteCristo13)
 
 - [@Arioum](https://github.com/Arioum)
 
@@ -171,7 +172,7 @@
 
 -[@q-rault](https://github.com/q-rault)
 
--[@leul1212] (https://github.com/leul1212)
+-[@leul1212](https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
 
@@ -183,7 +184,7 @@
 
 -[@q-rault](https://github.com/q-rault)
 
--[@leul1212] (https://github.com/leul1212)
+-[@leul1212](https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
 
@@ -8399,7 +8400,7 @@
 
 -[@qiaoooo](https://github.com/qiaoooo/)
 
--[@alperencngz] (https://github.com/alperencngz)
+-[@alperencngz](https://github.com/alperencngz)
 
 -[@Zibi95](https://github.com/Zibi95/)
 
@@ -8414,7 +8415,7 @@
 
 -[@rvong65](https://github.com/rvong65)
 
--[@ElvioAbduction] (https://github.com/ElvioAbduction)
+-[@ElvioAbduction](https://github.com/ElvioAbduction)
 
 -[@AbuHuraira4830](https://github.com/AbuHuraira4830)
 
@@ -8431,15 +8432,16 @@
 -[@MuhammadQasimSiddiqui](https://github.com/MuhammadQasimSiddiqui/)
 
 -[@Moccasym](https://github.com/Moccasym/)
+
 -[@BHARGAV596](https://github.com/BHARGAV596/)
 
 -[@poulsen1114](https://github.com/poulsen1114)
 
--[@miikepine] (https://github.com/MiikePine)
--[@PinkHills] (https://github.com/PinkHills/)
+-[@miikepine](https://github.com/MiikePine)
 
--[@AskurTomasson] (https://github.com/AskurTomasson/)
-fe477c7f6162e310f2e603958da3d37cc1fc69ab
+-[@PinkHills](https://github.com/PinkHills/)
+
+-[@AskurTomasson](https://github.com/AskurTomasson/)
 
 -[@duncanomondi](https://github.com/duncanomondi/)
 
@@ -8475,4 +8477,4 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
 -[@birkanatici](https://github.com/birkanatici/)
 
--[@rednoodle](https://github.com/rednoodle325/)
+-[@rednoodle325](https://github.com/rednoodle325/)
