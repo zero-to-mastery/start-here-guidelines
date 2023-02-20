@@ -16,6 +16,7 @@
 
 - [@jalonghurst] (https://github.com/jalonghurst)
 
+
 - [@Ngyyen](https://github.com/Ngyyen)
 
 - [@anna-kulyk](https://github.com/anna-kulyk)
@@ -3468,6 +3469,8 @@
 - [@Samyakmohelay](https://github.com/samyakmohelay)
 
 - [@Sanabadaha](https://github.com/sanabadaha)
+
+- [@Catoos](https://github.com/Catoos)
 
 - [@Sananm](https://github.com/sananm)
 
@@ -8439,6 +8442,8 @@
 -[@AskurTomasson] (https://github.com/AskurTomasson/)
 fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
+-[@khaliq2309](https://github.com/khaliq2309/)
+
 -[@duncanomondi](https://github.com/duncanomondi/)
 
 -[@cristina-trebe](https://github.com/cristina-trebe/)
@@ -8472,3 +8477,11 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@jakeoyd](https://github.com/jakeoyd/)
 
 -[@birkanatici](https://github.com/birkanatici/)
+
+-[@umangm17](https://github.com/umangm17/)
+
+-[@emmaj86](https://github.com/emmaj86/)
+
+-[@arsbu1m](https://github.com/arsbu1m)
+
+-[@pypcio](https://github.com/pypcio)
