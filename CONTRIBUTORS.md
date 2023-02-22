@@ -47,6 +47,7 @@
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@Vasanth](https://github.com/v-vasanth)
+- [@accaradhika](https://github.com/accaradhika)
 
 - [@ZaidM](https://github.com/zaid-007)
 
@@ -723,6 +724,8 @@
 
 - [@Chrisyanggit](https://github.com/chrisyang-git/)
 
+- [@rjozso](https://github.com/rjozso/)
+
 - [@Cindyhuang888](https://github.com/CindyHuang888)
 
 - [@Cjmugs](https://github.com/cjmugs/)
@@ -1290,6 +1293,8 @@
 - [@Fatin3Ihsan](https://github.com/fatin3ihsan)
 
 - [@Fatlumbehrami](https://github.com/fatlumbehrami)
+
+- [@emontes22](https://github.com/emontes22)
 
 - [@Fawwaz95](https://github.com/fawwaz95)
 
@@ -2530,6 +2535,8 @@
 - [@Mayorman07](https://github.com/Mayorman07)
 
 - [@Mayuresh](https://github.com/mayureshzende)
+
+- [@prdicochea](https://github.com/prdicochea)
 
 - [@Mazbac](https://github.com/Mazbac)
 
@@ -4804,6 +4811,8 @@
 
 - [@Zocum](https://github.com/Zocum)
 
+- [@EduardoSalasG](https://github.com/EduardoSalasG)
+
 - [@alanajac](https://github.com/alanajac)
 
 - [@kishky101](https://github.com/kishky101)
@@ -7071,6 +7080,8 @@
 
 - [@atif-dev](https://github.com/atif-dev)
 
+- [@meromero2](https://github.com/meromero2)
+
 - [@Sayed-Husain](https://github.com/Sayed-Husain)
 
 - [@dscheeff](https://github.com/dscheeff)
@@ -8446,7 +8457,7 @@
 
 -[@miikepine] (https://github.com/MiikePine)
 -[@PinkHills] (https://github.com/PinkHills/)
-
+- [@pranta-barua007](https://github.com/pranta-barua007)
 -[@AskurTomasson] (https://github.com/AskurTomasson/)
 fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
@@ -8487,6 +8498,9 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@birkanatici](https://github.com/birkanatici/)
 -[@umangm17](https://github.com/umangm17/)
 
+-[@CamMcCluskey](https://github.com/cammccluskey)
+
+-[@vedanshk](https://github.com/vedanshk)
 -[@emmaj86](https://github.com/emmaj86/)
 
 -[@arsbu1m](https://github.com/arsbu1m)
@@ -8495,7 +8509,15 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
 -[@Sattar-Z](https://github.com/Sattar-Z/)
 
--[@Manuwebdevelopment] (https://github.com/Manuwebdevelopment/)
+-[@Manuwebdevelopment](https://github.com/Manuwebdevelopment/)
 
+-[@SrushtiMoghe](https://github.com/SrushtiMoghe/)
 
+-[@DeryckQS](https://github.com/DeryckQS/)
+
+-[@MohGotJuice](https://github.com/MohGotJuice/)
+
+-[@zysable](https://github.com/zysable/)
+
+-[@nvhung2711](https://github.com/nvhung2711/)
 
