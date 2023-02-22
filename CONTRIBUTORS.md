@@ -12,10 +12,11 @@
 
 - [@mohammadkiaei](https://github.com/mohammadkiaei)
 -
+- [@mohammadkiaei](https://github.com/mohammadkiaei)
+- [@code2forever](https://github.com/code2forever)
 - [@SHA888](https://github.com/SHA888)
 
 - [@jalonghurst] (https://github.com/jalonghurst)
-
 
 - [@Ngyyen](https://github.com/Ngyyen)
 
@@ -49,6 +50,7 @@
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@Vasanth](https://github.com/v-vasanth)
+- [@accaradhika](https://github.com/accaradhika)
 
 - [@ZaidM](https://github.com/zaid-007)
 
@@ -184,6 +186,8 @@
 -[@q-rault](https://github.com/q-rault) -[@leul1212] (https://github.com/leul1212) -[@Radiostranger](https://github.com/Radiostranger)
 
 -[@q-rault](https://github.com/q-rault)
+
+-[@pratik-wadhai](https://github.com/pratik-wadhai)
 
 -[@leul1212] (https://github.com/leul1212)
 
@@ -407,6 +411,7 @@
 
 - [@Nisan94](https://github.com/Nisan94/)
 
+- [@mocon76139](https://github.com/mocon76139)
 - [@dreamdev41](https://github.com/dreamdev41)
 
 -[@marshlendel](https://github.com/marshlendel)
@@ -719,6 +724,8 @@
 - [@Christounetcom](https://github.com/christounetcom)
 
 - [@Chrisyanggit](https://github.com/chrisyang-git/)
+
+- [@rjozso](https://github.com/rjozso/)
 
 - [@Cindyhuang888](https://github.com/CindyHuang888)
 
@@ -1287,6 +1294,8 @@
 - [@Fatin3Ihsan](https://github.com/fatin3ihsan)
 
 - [@Fatlumbehrami](https://github.com/fatlumbehrami)
+
+- [@emontes22](https://github.com/emontes22)
 
 - [@Fawwaz95](https://github.com/fawwaz95)
 
@@ -2527,6 +2536,8 @@
 - [@Mayorman07](https://github.com/Mayorman07)
 
 - [@Mayuresh](https://github.com/mayureshzende)
+
+- [@prdicochea](https://github.com/prdicochea)
 
 - [@Mazbac](https://github.com/Mazbac)
 
@@ -4071,6 +4082,8 @@
 
 - [@Trickster36](https://github.com/Trickster36)
 
+- [@martynasv7](https://github.com/martynasv7)
+
 - [@Tridenda](https://github.com/tridenda)
 
 - [@Trinib](https://github.com/trinib)
@@ -4798,6 +4811,8 @@
 - [@ClaudioIrianni](https://github.com/ClaudioIrianni)
 
 - [@Zocum](https://github.com/Zocum)
+
+- [@EduardoSalasG](https://github.com/EduardoSalasG)
 
 - [@alanajac](https://github.com/alanajac)
 
@@ -7066,6 +7081,8 @@
 
 - [@atif-dev](https://github.com/atif-dev)
 
+- [@meromero2](https://github.com/meromero2)
+
 - [@Sayed-Husain](https://github.com/Sayed-Husain)
 
 - [@dscheeff](https://github.com/dscheeff)
@@ -8439,8 +8456,10 @@
 
 -[@miikepine] (https://github.com/MiikePine) -[@PinkHills] (https://github.com/PinkHills/)
 
--[@AskurTomasson] (https://github.com/AskurTomasson/)
-fe477c7f6162e310f2e603958da3d37cc1fc69ab
+-[@miikepine] (https://github.com/MiikePine) -[@PinkHills] (https://github.com/PinkHills/)
+
+- [@pranta-barua007](https://github.com/pranta-barua007) -[@AskurTomasson] (https://github.com/AskurTomasson/)
+  fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
 -[@khaliq2309](https://github.com/khaliq2309/)
 
@@ -8480,8 +8499,22 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
 -[@umangm17](https://github.com/umangm17/)
 
--[@emmaj86](https://github.com/emmaj86/)
+-[@CamMcCluskey](https://github.com/cammccluskey)
+
+-[@vedanshk](https://github.com/vedanshk) -[@emmaj86](https://github.com/emmaj86/)
 
 -[@arsbu1m](https://github.com/arsbu1m)
 
 -[@pypcio](https://github.com/pypcio)
+
+-[@Sattar-Z](https://github.com/Sattar-Z/)
+
+-[@SrushtiMoghe](https://github.com/SrushtiMoghe/)
+
+-[@DeryckQS](https://github.com/DeryckQS/)
+
+-[@MohGotJuice](https://github.com/MohGotJuice/)
+
+-[@zysable](https://github.com/zysable/)
+
+-[@nvhung2711](https://github.com/nvhung2711/) -[@PunitVJain](https://github.com/PunitVJain)
