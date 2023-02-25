@@ -12,10 +12,10 @@
 -  [@code2forever](https://github.com/code2forever)
 - [@SHA888](https://github.com/SHA888)
 
-- [@jalonghurst] (https://github.com/jalonghurst)
+- [@jalonghurst](https://github.com/jalonghurst)
 
 
-- [@roxana412] (https://github.com/roxana412)
+- [@roxana412](https://github.com/roxana412)
 
 - [@Ngyyen](https://github.com/Ngyyen)
 
@@ -31,7 +31,7 @@
 
   -[@fabioauroradev](https://github.com/FabioAurora)
 
-- [@joancodes] (https://github.com/joancodes)
+- [@joancodes](https://github.com/joancodes)
 - [@ananddixit007] (https://github.com/ananddixit007)
 
 - [@fabioauroradev](https://github.com/FabioAurora)
