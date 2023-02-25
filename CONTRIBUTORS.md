@@ -6,7 +6,7 @@
 
 - [@ubaidh](https://github.com/ubaidh)
 - [@DarwinsCorn](https://github.com/DarwinsCorn)
--[@bustillos83] (https://github.com/bustillos83)
+- [@bustillos83](https://github.com/bustillos83)
 
 -  [@mohammadkiaei](https://github.com/mohammadkiaei)
 -  [@code2forever](https://github.com/code2forever)
