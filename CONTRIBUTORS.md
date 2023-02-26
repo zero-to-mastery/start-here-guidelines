@@ -7,7 +7,6 @@
 - [@ubaidh](https://github.com/ubaidh)
 - [@DarwinsCorn](https://github.com/DarwinsCorn)
 - [@bustillos83](https://github.com/bustillos83)
-
 -  [@mohammadkiaei](https://github.com/mohammadkiaei)
 -  [@code2forever](https://github.com/code2forever)
 - [@SHA888](https://github.com/SHA888)
@@ -29,10 +28,10 @@
 
 - [@joancodes](https://github.com/joancodes)
 
-  -[@fabioauroradev](https://github.com/FabioAurora)
+-[@fabioauroradev](https://github.com/FabioAurora)
 
 - [@joancodes](https://github.com/joancodes)
-- [@ananddixit007] (https://github.com/ananddixit007)
+- [@ananddixit007](https://github.com/ananddixit007)
 
 - [@fabioauroradev](https://github.com/FabioAurora)
 
@@ -42,7 +41,7 @@
 
 - [@ekramasif](https://github.com/ekramasif)
 
--[@ekramasif](https://github.com/parvej2001)
+- [@ekramasif](https://github.com/parvej2001)
 
 - [@marustas](https://github.com/marustas)
 
@@ -90,9 +89,9 @@
 
 - [@Amrindra](https://github.com/Amrindra)
 
-- [@countOfMonteCristo13] (https://github.com/countOfMonteCristo13)
+- [@countOfMonteCristo13](https://github.com/countOfMonteCristo13)
 
-- [@Euan-J-Austin] (https://github.com/Euan-J-Austin/)
+- [@Euan-J-Austin](https://github.com/Euan-J-Austin/)
 
 - [@Arioum](https://github.com/Arioum)
 
@@ -104,7 +103,7 @@
 
 - [@Beavinco](https://github.com/beavinco)
 
--[@YsnESSMAILI](https://github.com/YsnESSMAILI)
+- [@YsnESSMAILI](https://github.com/YsnESSMAILI)
 
 - [@Bluejeansandbloddytears](https://github.com/BlueJeansAndBloddyTears)
 
@@ -186,7 +185,7 @@
 
 -[@q-rault](https://github.com/q-rault)
 
--[@leul1212] (https://github.com/leul1212)
+-[@leul1212](https://github.com/leul1212)
 
 -[@Radiostranger](https://github.com/Radiostranger)
 
