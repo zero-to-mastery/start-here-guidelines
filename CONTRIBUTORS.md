@@ -92,6 +92,8 @@
 
 - [@countOfMonteCristo13] (https://github.com/countOfMonteCristo13)
 
+- [@Euan-J-Austin] (https://github.com/Euan-J-Austin/)
+
 - [@Arioum](https://github.com/Arioum)
 
 - [@Atifdev](https://github.com/atif-dev)
@@ -607,6 +609,7 @@
 - [@Bryan11](https://github.com/namocbryan11)
 
 - [@Bryanrillstone](https://github.com/bryanrillstone)
+-[@AmanJemal](https://github.com/AmanJemal)
 
 - [@Bthbergheim](https://github.com/bthbergheim/)
 
@@ -3452,6 +3455,8 @@
 - [@Sahilchandravanshi](https://github.com/SahilChandravanshi)
 
 - [@Sahilpatel09](https://github.com/sahilpatel09)
+
+-[@CaoBeee](https://github.com/CaoBeee)
 
 - [@Saif19980](https://github.com/Saif19980)
 
@@ -8539,7 +8544,7 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@MohGotJuice](https://github.com/MohGotJuice/)
 
 -[@zysable](https://github.com/zysable/)
-
+-[@JOHN-KIN1](https://github.com/JOHN-KUN1)
 -[@nvhung2711](https://github.com/nvhung2711/)
 -[@PunitVJain](https://github.com/PunitVJain)
 - [@ilkayus](https://github.com/ilkayus)
@@ -8555,3 +8560,15 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@Kvlen](https://github.com/Kvlen)
 
 -[@Kevin-Kigotho](https://github.com/Kevin-Kigotho)
+
+-[@SaritSopitvetmontree](https://github.com/SaritSopitvetmontree)
+
+-[@MosesNgan](https://github.com/MosesNgan)
+
+-[@Jlizard95](https://github.com/Jlizard95)
+
+-[@Jmg047](https://github.com/Jmg047)
+
+-[@Sabujdeep](https://github.com/Sabujdeep)
+
+-[@upadrasta84](https://github.com/upadrasta84)
