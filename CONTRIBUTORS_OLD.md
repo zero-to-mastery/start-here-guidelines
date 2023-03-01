@@ -10,6 +10,8 @@
 
 - [@Jonotassia](https://github.com/jonotassia)
 
+-[@georgeophill](https://github.com/georgeophill)
+
 - [@j_muguna](https://github.com/JIMMUGUNA789)
 
 - [Michael Sasi](https://github.com/MichaelSasi)
