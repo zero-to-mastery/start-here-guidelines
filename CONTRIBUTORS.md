@@ -4,6 +4,8 @@
 
 - [@cem-1](https://github.com/cem-1)
 
+- [@MuhammadFarisNoordin](https://github.com/MuhammadFarisNoordin)
+
 - [@ubaidh](https://github.com/ubaidh)
 - [@DarwinsCorn](https://github.com/DarwinsCorn)
 -[@bustillos83] (https://github.com/bustillos83)
@@ -351,8 +353,6 @@
 -[@ihouwat](https://github.com/ihouwat)
 
 -[@Karim-Daouas](https://github.com/Karim-Daouas)
-
--[@logphile](https://github.com/logphile)
 
 -[@Phanix](https://github.com/Phanix)
 
