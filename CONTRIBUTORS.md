@@ -8624,3 +8624,18 @@
 -[@Balogun-olajide](https://github.com/Balogun-olajide)
 
 -[@SzilardZ](https://github.com/SzilardZ)
+
+-[@waldermx](https://github.com/waldermx)
+
+-[@Maria-Isabel-Ram](https://github.com/Maria-Isabel-Ram) 
+
+-[@ahnngo](https://github.com/ahnngo)
+
+-[@Adam-Nick](https://github.com/Adam-Nick)
+
+-[@ChetanHaobijam](https://github.com/chetanhaobijam)
+
+-[@10isha](https://github.com/10isha)
+
+-[@editdomo0908] (https://github.com/editdomo0908)
+
