@@ -14,7 +14,7 @@
 
 - [@jalonghurst] (https://github.com/jalonghurst)
 
-- [@Kaze] (https://github.com/11kaze) 
+- [@Kaze] (https://github.com/11kaze)
 - [@roxana412] (https://github.com/roxana412)
 
 - [@Ngyyen](https://github.com/Ngyyen)
@@ -2006,6 +2006,8 @@
 - [@Jordanclarkkk](https://github.com/JordanClarkkk)
 
 - [@Josefkohoutek](https://github.com/kohojo)
+
+- [@Josegarrera](https://github.com/josegarrera)
 
 - [@Josemlf](https://github.com/josemlf)
 
@@ -8599,7 +8601,7 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@nvhung2711](https://github.com/nvhung2711/)
 -[@PunitVJain](https://github.com/PunitVJain)
 - [@ilkayus](https://github.com/ilkayus)
-  
+
 =[Cristian-sanchez14](https://github.com/Cristian-sanchez14)
 
 -[@Wylerlight](https://github.com/Wylerlight)
@@ -8663,7 +8665,7 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 
 -[@waldermx](https://github.com/waldermx)
 
--[@Maria-Isabel-Ram](https://github.com/Maria-Isabel-Ram) 
+-[@Maria-Isabel-Ram](https://github.com/Maria-Isabel-Ram)
 
 -[@ahnngo](https://github.com/ahnngo)
 
