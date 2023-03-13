@@ -48,6 +48,8 @@
 
 - [@mohameddallas](https://github.com/mohameddallas)
 
+- [Goretzky](https://github.com/Goretzky/)
+
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanRos88](https://github.com/DanRos88)
@@ -108,6 +110,8 @@
 - [@Awerner5413](https://github.com/awerner5413)
 
 - [@Beavinco](https://github.com/beavinco)
+
+- [@carolinaqvargas](https://github.com/carolinaqvargas)
 
 -[@YsnESSMAILI](https://github.com/YsnESSMAILI)
 
@@ -1857,6 +1861,8 @@
 
 - [@Javierb07](https://github.com/javierb07)
 
+- [@GaelXoconoxtle] (https://github.com/GaelXoconoxtle)
+
 - [@Jawahar15](https://github.com/jawahar-15)
 
 - [@Jayantaadhikary](https://github.com/jayantaadhikary)
@@ -2695,6 +2701,8 @@
 
 - [@Mkr1984](https://github.com/Mkr1984)
 
+- [@Josephine2702](https://github.com/Josephine2702)
+
 - [@Mleduccl](https://github.com/mleduccl/)
 
 - [@Mmtbora](https://github.com/mmtbora)
@@ -3412,6 +3420,8 @@
 - [@Rohanvolety](https://github.com/RohanVolety)
 
 - [@Romeogatcha](https://github.com/RomeoGatcha)
+
+- [@flaveeoos](https://github.com/flaveeoos)
 
 - [@Romerolae](https://github.com/romerolae)
 
@@ -4551,6 +4561,8 @@
 - [@kenmirwell](https://github.com/kenmirwell)
 
 - [@dmwspace](https://github.com/dmwspace)
+  
+- [@DvoraG](https://github.com/DvoraG)
 
 - [@sikumiku](https://github.com/sikumiku)
 
@@ -8735,5 +8747,27 @@ fe477c7f6162e310f2e603958da3d37cc1fc69ab
 -[@LouFi5](https://github.com/LouFi5)
 
 -[@KevinOmega](https://github.com/KevinOmega)
+
+-[@ryanwells-rwc](https://github.com/ryanwells-rwc)
+
+-[@lrobvilla](https://github.com/lrobvilla/)
+
+-[@vande012](https://github.com/vande012)
+
+-[@palazard](https://github.com/palazard)
+
+-[@EndritRamadanaj](https://github.com/EndritRamadanaj)
+
+-[@BTBenton10](https://github.com/BTBenton10/)
+
+-[@quickstepp](https://github.com/quickstepp/)
+
+-[VeryColdMilk](https://github.com/VeryColdMilk/)
+
+-[@jinyoung5497](https://github.com/jinyoung5497/)
+
+-[@e-mergen-c](https://github.com/e-mergen-c)
+
+-[@ekmpoon](https://github.com/ekmpoon)
 
 -[12-vaishali](https://github.com/12-vaishali)
