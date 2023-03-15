@@ -1192,6 +1192,8 @@
 
 - [@Xslasher21](https://github.com/Xslasher21)
 
+- [@talenttinaapi](https://github.com/talenttinaapi)
+
 - [@Xuan19](https://github.com/Xuan19)
 
 - [@YakubEgamnazarov](https://github.com/Yakub-Egamnazarov)
