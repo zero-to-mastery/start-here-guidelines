@@ -27,7 +27,7 @@ cl# CONTRIBUTORS
 
 - [@Eklemis](https://github.com/eklemis)
 
--[@mollyollyoxenfree](https://github.com/mollyollyoxenfree)
+- [@mollyollyoxenfree](https://github.com/mollyollyoxenfree)
 
 - [@jalonghurst](https://github.com/jalonghurst)
 
