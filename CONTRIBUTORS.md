@@ -9001,6 +9001,7 @@ cl# CONTRIBUTORS
 -[@NiteshMishra](https://github.com/Nitesh232)
 
 -[@laukic1](https://github.com/laukic1)
+
 -[@Moyebamiji98](https://github.com/Moyebamiji98)
 
 -[@seanryderjr] (https://github.com/seanryderjr)
@@ -9008,3 +9009,5 @@ cl# CONTRIBUTORS
 -[@SeikhAsifAkram](https://github.com/SeikhAsifAkram)
 
 -[@BobTheCool55](https://github.com/BobTheCool55)
+
+-[@fernandank](https://github.com/fernandank)
