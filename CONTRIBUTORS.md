@@ -9064,4 +9064,7 @@ cl# CONTRIBUTORS
 
 -[@arvee0220](https://github.com/arvee0220)
 
-- [@macaferrer](https://github.com/macaferrer)
+-[@macaferrer](https://github.com/macaferrer)
+
+-[@heitormp](https://github.com/HeitorMP)
+
