@@ -22,6 +22,8 @@ cl# CONTRIBUTORS
 - [@Kaze] (https://github.com/11kaze) 
 - [@roxana412] (https://github.com/roxana412)
 
+- [@TjanMichela] (https://github.com/TjanMichela)
+
 - [@Ngyyen](https://github.com/Ngyyen)
 
 - [@anna-kulyk](https://github.com/anna-kulyk)
