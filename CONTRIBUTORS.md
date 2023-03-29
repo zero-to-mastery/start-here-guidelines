@@ -1,4 +1,5 @@
 cl# CONTRIBUTORS
+
 -[@sahilaghara1911](https://github.com/sahilaghara1911)
 
 -[@nawabsahab16](https://github.com/nawabsahab16)
@@ -653,8 +654,8 @@ s
 
 -[@pradytpk](https://github.com/pradytpk)
 
--[@Taruna-Rawat)
-](https://github.com/Taruna-Rawat
+-[@Taruna-Rawat](https://github.com/Taruna-Rawat)
+
 -[@rgreenfield](https://github.com/rgreenfield)
 
 -[@JDevelopss](https://github.com/JDevelopss)
@@ -8046,8 +8047,7 @@ s
 
 -[@pradytpk](https://github.com/pradytpk)
 
--[@Taruna-Rawat)
-](https://github.com/Taruna-Rawat)
+-[@Taruna-Rawat](https://github.com/Taruna-Rawat)
 
 -[@rgreenfield](https://github.com/rgreenfield)
 
