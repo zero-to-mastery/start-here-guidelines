@@ -565,7 +565,7 @@ cl# CONTRIBUTORS
 -[@johngehring2008](https://github.com/johngehring2008)
 
 -[@yuliakca](https://github.com/yuliaCa)
-.
+
 -[@soumik-saha](https://github.com/soumik-saha)
 
 -[@esgrid](https://github.com/esgrid)
@@ -5188,7 +5188,7 @@ cl# CONTRIBUTORS
 
 -[@nandhinipv](https://github.com/nandhinipv)
 
--[@jorlar](httos://github.com/jorlar)
+-[@jorlar](https://github.com/jorlar)
 
 -[@mahalabs](https://github.com/mahalabs)
 
@@ -6454,7 +6454,7 @@ cl# CONTRIBUTORS
 
 -[@Manopandian46](https://github.com/Manopandian46)
 
--[@abrantesfg](lhttps://github.com/abrantesfg)
+-[@abrantesfg](https://github.com/abrantesfg)
 
 -[@ganeshrevadi](https://github.com/ganeshrevadi)
 
@@ -6878,7 +6878,8 @@ cl# CONTRIBUTORS
 
 -[@EdgarG2020](https://github.com/EdgarG2020/)
 
--[@AndradaDobocan](https://github.com/AndradaDobocan
+-[@AndradaDobocan](https://github.com/AndradaDobocan)
+
 -[@Bigthicky](https://github.com/Bigthicky)
 
 -[@Vince326](https://github.com/Vince326/)
@@ -7370,7 +7371,7 @@ cl# CONTRIBUTORS
 -[@hakedo](https://github.com/hakedo)
 
 -[@anubhav-negi](https://github.com/starlove54)
-s
+
 -[@q-rault](https://github.com/q-rault)
 
 -[@leul1212](https://github.com/leul1212)
@@ -7901,7 +7902,7 @@ s
 
 -[@Zainabayomide](https://github.com/Zainabayomide)
 
--[@Naja97](ttps://github.com/Naja97)
+-[@Naja97](https://github.com/Naja97)
 
 -[@AbhiMishra-Now](https://github.com/AbhiMishra-Now)
 
