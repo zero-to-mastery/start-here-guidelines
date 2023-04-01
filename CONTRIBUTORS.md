@@ -65,6 +65,8 @@ cl# CONTRIBUTORS
 
 - [@Goretzky](https://github.com/Goretzky/)
 
+- [@Tantris27](https://github.com/Tantris27)
+
 - [@Shreyasuthar](https://github.com/shreyasuthar655)
 
 - [@DanRos88](https://github.com/DanRos88)
@@ -4200,6 +4202,8 @@ cl# CONTRIBUTORS
 - [@Tranfh](https://github.com/tranfh)
 
 - [@Tranhoangan22](https://github.com/tranhoangan22)
+
+- [@IanGrin](https://github.com/IanGrin)
 
 - [@Trebroon](https://github.com/Trebroon)
 
@@ -9104,3 +9108,4 @@ cl# CONTRIBUTORS
 - [@ni5arga](https://github.com/ni5arga)
 
 - [@lenguyenhcm325](https://github.com/lenguyenhcm325)
+ master
