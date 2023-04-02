@@ -1,4 +1,5 @@
 cl# CONTRIBUTORS
+
 - [@sahilaghara1911](https://github.com/sahilaghara1911)
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
@@ -8,18 +9,16 @@ cl# CONTRIBUTORS
 - [@ubaidh](https://github.com/ubaidh)
 
 - [@DarwinsCorn](https://github.com/DarwinsCorn) -[@bustillos83] (https://github.com/bustillos83)
-- [@DarwinsCorn](https://github.com/DarwinsCorn)
--[@bustillos83] (https://github.com/bustillos83)
--[@Jp88Programmer] (https://github.com/Jp88Programmer)
--  [@mohammadkiaei](https://github.com/mohammadkiaei)
--  [@code2forever](https://github.com/code2forever)
+- [@DarwinsCorn](https://github.com/DarwinsCorn) -[@bustillos83] (https://github.com/bustillos83) -[@Jp88Programmer] (https://github.com/Jp88Programmer)
+- [@mohammadkiaei](https://github.com/mohammadkiaei)
+- [@code2forever](https://github.com/code2forever)
 
 - [@SHA888](https://github.com/SHA888)
 - Taufeeq Noamaan
 
 - [@jalonghurst] (https://github.com/jalonghurst)
 
-- [@Kaze] (https://github.com/11kaze) 
+- [@Kaze] (https://github.com/11kaze)
 - [@roxana412] (https://github.com/roxana412)
 
 - [@Ngyyen](https://github.com/Ngyyen)
@@ -216,8 +215,7 @@ cl# CONTRIBUTORS
 
 - [@Mednalig](https://github.com/Mednalig)
 
-- [@Rizamoyi](https://github.com/rizamoyi)
--[@davidrittscher](https://github.com/DavidRittscher)
+- [@Rizamoyi](https://github.com/rizamoyi) -[@davidrittscher](https://github.com/DavidRittscher)
 
 - [@Romannet77](https://github.com/Romannet77)
 - [@Muhtoyyib](https://github.com/Muhtoyyib)
@@ -367,8 +365,7 @@ cl# CONTRIBUTORS
 -[@kylegothman](https://github.com/kylegothman) -[@Imadinglefritz](https://github.com/Imadinglefritz)
 
 - [@leeorf](https://github.com/leeorf) -[@ushicode](https://github.com/ushicode) -[@Mdirfanul](https://github.com/MdIrfan-ul/)
-- [iconbaypark2900](https://github/com/iconbaypark2900)
--[@jakobgoransson95](https://github.com/jakobgoransson95)
+- [iconbaypark2900](https://github/com/iconbaypark2900) -[@jakobgoransson95](https://github.com/jakobgoransson95)
 
 -[@chakib33](https://github.com/chakib33) -[@ihouwat](https://github.com/ihouwat) -[@Karim-Daouas](https://github.com/Karim-Daouas)
 
@@ -668,8 +665,7 @@ cl# CONTRIBUTORS
 
 - [@Bryan11](https://github.com/namocbryan11)
 
-- [@Bryanrillstone](https://github.com/bryanrillstone)
--[@AmanJemal](https://github.com/AmanJemal)
+- [@Bryanrillstone](https://github.com/bryanrillstone) -[@AmanJemal](https://github.com/AmanJemal)
 
 - [@Bthbergheim](https://github.com/bthbergheim/)
 
@@ -4630,7 +4626,6 @@ cl# CONTRIBUTORS
 - [@kenmirwell](https://github.com/kenmirwell)
 
 - [@dmwspace](https://github.com/dmwspace)
-  
 - [@DvoraG](https://github.com/DvoraG)
 
 - [@sikumiku](https://github.com/sikumiku)
@@ -8428,7 +8423,7 @@ cl# CONTRIBUTORS
 
 - [@paul-cute](https://github.com/paul-cute)
 
--   [@Ruben](https://github.com/Rube01)
+- [@Ruben](https://github.com/Rube01)
 
 - [0xSilkweave](https://github.com/0xSilkweave)
 
@@ -8600,7 +8595,7 @@ cl# CONTRIBUTORS
 
 - [@AIisDway](https://github.com/AIisDway)
 
-- [@willdelorm](https://github.com/willdelorm) 
+- [@willdelorm](https://github.com/willdelorm)
 
 -[@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
@@ -8740,15 +8735,13 @@ cl# CONTRIBUTORS
 
 -[@MuhammadQasimSiddiqui](https://github.com/MuhammadQasimSiddiqui/)
 
--[@Moccasym](https://github.com/Moccasym/)
--[@BHARGAV596](https://github.com/BHARGAV596/)
+-[@Moccasym](https://github.com/Moccasym/) -[@BHARGAV596](https://github.com/BHARGAV596/)
 
 -[@poulsen1114](https://github.com/poulsen1114)
 
--[@miikepine] (https://github.com/MiikePine)
--[@PinkHills] (https://github.com/PinkHills/)
-- [@pranta-barua007](https://github.com/pranta-barua007)
--[@AskurTomasson] (https://github.com/AskurTomasson/)
+-[@miikepine] (https://github.com/MiikePine) -[@PinkHills] (https://github.com/PinkHills/)
+
+- [@pranta-barua007](https://github.com/pranta-barua007) -[@AskurTomasson] (https://github.com/AskurTomasson/)
 
 -[@khaliq2309](https://github.com/khaliq2309/)
 
@@ -8784,13 +8777,11 @@ cl# CONTRIBUTORS
 
 -[@jakeoyd](https://github.com/jakeoyd/)
 
--[@birkanatici](https://github.com/birkanatici/)
--[@umangm17](https://github.com/umangm17/)
+-[@birkanatici](https://github.com/birkanatici/) -[@umangm17](https://github.com/umangm17/)
 
 -[@CamMcCluskey](https://github.com/cammccluskey)
 
--[@vedanshk](https://github.com/vedanshk)
--[@emmaj86](https://github.com/emmaj86/)
+-[@vedanshk](https://github.com/vedanshk) -[@emmaj86](https://github.com/emmaj86/)
 
 -[@arsbu1m](https://github.com/arsbu1m)
 
@@ -8806,12 +8797,10 @@ cl# CONTRIBUTORS
 
 -[@MohGotJuice](https://github.com/MohGotJuice/)
 
--[@zysable](https://github.com/zysable/)
--[@JOHN-KIN1](https://github.com/JOHN-KUN1)
--[@nvhung2711](https://github.com/nvhung2711/)
--[@PunitVJain](https://github.com/PunitVJain)
+-[@zysable](https://github.com/zysable/) -[@JOHN-KIN1](https://github.com/JOHN-KUN1) -[@nvhung2711](https://github.com/nvhung2711/) -[@PunitVJain](https://github.com/PunitVJain)
+
 - [@ilkayus](https://github.com/ilkayus)
-  
+
 =[Cristian-sanchez14](https://github.com/Cristian-sanchez14)
 
 -[@Wylerlight](https://github.com/Wylerlight)
@@ -8852,8 +8841,7 @@ cl# CONTRIBUTORS
 
 -[@w3bdesign](https://github.com/w3bdesign)
 
--[@M-Joesph29](https://github.com/M-Joseph29)
--[@Markofosu](https://github.com/MarkOfosu)
+-[@M-Joesph29](https://github.com/M-Joseph29) -[@Markofosu](https://github.com/MarkOfosu)
 
 -[@cagomez6](https://github.com/cagomez6)
 
@@ -8875,7 +8863,7 @@ cl# CONTRIBUTORS
 
 -[@waldermx](https://github.com/waldermx)
 
--[@Maria-Isabel-Ram](https://github.com/Maria-Isabel-Ram) 
+-[@Maria-Isabel-Ram](https://github.com/Maria-Isabel-Ram)
 
 -[@ahnngo](https://github.com/ahnngo)
 
@@ -8937,8 +8925,7 @@ cl# CONTRIBUTORS
 
 -[@lookatthisdoode](https://github.com/lookatthisdoode)
 
--[@jiunjiun69](https://github.com/jiunjiun69)
--[@RamyaMittapally](https://github.com/RamyaMittapally)
+-[@jiunjiun69](https://github.com/jiunjiun69) -[@RamyaMittapally](https://github.com/RamyaMittapally)
 
 -[@minhquang053](https://github.com/minhquang053)
 
@@ -9028,8 +9015,7 @@ cl# CONTRIBUTORS
 
 -[@NiteshMishra](https://github.com/Nitesh232)
 
--[@laukic1](https://github.com/laukic1)
--[@Moyebamiji98](https://github.com/Moyebamiji98)
+-[@laukic1](https://github.com/laukic1) -[@Moyebamiji98](https://github.com/Moyebamiji98)
 
 -[@seanryderjr] (https://github.com/seanryderjr)
 
@@ -9039,22 +9025,17 @@ cl# CONTRIBUTORS
 
 -[@Divyajyoti1801](https://github.com/Divyajyoti1801)
 
--[@Kirankumar1597](https://github.com/Kirankumar1597)
--[@divyanshu49](https://github.com/divyanshu49)
+-[@Kirankumar1597](https://github.com/Kirankumar1597) -[@divyanshu49](https://github.com/divyanshu49)
 
 -[@Aleobua](https://github.com/Aleobua/)
 
 -[@joshchopin7](https://github.com/joshchopin7)
 
--[@julioHajdari](https://github.com/julioHajdari)
--[@emrekaza-hub](https://github.com/emrekazaz-hub)
--[@shoudto](https://github.com/shoudto)
--[@Yuuxooon](https://github.com/Yuuxooon)
+-[@julioHajdari](https://github.com/julioHajdari) -[@emrekaza-hub](https://github.com/emrekazaz-hub) -[@shoudto](https://github.com/shoudto) -[@Yuuxooon](https://github.com/Yuuxooon)
 
 -[@MaxwellABlevins](https://github.com/MaxwellABlevins)
 
--[@BharathKonatham](https://github.com/BharathKonatham)
--[@ChrisFletcher1989](https://github.com/ChrisFletcher1989)
+-[@BharathKonatham](https://github.com/BharathKonatham) -[@ChrisFletcher1989](https://github.com/ChrisFletcher1989)
 
 -[@MichailB](https://github.com/Mi-Br)
 
@@ -9074,8 +9055,7 @@ cl# CONTRIBUTORS
 
 -[@Yevgeniy-Dan](https://github.com/Yevgeniy-Dan)
 
--[@ashans](https://github.com/ashans)
--[@praneeth](https://github.com/praneethmareddy)
+-[@ashans](https://github.com/ashans) -[@praneeth](https://github.com/praneethmareddy)
 
 -[@rko1985](https://github.com/rko1985)
 
@@ -9131,8 +9111,7 @@ cl# CONTRIBUTORS
 
 - [@lenguyenhcm325](https://github.com/lenguyenhcm325)
 
-- [@IITheGameII](https://github.com/IITheGameII)
--[@rsengar29](https://github.com/rsengar29)
+- [@IITheGameII](https://github.com/IITheGameII) -[@rsengar29](https://github.com/rsengar29)
 
 -[@Alangithub08](https://github.com/Alangithub08)
 
@@ -9147,3 +9126,5 @@ cl# CONTRIBUTORS
 -[@AnikeshDey](https://github.com/AnikeshDey)
 
 -[@Akash-KumarSinha](https://github.com/Akash-KumarSinha)
+
+-[@Alisadaintanvir](https://github.com/alisadaintanvir)
