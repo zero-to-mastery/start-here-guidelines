@@ -1,7 +1,10 @@
 cl# CONTRIBUTORS
+- [@SajeewaGarusinghe](https://github.com/SajeewaGarusinghe)
 - [@sahilaghara1911](https://github.com/sahilaghara1911)
 - [@nawabsahab16](https://github.com/nawabsahab16)
 - [@atef1995](https://github.com/atef1995)
+
+- [@acoreyu](https://github.com/acoreyu)
 
 - [@cem-1](https://github.com/cem-1)
 
@@ -158,6 +161,8 @@ cl# CONTRIBUTORS
 - [@Chonsawat](https://github.com/chonsawat)
 
 - [@MichaelLuppino](https://github.com/MichaelLuppino)
+
+- [@Maurice972](https://github.com/Maurice972)
 
 - [@Clairekarsenti](https://github.com/ClaireKarsenti)
 
@@ -8819,6 +8824,9 @@ cl# CONTRIBUTORS
 -[@jakeoyd](https://github.com/jakeoyd/)
 
 -[@birkanatici](https://github.com/birkanatici/)
+
+-[@bymia](https://github.com/bymia/)
+
 -[@umangm17](https://github.com/umangm17/)
 
 -[@CamMcCluskey](https://github.com/cammccluskey)
@@ -9252,3 +9260,14 @@ cl# CONTRIBUTORS
 - [@PancakeZsofia](https://github.com/PancakeZsofia)
 
 - [@Raymond-Aponte](https://github.com/Raymond-Aponte)
+
+- [@Dillind](https://github.com/Dillind)
+
+- [@kasrus](https://github.com/kasrus)
+- [@kurofavo](https://github.com/kurofavo)
+
+- [@Haya340](https://github.com/Haya340)
+
+- [@engurararazov](https://github.com/engurararazov)
+
+- [@vinayraibole](https://github.com/vinayraibole)
