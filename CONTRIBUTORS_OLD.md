@@ -19,6 +19,7 @@
 - [@Alex870209](https://github.com/Alex870209)
 
 - [@Fumbani Banda](https://github.com/deadex-ng)
+- [@Izunwaonu](https://github.com/izunwaonu)
 
 - [@Bhavna Makode](https://github.com/Bhavna2003)
 
