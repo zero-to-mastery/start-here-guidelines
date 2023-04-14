@@ -9251,3 +9251,12 @@ cl# CONTRIBUTORS
 - [@engurararazov](https://github.com/engurararazov)
 
 - [@vinayraibole](https://github.com/vinayraibole)
+<<<<<<< HEAD
+=======
+
+- [@macadoo18](https://github.com/macadoo18)
+
+- [@urslokey](https://github.com/urslokey)
+
+- [@Gourav1695](https://github.com/Gourav1695)
+>>>>>>> 7302bffa21c42d3f3b32490a6901a371328e8839
