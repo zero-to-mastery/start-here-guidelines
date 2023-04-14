@@ -185,6 +185,8 @@ cl# CONTRIBUTORS
 
 - [@OsamaTbaileh](https://github.com/OsamaTbaileh)
 
+- [@OsamaTbaileh](https://github.com/OsamaTbaileh)
+
 - [@PriyanshuSinghR](https://github.com/PriyanshuSinghR)
 
 - [@chaossaver103](https://github.com/chaossaver103)
@@ -9223,6 +9225,8 @@ cl# CONTRIBUTORS
 
 - [@Kostaga](https://github.com/Kostaga)
 
+- [@Kostaga](https://github.com/Kostaga)
+
 - [@ramielhaj](https://github.com/ramielhaj)
 
 - [@monisa-mirza](https://github.com/monisa-mirza)
@@ -9230,6 +9234,8 @@ cl# CONTRIBUTORS
 - [@DevonGifford](https://github.com/DevonGifford)
 
 - [@kegkeg10](https://github.com/kegkeg10)
+
+- [@webwithvez](https://github.com/webwithvez)
 
 - [@webwithvez](https://github.com/webwithvez)
 
@@ -9269,5 +9275,7 @@ cl# CONTRIBUTORS
 - [@jorgeProgramaEn5](https://github.com/jorgeProgramaEn5)
 
 - [chapterclose](https://chapterclose.com)
+
+- [@chetan07092000](https://github.com/chetan07092000/) -[@chetan07092000](https://github.com/chetan07092000/) -[@coconochoco](https://github.com/coconochoco/)
 
 - [@chetan07092000](https://github.com/chetan07092000/) -[@chetan07092000](https://github.com/chetan07092000/) -[@coconochoco](https://github.com/coconochoco/)
