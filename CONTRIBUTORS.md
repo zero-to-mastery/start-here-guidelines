@@ -9285,3 +9285,9 @@ cl# CONTRIBUTORS
 - [@jorgeProgramaEn5](https://github.com/jorgeProgramaEn5)
 
 - [chapterclose](https://chapterclose.com)
+
+- [@clevermiraz](https://github.com/clevermiraz)
+
+## Also Here Is My Linkedin Profile
+
+- [clevermiraz](https://www.linkedin.com/in/clevermiraz/)
