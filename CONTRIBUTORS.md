@@ -9303,4 +9303,8 @@ cl# CONTRIBUTORS
 
 -[@kaikencode](https://github.com/kaikencode)
 
+
 -[@fermat01](https://github.com/fermat01)
+
+-[@Jlloppez](https://github.com/Jlloppez)
+
