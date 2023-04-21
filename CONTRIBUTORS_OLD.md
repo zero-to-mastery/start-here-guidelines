@@ -15299,6 +15299,7 @@
 
 - [@mikeescro](https://github.com/mikeescro)
 
-=======
 - [@Eamos2] (https://github.com/Eamos2)
 >>>>>>> c90cc8dfb (added name to contribtor list)
+- [@emerald211](https://github.com/emerald211)
+=======
