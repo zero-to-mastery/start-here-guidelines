@@ -30,6 +30,8 @@
 
 - [@18Jonangelo](https://github.com/18jonangelo)
 
+- [@jackylee](https://github.com/jackyle92)
+
 - [@1998Rtran](https://github.com/1998rtran/)
 
 - [@1C0Der](https://github.com/@1C0DER)
