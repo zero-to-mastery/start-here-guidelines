@@ -8429,5 +8429,3 @@
 - [@roc102](https://github.com/roc102)
 
 - [@fermat01](https://github.com/fermat01)
-
-- [@ArtisLotko](https://github.com/ArtisLotko)
