@@ -3456,6 +3456,8 @@
 
 - [@Jonrivers30](https://github.com/JonRivers30)
 
+- [@ArtisLotko](https://github.com/ArtisLotko)
+
 - [@Joonkyu](https://github.com/joonkyu)
 
 - [@Joopr8](https://github.com/Joopr8)
@@ -8429,5 +8431,3 @@
 - [@roc102](https://github.com/roc102)
 
 - [@fermat01](https://github.com/fermat01)
-
-- [@ArtisLotko](https://github.com/ArtisLotko)
