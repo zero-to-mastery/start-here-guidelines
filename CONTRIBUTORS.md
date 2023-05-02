@@ -4036,6 +4036,8 @@
 
 -   [@Kshreepadk](https://github.com/kshreepadk/)
 
+-   [@Souhani](https://github.com/Souhani)
+
 -   [@Kstt27](https://github.com/kstt27)
 
 -   [@Ksxv](https://github.com/ksXV)
@@ -6464,7 +6466,7 @@
 
 -   [@Rosalbac4300](https://github.com/rosalbac4300)
 
--   [@Roshan798](https://github.com/roshan798)
+-   [@Rosiaz](https://github.com/Rosiaz)
 
 -   [@Rosiaz](https://github.com/Rosiaz)
 
@@ -8546,6 +8548,8 @@
 
 -[@Ugboya-Erica](https://github.com/Ugboya-Erica)
 
+-[@chandraonweb](https://github.com/chandraonweb)
+
 -[@kazimovzaman2](https://github.com/kazimovzaman2)
 
 -[@Younis-Ahmed](https://github.com/Younis-Ahmed)
@@ -8579,3 +8583,7 @@
 -[@Julio0795](https://github.com/Julio0795)
 
 -[@marjsky](https://github.com/marjsky)
+
+-[@paradiselots](https://github.com/paradiselots)
+
+-[@Davi0254](https://github.com/Davi0254)
