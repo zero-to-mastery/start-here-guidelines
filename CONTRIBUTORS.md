@@ -8750,6 +8750,8 @@
 
 - [@jmeresma](https://github.com/jmeresma/)
 
+- [@yourfellajazz] (https://github.com/yourfellajazz)
+
 - [@Abdifatah-said](https://github.com/Abdifatah-said/)
 
 - [@abdi-123](https://github.com/@abdi-123/)
@@ -8781,5 +8783,3 @@
 - [@aleksandrajk](https://github.com/aleksandrajk/)
 
 [@KAbdullah](https://github.com/KAbdullah/)
-
-- [@yourfellajazz] (https://github.com/yourfellajazz)
