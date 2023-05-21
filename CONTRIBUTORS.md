@@ -8848,5 +8848,5 @@
 
 - [@Ashish](https://github.com/Ashish93-mrx/)
 - [@MMasterMy](https://github.com/MMasterMy/)
-
--[@alincz](https://github.com/alincz)
+- [@alincz](https://github.com/alincz)
+- [@practiccollie]((https://github.com/practiccollie))
