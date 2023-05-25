@@ -154,6 +154,8 @@
 
 - [@Acekavi](https://github.com/acekavi)
 
+- [@libankhalif97](https://github.com/libankhalif97)
+
 - [@Achreffast](https://github.com/AchrefFast)
 
 - [@Acoetzee91](https://github.com/ACoetzee1991)
@@ -1723,6 +1725,8 @@
 - [@Dinhthang2307](https://github.com/dinhthang2307)
 
 - [@Dinopoblete](https://github.com/dino-poblete/)
+
+- [@VivekRaj212](https://github.com/VivekRaj212)
 
 - [@Diogoleitef](https://github.com/DiogoLeiteF/)
 
@@ -4774,6 +4778,8 @@
 
 - [@Maurice972](https://github.com/Maurice972)
 
+- [@bytebyrd](https://github.com/bytebyrd)
+
 - [@Mauriciomatos96](https://github.com/mauriciomatos96)
 
 - [@Mauriciotorresl](https://github.com/Mauricio-Torresl/)
@@ -5935,6 +5941,8 @@
 - [@Philipbeauford](https://github.com/PhilipBeauford)
 
 - [@Philipbos](https://github.com/Philip-Bos)
+
+- [@aanseev](https://github.com/aanseev/)
 
 - [@Philling1](https://github.com/philling1)
 
@@ -8910,7 +8918,11 @@
 
 - [@yashp4858](https://github.com/yashp4858)
 
+- [@shotatsertsvadze](https://github.com/shotatsertsvadze)
+
 - [@NehalSurti](https://github.com/NehalSurti)
+
+- [@KKoichi276052](https://github.com/KKoichi276052)
 
 - [@goodwin-christopher](https://github.com/goodwin-christopher)
 
@@ -8920,6 +8932,15 @@
 
 - [@LeticiaCardosoCarmo](https://github.com/LeticiaCardosoCarmo)
 
+- [@JOVGUE](https://github.com/JOVGUE)
 
+- [@usmancmd](https://github.com/usmancmd)
 
+- [@sheikh-shakir](https://github.com/sheikh-shakir)
+
+-[@Carl4WebDev](https://github.com/Carl4WebDev)
+
+-[@gradito](https://github.com/gradito)
+
+-[@emadchy](https://github.com/emadchy)
 
