@@ -1854,6 +1854,8 @@
 
 - [@Dnkoziatek](https://github.com/dnkoziatek)
 
+- [@DocLommi](https://github.com/DocLommi)
+
 - [@Doctorwilliamtroll](https://github.com/DoctorWilliamTroll)
 
 - [@Docum5](https://github.com/docum5)
@@ -3245,6 +3247,8 @@
 - [@Itzbrassy](https://github.com/iTzBrassy)
 
 - [@Itzjammyzz](https://github.com/ItzJammyZz)
+
+- [@gorbadil](https://github.com/gorbadil)
 
 - [@Iudchenko](https://github.com/iudchenko)
 
@@ -6065,6 +6069,8 @@
 - [@Pavloteyfel](https://github.com/pavloteyfel)
 
 - [@Pavsteruk](https://github.com/PavsterUK)
+
+- [@Paysis](https://github.com/paysis)
 
 - [@Pawnesh03](https://github.com/Pawnesh03)
 
@@ -8986,3 +8992,16 @@
 - [@itishola](https://github.com/itishola)
 
 - [@hobaDevHome](https://github.com/hobaDevHome)
+
+- [@daniellyfrancis](https://github.com/daniellyfrancis)
+
+- [@Amin-py](https://github.com/Amin-py)
+
+-[@Sayandeep16](https://github.com/Sayandeep16)
+
+-[@Samim-dev](https://github.com/Samim-dev)
+
+- [@paulorinze](https://github.com/paulorinze)
+- [@mutaremalcolm](https://github.com/mutaremalcolm)
+
+- [@larisama](https://github.com/larisama)
