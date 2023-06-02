@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Joshuaqian11](https://github.com/joshuaqian11)
+
 - [@Nazmul6180](https://github.com/Nazmul6180)
 
 - [@camilagx](https://github.com/camilagx)
