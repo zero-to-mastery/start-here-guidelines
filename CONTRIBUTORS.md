@@ -4771,6 +4771,8 @@
 
 -[@doughorne](https://github.com/doughorne/)
 
+-[@kaitanidis](https://github.com/kaitanidis/)
+
 -[@climb-ski-code](https://github.com/climb-ski-code)
 
 -[@dwedigital](https://github.com/dwedigital)
@@ -4822,5 +4824,3 @@
 -[@shanicesmith98](https://github.com/shanicesmith98/)
 
 -[@handa26](https://github.com/handa26/)
-
--[@kaitanidis](https://github.com/kaitanidis/)
