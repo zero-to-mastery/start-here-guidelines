@@ -920,6 +920,8 @@
 
 - [@Brandonhafley](https://github.com/brandonHafley)
 
+- [@Brandonhersch](https://github.com/brandonhersch)
+
 - [@Brandonmagana](https://github.com/BrandonMagana)
 
 - [@Brandont3](https://github.com/BrandonT3)
@@ -9356,7 +9358,7 @@
 
 - [@ErnazarD](https://github.com/ErnazarD)
 
-- [@prince-2023](https://github.com/prince-2023) 
+- [@prince-2023](https://github.com/prince-2023)
 
 - [@okekefrancis112](https://github.com/okekefrancis112)
 
