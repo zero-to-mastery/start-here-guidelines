@@ -920,7 +920,7 @@
 
 - [@Brandonhafley](https://github.com/brandonHafley)
 
-- [@Brandonhersch] (https://github.com/brandonhersch)
+- [@Brandonhersch](https://github.com/brandonhersch)
 
 - [@Brandonmagana](https://github.com/BrandonMagana)
 
