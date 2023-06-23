@@ -5270,6 +5270,8 @@
 
 - [@Michaelaitken](https://github.com/michaelaitken)
 
+- [Nde-Dilan](https://github.com/Nde-Dilan)
+
 - [@Michaelboitmann](https://github.com/MichaelBoitmann)
 
 - [@Michaelclautice](https://github.com/MichaelClautice)
@@ -9276,6 +9278,8 @@
 
 - [@WeSantos](https://github.com/wal-wizard)
 
+- [@jassimalfonso](https://github.com/jassimalfonso)
+
 - [@williamk19](https://github.com/williamk19)
 
 - [@Raja-Here](https://github.com/Raja-Here/)
@@ -9466,5 +9470,15 @@
 - [@KedricMcIntyre](https://github.com/KedricMcIntyre0)
 
 - [@vijultyagi](https://github.com/vijultyagi)
+
+- [https://github.com/jimmybrandti](https://github.com/jimmybrandti)
+
+- [@cdavis83](https://github.com/cdavis83)
+
+- [@Ballantines87] (https://github.com/Ballantines87)
+
+- [UntaintedTech](https://github.com/UntaintedTech)
+
+- [@Alex-web5] (https://github.com/Alex-web5)
 
 - [@furby153] (https://github.com/furby153)
