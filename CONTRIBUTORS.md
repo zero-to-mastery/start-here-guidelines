@@ -26,6 +26,8 @@
 
 - [@0Xsilkweave](https://github.com/0xSilkweave)
 
+- [@thelore85](https://github.com/thelore85)
+
 - [@0Xwebmilk](https://github.com/0xwebmilk)
 
 - [@0Xxerkan](https://github.com/0xXerkan/)
@@ -3187,6 +3189,8 @@
 - [@Https://Github.Com/Jimmybrandti](https://github.com/jimmybrandti)
 
 - [@Htuohz](https://github.com/htuohz)
+
+-[@Iyinonaeko](https://github.com/IyinOnaeko)
 
 - [@Huber00](https://github.com/Huber00)
 
