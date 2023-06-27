@@ -9676,8 +9676,8 @@
 
 - [@yurishy11](https://github.com/yurishy11/)
 
+-[@Kusuma-io](https://github.com/Kusuma-io)
+
 - [@jaycobdev](https://github.com/jaycobdev)
 
 -[@connorbrs](https://github.com/connorbrs)
-
--[@Kusuma-io](https://github.com/Kusuma-io)
