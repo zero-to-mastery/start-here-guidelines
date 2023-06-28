@@ -6596,6 +6596,8 @@
 
 - [@Prantabarua007](https://github.com/pranta-barua007)
 
+-[@Prasaanth94](https://github.com/Prasaanth94)
+
 - [@Prashantkumarkaushik](https://github.com/prashantkumarkaushik)
 
 - [@Prashantsofthub](https://github.com/Prashant-soft-hub)
@@ -9697,8 +9699,6 @@
 
 - [@jaycobdev](https://github.com/jaycobdev)
 
-- [@yurishy11](https://github.com/yurishy11/)
-
 - [@jaycobdev](https://github.com/jaycobdev)
 
 - [@connorbrs](https://github.com/connorbrs)
@@ -9710,8 +9710,6 @@
 - [@chodardsu](https://github.com/chodardsu)
 
 - [@safa1904](https://github.com/safa1904)
-
-- [@yurishy11](https://github.com/yurishy11/)
 
 - [@noufanelachola](https://github.com/noufanelachola/)
 
