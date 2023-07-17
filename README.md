@@ -24,7 +24,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-4. Shift to project directory:
+4. Move to project directory:
 
    ```bash
    cd start-here-guidelines
