@@ -9993,6 +9993,8 @@
 
 - [@giorgiwebdev](https://github.com/giorgiwebdev)
 
+- [@Bosspro2728](https://github.com/Bosspro2728)
+
 - [@jovanplavsic](https://github.com/jovanplavsic)
 
 - [@EnayatullahHabibi](https://github.com/EnayatullahHabibi)
@@ -10007,6 +10009,8 @@
 
 - [@willy77229](https://github.com/willy77229)
 
+- [@Esra577](https://github.com/Esra577)
+
 - [@Pazyxx](https://github.com/Pazyxx)
 
 - [@Shajid](https://github.com/mshajid)
@@ -10019,9 +10023,17 @@
 
 - [@BenProgramming](https://github.com/BenProgramming)
 
+- [@squeakdesign](https://github.com/squeakdesign/)
+
 - [@Malurian-PHP](https://github.com/Malurian-PHP)
 
-- [@ghalebb] (https://github.com/ghalebb)
+- [@ghalebb](https://github.com/ghalebb)
+
+- [@iyaseree](https://github.com/iyaseree)
+
+- [@NawafSuu](https://github.com/nawafsuu)
+
+- [@Boanerges](https://github.com/callanrichardsmith)
 
 -[@iyaseree] (https://github.com/iyaseree)
 
