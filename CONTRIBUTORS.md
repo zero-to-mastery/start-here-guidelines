@@ -1,4 +1,5 @@
 # Contributors
+-[@brychjakub](https://github.com/brychjakub)
 
 -[@Anmol270900](https://github.com/Anmol270900)
 
