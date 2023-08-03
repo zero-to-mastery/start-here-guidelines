@@ -1,8 +1,8 @@
 # CONTRIBUTORS
 
-- [@aqibkhan20](https://github.com/aqibkhan20)
-
 - [@makhalifa](https://github.com/makhalifa)
+
+- [@aqibkhan20](https://github.com/aqibkhan20)
 
 - [@#Atef1995](https://github.com/atef1995)
 
