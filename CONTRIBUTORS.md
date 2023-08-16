@@ -48,6 +48,8 @@
 
 - [@shubham1221](https://github.com/shubham1221/)
 
+- [@accelerator-01](https://github.com/accelerator-01/)
+
 - [@HamzaTariq98](https://github.com/HamzaTariq98/)
 
 - [@Avatar521999](https://github.com/Avatar521999/)
