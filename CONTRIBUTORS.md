@@ -54,6 +54,8 @@
 
 - [@Avatar521999](https://github.com/Avatar521999/)
 
+- [@mijak82](https://github.com/mijak82/)
+
 - [@deygobinda](https://github.com/deygobinda)
 
 - [@felipeffranco](https://github.com/felipeffranco)
@@ -75,6 +77,8 @@
 - [@Muhamadou74](https://github.com/Muhamadou74)
 
 - [@babistebi](https://github.com/babistebi)
+
+- [@MrTadeu](https://github.com/MrTadeu)
 
 - [@yashbansal82](https://github.com/yashbansal82)
 
@@ -106,8 +110,10 @@
 
 - [@enricomarco26](https://github.com/enricomarco26)
 
-- [@enricomarco26](https://github.com/enricomarco26)
-
 - [@RohitRameshwaram](https://github.com/RohitRameshwara)
 
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
+
+- [@thisisdilmurod](https://github.com/thisisdilmurod)
+
+- [@maryamrahman](https://github.com/maryamrahman)
