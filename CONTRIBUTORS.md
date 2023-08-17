@@ -122,8 +122,6 @@
 
 - [@harmon-tuazon](https://github.com/harmon-tuazon)
 
-- [solutionkutibiz](https://github.com/)
-
 - [@Am3lia-18](https://github.com/Am3lia-18)
 
 - [@thisisdilmurod](https://github.com/thisisdilmurod)
@@ -131,3 +129,5 @@
 - [@maryamrahman](https://github.com/maryamrahman)
 
 - [@usama-365](https://github.com/usama-365)
+
+- [solutionkutibiz](https://github.com/solutionkutibiz)
