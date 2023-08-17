@@ -26,7 +26,7 @@
 
 - [@MariusHor](https://github.com/MariusHor)
 
-  [@Sophia-98](https://github.com/Sophia-98)
+- [@Sophia-98](https://github.com/Sophia-98)
 
 - [@Murat-Karakaya](https://github.com/Murat-Karakaya)
 
@@ -84,28 +84,30 @@
 
 - [@frankaz](https://github.com/frankaz)
 
--[@ogahozy](https://github.com/ogahozy)
+- [@ogahozy](https://github.com/ogahozy)
 
--[@AkshayaBalasubramani](https://github.com/AkshayaBalasubramani)
+- [@AkshayaBalasubramani](https://github.com/AkshayaBalasubramani)
 
--[@SriramaBhat](https://github.com/SriramaBhat)
+- [@SriramaBhat](https://github.com/SriramaBhat)
 
--[@neeshat060708](https://github.com/neeshat060708) -[@iGitmar](https://github.com/iGitmar)
+- [@neeshat060708](https://github.com/neeshat060708)
 
--[@Evisssa](https://github.com/Evisssa)
+- [@iGitmar](https://github.com/iGitmar)
 
--[@shamil2936](https://github.com/shamil2936)
+- [@Evisssa](https://github.com/Evisssa)
 
--[@jesuskid](https://github.com/Jesuskid)
+- [@shamil2936](https://github.com/shamil2936)
 
--[@Iospedro](https://github.com/Iospedro)
+- [@jesuskid](https://github.com/Jesuskid)
 
--[@panosker](https://github.com/panosker)
+- [@Iospedro](https://github.com/Iospedro)
 
--[@enricomarco26](https://github.com/enricomarco26)
+- [@panosker](https://github.com/panosker)
 
--[@enricomarco26](https://github.com/enricomarco26)
+- [@enricomarco26](https://github.com/enricomarco26)
 
--[@RohitRameshwaram](https://github.com/RohitRameshwara)
+- [@enricomarco26](https://github.com/enricomarco26)
 
--[@harmon-tuazon](https://github.com/harmon-tuazon)
+- [@RohitRameshwaram](https://github.com/RohitRameshwara)
+
+- [@harmon-tuazon](https://github.com/harmon-tuazon)
