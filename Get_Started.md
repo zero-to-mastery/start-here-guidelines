@@ -22,7 +22,7 @@ Along with learning new skills, you will also gain experience on projects you ca
 
 Joining a project is pretty simple, checkout the [current projects](https://github.com/zero-to-mastery) and find one you would like to participate in. Check out the project README in its repo as it will have a guide on how to get started!
 
-**Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/CodeofConduct)
+**Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/CodeofConduct).
 
 ## Option 2: Create a project
 
