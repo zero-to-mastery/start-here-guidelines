@@ -1049,6 +1049,8 @@
 
 - [@Candicefdev](https://github.com/candicefdev)
 
+- [@AceMido](https://github.com/AceMido)
+
 - [@Cankahramann](https://github.com/cankahramann)
 
 - [@Caobeee](https://github.com/CaoBeee)
