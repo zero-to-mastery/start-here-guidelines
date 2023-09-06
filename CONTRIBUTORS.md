@@ -405,5 +405,3 @@
 - [@MobiusXXF](https://github.com/MobiusXXF)
 
 - [@Yosef-ft](https://github.com/Yosef-ft)
-
-- [@carv0066](https://github.com/carv0066)
