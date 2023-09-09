@@ -488,4 +488,4 @@
 
 - [@morganyeh](https://github.com/morganyeh)
 
-- [@thugbunns](https://github.com/thugbunnys)
+- [@thugbunnys](https://github.com/thugbunnys)
