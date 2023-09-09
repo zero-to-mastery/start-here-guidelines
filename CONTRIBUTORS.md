@@ -487,3 +487,5 @@
 - [@BernardGomes7](https://github.com/BernardGomes7)
 
 - [@morganyeh](https://github.com/morganyeh)
+
+- [@thugbunns](https://github.com/thugbunnys)
