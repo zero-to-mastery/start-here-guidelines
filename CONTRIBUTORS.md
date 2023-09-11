@@ -8850,4 +8850,8 @@
 
 - [@VovaRotterdam](https://github.com/VovaRotterdam)
 
+- [@morganyeh](https://github.com/morganyeh)
+
 - [@teodorignat](https://github.com/teodorignat)
+
+- [@thugbunnys](https://github.com/thugbunnys)
