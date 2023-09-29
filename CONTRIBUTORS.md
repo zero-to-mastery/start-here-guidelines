@@ -152,7 +152,7 @@
 
 - [@Aryalanjewar3005](https://github.com/AryaLanjewar3005)
 
-- [@Aryan*8615*](https://github.com/bankank)
+- [@Aryan_8615_](https://github.com/bankank)
 
 - [@Aryanverma3009](https://github.com/aryanverma3009)
 
@@ -5747,6 +5747,8 @@
 
 - [@Original2022](https://github.com/original2022)
 
+- [@FKoler](https://github.com/fkoler)
+
 - [@Ornitcg](https://github.com/ornitcg)
 
 - [@Ornlyp63](https://github.com/OrnlyP63)
@@ -9064,7 +9066,6 @@
 - [@mbadawysw](https://github.com/mbadawysw)
 
 -[@baafbass](https://github.com/baafbass) -[@mbadawysw](https://github.com/mbadawysw)
-
 
 - [@MrARawal](https://github.com/MrARawal/)
 
