@@ -5554,6 +5554,8 @@
 
 - [@Ninosh05](https://github.com/Ninosh05)
 
+- [@fyardlest](https://github.com/fyardlest1)
+
 - [@Niquue](https://github.com/niquue)
 
 - [@Nirbhayparmar](https://github.com/Nirbhayparmar/)
@@ -6929,7 +6931,6 @@
 - [@Salmanseediq](https://github.com/salmanseediq)
 
 - [@Salmaradni](https://github.com/samialmaradni97)
-  
 - [@supermarios77](https://github.com/supermarios77)
 
 - [@Salvo9107](https://github.com/Salvo9107)
@@ -9225,3 +9226,14 @@
 - [@amanmhmmdshb](https://github.com/amanmhmmdshb)
 
 - [@jayvyper](https://github.com/Jayvyper)
+
+- [@kazuma313](https://github.com/kazuma313)
+
+- [@mendesahdivio](https://github.com/mendesahdivio)
+ 
+- [@CesarTheAwesome](https://github.com/CesarTheAwesome)
+
+- [@barryhanna](https://github.com/barryhanna)
+
+- [@trayshmhirk](https://github.com/Trayshmhirk)
+
