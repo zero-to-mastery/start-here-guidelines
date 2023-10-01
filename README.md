@@ -14,28 +14,61 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
-   For example, run this command inside your terminal:
+   For example, run this command inside your terminal, for this project:
 
    ```bash
    git clone https://github.com/<your-github-username>/start-here-guidelines.git
    ```
+   
+   For other projects, run:
+
+   ```bash
+   git clone <The-Copied-SSH-Link-From-Your-Fork-Reprository>
+   ```
 
    **Replace \<your-github-username\>!**
+   **Replace \<your-fork-repository-name\>!**
+   **Do not include <> signs!**
+
+   Note: If you do not have an SSH key, go to this link: https://github.com/settings/keys. Create an SSH key and enter the key.  
 
    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-4. Move to project directory:
+4. Navigate to the project directory. For this project:
 
    ```bash
    cd start-here-guidelines
    ```
 
+   For other projects:
+
+   ```bash
+   cd <your-fork-repository-name>
+   ```
+
+   **Replace \<your-fork-repository-name\>!**
+
 5. Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:
+
+   For this project:
 
    ```bash
    git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git
+   ```
+   ```bash
    git pull upstream master
    ```
+
+   For other projects:
+
+   ```bash
+   git remote add upstream <main-project-repository-link>
+   ```
+   ```bash
+   git pull upstream main
+   ```
+
+   **Replace \<main-project-repository-link\>!**
 
    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can [watch this tutorial](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4).
 
@@ -50,6 +83,8 @@ We don't care if you break things. This is a playground, and we encourage failin
    git switch <branch-name>
    ```
 
+   **Replace \<branch-name\>!**
+
 7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
 - ⚠️ **IMPORTANT NOTE #1:** Add your name somewhere in the middle. Not at the top or bottom in order to avoid the chance of you getting a [merge conflict](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4)!
@@ -59,6 +94,9 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    ```bash
    git add CONTRIBUTORS.md
+   ```
+
+   ```bash
    git commit -m "Add <your-github-username>"
    ```
 
@@ -69,6 +107,8 @@ We don't care if you break things. This is a playground, and we encourage failin
    ```bash
    git push origin <branch-name>
    ```
+
+   **Replace \<branch-name\>!**
 
 10. Go to the GitHub page of _your fork_, and make a pull request:
 
