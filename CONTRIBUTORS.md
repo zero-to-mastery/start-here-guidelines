@@ -9239,8 +9239,8 @@
 
 - [@trayshmhirk](https://github.com/Trayshmhirk)
 
--[@TishShaw](https://github.com/TishShaw)
+- [@TishShaw](https://github.com/TishShaw)
 
--[@Loukas4](https://github.com/Loukas4)
+- [@Loukas4](https://github.com/Loukas4)
 
--[@Baku452](https://github.com/Baku452)
+- [@Baku452](https://github.com/Baku452)
