@@ -3320,15 +3320,17 @@
 - [@Jggsus88](https://github.com/jggsus88)
 
 <<<<<<< HEAD
+
 - [@Jgonz19](https://github.com/jgonz19/)
-||||||| merged common ancestors
-- [@Jgonz19](https://github.com/jgonz19)
-=======
-<<<<<<< HEAD
+  ||||||| merged common ancestors
+- # [@Jgonz19](https://github.com/jgonz19)
+
+  <<<<<<< HEAD
 
 - # [@thebluedev](https://github.com/thebluedev)
 - [@Jgonz19](https://github.com/jgonz19)
->>>>>>> b96727358d28e87e1149a493f4be833125fbb028
+
+  > > > > > > > b96727358d28e87e1149a493f4be833125fbb028
 
   > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
@@ -6419,6 +6421,8 @@
 - [@Rahulscool](https://github.com/Rahuls-Cool)
 
 - [@Rahulshah07](https://github.com/RAHULSHAH07)
+
+- [@Rainbowchook](https://github.com/rainbowchook)
 
 - [@Rainerita](https://github.com/rainerita)
 
