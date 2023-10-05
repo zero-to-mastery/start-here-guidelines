@@ -2472,6 +2472,8 @@
 
 - [@Haimhamiel](https://github.com/HaimHamiel)
 
+- [@Haitruong](https://github.com/haitruong-tech)
+
 - [@Haneesh000](https://github.com/Haneesh000)
 
 - [@Hajar6102](https://github.com/hajar6102/)
