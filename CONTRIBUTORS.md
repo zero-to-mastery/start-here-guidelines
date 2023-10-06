@@ -4011,6 +4011,8 @@
 
 - [@Kneesal](https://github.com/Kneesal)
 
+- [@dvasquez08](https://github.com/dvasquez08)
+
 - [@Kneo002](https://github.com/kneo002)
 
 - [@Knightndgale](https://github.com/knightndgale)
@@ -7232,7 +7234,7 @@
 
 - [@Seinnlee](https://github.com/seinnlee)
 
-- [@Selva02695](<<https://github.com/Selva02695>)
+- [@Selva02695](<https://github.com/Selva02695)
 
 - [@Selvendranks](https://github.com/selvendranks)
 
