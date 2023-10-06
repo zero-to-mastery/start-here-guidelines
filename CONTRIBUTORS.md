@@ -2,8 +2,6 @@
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
-- [@Bylerma](https://github.com/Bylerma) 
-
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
 
 - [@mmaksi](https://github.com/mmaksi)
@@ -2472,8 +2470,6 @@
 
 - [@Haimhamiel](https://github.com/HaimHamiel)
 
-- [@Haitruong](https://github.com/haitruong-tech)
-
 - [@Haneesh000](https://github.com/Haneesh000)
 
 - [@Hajar6102](https://github.com/hajar6102/)
@@ -3329,15 +3325,17 @@
 - [@Jggsus88](https://github.com/jggsus88)
 
 <<<<<<< HEAD
+
 - [@Jgonz19](https://github.com/jgonz19/)
-||||||| merged common ancestors
-- [@Jgonz19](https://github.com/jgonz19)
-=======
-<<<<<<< HEAD
+  ||||||| merged common ancestors
+- # [@Jgonz19](https://github.com/jgonz19)
+
+  <<<<<<< HEAD
 
 - # [@thebluedev](https://github.com/thebluedev)
 - [@Jgonz19](https://github.com/jgonz19)
->>>>>>> b96727358d28e87e1149a493f4be833125fbb028
+
+  > > > > > > > b96727358d28e87e1149a493f4be833125fbb028
 
   > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
@@ -4319,8 +4317,6 @@
 
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
-- [@KristoferFangrat](https://github.com/KristoferFangrat)
-
 - [@Limatfc](https://github.com/limatfc)
 
 - [@Linnypoah](https://github.com/Linnypoah)
@@ -5000,6 +4996,8 @@
 - [@Migueldalberto](https://github.com/miguelDalberto)
 
 - [@Miguelgiraldog](https://github.com/MiguelGiraldoG)
+
+-[@lpenaloza16](https://github.com/lpenaloza16)
 
 - [@Miguelpenagithub](https://github.com/miguelpena-github/)
 
@@ -9393,9 +9391,3 @@
 - [@BALOAT](https://github.com/BALOAT/)
 
 -[@newVoid2](https://github.com/newVoid2)
-
--[@masonthedev](https://github.com/masonthedev)
-
--[@NegativE333](https://github.com/NegativE333/)
-
--[@Raka1104](https://github.com/Raka1104)
