@@ -520,7 +520,74 @@
 
 - [@Jetibo](https://github.com/jetibo)
 
+<<<<<<< Updated upstream
 - [@JinalPatel](https://github.com/JinalPatel17/)
+=======
+- [@Jetsetnofuture](https://github.com/jetsetnofuture)
+
+- [@Jexodus](https://github.com/J-Exodus)
+
+- [@Jflores011](https://github.com/jflores011/)
+
+- [@Jgeiger2](https://github.com/jgeiger2)
+
+- [@Jggsus88](https://github.com/jggsus88)
+
+<<<<<<< HEAD
+
+- [@Jgonz19](https://github.com/jgonz19/)
+  ||||||| merged common ancestors
+- # [@Jgonz19](https://github.com/jgonz19)
+
+  <<<<<<< HEAD
+
+- # [@thebluedev](https://github.com/thebluedev)
+- [@Jgonz19](https://github.com/jgonz19)
+
+  > > > > > > > b96727358d28e87e1149a493f4be833125fbb028
+
+  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
+
+- [@Jhar](https://github.com/jharStadistics)
+
+- [@Jhaycee11](https://github.com/jhaycee11)
+
+- [@Jhir01](https://github.com/JHIR01)
+
+- [@Jho012299](https://github.com/jho012299)
+
+- [@Jhoneycutt5](https://github.com/JHoneycutt5/)
+
+- [@Jibisk](https://github.com/jibisk)
+
+- [@Jideabdqudus](https://github.com/jideabdqudus)
+
+- [@Jimmyboon](https://github.com/JimmyBoon)
+
+- [@Jimmyooops](https://github.com/JIMMYOOOPS/)
+
+- [@Jinalgoyani](https://github.com/jinalgoyani/)
+
+- [@Jinalpatel](https://github.com/JinalPatel17)
+
+- [@Jinkosiz](https://github.com/JinkoSiz)
+
+- [@Jinyoung5497](https://github.com/jinyoung5497/)
+
+- [@Jippy89](https://github.com/jippy89)
+
+- [@TheDataDudeDE](https://github.com/TheDataDudeDE)
+
+- [@Jirasaki](https://github.com/Jira-saki/)
+
+- [@Jisanmia](https://github.com/Jisan-mia)
+
+- [@Jiten1711](https://github.com/jiten1711/)
+
+- [@Jithendragunuru](https://github.com/jithendra-gunuru)
+
+- [@Jiunjiun69](https://github.com/jiunjiun69)
+>>>>>>> Stashed changes
 
 - [@Jizzyjay](https://github.com/Jizzyjay)
 
@@ -1446,7 +1513,13 @@
 
 - [@azolag98](https://github.com/azolag98/)
 
+<<<<<<< Updated upstream
 - [@azyMisha](https://github.com/LazyMisha)
+=======
+-[@lpenaloza16](https://github.com/lpenaloza16)
+
+- [@DjokiTheKing](https://github.com/DjokiTheKing/)
+>>>>>>> Stashed changes
 
 - [@baky0905](https://github.com/baky0905)
 
@@ -1596,6 +1669,7 @@
 
 - [@cynthia0713](https://github.com/cynthia0713)
 
+<<<<<<< Updated upstream
 - [@cyoung11UMBC](https://github.com/cyoung11UMBC)
 
 - [@cyrilechristian](https://github.com/cyrilechristian)
@@ -3597,3 +3671,6 @@
 - [@yuandere](https://github.com/yuandere)
 
 - [@mikedadalin](https://github.com/mikedadalin)
+=======
+-[@newVoid2](https://github.com/newVoid2)
+>>>>>>> Stashed changes
