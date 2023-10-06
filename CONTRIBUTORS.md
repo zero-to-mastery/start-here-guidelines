@@ -25,7 +25,7 @@
 - [@Jeet-Debnath](https://github.com/jxxt)
 
 - [@JB-Rockstar](https://github.com/JB-Rockstar)
-  [@Scuenco](https://github.com/Scuenco/)
+- [@Scuenco](https://github.com/Scuenco/)
 - [@Aayushnr](https://github.com/aayushnr)
 
 - [@Abdi123](https://github.com/@abdi-123/)
