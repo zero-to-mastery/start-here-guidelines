@@ -360,7 +360,7 @@
 
 - [@Benabbott](https://github.com/ben-abbott)
 
-- [Bennett] (https://github.com/bwilbert67)
+- [Bennett] (<https://github.com/bwilbert67>)
 
 - [@Bendamian](https://github.com/bendamian)
 
@@ -1041,6 +1041,8 @@
 - [@Cutukzg](https://github.com/cutukzg)
 
 - [@Cvefra](https://github.com/c-vefra)
+
+- [@zli213](https://github.com/zli213)
 
 - [@Cvijandj](https://github.com/cvijandj)
 
@@ -3147,12 +3149,9 @@
 
 - [@Japusnelson](https://github.com/Japus-Nelson)
 
-<<<<<<< HEAD
+- [@shubhamgoel90](https://github.com/shubhamgoel90)
 
-- # [@shubhamgoel90](https://github.com/shubhamgoel90)
 - [@Jaredaustin813](https://github.com/Jaredaustin813)
-
-  > > > > > > > 7344dc5f688d255ab0aec0b9927fc81303405d03
 
 - [@Jareddyck](https://github.com/jareddyck)
 
@@ -3330,9 +3329,9 @@
 
 - [@Jggsus88](https://github.com/jggsus88)
 
-- [@Jgonz19](https://github.com/jgonz19/)
-
 - [@thebluedev](https://github.com/thebluedev)
+
+- [@Jgonz19](https://github.com/jgonz19)
 
 - [@Jhar](https://github.com/jharStadistics)
 
@@ -6112,7 +6111,7 @@
 
 - [@Planetnamektech](https://github.com/PlanetNamekTech)
 
-- [@pleomorph]https://github.com/pleomorph)
+- [@pleomorph]<https://github.com/pleomorph>)
 
 - [@Pmakaju](https://github.com/Pmakaju)
 
@@ -7233,7 +7232,7 @@
 
 - [@Seinnlee](https://github.com/seinnlee)
 
-- [@Selva02695](<https://github.com/Selva02695)
+- [@Selva02695](<<https://github.com/Selva02695>)
 
 - [@Selvendranks](https://github.com/selvendranks)
 
@@ -9371,11 +9370,11 @@
 
 - [Idrees9321](https://github.com/Idrees9321)
 
-- [@Davve686] (https://github.com/Davve686)
+- [@Davve686] (<https://github.com/Davve686>)
 
 - [@XayZay](https://github.com/XayZay)
 
-- [joyboyid] (https://github.com/joyboyid)
+- [joyboyid] (<https://github.com/joyboyid>)
 
 - [@Pratyush-Dehury](https://github.com/Pratyush-Dehury)
 
@@ -9400,3 +9399,15 @@
 - [@seay98](https://github.com/seay98)
 
 - [@artfulpix](https://github.com/artfulpix)
+
+- [@masonthedev](https://github.com/masonthedev)
+
+- [@NegativE333](https://github.com/NegativE333/)
+
+- [@Raka1104](https://github.com/Raka1104)
+
+- [@seay98](https://github.com/seay98)
+
+- [@artfulpix](https://github.com/artfulpix)
+
+- [@GaryAmadi](https://github.com/GaryAmadi)
