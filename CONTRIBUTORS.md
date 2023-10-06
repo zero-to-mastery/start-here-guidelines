@@ -2942,6 +2942,8 @@
 
 - [@ufombam](https://github.com/ufombam)
 
+- [@lpenaloza16](https://github.com/lpenaloza16)
+
 - [@ultimatelokal](https://github.com/ultimatelokal)
 
 - [@ultros](https://github.com/ultros)
@@ -3595,5 +3597,3 @@
 - [@yuandere](https://github.com/yuandere)
 
 - [@mikedadalin](https://github.com/mikedadalin)
-
-- [@lpenaloza16](https://github.com/lpenaloza16)
