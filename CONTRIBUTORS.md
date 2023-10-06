@@ -2,7 +2,7 @@
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
-- [@Bylerma](https://github.com/Bylerma) 
+- [@Bylerma](https://github.com/Bylerma)
 
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
 
@@ -4993,6 +4993,8 @@
 
 - [@Miguelgiraldog](https://github.com/MiguelGiraldoG)
 
+- [@lpenaloza16](https://github.com/lpenaloza16)
+
 - [@Miguelpenagithub](https://github.com/miguelpena-github/)
 
 - [@Mihaelayo](https://github.com/mihaelayo)
@@ -9387,6 +9389,16 @@
 - [@BALOAT](https://github.com/BALOAT/)
 
 - [@newVoid2](https://github.com/newVoid2)
+
+- [@masonthedev](https://github.com/masonthedev)
+
+- [@NegativE333](https://github.com/NegativE333/)
+
+- [@Raka1104](https://github.com/Raka1104)
+
+- [@seay98](https://github.com/seay98)
+
+- [@artfulpix](https://github.com/artfulpix)
 
 - [@masonthedev](https://github.com/masonthedev)
 
