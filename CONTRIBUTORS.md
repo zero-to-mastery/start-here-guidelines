@@ -4319,6 +4319,8 @@
 
 - [@Lilyilinet](https://github.com/Lilyilinet)
 
+- [@KristoferFangrat](https://github.com/KristoferFangrat)
+
 - [@Limatfc](https://github.com/limatfc)
 
 - [@Linnypoah](https://github.com/Linnypoah)
