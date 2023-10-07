@@ -40,6 +40,8 @@
 
 - [@Abubakr](https://github.com/abubakr030109)
 
+- [@simplifisteve](https://github.com/simplifisteve)
+
 - [@czarjulius](https://github.com/czarjulius)
 
 - [@Acemido](https://github.com/AceMido)
