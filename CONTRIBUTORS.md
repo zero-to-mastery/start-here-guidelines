@@ -7234,7 +7234,7 @@
 
 - [@Seinnlee](https://github.com/seinnlee)
 
-- [@Selva02695](<<https://github.com/Selva02695>)
+- [@Selva02695](<https://github.com/Selva02695)
 
 - [@Selvendranks](https://github.com/selvendranks)
 
@@ -9415,3 +9415,5 @@
 - [@GaryAmadi](https://github.com/GaryAmadi)
 
 - [@claudiatrescher](https://github.com/claudiatrescher)
+
+- [@DarkRaiderCB](https://github.com/DarkRaiderCB)
