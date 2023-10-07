@@ -86,6 +86,8 @@
 
 - [@Ali0Ink](https://github.com/Ali0ink)
 
+- [@Grattade07](https://github.com/Grattade07)
+
 - [@Alinashevelev](https://github.com/AlinaShevelev)
 
 - [@Alincz](https://github.com/alincz)
