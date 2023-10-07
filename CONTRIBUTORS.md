@@ -9414,11 +9414,17 @@
 
 - [@masonthedev](https://github.com/masonthedev)
 
+- [@mi16co2012](https://github.com/mi16co2012/)
+
+- [@cancinoray](https://github.com/cancinoray)
+
 - [@NegativE333](https://github.com/NegativE333/)
 
 - [@Raka1104](https://github.com/Raka1104)
 
 - [@seay98](https://github.com/seay98)
+
+- [@vinodkotagiri](https://github.com/vinodkotagiri/)
 
 - [@artfulpix](https://github.com/artfulpix)
 
@@ -9436,4 +9442,9 @@
 
 - [@Xander31](https://github.com/Xander31)
 
+- [@mikedadalin](https://github.com/mikedadalin)
+
+- [@lpenaloza16](https://github.com/lpenaloza16)
+
 - [@Lokmane04](https://github.com/Lokmane04)
+
