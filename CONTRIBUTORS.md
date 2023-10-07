@@ -18,6 +18,8 @@
 
 - [@AkshayCodeLab](https://github.com/AkshayCodeLab)
 
+- [@parneetbh](https://github.com/parneetbh)
+
 - [@innovinitylabs](https://github.com/innovinitylabs)
 
 - [@deepak](https://github.com/deepak)
