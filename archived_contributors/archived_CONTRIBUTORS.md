@@ -18,6 +18,8 @@
 
 - [@faolad](https://github.com/faolad)
 
+- [@seaking](https://github.com/sea-king)
+
 - [@DHROOV](https://github.com/dhroovarora)
 
 - [@aksh-ay06](https://github.com/aksh-ay06)
