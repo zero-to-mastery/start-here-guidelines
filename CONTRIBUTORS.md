@@ -4254,6 +4254,8 @@
 
 - [@Lefson](https://github.com/olefson)
 
+- [@Lefie](https://github.com/Lefie)
+
 - [@Legosudo](https://github.com/LEGO-SUDO)
 
 - [@Lejla1502](https://github.com/Lejla1502)
