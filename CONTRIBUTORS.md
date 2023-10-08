@@ -20,6 +20,8 @@
 
 - [@parneetbh](https://github.com/parneetbh)
 
+- [@charles2508](https://github.com/charles2508)
+
 - [@innovinitylabs](https://github.com/innovinitylabs)
 
 - [@deepak](https://github.com/deepak)
