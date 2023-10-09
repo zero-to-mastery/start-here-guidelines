@@ -3912,6 +3912,8 @@
 
 - [@Kenzo92](https://github.com/kenzo92/)
 
+- [@madelenfoss](https://github.com/madelenfoss)
+
 - [@Kephass](https://github.com/Kephass)
 
 - [@Kerwindows](https://github.com/kerwindows)
@@ -6061,8 +6063,6 @@
 - [@Peixotons](https://github.com/peixotons/)
 
 - [@Pel89](https://github.com/Pel89)
-
-- [@aniketicloud](https://github.com/aniketicloud)
 
 - [@Pelumiolawole](https://github.com/pelumiolawole)
 
