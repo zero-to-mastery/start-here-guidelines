@@ -20,6 +20,8 @@
 
 - [@AkshayCodeLab](https://github.com/AkshayCodeLab)
 
+- [@RoksolanaVeres](https://github.com/RoksolanaVeres)
+
 - [@parneetbh](https://github.com/parneetbh)
 
 - [@charles2508](https://github.com/charles2508)
