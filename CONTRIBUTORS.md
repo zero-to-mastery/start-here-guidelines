@@ -2,6 +2,8 @@
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
+- [@sserwangaedrisa](https://github.com/sserwangaedrisa)
+
 - [@Bylerma](https://github.com/Bylerma)
 
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
@@ -17,6 +19,8 @@
 - [@Nivedita021](https://github.com/Nivedita021)
 
 - [@AkshayCodeLab](https://github.com/AkshayCodeLab)
+
+- [@RoksolanaVeres](https://github.com/RoksolanaVeres)
 
 - [@parneetbh](https://github.com/parneetbh)
 
@@ -6060,6 +6064,8 @@
 
 - [@Pel89](https://github.com/Pel89)
 
+- [@aniketicloud](https://github.com/aniketicloud)
+
 - [@Pelumiolawole](https://github.com/pelumiolawole)
 
 - [@Penelopejoice14](https://github.com/PenelopeJoice14/)
@@ -9473,4 +9479,12 @@
 
 - [@SamilAbud](https://github.com/samilabud)
 
+<<<<<<< HEAD
 - [@albertidaniel](https://github.com/albertidaniel)
+=======
+- [@albertidaniel](https://github.com/albertidaniel)
+
+- [@kapilsinghnegi](https://github.com/kapilsinghnegi)
+
+- [@MYasin20](https://github.com/MYasin20)
+>>>>>>> 441f479d401778a799e787b4b6e3b150fc718476
