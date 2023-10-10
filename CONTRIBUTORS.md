@@ -12,6 +12,8 @@
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
 
+- [@BritoJV](https://github.com/BritoJV)
+
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
 - [@uskayyyyy](https"//github.com/uskayyyyy)
