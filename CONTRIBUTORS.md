@@ -1231,6 +1231,8 @@
 
 - [@Davi0254](https://github.com/Davi0254)
 
+- [@ParzivalAFK](https://github.com/ParzivalAFK)
+
 - [@Davi27](https://github.com/Davi27)
 
 - [@David001](https://github.com/david-001/)
