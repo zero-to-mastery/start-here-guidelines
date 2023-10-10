@@ -18,6 +18,8 @@
 
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
+- [@dixitatgithub](https://github.com/dixitatgithub)
+
 - [@uskayyyyy](https"//github.com/uskayyyyy)
 
 - [@11Aghayan](https://github.com/11aghayan)
