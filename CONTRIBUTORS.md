@@ -14,6 +14,8 @@
 
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
+- [@uskayyyyy](https"//github.com/uskayyyyy)
+
 - [@11Aghayan](https://github.com/11aghayan)
 
 - [@Nivedita021](https://github.com/Nivedita021)
