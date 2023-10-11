@@ -12,6 +12,8 @@
 
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
 
+- [@suravshrestha](https://github.com/suravshrestha)
+
 - [@lingeorge88](https://github.com/lingeorge88)
 
 - [@mmaksi](https://github.com/mmaksi)
