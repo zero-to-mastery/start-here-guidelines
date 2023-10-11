@@ -38,6 +38,8 @@
 
 - [@deepak](https://github.com/deepak)
 
+- [@anaetrezve](https://github.com/anaetrezve)
+
 - [@manjillama](https://github.com/manjillama)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
