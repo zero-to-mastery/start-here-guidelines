@@ -5989,6 +5989,8 @@
 
 - [@Parifranco8](https://github.com/parifranco8)
 
+- [@parikshitadhikari] (https://github.com/parikshitadhikari)
+
 - [@Parrtakenn](https://github.com/parrtakenn)
 
 - [@Parth1125](https://github.com/Parth1125)
