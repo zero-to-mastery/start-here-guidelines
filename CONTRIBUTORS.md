@@ -14,6 +14,8 @@
 
 - [@suravshrestha](https://github.com/suravshrestha)
 
+- [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
+
 - [@lingeorge88](https://github.com/lingeorge88)
 
 - [@mmaksi](https://github.com/mmaksi)
