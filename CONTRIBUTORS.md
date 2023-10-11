@@ -6620,6 +6620,8 @@
 
 - [@Reciproque](https://github.com/remireci)
 
+- [@Reddlamar](https://github.com/reddlamar)
+
 - [@Redfordk](https://github.com/redfordk/)
 
 - [@Redskowa](https://github.com/redskowa/)
