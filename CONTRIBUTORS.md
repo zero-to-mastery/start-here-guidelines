@@ -101,7 +101,6 @@
 - [@k-abdo](https://github.com/k-abdo)
 
 - [@Ajaysinghshekhawat](https://github.com/AjaySingh-Shekhawat)
-  
 - [@Arpan Chowdhury](https://github.com/apu52)
 
 - [@Ajmccraw](https://github.com/ajmccraw)
@@ -7455,7 +7454,6 @@
 - [@Shirshak89](https://github.com/shirshak89)
 
 - [@Shivam](https://github.com/shivamsinghydv)
-  
 - [@ShivamSingh](https://github.com/Shivam250702)
 
 - [@Shivangisharmacs](https://github.com/Shivangi-Sharma-CS/)
@@ -9531,3 +9529,5 @@
 - [@JSEB99](https://github.com/JSEB99)
 
 -[@YashKC03](https://github.com/YashKC03)
+
+-[@SammyAlvarado](https://github.com/SammyAlvarado)
