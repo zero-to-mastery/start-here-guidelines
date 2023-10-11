@@ -10,6 +10,8 @@
 
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
 
+- [@lingeorge88](https://github.com/lingeorge88)
+
 - [@mmaksi](https://github.com/mmaksi)
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
