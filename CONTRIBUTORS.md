@@ -43,7 +43,7 @@
 - [@anaetrezve](https://github.com/anaetrezve)
 
 - [@manjillama](https://github.com/manjillama)
-
+- [@rishiiiidha](https://github.com/rishiiiidha)
 - [@Jeet-Debnath](https://github.com/jxxt)
 
 -[@bubblehm] (https://github.com/bubblehm)
