@@ -46,6 +46,8 @@
 
 - [@anaetrezve](https://github.com/anaetrezve)
 
+- [@susheelthapa](https://github.com/SusheelThapa)
+
 - [@aditya7302]((https://github.com/aditya7302)
 - [@manjillama](https://github.com/manjillama)
 - [@rishiiiidha](https://github.com/rishiiiidha)
