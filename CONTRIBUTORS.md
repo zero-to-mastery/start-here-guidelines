@@ -34,6 +34,8 @@
 
 - [@Nivedita021](https://github.com/Nivedita021)
 
+- [@Subash-Lamichhane](https://github.com/Subash-Lamichhane)
+
 - [@AkshayCodeLab](https://github.com/AkshayCodeLab)
 
 - [@RoksolanaVeres](https://github.com/RoksolanaVeres)
