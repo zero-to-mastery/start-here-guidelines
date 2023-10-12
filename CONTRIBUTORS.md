@@ -5095,6 +5095,8 @@
 
 - [@Mikeiglesias](https://github.com/mikeiglesias)
 
+-[@HeshamCaesar001](https://github.com/HeshamCaesar001)
+
 - [@Mikelammy](https://github.com/mikelammy)
 
 - [@Mikerobards](https://github.com/mikerobards)
@@ -9552,6 +9554,9 @@
 
 -[@Galvinsky](https://github.com/Galvinsky/)
 
--[@Asymtode712](https://github.com/Asymtode712)
+-[@Asymtode712](https://github.com/Asymtode71)
 
 -[@utkarsh1042005](https://github.com/utkarsh1042005)
+
+-[@semajssor](https://github.com/semajssor)
+
