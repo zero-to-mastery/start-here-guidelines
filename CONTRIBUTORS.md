@@ -34,6 +34,8 @@
 
 - [@11Aghayan](https://github.com/11aghayan)
 
+- [@Shuklaaa](https://github.com/Shuklaaa)
+
 - [@Nivedita021](https://github.com/Nivedita021)
 
 - [@Subash-Lamichhane](https://github.com/Subash-Lamichhane)
