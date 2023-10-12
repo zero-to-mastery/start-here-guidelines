@@ -162,6 +162,8 @@
 
 - [@Araguaci](https://github.com/araguaci)
 
+- [@ruchircodes24](https://github.com/ruchircodes24)
+
 - [@Araneus84](https://github.com/Araneus84)
 
 - [@Archeana](https://github.com/archeana)
