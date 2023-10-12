@@ -18,6 +18,8 @@
 
 - [@lingeorge88](https://github.com/lingeorge88)
 
+- [@ginozambe](https://github.com/ginozambe)
+
 - [@mmaksi](https://github.com/mmaksi)
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
