@@ -198,6 +198,8 @@
 
 - [@Arthur001](https://github.com/Arthur-001)
 
+- [@AashikBharti](https://github.com/AashikBharti)
+
 - [@Abhishekgupta204](https://github.com/Abhishekgupta204)
 
 - [@Artursniegowski](https://github.com/artursniegowski)
