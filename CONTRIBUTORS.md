@@ -8064,6 +8064,8 @@
 
 - [@Tejasn14](https://github.com/tejasn14/)
 
+- [@Tejaslakade99](https://github.com/tejaslakade99)
+
 - [@Tejaswate7](https://github.com/tejaswate7)
 
 - [@Tellula](https://github.com/Tellula)
