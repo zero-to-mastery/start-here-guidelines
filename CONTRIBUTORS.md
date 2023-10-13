@@ -1,9 +1,7 @@
 ﻿# CONTRIBUTORS
 
 - [ayushrakesh](https://github.com/ayushrakesh)
-
-- [Shaikh Aman](https://github.com/ShaikhAman01)
-  
+- [Rahul](https://github.com/rahul-2327)
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Pawas Pandey](https://github.com/pawaspy)
