@@ -22,6 +22,8 @@
 
 - [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 
+- [@priyanshuawas](https://github.com/priyanshuawas)
+
 - [@lingeorge88](https://github.com/lingeorge88)
 
 - [@ginozambe](https://github.com/ginozambe)
