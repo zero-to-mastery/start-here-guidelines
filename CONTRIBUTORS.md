@@ -21,7 +21,9 @@
 - [@ginozambe](https://github.com/ginozambe)
 
 - [@mmaksi](https://github.com/mmaksi)
-- 
+
+-  [@vaibhavpnimkar](https://github.com/vaibhavpnimkar)
+  
 - [@pypimo](https://github.com/pypimo)
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
