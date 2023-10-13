@@ -30,6 +30,8 @@
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
 
+- [@subhadeepbanerjee2003](https://github.com/subhadeepbanerjee2003)
+
 - [@BritoJV](https://github.com/BritoJV)
 
 - [@Shukla0404](https://github.com/Shukla0404)
