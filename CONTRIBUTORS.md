@@ -28,6 +28,8 @@
 
 - [@BritoJV](https://github.com/BritoJV)
 
+- [@Shukla0404](https://github.com/Shukla0404)
+
 - [@0Samamirza](https://github.com/0sama-Mirza)
 
 - [@dixitatgithub](https://github.com/dixitatgithub)
