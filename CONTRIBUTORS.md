@@ -3,7 +3,9 @@
 - [ayushrakesh](https://github.com/ayushrakesh)
 - 
 - [Chandanmali](https://github.com/Chandanmali)
-- 
+
+- [Pawas Pandey](https://github.com/pawaspy)
+
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
 - [@sserwangaedrisa](https://github.com/sserwangaedrisa)
