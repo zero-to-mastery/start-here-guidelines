@@ -131,6 +131,8 @@
 
 - [@Ali0Ink](https://github.com/Ali0ink)
 
+- [@Alejandroq12](https://github.com/Alejandroq12)
+
 - [@Grattade07](https://github.com/Grattade07)
 
 - [@Alinashevelev](https://github.com/AlinaShevelev)
