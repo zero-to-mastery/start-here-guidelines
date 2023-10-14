@@ -171,6 +171,8 @@
 
 - [@Ashishpro](https://github.com/ashish-pro)
 
+- [@mixamum](https://github.com/mixamum)
+
 - [@Am3Lia18](https://github.com/Am3lia-18)
 
 - [@Aminemhiri](https://github.com/Amine-Mhiri/)
