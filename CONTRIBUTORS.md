@@ -1,10 +1,13 @@
 ﻿# CONTRIBUTORS
 
+
 - [ayushrakesh](https://github.com/ayushrakesh)
 
 - [Shaikh Aman](https://github.com/ShaikhAman01)
   
 - [Chandanmali](https://github.com/Chandanmali)
+
+- [Maria Duran] (https://github.com/bduran04)
 
 - [Pawas Pandey](https://github.com/pawaspy)
 
