@@ -9,6 +9,8 @@
 
 - [Maria Duran] (https://github.com/bduran04)
 
+- [Bratajit-03](https://github.com/Bratajit-03)
+
 - [Pawas Pandey](https://github.com/pawaspy)
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
