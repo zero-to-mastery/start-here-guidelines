@@ -21,6 +21,8 @@
 
 - [Harshal](https://harshalwebfolio.netlify.app)
 
+- [Moksh](https://github.com/Moksh-10)
+
 - [@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
 
 - [@Bylerma](https://github.com/Bylerma)
