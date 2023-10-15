@@ -15,6 +15,8 @@
 
 - [@sserwangaedrisa](https://github.com/sserwangaedrisa)
 
+  [Aditya D](https://github.com/adityadeshpande09)
+
 - [Harshal](https://harshalwebfolio.netlify.app)
 
 - [@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
