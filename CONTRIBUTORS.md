@@ -9,6 +9,8 @@
 
 - [Maria Duran] (https://github.com/bduran04)
 
+- [aayush-506](https://github.com/aayush-506)
+
 - [Bratajit-03](https://github.com/Bratajit-03)
 
 - [Pawas Pandey](https://github.com/pawaspy)
