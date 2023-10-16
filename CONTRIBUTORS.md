@@ -7,9 +7,7 @@
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
-  
 - [0xPew](https://github.com/0xPew)
-  
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Maria Duran] (https://github.com/bduran04)
@@ -56,8 +54,8 @@
 
 - [@mmaksi](https://github.com/mmaksi)
 
--  [@vaibhavpnimkar](https://github.com/vaibhavpnimkar)
-  
+- [@vaibhavpnimkar](https://github.com/vaibhavpnimkar)
+
 - [@pypimo](https://github.com/pypimo)
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
@@ -108,7 +106,7 @@
 - [@Jeet-Debnath](https://github.com/jxxt)
   [@amitverma147 ](https://github.com/amitverma147)
   [@shirshakk](https://github.com/shirshakk)
-    
+
 -[@bubblehm] (https://github.com/bubblehm)
 
 - [@JB-Rockstar](https://github.com/JB-Rockstar)
@@ -120,7 +118,6 @@
 - [@anku0512](https://github.com/anku0512/)
 
 - [@alakh0703](https://github.com/alakh0703)
-
 
 - [@Abdifatahsaid](https://github.com/Abdifatah-said/)
 
@@ -158,7 +155,6 @@
 - [@k-abdo](https://github.com/k-abdo)
 
 - [@Ajaysinghshekhawat](https://github.com/AjaySingh-Shekhawat)
-  
 - [@Arpan Chowdhury](https://github.com/apu52)
 
 - [@Ajmccraw](https://github.com/ajmccraw)
@@ -7544,7 +7540,6 @@
 - [@Shirshak89](https://github.com/shirshak89)
 
 - [@Shivam](https://github.com/shivamsinghydv)
-  
 - [@ShivamSingh](https://github.com/Shivam250702)
 
 - [@Shivangisharmacs](https://github.com/Shivangi-Sharma-CS/)
@@ -8076,6 +8071,8 @@
 - [@Talhaarshad7](https://github.com/talhaarshad7)
 
 - [@Talhaawol](https://github.com/TalhaAWOL)
+
+- [@Tanmay-Giram](https://github.com/Tanmay-Giram)
 
 - [@Talhakhan7640](https://github.com/talhakhan7640/)
 
@@ -9664,4 +9661,3 @@
 -[@KamRoki](https://github.com/KamRoki)
 
 -[@GrizzlyWebDev](https://github.com/GrizzlyWebDev)
-
