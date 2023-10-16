@@ -87,6 +87,7 @@
 - [@manjillama](https://github.com/manjillama)
 - [@rishiiiidha](https://github.com/rishiiiidha)
 - [@Jeet-Debnath](https://github.com/jxxt)
+  [@amitverma147 ](https://github.com/amitverma147)
 
 -[@bubblehm] (https://github.com/bubblehm)
 
