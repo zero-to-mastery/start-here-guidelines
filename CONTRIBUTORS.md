@@ -8,6 +8,8 @@
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
   
+- [0xPew](https://github.com/0xPew)
+  
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Maria Duran] (https://github.com/bduran04)
