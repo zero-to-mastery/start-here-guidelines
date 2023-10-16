@@ -4740,6 +4740,8 @@
 
 - [@Mansgotsites](https://github.com/mansgotsites/)
 
+- [@e-jessie](https://github.com/e-jessie)
+
 - [@Mansvini](https://github.com/Mansvini)
 
 - [@Manuellanderos](https://github.com/manuelLanderos)
