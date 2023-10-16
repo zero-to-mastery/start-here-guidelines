@@ -1,5 +1,6 @@
 ﻿# CONTRIBUTORS
 
+-[aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [ayushrakesh](https://github.com/ayushrakesh)
 
