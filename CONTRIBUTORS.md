@@ -1775,6 +1775,8 @@
 
 - [@Eddybautista93](https://github.com/EddyBautista-93)
 
+- [@brauliobolano](https://github.com/brauliobolano)
+
 - [@Edgarg2020](https://github.com/EdgarG2020/)
 
 - [@Edilson](https://github.com/edilsonmatola)
