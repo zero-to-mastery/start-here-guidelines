@@ -5,6 +5,8 @@
 - [ayushrakesh](https://github.com/ayushrakesh)
 
 - [Shaikh Aman](https://github.com/ShaikhAman01)
+
+- [Harsh Singh](https://github.com/HarshSingh2009)
   
 - [Chandanmali](https://github.com/Chandanmali)
 
