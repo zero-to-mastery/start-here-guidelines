@@ -1,5 +1,5 @@
 # CONTRIBUTORS
--[@aayush-506](https://github.com/aayush-506)
+-[@iabdul09](https://github.com/iabdul09)
 
 - [@kotharii](https://github.com/kotharii)
 
