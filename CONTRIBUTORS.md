@@ -14,6 +14,8 @@
 
 - [Maria Duran] (https://github.com/bduran04)
 
+- [Brady Ayres](https://github.com/MojoBoingo)
+
 - [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
 - [Bratajit-03](https://github.com/Bratajit-03)
