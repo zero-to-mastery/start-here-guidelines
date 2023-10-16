@@ -32,6 +32,8 @@
 
 - [Moksh](https://github.com/Moksh-10)
 
+- [Shubham](https://github.com/shubham-shinde-442)
+
 - [@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
 
 - [@Bylerma](https://github.com/Bylerma)
