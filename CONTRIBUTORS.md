@@ -7,6 +7,9 @@
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
+  
+- [0xPew](https://github.com/0xPew)
+  
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Maria Duran] (https://github.com/bduran04)
@@ -9262,6 +9265,8 @@
 - [@avinash-rana-ofc](https://github.com/avinash-rana-ofc)
 
 - [@mkumarjha](https://github.com/mkumarjha)
+
+-[@SimoneMichelon](https://github.com/SimoneMichelon)
 
 - [@xavierassad](https://github.com/xavierassad)
 
