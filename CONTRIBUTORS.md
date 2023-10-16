@@ -5000,7 +5000,7 @@
 
 - [@Mecskyverse](https://github.com/mecskyverse)
 
--[@Chinchinooo](https://github.com/Chinchinooo)
+- [@Chinchinooo](https://github.com/Chinchinooo)
 
 - [@Medlaah88](https://github.com/medlaah88)
 
