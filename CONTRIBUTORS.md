@@ -7,7 +7,6 @@
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
-  
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Maria Duran] (https://github.com/bduran04)
@@ -48,8 +47,8 @@
 
 - [@mmaksi](https://github.com/mmaksi)
 
--  [@vaibhavpnimkar](https://github.com/vaibhavpnimkar)
-  
+- [@vaibhavpnimkar](https://github.com/vaibhavpnimkar)
+
 - [@pypimo](https://github.com/pypimo)
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
@@ -110,7 +109,6 @@
 
 - [@alakh0703](https://github.com/alakh0703)
 
-
 - [@Abdifatahsaid](https://github.com/Abdifatah-said/)
 
 - [@Abhishekgoel](https://github.com/abhishek94goel)
@@ -147,7 +145,6 @@
 - [@k-abdo](https://github.com/k-abdo)
 
 - [@Ajaysinghshekhawat](https://github.com/AjaySingh-Shekhawat)
-  
 - [@Arpan Chowdhury](https://github.com/apu52)
 
 - [@Ajmccraw](https://github.com/ajmccraw)
@@ -7527,7 +7524,6 @@
 - [@Shirshak89](https://github.com/shirshak89)
 
 - [@Shivam](https://github.com/shivamsinghydv)
-  
 - [@ShivamSingh](https://github.com/Shivam250702)
 
 - [@Shivangisharmacs](https://github.com/Shivangi-Sharma-CS/)
@@ -9629,6 +9625,8 @@
 -[@bellis003](https://github.com/bellis003)
 
 -[@gabriel-conde](https://github.com/gabriel-conde/)
+
+-[@CodingCroc01](https://github.com/CodingCroc01)
 
 -[@fmsarp](https://github.com/fmsarp)
 
