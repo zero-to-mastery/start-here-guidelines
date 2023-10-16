@@ -631,6 +631,8 @@
 
 - [@Brandont3](https://github.com/BrandonT3)
 
+-[@Brauliobolano](https://github.com/brauliobolano)
+
 - [@Bravo773](https://github.com/Bravo773/)
 
 - [@Brenovlb](https://github.com/brenovlb)
@@ -1774,8 +1776,6 @@
 - [@Ecpagan](https://github.com/ecpagan)
 
 - [@Eddybautista93](https://github.com/EddyBautista-93)
-
-- [@brauliobolano](https://github.com/brauliobolano)
 
 - [@Edgarg2020](https://github.com/EdgarG2020/)
 
