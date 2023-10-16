@@ -9288,6 +9288,8 @@
 
 - [@PatrizioCotani](https://github.com/PatrizioCotani)
 
+- [@pate87](https://github.com/pate87/)
+
 - [@andrey100f](https://github.com/andrey100f)
 
 - [@bassamarnaout](https://github.com/bassamarnaout)
