@@ -12,6 +12,8 @@
 
 - [Maria Duran] (https://github.com/bduran04)
 
+- [Brady Ayres](https://github.com/MojoBoingo)
+
 - [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
 - [Bratajit-03](https://github.com/Bratajit-03)
@@ -626,6 +628,8 @@
 - [@Brandonmagana](https://github.com/BrandonMagana)
 
 - [@Brandont3](https://github.com/BrandonT3)
+
+-[@Brauliobolano](https://github.com/brauliobolano)
 
 - [@Bravo773](https://github.com/Bravo773/)
 
@@ -9661,3 +9665,5 @@
 -[@KamRoki](https://github.com/KamRoki)
 
 -[@GrizzlyWebDev](https://github.com/GrizzlyWebDev)
+
+-[@DhananjayKajale](https://github.com/dhananjaykajale751)
