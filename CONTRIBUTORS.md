@@ -20,6 +20,8 @@
 
 - [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
+- [Ankoor Gorai](https://github.com/ankoorgorai)
+
 - [Bratajit-03](https://github.com/Bratajit-03)
 
 - [Subhayu Dutta](https://github.com/subhayudutta)
