@@ -1366,6 +1366,8 @@
 
 - [@Davidglx](https://github.com/davidglx)
 
+- [@Angelo](https://github.com/angelodrake)
+
 - [@Davidmatthewmiller](https://github.com/davidmatthewmiller)
 
 - [@Davidmhoang](https://github.com/DavidMHoang)
@@ -9670,7 +9672,6 @@
 - [@MYasin20](https://github.com/MYasin20)
 
 - [@SuperDeepBoy](https://github.com/SuperDeepBoy)
-  
 - [@gtm1235](https"//github.com/gtm1235)
 
 - [@gtm1235](https"//github.com/gtm1235)
