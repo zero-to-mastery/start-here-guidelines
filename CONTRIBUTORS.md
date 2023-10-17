@@ -4559,6 +4559,8 @@
 
 - [@Lucasvoltera](https://github.com/lucasvoltera/)
 
+- [@MaximeGuillemot](https://github.com/MaximeGuillemot)
+
 - [@Lucelledsumalinog](https://github.com/lucelledsumalinog)
 
 - [@Lucianaalbuquerque](https://github.com/lucianaalbuquerque)
