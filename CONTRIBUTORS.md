@@ -72,6 +72,8 @@
 
 - [@pypimo](https://github.com/pypimo)
 
+- [@Ankit-3130](https://github.com/Ankit-3130)
+
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
 
 - [@subhadeepbanerjee2003](https://github.com/subhadeepbanerjee2003)
