@@ -26,6 +26,8 @@
 
 - [Subhayu Dutta](https://github.com/subhayudutta)
 
+- [Atharv Chavan](https://github.com/Atharv0003)
+
 - [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
 
 - [Soumyadeep Garai](https://github.com/SOUMYADEP)
