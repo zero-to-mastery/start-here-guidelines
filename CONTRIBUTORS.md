@@ -30,6 +30,8 @@
 
 - [@sserwangaedrisa](https://github.com/sserwangaedrisa)
 
+- [@chinyro](https://github.com/chinyro)
+
 - [Aditya D](https://github.com/adityadeshpande09)
 
 - [Harshal](https://harshalwebfolio.netlify.app)
