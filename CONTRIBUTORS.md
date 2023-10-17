@@ -22,6 +22,8 @@
 
 - [Pawas Pandey](https://github.com/pawaspy)
 
+
+
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
 - [@sserwangaedrisa](https://github.com/sserwangaedrisa)
@@ -1323,7 +1325,7 @@
 
 - [@ParzivalAFK](https://github.com/ParzivalAFK)
 
-- [@Davi27](https://github.com/Davi27)
+- [@kapshar](https://github.com/kapshar)
 
 - [@David001](https://github.com/david-001/)
 
@@ -1505,7 +1507,7 @@
 
 - [@Deygobinda](https://github.com/deygobinda)
 
-- [@Dezzlar](https://github.com/dezzlar)
+- [@sanabadaha](https://github.com/sanabadaha)
 
 - [@Dflo55](https://github.com/dflo55/)
 
