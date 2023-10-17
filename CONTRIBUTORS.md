@@ -1366,6 +1366,8 @@
 
 - [@Davidglx](https://github.com/davidglx)
 
+- [@Angelo](https://github.com/angelodrake)
+
 - [@Davidmatthewmiller](https://github.com/davidmatthewmiller)
 
 - [@Davidmhoang](https://github.com/DavidMHoang)
@@ -9670,7 +9672,6 @@
 - [@MYasin20](https://github.com/MYasin20)
 
 - [@SuperDeepBoy](https://github.com/SuperDeepBoy)
-  
 - [@gtm1235](https"//github.com/gtm1235)
 
 - [@gtm1235](https"//github.com/gtm1235)
@@ -9734,4 +9735,8 @@
 - [@ob2001](https://github.com/ob2001)
 
 -[@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
+
+- [@aakarsh-2004](https://github.com/aakarsh-2004)
+
+-[Nitin Vendidandi](https://github.com/Learningcomputers777)
 
