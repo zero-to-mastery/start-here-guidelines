@@ -9482,6 +9482,8 @@
 
 - [@barryhanna](https://github.com/barryhanna)
 
+- [@mrhughes86](https://github.com/mrhughes86)
+
 - [@trayshmhirk](https://github.com/Trayshmhirk)
 
 - [@zen2see](https://github.com/zen2see)
@@ -9620,6 +9622,7 @@
 
 - [@albertidaniel](https://github.com/albertidaniel)
 
+- [@albertidaniel](https://github.com/albertidaniel)
 
 - [@ozgurcelix](https://github.com/ozgurcelix)
 
@@ -9670,4 +9673,3 @@
 -[@GrizzlyWebDev](https://github.com/GrizzlyWebDev)
 
 -[@DhananjayKajale](https://github.com/dhananjaykajale751)
-
