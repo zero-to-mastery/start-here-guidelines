@@ -12,6 +12,8 @@
 
 - [Chandanmali](https://github.com/Chandanmali)
 
+- [Ayush Varshney](https://github.com/Avtech04)
+
 - [Maria Duran](https://github.com/bduran04)
 
 - [Brady Ayres](https://github.com/MojoBoingo)
