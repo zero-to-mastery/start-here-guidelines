@@ -22,6 +22,8 @@
 
 - [Subhayu Dutta](https://github.com/subhayudutta)
 
+- [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
+
 - [Pawas Pandey](https://github.com/pawaspy)
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
