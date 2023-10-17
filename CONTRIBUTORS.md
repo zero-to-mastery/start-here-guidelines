@@ -14,6 +14,8 @@
 
 - [Ayush Varshney](https://github.com/Avtech04)
 
+- [marshal](https://github.com/Marshalcoder123422)
+
 - [Maria Duran](https://github.com/bduran04)
 
 - [Brady Ayres](https://github.com/MojoBoingo)
