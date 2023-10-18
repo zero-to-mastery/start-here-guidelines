@@ -64,6 +64,8 @@
 
 - [@Yogesh007587](https://github.com/Yogesh007587)
 
+- [@AmanPathan](https://github.com/AmanPathan)
+
 - [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 
 - [@priyanshuawas](https://github.com/priyanshuawas)
