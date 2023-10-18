@@ -7099,8 +7099,6 @@
 
 - [@S0Sharma](https://github.com/s0sharma)
 
-- [@Sudayanga](https://github.com/sudayanga/)
-
 - [@vinay-s36](https://github.com/vinay-s36)
 
 - [@Sudayanga](https://github.com/sudayanga/)
