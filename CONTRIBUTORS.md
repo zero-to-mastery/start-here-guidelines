@@ -198,6 +198,8 @@
 
 - [@Alaina12](https://github.com/alaina12)
 
+- [@Ajay Boro](https://github.com/ajaybor0)
+
 - [@Aleksandrajk](https://github.com/aleksandrajk/)
 
 - [@Alexandroskaram](https://github.com/AlexandrosKaram)
