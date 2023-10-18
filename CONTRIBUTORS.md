@@ -9559,6 +9559,8 @@
 
 - [@adoniscbatista](https://github.com/adoniscbatista)
 
+-[JayValerio](https://github.com/JayValerio)
+
 - [@hozdaman](https://github.com/hozdaman)
 
 - [BasmaElhoseny01](https://github.com/BasmaElhoseny01)
@@ -9737,3 +9739,4 @@
 - [@jcoghi](https://github.com/jcoghi) 
 
 -[Nitin Vendidandi](https://github.com/Learningcomputers777)
+
