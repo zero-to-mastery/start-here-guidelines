@@ -9730,7 +9730,7 @@
 
 - [@DhananjayKajale](https://github.com/dhananjaykajale751)
 
-- [@Rohxn16]('https://github.com/Rohxn16)
+- [@Rohxn16](https://github.com/Rohxn16)
 
 - [@aspicy](https://github.com/aspicy)
 
@@ -9745,3 +9745,5 @@
 - [@John Fessler](https://github.com/jffessler)
 
 - [@pranitdarekar](https://github.com/pranitdarekar)
+
+- [@parthasdey2304](https://github.com/parthasdey2304/)
