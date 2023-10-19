@@ -165,6 +165,8 @@
 
 - [@Acemido](https://github.com/AceMido)
 
+- [Omkar Date](https://github.com/OmkarDate29)
+
 - [@Adeyemoemmanuel](https://github.com/adeyemoemmanuel)
 
 - [@aakash-22ak](https://github.com/aakash-22ak)
