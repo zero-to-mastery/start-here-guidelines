@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Rohan](https://github.com/RohanReddy2003)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
