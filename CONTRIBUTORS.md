@@ -1,44 +1,46 @@
 # CONTRIBUTORS
 
-- [aayushchauhan](https://github.com/Aayushchauhan05)
+- [@aayushchauhan](https://github.com/Aayushchauhan05)
 
-- [Upendra](https://github.com/Upendra2003)
+- [@Upendra](https://github.com/Upendra2003)
 
-- [ayushrakesh](https://github.com/ayushrakesh)
+- [@ayushrakesh](https://github.com/ayushrakesh)
 
-- [Shaikh Aman](https://github.com/ShaikhAman01)
+- [@Shaikh Aman](https://github.com/ShaikhAman01)
 
-- [Harsh Singh](https://github.com/HarshSingh2009)
+- [@Harsh Singh](https://github.com/HarshSingh2009)
 
-- [0xPew](https://github.com/0xPew)
+- [@0xPew](https://github.com/0xPew)
 
-- [Chandanmali](https://github.com/Chandanmali)
+- [@Rahul](https://github.com/rahul-2327)
 
-- [Ayush Varshney](https://github.com/Avtech04)
+- [@Chandanmali](https://github.com/Chandanmali)
 
-- [marshal](https://github.com/Marshalcoder123422)
+- [@Ayush Varshney](https://github.com/Avtech04)
 
-- [Maria Duran](https://github.com/bduran04)
+- [@marshal](https://github.com/Marshalcoder123422)
 
-- [Brady Ayres](https://github.com/MojoBoingo)
+- [@Maria Duran](https://github.com/bduran04)
 
-- [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
+- [@Brady Ayres](https://github.com/MojoBoingo)
 
-- [Ankoor Gorai](https://github.com/ankoorgorai)
+- [@amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
-- [Bratajit-03](https://github.com/Bratajit-03)
+- [@Ankoor Gorai](https://github.com/ankoorgorai)
 
-- [Subhayu Dutta](https://github.com/subhayudutta)
+- [@Bratajit-03](https://github.com/Bratajit-03)
 
-- [Atharv Chavan](https://github.com/Atharv0003)
+- [@Subhayu Dutta](https://github.com/subhayudutta)
 
-- [Abhiram Royals](https://github.com/Royal-Dragon)
+- [@Atharv Chavan](https://github.com/Atharv0003)
 
-- [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
+- [@Abhiram Royals](https://github.com/Royal-Dragon)
 
-- [Soumyadeep Garai](https://github.com/SOUMYADEP)
+- [@Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
 
-- [Pawas Pandey](https://github.com/pawaspy)
+- [@Soumyadeep Garai](https://github.com/SOUMYADEP)
+
+- [@Pawas Pandey](https://github.com/pawaspy)
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
