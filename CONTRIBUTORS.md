@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Rohan Sharma](https://github.com/RS-labhub)
+- 
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
