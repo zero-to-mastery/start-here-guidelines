@@ -3,6 +3,12 @@
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
+  
+- [aayushchauhan](https://github.com/Aayushchauhan05)
+
+- [hegdepavankumar](https://github.com/hegdepavankumar)
+  
+- [Upendra](https://github.com/Upendra2003)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
 
