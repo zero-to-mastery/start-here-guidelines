@@ -4129,6 +4129,8 @@
 
 - [@Kippulainen04](https://github.com/kippulainen04)
 
+- [@kelvin30](https://github.com/kelvin30)
+
 - [@Kirankumar1597](https://github.com/Kirankumar1597)
 
 - [@Kiransatyaraj](https://github.com/KiranSatyaRaj)
@@ -9744,7 +9746,7 @@
 
 - [@aakarsh-2004](https://github.com/aakarsh-2004)
 
-- [@jcoghi](https://github.com/jcoghi) 
+- [@jcoghi](https://github.com/jcoghi)
 
 -[Nitin Vendidandi](https://github.com/Learningcomputers777)
 
