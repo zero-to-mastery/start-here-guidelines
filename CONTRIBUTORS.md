@@ -2,6 +2,8 @@
 
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
+- [Upendra](https://github.com/Upendra2003)
+
 - [ayushrakesh](https://github.com/ayushrakesh)
 
 - [Shaikh Aman](https://github.com/ShaikhAman01)
