@@ -40,6 +40,8 @@
 
 - [@Bratajit-03](https://github.com/Bratajit-03)
 
+- [@shubham-vartak](https://github.com/shubham-vartak)
+
 - [@Subhayu Dutta](https://github.com/subhayudutta)
 
 - [@Atharv Chavan](https://github.com/Atharv0003)
