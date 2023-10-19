@@ -1,18 +1,18 @@
 # CONTRIBUTORS
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- 
+-
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
-  
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
-  
 - [Upendra](https://github.com/Upendra2003)
+
+- [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
 
@@ -9770,7 +9770,7 @@
 
 - [@aakarsh-2004](https://github.com/aakarsh-2004)
 
-- [@jcoghi](https://github.com/jcoghi) 
+- [@jcoghi](https://github.com/jcoghi)
 
 -[Nitin Vendidandi](https://github.com/Learningcomputers777)
 
