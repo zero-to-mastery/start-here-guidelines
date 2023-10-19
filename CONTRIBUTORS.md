@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+-[hegdepavankumar](https://github.com/hegdepavankumar)
 
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
