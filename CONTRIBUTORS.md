@@ -1,9 +1,8 @@
 # CONTRIBUTORS
-
-
-- [hegdepavankumar](https://github.com/hegdepavankumar)
   
 - [aayushchauhan](https://github.com/Aayushchauhan05)
+
+- [hegdepavankumar](https://github.com/hegdepavankumar)
   
 - [Upendra](https://github.com/Upendra2003)
 
