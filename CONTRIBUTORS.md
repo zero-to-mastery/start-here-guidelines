@@ -1,8 +1,10 @@
 # CONTRIBUTORS
--[hegdepavankumar](https://github.com/hegdepavankumar)
 
+
+- [hegdepavankumar](https://github.com/hegdepavankumar)
+  
 - [aayushchauhan](https://github.com/Aayushchauhan05)
-
+  
 - [Upendra](https://github.com/Upendra2003)
 
 - [ayushrakesh](https://github.com/ayushrakesh)
