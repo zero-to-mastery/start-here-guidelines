@@ -32,6 +32,8 @@
 
 - [Atharv Chavan](https://github.com/Atharv0003)
 
+- [Abhiram Royals](https://github.com/Royal-Dragon)
+
 - [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
 
 - [Soumyadeep Garai](https://github.com/SOUMYADEP)
