@@ -1,56 +1,40 @@
 # CONTRIBUTORS
 
-- [Rohan Sharma](https://github.com/RS-labhub)
-- 
-- [Rohan](https://github.com/RohanReddy2003)
-
-- [@aayushchauhan](https://github.com/Aayushchauhan05)
-
-- [@Upendra](https://github.com/Upendra2003)
-  
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
-- [hegdepavankumar](https://github.com/hegdepavankumar)
-  
-- [Upendra](https://github.com/Upendra2003)
+- [ayushrakesh](https://github.com/ayushrakesh)
 
-- [@ayushrakesh](https://github.com/ayushrakesh)
+- [Shaikh Aman](https://github.com/ShaikhAman01)
 
-- [@Shaikh Aman](https://github.com/ShaikhAman01)
+- [Harsh Singh](https://github.com/HarshSingh2009)
 
-- [@Harsh Singh](https://github.com/HarshSingh2009)
+- [0xPew](https://github.com/0xPew)
 
-- [@0xPew](https://github.com/0xPew)
+- [Chandanmali](https://github.com/Chandanmali)
 
-- [@Rahul](https://github.com/rahul-2327)
+- [Ayush Varshney](https://github.com/Avtech04)
 
-- [@Chandanmali](https://github.com/Chandanmali)
+- [marshal](https://github.com/Marshalcoder123422)
 
-- [@Ayush Varshney](https://github.com/Avtech04)
+- [Maria Duran](https://github.com/bduran04)
 
-- [@marshal](https://github.com/Marshalcoder123422)
+- [Brady Ayres](https://github.com/MojoBoingo)
 
-- [@Maria Duran](https://github.com/bduran04)
+- [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
-- [@Brady Ayres](https://github.com/MojoBoingo)
+- [Ankoor Gorai](https://github.com/ankoorgorai)
 
-- [@amandeep singh parihar](https://github.com/amandeep-singh-parihar)
+- [Bratajit-03](https://github.com/Bratajit-03)
 
-- [@Ankoor Gorai](https://github.com/ankoorgorai)
+- [Subhayu Dutta](https://github.com/subhayudutta)
 
-- [@Bratajit-03](https://github.com/Bratajit-03)
+- [Atharv Chavan](https://github.com/Atharv0003)
 
-- [@Subhayu Dutta](https://github.com/subhayudutta)
+- [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
 
-- [@Atharv Chavan](https://github.com/Atharv0003)
+- [Soumyadeep Garai](https://github.com/SOUMYADEP)
 
-- [@Abhiram Royals](https://github.com/Royal-Dragon)
-
-- [@Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
-
-- [@Soumyadeep Garai](https://github.com/SOUMYADEP)
-
-- [@Pawas Pandey](https://github.com/pawaspy)
+- [Pawas Pandey](https://github.com/pawaspy)
 
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
@@ -90,11 +74,7 @@
 
 - [@ginozambe](https://github.com/ginozambe)
 
-- [@ChrisC5891](https://github.com/ChrisC5891)
-
 - [@mmaksi](https://github.com/mmaksi)
-
-- [@Sahil873](https://github.com/Sahil873)
 
 - [@anujshandillya](https://github.com/anujshandillya)
 
@@ -182,8 +162,6 @@
 - [@czarjulius](https://github.com/czarjulius)
 
 - [@Acemido](https://github.com/AceMido)
-
-- [Omkar Date](https://github.com/OmkarDate29)
 
 - [@Adeyemoemmanuel](https://github.com/adeyemoemmanuel)
 
@@ -601,8 +579,6 @@
 - [@Bigthicky](https://github.com/Bigthicky)
 
 - [@Bilaliq95](https://github.com/Bilaliq95)
-
-- [@TejaJanakiRam](https://github.com/TejaJanakiRam)
 
 - [@Bilalkhan360](https://github.com/bilalkhan360)
 
@@ -5919,8 +5895,6 @@
 
 - [@Nvsco10](https://github.com/nvsco-10)
 
-- [@rxssm] (https://github.com/rxssm/)
-
 - [@Nweber28](https://github.com/nweber28)
 
 - [@Nwkean](https://github.com/nwkean/)
@@ -7971,8 +7945,6 @@
 
 - [@Stephnna](https://github.com/stephnna)
 
-- - [Pailla Navya Preetham Reedy](https://github.com/daemonvk18)
-
 - [@Stephrex](https://github.com/stephrex)
 
 - [@Sterap](https://github.com/SteRap)
@@ -9722,6 +9694,8 @@
 
 - [@SammyAlvarado](https://github.com/SammyAlvarado)
 
+- [johnpauljohnnes](https://github.com/johnpauljohnnes)
+
 - [@areebbinnadeem](https://github.com/areebbinnadeem)
 
 - [@mslivinayak](https://github.com/mslivinayak)
@@ -9778,8 +9752,6 @@
 
 - [@John Fessler](https://github.com/jffessler)
 
-- [@jeeehaan](https://github.com/jeeehaan)
-
 - [@behramshah](https://github.com/behramshah)
 
 - [@pranitdarekar](https://github.com/pranitdarekar)
@@ -9791,9 +9763,3 @@
 - [@shadow141mc](https://github.com/Shadow141mc)
 
 - [@Om-Sagar](https://github.com/Dreadlord075)
-- [@aaronkciminelli](https://github.com/aaronkciminelli)
-
-- [Jahnavi](https://github.com/jahnavithutta129)
-- [@farukhS52](https://github.com/FarukhS52)
-
-- [@MohamedAboMousallam](https://github.com/MohamedAboMousallam)
