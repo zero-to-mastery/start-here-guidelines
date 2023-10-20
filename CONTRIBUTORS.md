@@ -1,17 +1,15 @@
 # CONTRIBUTORS
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- 
+-
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
-  
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
-  
 - [Upendra](https://github.com/Upendra2003)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
@@ -9744,6 +9742,8 @@
 
 - [@bellis003](https://github.com/bellis003)
 
+-[@gabriel-conde](https://github.com/gabriel-conde/)
+
 - [@gabriel-conde](https://github.com/gabriel-conde/)
 
 - [@fmsarp](https://github.com/fmsarp)
@@ -9772,11 +9772,15 @@
 
 - [@ob2001](https://github.com/ob2001)
 
+- [QaitkenQ](https://github.com/QaitkenQ)
+
+- [@BL00ZZARD](https://github.com/BL00ZZARD)
+
 - [@aakarsh-2004](https://github.com/aakarsh-2004)
 
-- [@jcoghi](https://github.com/jcoghi) 
+- [@jcoghi](https://github.com/jcoghi)
 
--[Nitin Vendidandi](https://github.com/Learningcomputers777)
+- [Nitin Vendidandi](https://github.com/Learningcomputers777)
 
 - [@John Fessler](https://github.com/jffessler)
 
@@ -9793,9 +9797,13 @@
 - [@shadow141mc](https://github.com/Shadow141mc)
 
 - [@Om-Sagar](https://github.com/Dreadlord075)
+
 - [@aaronkciminelli](https://github.com/aaronkciminelli)
 
 - [Jahnavi](https://github.com/jahnavithutta129)
+
 - [@farukhS52](https://github.com/FarukhS52)
 
 - [@MohamedAboMousallam](https://github.com/MohamedAboMousallam)
+
+- [@fmsarp](https://github.com/fmsarp)
