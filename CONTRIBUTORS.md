@@ -161,6 +161,7 @@
 - [@aditya7302]((https://github.com/aditya7302)
 
 - [@manjillama](https://github.com/manjillama)
+
 - [@rishiiiidha](https://github.com/rishiiiidha)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
@@ -1051,6 +1052,8 @@
 - [@Ckosa](https://github.com/ckosa)
 
 - [@Clairekarsenti](https://github.com/ClaireKarsenti)
+
+- [@claire-ca](https://github.com/claire-ca)
 
 - [@Clannis](https://github.com/Clannis)
 
