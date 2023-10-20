@@ -1964,6 +1964,8 @@
 
 - [@Eloquentprogrammer](https://github.com/eloquent-programmer)
 
+- [@EmanuelRosa](https://github.com/EmanuelR0sa)
+
 - [@Elvinyeka](https://github.com/elvinyeka)
 
 - [@ShafiqRasa](https://github.com/ShafiqRasa)
@@ -9827,3 +9829,5 @@
 - [@fmsarp](https://github.com/fmsarp)
 
 - [@GrizzlyWebDev](https://github.com/GrizzlyWebDev)
+
+- [@DhananjayKajale](https://github.com/dhananjaykajale751)
