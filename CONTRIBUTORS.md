@@ -1,17 +1,15 @@
 # CONTRIBUTORS
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- 
+-
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
-  
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
-  
 - [Upendra](https://github.com/Upendra2003)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
@@ -9744,58 +9742,10 @@
 
 - [@bellis003](https://github.com/bellis003)
 
-- [@gabriel-conde](https://github.com/gabriel-conde/)
+-[@gabriel-conde](https://github.com/gabriel-conde/)
 
-- [@fmsarp](https://github.com/fmsarp)
+- [QaitkenQ](https://github.com/QaitkenQ)
 
-- [@OmChauhaan](https://github.com/OmChauhaan)
+- [@BL00ZZARD](https://github.com/BL00ZZARD)
 
-- [@harshalhonde21](https://github.com/harshalhonde21)
-
-- [@Prime-Cave](https://github.com/Prime-Cave/)
-
-- [@codeOraaange](https://github.com/codeOraaange)
-
-- [@KamRoki](https://github.com/KamRoki)
-
-- [@GrizzlyWebDev](https://github.com/GrizzlyWebDev)
-
-- [@alieldab3](https://github.com/alieldab3)
-
-- [@JareEze1](https://github.com/JarelEze1)
-
-- [@DhananjayKajale](https://github.com/dhananjaykajale751)
-
-- [@Rohxn16](https://github.com/Rohxn16)
-
-- [@aspicy](https://github.com/aspicy)
-
-- [@ob2001](https://github.com/ob2001)
-
-- [@aakarsh-2004](https://github.com/aakarsh-2004)
-
-- [@jcoghi](https://github.com/jcoghi) 
-
--[Nitin Vendidandi](https://github.com/Learningcomputers777)
-
-- [@John Fessler](https://github.com/jffessler)
-
-- [@jeeehaan](https://github.com/jeeehaan)
-
-- [@behramshah](https://github.com/behramshah)
-
-- [@pranitdarekar](https://github.com/pranitdarekar)
-
-- [@parthasdey2304](https://github.com/parthasdey2304/)
-
-- [@HaroonAdil6313](https://github.com/HaroonAdil6313/)
-
-- [@shadow141mc](https://github.com/Shadow141mc)
-
-- [@Om-Sagar](https://github.com/Dreadlord075)
-- [@aaronkciminelli](https://github.com/aaronkciminelli)
-
-- [Jahnavi](https://github.com/jahnavithutta129)
-- [@farukhS52](https://github.com/FarukhS52)
-
-- [@MohamedAboMousallam](https://github.com/MohamedAboMousallam)
+-[@fmsarp](https://github.com/fmsarp)
