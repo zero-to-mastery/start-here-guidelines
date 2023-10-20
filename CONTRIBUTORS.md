@@ -34,6 +34,10 @@
 
 - [@amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
+- [aayush-506](https://github.com/aayush-506)
+
+- [Bratajit-03](https://github.com/Bratajit-03)
+
 - [@Ankoor Gorai](https://github.com/ankoorgorai)
 
 - [@Bratajit-03](https://github.com/Bratajit-03)
