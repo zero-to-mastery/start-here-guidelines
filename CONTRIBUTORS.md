@@ -7,10 +7,16 @@
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
+
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
+
 - [Upendra](https://github.com/Upendra2003)
+
+- [Harsh Singh](https://github.com/HarshSingh2009)
+
+- [Chandanmali](https://github.com/Chandanmali)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
 
@@ -9748,9 +9754,9 @@
 
 - [@bellis003](https://github.com/bellis003)
 
--[@gabriel-conde](https://github.com/gabriel-conde/)
-
 - [@gabriel-conde](https://github.com/gabriel-conde/)
+
+- [@CodingCroc01](https://github.com/CodingCroc01)
 
 - [@fmsarp](https://github.com/fmsarp)
 
