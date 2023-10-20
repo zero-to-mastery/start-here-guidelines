@@ -220,6 +220,8 @@
 
 - [@LucasAlmeida-jpg](https://github.com/LucasAlmeida-jpg)
 
+- [@JamieJin](https://github.com/jamiejinjin)
+
 - [@Aisafaith](https://github.com/aisafaith)
 
 - [@winebrenner444] (https://github.com/winebrenner444)
