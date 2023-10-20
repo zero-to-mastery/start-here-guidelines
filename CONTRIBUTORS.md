@@ -16,6 +16,8 @@
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
 
+- [0xPew](https://github.com/0xPew)
+
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
@@ -161,6 +163,7 @@
 - [@aditya7302]((https://github.com/aditya7302)
 
 - [@manjillama](https://github.com/manjillama)
+
 - [@rishiiiidha](https://github.com/rishiiiidha)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
@@ -216,6 +219,7 @@
 - [@Aisafaith](https://github.com/aisafaith)
 
 - [@winebrenner444] (https://github.com/winebrenner444)
+
 - [@berengueradrian](https://github.com/berengueradrian)
 
 - [@k-abdo](https://github.com/k-abdo)
@@ -8164,7 +8168,7 @@
 - [@Talhaarshad7](https://github.com/talhaarshad7)
 
 - [@Talhaawol](https://github.com/TalhaAWOL)
-
+- [@Tanmay-Giram](https://github.com/Tanmay-Giram)
 - [@Talhakhan7640](https://github.com/talhakhan7640/)
 
 - [@Talhaozgn](https://github.com/talhaozgn)
@@ -9819,3 +9823,5 @@
 - [@MohamedAboMousallam](https://github.com/MohamedAboMousallam)
 
 - [@fmsarp](https://github.com/fmsarp)
+
+- [@GrizzlyWebDev](https://github.com/GrizzlyWebDev)
