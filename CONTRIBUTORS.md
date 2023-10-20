@@ -5089,7 +5089,7 @@
 
 - [@Mbera99](https://github.com/mbera99)
 
-- [@Mbizo1](https://github.com/mbizo1)
+- [@Mintu](https://github.com/Min2who)
 
 - [@Mchokhaw](https://github.com/mchokhaw)
 
