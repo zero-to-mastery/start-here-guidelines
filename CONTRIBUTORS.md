@@ -10,6 +10,8 @@
 
 - [Boy](https://github.com/Boy)
 
+- [Rick](https://github.com/rick)
+
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
