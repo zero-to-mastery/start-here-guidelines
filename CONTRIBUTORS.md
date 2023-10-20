@@ -8137,6 +8137,8 @@
 
 - [@Swapy96](https://github.com/swapy96)
 
+- [@swaroop-2021](https://github.com/swaroop-2021)
+
 - [@Swaydevstan](https://github.com/swaydevstan/)
 
 - [@Swehb](https://github.com/swehb)
@@ -9854,6 +9856,6 @@
 
 - [@MariamaDiallo07](https://github.com/MariamaDiallo07/)
 
-- [@myselfprincee](https://github.com/myselfprincee/)
+-[@myselfprincee](https://github.com/myselfprincee/)
 
-- [@Milosz-Dev](https://github.com/Milosz-Dev/)
+-[@SuryaBasavarajusuryagithub2014](https://github.com/suryagithub2014)
