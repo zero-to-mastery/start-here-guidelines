@@ -84,6 +84,8 @@
 
 - [Harshal](https://harshalwebfolio.netlify.app)
 
+- [jamie](https://github.com/jamiejinjin)
+
 - [Moksh](https://github.com/Moksh-10)
 
 - [Shubham](https://github.com/shubham-shinde-442)
