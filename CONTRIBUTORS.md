@@ -12,6 +12,8 @@
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
+- [sivangbagri](https://github.com/sivangbagri)
+
 - [Upendra](https://github.com/Upendra2003)
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
