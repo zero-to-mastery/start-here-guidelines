@@ -8,6 +8,8 @@
 
 - [@Upendra](https://github.com/Upendra2003)
 
+- [Boy](https://github.com/Boy)
+
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
