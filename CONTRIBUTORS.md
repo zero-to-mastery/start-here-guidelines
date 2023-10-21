@@ -19,6 +19,9 @@
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
 - [Mridul Sharma](https://github.com/mridulsharma000)
+
+- [Farokh](https://github.com/FarookhNITAP)
+- 
 - [sivangbagri](https://github.com/sivangbagri)
 
 - [Upendra](https://github.com/Upendra2003)
