@@ -6,6 +6,8 @@
 
 -[Vishal_Sandhan](https://github.com/vishalsandhan)
 
+- [@HVbajoria](https://gitHub.com/HVbajoria)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
