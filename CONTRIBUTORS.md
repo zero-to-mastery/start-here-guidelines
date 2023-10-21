@@ -6,8 +6,6 @@
 
 -[Vishal_Sandhan](https://github.com/vishalsandhan)
 
--[Mridul Sharma](https://github.com/mridulsharma000)
-
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
@@ -20,6 +18,7 @@
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
+- [Mridul Sharma](https://github.com/mridulsharma000)
 - [sivangbagri](https://github.com/sivangbagri)
 
 - [Upendra](https://github.com/Upendra2003)
