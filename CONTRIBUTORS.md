@@ -230,6 +230,8 @@
 
 - [@time2fishman](https://github.com/time2fishman)
 
+- [@Siddhant40](https://github.com/Siddhant40)
+
 - [@Afreenhussain](https://github.com/Afreen02)
 
 - [@LucasAlmeida-jpg](https://github.com/LucasAlmeida-jpg)
