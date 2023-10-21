@@ -59,6 +59,8 @@
 
 - [aayush-506](https://github.com/aayush-506)
 
+- [0Armaan025](https://github.com/0Armaan025)
+
 - [Bratajit-03](https://github.com/Bratajit-03)
 
 - [@Ankoor Gorai](https://github.com/ankoorgorai)
