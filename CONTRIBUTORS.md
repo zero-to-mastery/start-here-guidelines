@@ -4,6 +4,8 @@
 -
 - [Rohan](https://github.com/RohanReddy2003)
 
+-[Vishal_Sandhan](https://github.com/vishalsandhan)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
