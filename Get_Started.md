@@ -46,7 +46,7 @@ Open source is the original way of creating software – in an open, transparent
 
 Open source means that you get the final executable for a software project, and also have access to the source code from which it was produced. Having access to the source code means that you can better understand how the program functions, and more importantly you can modify it to fix any problems you have with the software or add new features that you desire.
 
-What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well: for example, the Linux kernel contains more than 4,000 man years worth of effort.
+What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well: for example, the Linux kernel contains more than 4,000 man-years worth of effort.
 
 ## Why would I want to contribute?
 
@@ -56,7 +56,7 @@ Practicing is our primary objective here, but there are also many practical reas
 
 **2.** To practice and learn about software development – contributing to a project is a great way to learn about the more hands-on aspects of software development like using debuggers, version control systems, issue trackers, etc.
 
-**3.** To practice/learn a particular programming language or technology which you are interested in.
+**3.** To practice/learn a particular programming language or technology in which you are interested.
 
 **4.** To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest.
 
