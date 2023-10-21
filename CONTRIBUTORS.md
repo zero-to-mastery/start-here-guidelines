@@ -7727,6 +7727,8 @@
 
 - [@Shueiyang](https://github.com/ShueiYang)
 
+- [@ShuTingChang](https://github.com/shuuuuting)
+
 - [@Shyamu431](https://github.com/Shyamu431)
 
 - [@Shyanspec](https://github.com/Shyan-spec)
