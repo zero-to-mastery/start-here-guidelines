@@ -34,6 +34,8 @@
 
 - [Roman Gershman](https://github.com/romange)
 
+- [Roman G](https://github.com/rome)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
