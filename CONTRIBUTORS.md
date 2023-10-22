@@ -6,7 +6,6 @@
 
 -[Vishal_Sandhan](https://github.com/vishalsandhan)
 
-
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
@@ -66,13 +65,13 @@
 
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
 
-- [Roger](https://github.com/Roger)  
+- [Roger](https://github.com/Roger)
 
-- [Roger Wang](https://github.com/rogerwang)  
+- [Roger Wang](https://github.com/rogerwang)
 
-- [Djalal Harouni](https://github.com/tixxdz)  
+- [Djalal Harouni](https://github.com/tixxdz)
 
-- [Kento](https://github.com/rogeraabbccdd)  
+- [Kento](https://github.com/rogeraabbccdd)
 
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
@@ -151,7 +150,6 @@
 - [@MhmoudGit](https://github.com/MhmoudGit)
 
 - [@suravshrestha](https://github.com/suravshrestha)
-  
 - [@sureshp820](https://github.com/sureshp820)
 
 - [@saurabh1118](https://github.com/saurabh1118)
@@ -159,7 +157,6 @@
 - [@Yogesh007587](https://github.com/Yogesh007587)
 
 - [@sureshp](https://github.com/sureshp820)
-  
 - [@Shreyash-cyber](https://github.com/Shreyash-cyber)
 
 - [@AmanPathan](https://github.com/AmanPathan)
@@ -323,6 +320,8 @@
 - [@Alinashevelev](https://github.com/AlinaShevelev)
 
 - [@Alincz](https://github.com/alincz)
+
+- [@n-allen1](https://github.com/n-allen1)
 
 -[@kaustubh2904](https://github.com/Kaustubh2904)
 
@@ -1509,7 +1508,6 @@
 - [@Daytonschuh](https://github.com/daytonschuh)
 
 - [@rahul](https://github.com/rahulvp105)
-
 
 - [@Dayvison2B](https://github.com/dayvison2b)
 
@@ -9940,7 +9938,6 @@
 -[@a-n-u-p-a](https://github.com/a-n-u-p-a)
 
 -[@lidhill](https://github.com/lidhill)
-
 
 -[Tehesuma007](https://github.com/Tehesuma007)
 
