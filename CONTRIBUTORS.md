@@ -40,6 +40,7 @@
 
 - [Chandanmali](https://github.com/Chandanmali)
 
+
 - [Roman Gonzalez](https://github.com/roman)
 
 - [Roman Nurik](https://github.com/romannurik)
@@ -163,6 +164,8 @@
 - [@Shreyash-cyber](https://github.com/Shreyash-cyber)
 
 - [@AmanPathan](https://github.com/AmanPathan)
+
+- [@ayushrakesh](https://github.com/ayushrakesh)
 
 - [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 
@@ -589,6 +592,8 @@
 - [@Bednak](https://github.com/Bednak)
 
 - [@Beeburrt](https://github.com/beeburrt)
+
+- [@Maulikatgit](https://github.com/Maulikatgit)
 
 - [@Beekaybanky](https://github.com/Beekaybanky)
 
