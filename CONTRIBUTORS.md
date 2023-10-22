@@ -6,11 +6,18 @@
 
 -[Vishal_Sandhan](https://github.com/vishalsandhan)
 
+
 - [@HVbajoria](https://gitHub.com/HVbajoria)
+
+- [@AmaanFarooquee](https://github.com/AmaanFarooquee)
+
+- [@Alisha-786](https://github.com/Alisha-786)  
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
+
+- [Korada Vishal](https://github.com/Vishalk91-4)
 
 - [Boy](https://github.com/Boy)
 
@@ -25,11 +32,49 @@
 
 - [Upendra](https://github.com/Upendra2003)
 
+- [FernHerrera11](https://github.com/FernHerrera11)
+
 - [Harsh Singh](https://github.com/HarshSingh2009)
 
 - [0xPew](https://github.com/0xPew)
 
 - [Chandanmali](https://github.com/Chandanmali)
+
+- [Roman Gonzalez](https://github.com/roman)
+
+- [Roman Nurik](https://github.com/romannurik)
+
+- [Roman Beekeeper](https://github.com/romankh3)
+
+- [Roman Gershman](https://github.com/romange)
+
+- [Roman G](https://github.com/rome)
+
+- [Roman Nita](https://github.com/maria)
+
+- [Mariatta](https://github.com/Mariatta)
+
+- [marianoguerra](https://github.com/marianoguerra)
+
+- [MariaNattestad](https://github.com/MariaNattestad)
+
+- [Maria Lobillo-Santos](https://github.com/marialobillo)
+
+- [Maria](https://github.com/mariasalvadora)
+
+- [Mariana Cristina Dias dos Santos](https://github.com/mariana-cristina-santos)
+
+- [Marian Kleineberg](https://github.com/marian42)
+
+- [Maria Barkouzou](https://github.com/mariabarkouzou)
+
+- [Roger](https://github.com/Roger)  
+
+- [Roger Wang](https://github.com/rogerwang)  
+
+- [Djalal Harouni](https://github.com/tixxdz)  
+
+- [Kento](https://github.com/rogeraabbccdd)  
 
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
@@ -102,6 +147,8 @@
 - [@sravanigodavarthi](https://github.com/sravanigodavarthi)
 
 - [@egbadonjeffrey](https://github.com/egbadonjeffrey)
+
+- [@MeshachOpoku](https://github.com/MeshachOpoku)
 
 - [@MhmoudGit](https://github.com/MhmoudGit)
 
@@ -296,6 +343,8 @@
 - [@Aminemhiri](https://github.com/Amine-Mhiri/)
 
 - [@Amminadabdb](https://github.com/Amminadab-db/)
+
+- -[saket gupta](https://github.com/saket0x07)
 
 - [@Anandaffaa](https://github.com/anandaffA)
 
@@ -1459,6 +1508,9 @@
 
 - [@Daytonschuh](https://github.com/daytonschuh)
 
+- [@rahul](https://github.com/rahulvp105)
+
+
 - [@Dayvison2B](https://github.com/dayvison2b)
 
 - [@Dbaran95](https://github.com/dbaran95)
@@ -1526,6 +1578,8 @@
 - [@Dek1Ans](https://github.com/Dek1ans)
 
 - [@Delanox](https://github.com/Delanox)
+
+- [@dellucifer](https://github.com/dellucifer)
 
 - [@Demzy2022](https://github.com/Demzy2022)
 
@@ -2665,6 +2719,8 @@
 
 - [@Guydahang7](https://github.com/guydahang7)
 
+- [@GuyKh](https://github.com/GuyKh)
+
 - [@Gwilldan](https://github.com/gwilldan)
 
 - [@Gwynncausing](https://github.com/gwynncausing)
@@ -3320,6 +3376,8 @@
 - [@Jahscode](https://github.com/jahscode)
 
 - [@Jaimeginesky](https://github.com/Jaime-Ginesky)
+
+- - [Vivek](https://github.com/vivekghori)
 
 - [@Jainchetan81](https://github.com/jainChetan81)
 
@@ -9781,6 +9839,8 @@
 
 - [@mslivinayak](https://github.com/mslivinayak)
 
+- [@NituCStefann](https://github.com/NituCStefann)
+
 - [@neha-nupur](https://github.com/neha-nupur)
 
 - [@ingjorgeirm](https://github.com/ingjorgeirm)
@@ -9873,16 +9933,26 @@
 
 - [@olukayo](https://github.com/olukayo/)
 
--[@MariamaDiallo07](https://github.com/MariamaDiallo07/)
+- [@MariamaDiallo07](https://github.com/MariamaDiallo07/)
 
--[@myselfprincee](https://github.com/myselfprincee/)
+- [@myselfprincee](https://github.com/myselfprincee/)
 
--[@SuryaBasavarajusuryagithub2014](https://github.com/suryagithub2014)
+- [@SuryaBasavarajusuryagithub2014](https://github.com/suryagithub2014)
 
--[@a-n-u-p-a](https://github.com/a-n-u-p-a)
+- [@a-n-u-p-a](https://github.com/a-n-u-p-a)
 
--[@lidhill](https://github.com/lidhill)
+- [@lidhill](https://github.com/lidhill)
 
--[Tehesuma007](https://github.com/Tehesuma007)
+- [Tehesuma007](https://github.com/Tehesuma007)
 
--[@Chasemoose](https://github.com/Chasemoose)
+- [@Chasemoose](https://github.com/Chasemoose)
+
+- [Tehesuma007](https://github.com/Tehesuma007)
+
+- [@davidcristea01](https://github.com/davidcristea01)
+
+- [@artdolya](https://github.com/artdolya)
+
+- [@JeDesi](https://github.com/JeDesi)
+
+- [@rossclay](https://github.com/rossclay)
