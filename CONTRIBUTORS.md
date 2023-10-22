@@ -26,6 +26,8 @@
 
 - [Chandanmali](https://github.com/Chandanmali)
 
+- [Roman Gonzalez](https://github.com/roman)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
