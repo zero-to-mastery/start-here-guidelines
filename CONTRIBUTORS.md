@@ -63,6 +63,8 @@
 
 - [Roger Wang](https://github.com/rogerwang)  
 
+- [Djalal Harouni](https://github.com/tixxdz)  
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
