@@ -33,6 +33,8 @@
 
 - [Roman Gonzalez](https://github.com/roman)
 
+- [Roman Nurik](https://github.com/romannurik)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
