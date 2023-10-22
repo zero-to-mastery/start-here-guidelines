@@ -61,6 +61,8 @@
 
 - [Roger](https://github.com/Roger)  
 
+- [Roger Wang](https://github.com/rogerwang)  
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
