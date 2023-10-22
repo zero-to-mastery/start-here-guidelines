@@ -48,6 +48,8 @@
 
 - [Maria](https://github.com/mariasalvadora)
 
+- [Mariana Cristina Dias dos Santos](https://github.com/mariana-cristina-santos)
+
 - [Marian Kleineberg](https://github.com/marian42)
 
 - [Mehul](https://github.com/MehulSweetiAgrawal)
