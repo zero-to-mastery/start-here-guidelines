@@ -60,6 +60,8 @@
 
 - [Djalal Harouni](https://github.com/tixxdz)  
 
+- [Kento](https://github.com/rogeraabbccdd)  
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
