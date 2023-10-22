@@ -26,8 +26,6 @@
 
 - [Chandanmali](https://github.com/Chandanmali)
 
-- [Mehul](https://github.com/MehulSweetiAgrawal)
-
 - [@ayushrakesh](https://github.com/ayushrakesh)
 
 - [aayushchauhan](https://github.com/Aayushchauhan05)
@@ -109,6 +107,8 @@
 - [@Shreyash-cyber](https://github.com/Shreyash-cyber)
 
 - [@AmanPathan](https://github.com/AmanPathan)
+
+- [@ayushrakesh](https://github.com/ayushrakesh)
 
 - [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 
