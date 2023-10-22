@@ -35,6 +35,8 @@
 
 - [Roman Nurik](https://github.com/romannurik)
 
+- [Roman Beekeeper](https://github.com/romankh3)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
