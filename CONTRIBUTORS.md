@@ -41,6 +41,8 @@
 
 - [Roman G](https://github.com/rome)
 
+- [Roman Nita](https://github.com/maria)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
