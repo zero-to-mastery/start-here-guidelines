@@ -52,6 +52,8 @@
 
 - [Marian Kleineberg](https://github.com/marian42)
 
+- [Maria Barkouzou](https://github.com/mariabarkouzou)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
