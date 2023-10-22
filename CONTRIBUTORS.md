@@ -38,6 +38,8 @@
 
 - [Roman Nita](https://github.com/maria)
 
+- [Mariatta](https://github.com/Mariatta)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
