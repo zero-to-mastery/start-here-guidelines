@@ -11,7 +11,7 @@
 
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
 
-  -[@Alisha-786](https://github.com/Alisha-786)
+- [@Alisha-786](https://github.com/Alisha-786)  
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
