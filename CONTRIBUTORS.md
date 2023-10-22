@@ -25,6 +25,8 @@
 
 - [Upendra](https://github.com/Upendra2003)
 
+- [FernHerrera11](https://github.com/FernHerrera11)
+
 - [Harsh Singh](https://github.com/HarshSingh2009)
 
 - [0xPew](https://github.com/0xPew)
