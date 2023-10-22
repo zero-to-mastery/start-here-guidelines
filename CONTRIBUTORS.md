@@ -9,6 +9,8 @@
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
+- [@AmaanFarooquee](https://github.com/AmaanFarooquee)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@Upendra](https://github.com/Upendra2003)
