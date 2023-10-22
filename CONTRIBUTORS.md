@@ -1581,7 +1581,7 @@
 
 - [@Delanox](https://github.com/Delanox)
 
-- [@Dellucifer](https://github.com/dellucifer)
+- [@dellucifer](https://github.com/dellucifer)
 
 - [@Demzy2022](https://github.com/Demzy2022)
 
