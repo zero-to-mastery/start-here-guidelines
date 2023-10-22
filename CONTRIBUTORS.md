@@ -49,6 +49,8 @@
 
 - [MariaNattestad](https://github.com/MariaNattestad)
 
+- [Maria Lobillo-Santos](https://github.com/marialobillo)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
