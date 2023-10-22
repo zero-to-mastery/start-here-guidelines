@@ -42,6 +42,8 @@
 
 - [marianoguerra](https://github.com/marianoguerra)
 
+- [MariaNattestad](https://github.com/MariaNattestad)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
