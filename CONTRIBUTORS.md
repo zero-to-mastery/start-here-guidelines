@@ -37,6 +37,8 @@
 
 - [Roman Beekeeper](https://github.com/romankh3)
 
+- [Roman Gershman](https://github.com/romange)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
