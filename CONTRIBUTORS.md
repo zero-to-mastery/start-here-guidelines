@@ -59,6 +59,8 @@
 
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
 
+- [Roger](https://github.com/Roger)  
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
