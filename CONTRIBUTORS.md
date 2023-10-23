@@ -27,6 +27,8 @@
 
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
+- [Khushminder Singh](https://github.com/khushminder270)
+
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
 - [Mridul Sharma](https://github.com/mridulsharma000)
