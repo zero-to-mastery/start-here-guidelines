@@ -25,6 +25,8 @@
 
 - [Rick](https://github.com/rick)
 
+- [Ram Tyagi](https://github.com/Ram-tyagi)
+
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [Khushminder Singh](https://github.com/khushminder270)
