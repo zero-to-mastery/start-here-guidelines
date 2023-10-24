@@ -1,10 +1,19 @@
 # CONTRIBUTORS
 
 - [Krish Soni](https://github.com/krishvsoni)
+
 - [Rohan Sharma](https://github.com/RS-labhub) -[meghaverma3110](https://github.com/meghaverma3110)
 - [Rohan](https://github.com/RohanReddy2003)
+- [Rohan Sharma](https://github.com/RS-labhub)
 
--[Vishal_Sandhan](https://github.com/vishalsandhan)
+
+- [meghaverma3110](https://github.com/meghaverma3110)
+
+
+- [Rohan](https://github.com/RohanReddy2003)
+
+- [Vishal_Sandhan](https://github.com/vishalsandhan)
+
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 - [@LaraibNoorien](https://github.com/laraibnoorien)
@@ -47,6 +56,8 @@
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Roman Gonzalez](https://github.com/roman)
+
+- [Ayaan](https://github.com/Ayaan49)
 
 - [Roman Nurik](https://github.com/romannurik)
 
@@ -93,6 +104,7 @@
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 
 - [Harsh Singh](https://github.com/HarshSingh2009)
+
 - [Shambhavi20031984](https://github.com/Shambhavi20031984)
 
 - [0xPew](https://github.com/0xPew)
@@ -175,6 +187,7 @@
 - [@Yogesh007587](https://github.com/Yogesh007587)
 
 - [@sureshp](https://github.com/sureshp820)
+
 - [@Shreyash-cyber](https://github.com/Shreyash-cyber)
 
 - [@AmanPathan](https://github.com/AmanPathan)
@@ -300,6 +313,8 @@
 - [@Afreenhussain](https://github.com/Afreen02)
 
 - [@LucasAlmeida-jpg](https://github.com/LucasAlmeida-jpg)
+
+- [@JamieJin](https://github.com/jamiejinjin)
 
 - [@Aisafaith](https://github.com/aisafaith)
 
@@ -9955,6 +9970,16 @@
 
 - [@myselfprincee](https://github.com/myselfprincee/)
 
+- [@Milosz-Dev](https://github.com/Milosz-Dev/)
+
+- [@SuryaBasavarajusuryagithub2014](https://github.com/suryagithub2014)
+
+- [@a-n-u-p-a](https://github.com/a-n-u-p-a)
+
+- [@lidhill](https://github.com/lidhill)
+
+- [@myselfprincee](https://github.com/myselfprincee/)
+
 - [@SuryaBasavarajusuryagithub2014](https://github.com/suryagithub2014)
 
 - [@a-n-u-p-a](https://github.com/a-n-u-p-a)
@@ -9976,7 +10001,9 @@
 - [@rossclay](https://github.com/rossclay)
 
 - [@smolsuryansh](https://github.com/smolsuryansh)
--
+
 - [@JohanSuareez](https://github.com/JohanSuareez)
--
+
 - [@Ventiator](https://github.com/Ventiator)
+
+- [@j-corp-25](https://github.com/j-corp-25)
