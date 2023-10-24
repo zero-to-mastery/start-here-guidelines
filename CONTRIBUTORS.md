@@ -506,6 +506,8 @@
 
 - [@Atikrg]([@https://github.com/Atikrg])
 
+- [Yash](https://github.com/Yashdangshiya)
+
 - [@Audleycoding](https://github.com/AudleyCoding)
 
 - [@Augustincolesnic](https://github.com/augustin-colesnic)
