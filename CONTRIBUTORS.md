@@ -1,24 +1,23 @@
 # CONTRIBUTORS
+
 - [Krish Soni](https://github.com/krishvsoni)
-- [Rohan Sharma](https://github.com/RS-labhub)
--[meghaverma3110](https://github.com/meghaverma3110)
+- [Rohan Sharma](https://github.com/RS-labhub) -[meghaverma3110](https://github.com/meghaverma3110)
 - [Rohan](https://github.com/RohanReddy2003)
 
 -[Vishal_Sandhan](https://github.com/vishalsandhan)
 
-
 - [@HVbajoria](https://gitHub.com/HVbajoria)
-  
 - [@LaraibNoorien](https://github.com/laraibnoorien)
-  
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
 
-- [@Alisha-786](https://github.com/Alisha-786)  
+- [@Alisha-786](https://github.com/Alisha-786)
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 - [@BaruBenoni](https://github.com/BaruBenoni)
 
 - [@Upendra](https://github.com/Upendra2003)
+
+- [@AnshMeshram](https://github.com/AnshMeshram)
 
 - [Korada Vishal](https://github.com/Vishalk91-4)
 
@@ -74,18 +73,16 @@
 - [Mariana Cristina Dias dos Santos](https://github.com/mariana-cristina-santos)
 
 - [Marian Kleineberg](https://github.com/marian42)
-  
 - [Laraib Noorien](https://github.com/laraibnoorien)
-  
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
 
-- [Roger](https://github.com/Roger)  
+- [Roger](https://github.com/Roger)
 
-- [Roger Wang](https://github.com/rogerwang)  
+- [Roger Wang](https://github.com/rogerwang)
 
-- [Djalal Harouni](https://github.com/tixxdz)  
+- [Djalal Harouni](https://github.com/tixxdz)
 
-- [Kento](https://github.com/rogeraabbccdd)  
+- [Kento](https://github.com/rogeraabbccdd)
 
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
@@ -1531,7 +1528,6 @@
 - [@Daytonschuh](https://github.com/daytonschuh)
 
 - [@rahul](https://github.com/rahulvp105)
-
 
 - [@Dayvison2B](https://github.com/dayvison2b)
 
@@ -9980,7 +9976,7 @@
 - [@rossclay](https://github.com/rossclay)
 
 - [@smolsuryansh](https://github.com/smolsuryansh)
-- 
+-
 - [@JohanSuareez](https://github.com/JohanSuareez)
 -
 - [@Ventiator](https://github.com/Ventiator)
