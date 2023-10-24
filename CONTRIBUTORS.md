@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
@@ -1132,6 +1133,8 @@
 - [@Chrisyanggit](https://github.com/chrisyang-git/)
 
 - [@Chrrepou](https://github.com/ChrRepou)
+
+- [amanjcode](https://github.com/amanjcode)
 
 - [@Chrysogonus01](https://github.com/Chrysogonus01)
 
