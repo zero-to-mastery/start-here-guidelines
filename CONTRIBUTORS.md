@@ -136,6 +136,8 @@
 
 - [Atharv Chavan](https://github.com/Atharv0003)
 
+- [@CorrynSN](https://github.com/CorrynSN)
+
 - [@shubham-vartak](https://github.com/shubham-vartak)
 
 - [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
