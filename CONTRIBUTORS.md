@@ -67,6 +67,8 @@
 
 - [Mariatta](https://github.com/Mariatta)
 
+- [Pariskarpoudel](https://github.com/Pariskarpoudel)
+
 - [Code Drinks](https://github.com/CodeDrinks270)
 
 - [marianoguerra](https://github.com/marianoguerra)
