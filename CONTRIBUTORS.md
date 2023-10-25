@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
@@ -261,7 +260,6 @@
 - [@manjillama](https://github.com/manjillama)
 
 - [@rishiiiidha](https://github.com/rishiiiidha)
-  
 - [@Siddhesh1123](https://github.com/Siddhesh1123)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
@@ -10015,3 +10013,5 @@
 - [@j-corp-25](https://github.com/j-corp-25)
 
 - [@HX-AQuintero](https://github.com/HX-AQuintero)
+
+- [@VladislavGD](https://github.com/VladislavGD)
