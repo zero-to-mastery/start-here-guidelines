@@ -85,6 +85,8 @@
 
 - [Roger](https://github.com/Roger)
 
+- [Harsh Surani](https://github.com/SuraniHarsh)
+
 - [Roger Wang](https://github.com/rogerwang)
 
 - [Marianas](https://github.com/mariana-antos)
