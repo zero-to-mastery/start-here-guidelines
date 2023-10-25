@@ -115,6 +115,8 @@
 
 - [Mahima Pandey](https://github.com/mahimapande2003)
 
+- [Marianas](https://github.com/mariana-antos)
+
 - [Maria Duran](https://github.com/bduran04)
 
 - [Brady Ayres](https://github.com/MojoBoingo)
