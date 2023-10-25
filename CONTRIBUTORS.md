@@ -87,6 +87,8 @@
 
 - [Roger Wang](https://github.com/rogerwang)
 
+- [Marianas](https://github.com/mariana-antos)
+
 - [Djalal Harouni](https://github.com/tixxdz)
 
 - [Kento](https://github.com/rogeraabbccdd)
