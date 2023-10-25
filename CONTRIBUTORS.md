@@ -55,6 +55,8 @@
 
 - [Ayaan](https://github.com/Ayaan49)
 
+- [Torgeir Hellebust](https://github.com/tohellebust)
+
 - [Roman Nurik](https://github.com/romannurik)
 
 - [Roman Beekeeper](https://github.com/romankh3)
