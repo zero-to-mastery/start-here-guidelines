@@ -5248,6 +5248,8 @@
 
 - [@Mecskyverse](https://github.com/mecskyverse)
 
+- [@ArthurDotSaito](https://github.com/ArthurDotSaito)
+
 - [@Chinchinooo](https://github.com/Chinchinooo)
 
 - [@Medlaah88](https://github.com/medlaah88)
