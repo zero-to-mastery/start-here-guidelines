@@ -126,6 +126,8 @@
 
 - [0Armaan025](https://github.com/0Armaan025)
 
+- [@CorrynSN](https://github.com/CorrynSN)
+
 - [Bratajit-03](https://github.com/Bratajit-03)
 
 - [@BandhiyaHardik](https://github.com/BandhiyaHardik)
@@ -135,8 +137,6 @@
 - [Subhayu Dutta](https://github.com/subhayudutta)
 
 - [Atharv Chavan](https://github.com/Atharv0003)
-
-- [@CorrynSN](https://github.com/CorrynSN)
 
 - [@shubham-vartak](https://github.com/shubham-vartak)
 
