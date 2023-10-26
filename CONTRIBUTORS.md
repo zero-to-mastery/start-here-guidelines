@@ -209,6 +209,8 @@
 
 - [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 
+- [@Petitesha](https://github.com/Petitesha)
+
 - [@priyanshuawas](https://github.com/priyanshuawas)
 
 - [@lingeorge88](https://github.com/lingeorge88)
