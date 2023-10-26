@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
@@ -264,6 +263,8 @@
 
 - [@anaetrezve](https://github.com/anaetrezve)
 
+- [@yousefomar724](https://github.com/yousefomar724)
+
 - [@susheelthapa](https://github.com/SusheelThapa)
 
 - [@sufyanhabib](https://github.com/sufyanhabib)
@@ -273,7 +274,6 @@
 - [@manjillama](https://github.com/manjillama)
 
 - [@rishiiiidha](https://github.com/rishiiiidha)
-  
 - [@Siddhesh1123](https://github.com/Siddhesh1123)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
