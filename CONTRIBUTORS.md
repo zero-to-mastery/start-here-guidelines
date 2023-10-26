@@ -150,6 +150,8 @@
 
 - [@BandhiyaHardik](https://github.com/BandhiyaHardik)
 
+- [@JmarioV](https://github.com/JmarioV)
+
 - [@Ankoor Gorai](https://github.com/ankoorgorai)
 
 - [Subhayu Dutta](https://github.com/subhayudutta)
