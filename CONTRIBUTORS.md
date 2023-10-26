@@ -141,6 +141,8 @@
 
 - [0Armaan025](https://github.com/0Armaan025)
 
+- [@CorrynSN](https://github.com/CorrynSN)
+
 - [Bratajit-03](https://github.com/Bratajit-03)
 
 - [@BandhiyaHardik](https://github.com/BandhiyaHardik)
