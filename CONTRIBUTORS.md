@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Vraj Patel](https://github.com/VrajPatel7)
+
 - [Smit Patel](https://github.com/smit2749)
 
 - [Krish Soni](https://github.com/krishvsoni)
