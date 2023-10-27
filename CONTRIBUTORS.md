@@ -48,6 +48,8 @@
 
 - [FernHerrera11](https://github.com/FernHerrera11)
 
+- [Debmalya Sadhukhan](https://github.com/deBmalooo)
+
 - [Harsh Singh](https://github.com/HarshSingh2009)
 
 - [0xPew](https://github.com/0xPew)
