@@ -282,7 +282,6 @@
 - [@manjillama](https://github.com/manjillama)
 
 - [@rishiiiidha](https://github.com/rishiiiidha)
-  
 - [@Siddhesh1123](https://github.com/Siddhesh1123)
 
 - [@Jeet-Debnath](https://github.com/jxxt)
@@ -10052,3 +10051,5 @@
 - [@selestrel07](https://github.com/selestrel07)
 
 -[@BlueButterflies](https://github.com/BlueButterflies/)
+
+-[@hfarah02](https://github.com/hfarah02)
