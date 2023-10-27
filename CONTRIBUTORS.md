@@ -10033,6 +10033,8 @@
 
 - [@JeDesi](https://github.com/JeDesi)
 
+-[@IndraniSom](https://github.com/IndraniSom/)
+
 - [@rossclay](https://github.com/rossclay)
 
 - [@smolsuryansh](https://github.com/smolsuryansh)
@@ -10052,5 +10054,7 @@
 - [@selestrel07](https://github.com/selestrel07)
 
 -[@BlueButterflies](https://github.com/BlueButterflies/)
+
+-[@angelievv](https://github.com/angelievv/)
 
 -[@angelievv](https://github.com/angelievv/)
