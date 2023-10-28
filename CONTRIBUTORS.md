@@ -7,7 +7,7 @@
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-
+- [Pratham Mahajan](https://github.com/Killer2OP)
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Rohan](https://github.com/RohanReddy2003)
