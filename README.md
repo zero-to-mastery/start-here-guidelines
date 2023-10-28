@@ -86,9 +86,9 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 Every open-source community is different.
 
-Spending years on one open-source project means you’ve gotten to know _one_ open-source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Spending years on one open-source project means you have gotten to know that particular project. Moving to a different project, you might find that the vocabulary, norms, and communication styles are completely different.
 
-That being said, many open-source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
+That being said, many open-source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you quickly adapt to any new project.
 
 A typical open-source project has the following types of people:
 
@@ -102,9 +102,9 @@ A typical open-source project has the following types of people:
 
 **Community Members**: People who use the project. They might be active in conversations or express their opinion on the project’s direction.
 
-Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project’s website for a “team” page or in the repository for governance documentation to find this information.
+Bigger projects may also have subcommittees or working groups focused on different tasks, such as tooling, triage, community moderation, and event organizing. Look on a project's website for a "team" page or in the repository for governance documentation to find this information.
 
-A project also has documentation. These files are usually listed in the top level of a repository.
+A project also has documentation, typically listed at the top level of a repository:
 
 **LICENSE**: By definition, every open-source project must have an open-source license. If the project does not have a license, it is not open source.
 
@@ -124,6 +124,6 @@ Finally, open-source projects use the following tools to organize discussion. Re
 
 **Discussion forums or mailing lists**: Some projects may use these channels for conversational topics (for example, “How do I…“ or “What do you think about…“ instead of bug reports or feature requests). Others use the issue tracker for all conversations.
 
-**Synchronous chat channel**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
+**Synchronous chat channels**: Some projects use chat channels (such as Discord or IRC) for casual conversation, collaboration, and quick exchanges.
 
 **Get all the ZTM Courses, for one monthly subscription** [here](https://zerotomastery.io/courses?utm_source=github&utm_medium=start-here-guidelines).
