@@ -12,6 +12,7 @@
 
 - [Rohan](https://github.com/RohanReddy2003)
 
+- [Ruhi14](https://github.com/Ruhi14)
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
 
 - [Aryan](https://github.com/Aryan4884)
