@@ -96,6 +96,7 @@
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
 
 - [Roger](https://github.com/Roger)
+- [nite-stocker](https://github.com/nite-stocker)
 
 - [Harsh Surani](https://github.com/SuraniHarsh)
 
