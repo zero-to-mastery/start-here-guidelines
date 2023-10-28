@@ -14,6 +14,8 @@
 
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
 
+- [Aryan](https://github.com/Aryan4884)
+
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 - [@LaraibNoorien](https://github.com/laraibnoorien)
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
