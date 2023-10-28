@@ -5,7 +5,7 @@
 - [Smit Patel](https://github.com/smit2749)
 
 - [Krish Soni](https://github.com/krishvsoni)
-
+- [Prathmesh Khede](https://github.com/Prathm3021)
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Pratham Mahajan](https://github.com/Killer2OP)
 - [meghaverma3110](https://github.com/meghaverma3110)
