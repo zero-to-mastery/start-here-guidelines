@@ -346,6 +346,8 @@
 
 - [@Aisafaith](https://github.com/aisafaith)
 
+- [@TinyLightBold](https://github.com/TinyLightBold)
+
 - [@winebrenner444] (https://github.com/winebrenner444)
 
 - [@berengueradrian](https://github.com/berengueradrian)
