@@ -10054,6 +10054,8 @@
 
 - [@Ventiator](https://github.com/Ventiator)
 
+- [@katzoda](https://github.com/katzoda)
+
 - [@j-corp-25](https://github.com/j-corp-25)
 
 - [@HX-AQuintero](https://github.com/HX-AQuintero)
