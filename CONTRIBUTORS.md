@@ -10093,3 +10093,5 @@
 - [@hanifny](https://github.com/hanifny)
 
 - [Silvio Costa](https://github.com/Nash1988)
+
+- [@ezenielrios](https://github.com/ezenielrios)
