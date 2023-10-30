@@ -109,6 +109,8 @@
 
 - [Kento](https://github.com/rogeraabbccdd)
 
+-[Victor Nkire](https://github.com/ObinnaVic)
+
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
 - [@ayushrakesh](https://github.com/ayushrakesh)
