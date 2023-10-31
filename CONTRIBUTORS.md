@@ -66,6 +66,8 @@
 
 - [Torgeir Hellebust](https://github.com/tohellebust)
 
+- [Andrew Farmer II](https://github.com/afarmerii)
+
 - [Roman Nurik](https://github.com/romannurik)
 
 - [Roman Beekeeper](https://github.com/romankh3)
