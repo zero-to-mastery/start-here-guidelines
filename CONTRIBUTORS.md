@@ -66,6 +66,8 @@
 
 - [Torgeir Hellebust](https://github.com/tohellebust)
 
+- [Andrew Farmer II](https://github.com/afarmerii)
+
 - [Roman Nurik](https://github.com/romannurik)
 
 - [Roman Beekeeper](https://github.com/romankh3)
@@ -108,6 +110,8 @@
 - [Djalal Harouni](https://github.com/tixxdz)
 
 - [Kento](https://github.com/rogeraabbccdd)
+
+-[Victor Nkire](https://github.com/ObinnaVic)
 
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
@@ -695,7 +699,9 @@
 
 - [@Benr027](https://github.com/Benr027)
 
-- [@Bentan101](https://github.com/BenTan101)
+- [@Bentan101](https://github.com/BenTan101)  
+
+- [@WDverse](https://github.com/WDverse)  
 
 - [@Benwood33](https://github.com/benwood33)
 
@@ -4997,6 +5003,8 @@
 - [@Manuellanderos](https://github.com/manuelLanderos)
 
 - [@Manulthanura](https://github.com/manulthanura)
+
+- [@Airme1](https://github.com/Airme1)
 
 - [@Manyara001](https://github.com/manyara001)
 
@@ -10053,6 +10061,8 @@
 
 - [@Ventiator](https://github.com/Ventiator)
 
+- [@katzoda](https://github.com/katzoda)
+
 - [@j-corp-25](https://github.com/j-corp-25)
 
 - [@HX-AQuintero](https://github.com/HX-AQuintero)
@@ -10088,4 +10098,12 @@
 - [@PiyushLuitel-07](https://github.com/PiyushLuitel-07)
 
 - [@hanifny](https://github.com/hanifny)
+
 - [@ankitaeth](https://github.com/ankitaeth)
+
+- [Silvio Costa](https://github.com/Nash1988)
+
+- [@ezenielrios](https://github.com/ezenielrios)
+
+- [@WeiHanTu](https://github.com/WeiHanTu)
+
