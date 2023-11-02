@@ -10112,3 +10112,5 @@
 - [@FangtaiDong10](https://github.com/FangtaiDong10)
 
 - [@jumpingjackflash64](https://github.com/jumpingjackflash64)
+
+- [@daniloslovic17](https://github.com/daniloslovic17)
