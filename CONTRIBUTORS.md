@@ -10117,4 +10117,6 @@
 
 - [@daniloslovic17](https://github.com/daniloslovic17)
 
-- [@Preenesh](https://github.com/Preenesh)
+- [@Preenesh](https://github.com/Preenesh)er
+
+- [@jonasneuf](https://github.com/jonasneuf)
