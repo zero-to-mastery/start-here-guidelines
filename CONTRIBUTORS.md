@@ -74,6 +74,8 @@
 
 - [Roman Gershman](https://github.com/romange)
 
+- [Eakkawat](https://github.com/eakkawat)
+
 - [Roman G](https://github.com/rome)
 
 - [Roman Nita](https://github.com/maria)
