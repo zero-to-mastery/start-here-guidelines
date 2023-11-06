@@ -8,7 +8,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the button "Fork."
 
-   ![fork image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
+   ![fork image](https://github.com/albertomtferreira/start-here-guidelines/assets/60177437/6ea6d8f0-0bd6-40c1-b8bc-38bec2b7e240)
 
 3. Clone _your forked repository_ to your computer:
 
