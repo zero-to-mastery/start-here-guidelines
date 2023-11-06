@@ -701,9 +701,9 @@
 
 - [@Benr027](https://github.com/Benr027)
 
-- [@Bentan101](https://github.com/BenTan101)  
+- [@Bentan101](https://github.com/BenTan101)
 
-- [@WDverse](https://github.com/WDverse)  
+- [@WDverse](https://github.com/WDverse)
 
 - [@Benwood33](https://github.com/benwood33)
 
@@ -10127,8 +10127,7 @@
 
 - [@jonasneuf](https://github.com/jonasneuf)
 
-- [@aayushnr](https://github.com/aayushnr)
--[@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+- [@aayushnr](https://github.com/aayushnr) -[@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
 - [@bhuvanavenkataramanan](https://github.com/bhuvanavenkataramanan)
 
@@ -10139,3 +10138,5 @@
 - [@samuels5](https://github.com/samuels5)
 
 - [@walidnk](https://github.com/walidnk)
+
+- [@ItsEric24](https://github.com/ItsEric24)
