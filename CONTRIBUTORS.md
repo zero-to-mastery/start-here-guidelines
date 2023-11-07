@@ -579,6 +579,8 @@
 
 - [@Awetjemal](https://github.com/awetjemal)
 
+- [Andre](https://github.com/Andre118)
+
 - [@Awmorrell](https://github.com/awmorrell)
 
 - [@Axmedtariq](https://github.com/axmedtariq)
