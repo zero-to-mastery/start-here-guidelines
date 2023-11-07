@@ -581,6 +581,8 @@
 
 - [@Awmorrell](https://github.com/awmorrell)
 
+- [Andre118] (https://github.com/Andre118)
+
 - [@Axmedtariq](https://github.com/axmedtariq)
 
 - [@Ayandam](https://github.com/ayanda-m)
