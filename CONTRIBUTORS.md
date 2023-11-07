@@ -62,6 +62,8 @@
 
 - [Chandanmali](https://github.com/Chandanmali)
 
+- [Karintorn Suebthawilkul](https://github.com/Acceletor)
+
 - [Roman Gonzalez](https://github.com/roman)
 
 - [Ayaan](https://github.com/Ayaan49)
