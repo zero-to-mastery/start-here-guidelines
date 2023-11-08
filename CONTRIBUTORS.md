@@ -117,6 +117,12 @@
 
 - [Kento](https://github.com/rogeraabbccdd)
 
+- [Roger Wang](https://github.com/rogerwang)
+
+- [Djalal Harouni](https://github.com/tixxdz)
+
+- [Kento](https://github.com/rogeraabbccdd)
+
 - [nite-stocker](https://github.com/nite-stocker)
 
 - [Harsh Surani](https://github.com/SuraniHarsh)
@@ -10087,6 +10093,8 @@
 
 - [@rossclay](https://github.com/rossclay)
 
+- [@BoonDocks-sl](https://github.com/BoonDocks-sl)
+
 - [@smolsuryansh](https://github.com/smolsuryansh)
 
 - [@JohanSuareez](https://github.com/JohanSuareez)
@@ -10181,3 +10189,4 @@
 -[@nyarkn10](https://github.com/nyrkn10)
 
 -[@HaugeNNN](https://github.com/HaugeNNN)
+
