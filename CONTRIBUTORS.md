@@ -13,18 +13,23 @@
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Ruhi14](https://github.com/Ruhi14)
+
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
 
 - [Aryan](https://github.com/Aryan4884)
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
+
 - [@LaraibNoorien](https://github.com/laraibnoorien)
+
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
 
 - [@Alisha-786](https://github.com/Alisha-786)
 
 - [@ykwon2018](https://github.com/ykwon2018)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
+
 - [@BaruBenoni](https://github.com/BaruBenoni)
 
 - [@Upendra](https://github.com/Upendra2003)
@@ -105,6 +110,13 @@
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
 
 - [Roger](https://github.com/Roger)
+
+- [Roger Wang](https://github.com/rogerwang)
+
+- [Djalal Harouni](https://github.com/tixxdz)
+
+- [Kento](https://github.com/rogeraabbccdd)
+
 - [nite-stocker](https://github.com/nite-stocker)
 
 - [Harsh Surani](https://github.com/SuraniHarsh)
@@ -394,6 +406,8 @@
 - [@Alinashevelev](https://github.com/AlinaShevelev)
 
 - [@Alincz](https://github.com/alincz)
+
+- [@n-allen1](https://github.com/n-allen1)
 
 -[@kaustubh2904](https://github.com/Kaustubh2904)
 
@@ -10115,11 +10129,14 @@
 
 - [@PiyushLuitel-07](https://github.com/PiyushLuitel-07)
 
+-[Tehesuma007](https://github.com/Tehesuma007)
+
 - [@hanifny](https://github.com/hanifny)
 
 - [@ankitaeth](https://github.com/ankitaeth)
 
 - [Silvio Costa](https://github.com/Nash1988)
+
 
 - [@ezenielrios](https://github.com/ezenielrios)
 
