@@ -1,5 +1,9 @@
 # CONTRIBUTORS
 
+- [Rohan Sharma](https://github.com/RS-labhub) 
+
+- [meghaverma3110](https://github.com/meghaverma3110)
+
 - [Vraj Patel](https://github.com/VrajPatel7)
 - [Vidhi Jain](https://github.com/vidhijain27)
 - [Smit Patel](https://github.com/smit2749)
@@ -10,9 +14,17 @@
 - [Pratham Mahajan](https://github.com/Killer2OP)
 - [meghaverma3110](https://github.com/meghaverma3110)
 
+
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Ruhi14](https://github.com/Ruhi14)
+
+
+- [@HVbajoria](https://gitHub.com/HVbajoria)
+- [@LaraibNoorien](https://github.com/laraibnoorien)
+- [@AmaanFarooquee](https://github.com/AmaanFarooquee)
+
+- [@Alisha-786](https://github.com/Alisha-786)
 
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
 
@@ -27,7 +39,6 @@
 - [@Alisha-786](https://github.com/Alisha-786)
 
 - [@ykwon2018](https://github.com/ykwon2018)
-
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@BaruBenoni](https://github.com/BaruBenoni)
@@ -117,23 +128,11 @@
 
 - [Kento](https://github.com/rogeraabbccdd)
 
-- [Roger Wang](https://github.com/rogerwang)
-
-- [Djalal Harouni](https://github.com/tixxdz)
-
-- [Kento](https://github.com/rogeraabbccdd)
-
 - [nite-stocker](https://github.com/nite-stocker)
 
 - [Harsh Surani](https://github.com/SuraniHarsh)
 
-- [Roger Wang](https://github.com/rogerwang)
-
 - [Marianas](https://github.com/mariana-antos)
-
-- [Djalal Harouni](https://github.com/tixxdz)
-
-- [Kento](https://github.com/rogeraabbccdd)
 
 -[Victor Nkire](https://github.com/ObinnaVic)
 
@@ -10094,6 +10093,8 @@
 - [@JeDesi](https://github.com/JeDesi)
 
 - [@rossclay](https://github.com/rossclay)
+
+- [@CbnMarian](https://github.com/CbnMarian)
 
 - [@BoonDocks-sl](https://github.com/BoonDocks-sl)
 
