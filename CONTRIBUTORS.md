@@ -3749,6 +3749,8 @@
 
 - [@Jinkosiz](https://github.com/JinkoSiz)
 
+- [@JintoYamanaka](https://github.com/JintoYamanaka)
+
 - [@Jinyoung5497](https://github.com/jinyoung5497/)
 
 - [@Jippy89](https://github.com/jippy89)
