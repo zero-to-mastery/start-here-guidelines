@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [Rohan Sharma](https://github.com/RS-labhub) 
+- [Rohan Sharma](https://github.com/RS-labhub)
 
 - [meghaverma3110](https://github.com/meghaverma3110)
 
@@ -728,9 +728,9 @@
 
 - [@Benr027](https://github.com/Benr027)
 
-- [@Bentan101](https://github.com/BenTan101)  
+- [@Bentan101](https://github.com/BenTan101)
 
-- [@WDverse](https://github.com/WDverse)  
+- [@WDverse](https://github.com/WDverse)
 
 - [@Benwood33](https://github.com/benwood33)
 
@@ -3484,7 +3484,8 @@
 
 - [@Jaimeginesky](https://github.com/Jaime-Ginesky)
 
-- - [Vivek](https://github.com/vivekghori)
+-
+    - [Vivek](https://github.com/vivekghori)
 
 - [@Jainchetan81](https://github.com/jainChetan81)
 
@@ -9493,7 +9494,7 @@
 
 - [@Zocum](https://github.com/Zocum)
 
-  - [@Elviskazerwa](https://github.com/Elviskazerwa)
+    - [@Elviskazerwa](https://github.com/Elviskazerwa)
 
 - [@Zohair001](https://github.com/zohair001)
 
@@ -10166,7 +10167,7 @@
 - [@jonasneuf](https://github.com/jonasneuf)
 
 - [@aayushnr](https://github.com/aayushnr)
--[@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+  -[@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
 - [@bhuvanavenkataramanan](https://github.com/bhuvanavenkataramanan)
 
@@ -10200,3 +10201,5 @@
 -[@Facanha10](https://github.com/Facanha10)
 
 -[@samran-spec] (https://github.com/samran-spec)
+
+-[@BytaL](https://github.com/BytaL)
