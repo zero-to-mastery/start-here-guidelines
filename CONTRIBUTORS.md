@@ -3755,6 +3755,8 @@
 
 - [@Jinkosiz](https://github.com/JinkoSiz)
 
+- [@JintoYamanaka](https://github.com/JintoYamanaka)
+
 - [@Jinyoung5497](https://github.com/jinyoung5497/)
 
 - [@Jippy89](https://github.com/jippy89)
@@ -10200,3 +10202,9 @@
 -[@HaugeNNN](https://github.com/HaugeNNN)
 
 -[@sbatugul](https://github.com/sbatugul)
+
+-[@Facanha10](https://github.com/Facanha10)
+
+-[@samran-spec] (https://github.com/samran-spec)
+
+-[@adrianb0496](https://github.com/adrianb0496)
