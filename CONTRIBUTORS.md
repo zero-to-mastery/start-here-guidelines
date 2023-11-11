@@ -67,6 +67,8 @@
 
 - [aayushchauhan](https://github.com/Aayushchauhan05)
 
+- [alegratis](https://github.com/alegratis)
+
 - [Khushminder Singh](https://github.com/khushminder270)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
