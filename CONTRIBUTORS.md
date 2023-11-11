@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Priyank Panchal](https://github.com/Priyank911)
+
 - [Rohan](https://github.com/RohanReddy2003)
 - 
 - [Rohan Sharma](https://github.com/RS-labhub)
