@@ -20,11 +20,9 @@
 - [Rohith R](https://github.com/ROOHITH)
 - [meghaverma3110](https://github.com/meghaverma3110)
 
-
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Ruhi14](https://github.com/Ruhi14)
-
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 - [@LaraibNoorien](https://github.com/laraibnoorien)
@@ -35,7 +33,6 @@
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
 
 - [Aryan](https://github.com/Aryan4884)
-
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
@@ -739,9 +736,9 @@
 
 - [@Benr027](https://github.com/Benr027)
 
-- [@Bentan101](https://github.com/BenTan101)  
+- [@Bentan101](https://github.com/BenTan101)
 
-- [@WDverse](https://github.com/WDverse)  
+- [@WDverse](https://github.com/WDverse)
 
 - [@Benwood33](https://github.com/benwood33)
 
@@ -5167,8 +5164,6 @@
 - [@Martinburton](https://github.com/MartinBurton)
 
 - [@Martincorona007](https://github.com/martincorona007)
-
-- [@Martindvs](https://github.com/martindvs)
 
 - [@Martinlednar](https://github.com/MartinLednar)
 
@@ -10163,7 +10158,6 @@
 
 - [Silvio Costa](https://github.com/Nash1988)
 
-
 - [@ezenielrios](https://github.com/ezenielrios)
 
 - [@WeiHanTu](https://github.com/WeiHanTu)
@@ -10178,8 +10172,7 @@
 
 - [@jonasneuf](https://github.com/jonasneuf)
 
-- [@aayushnr](https://github.com/aayushnr)
--[@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+- [@aayushnr](https://github.com/aayushnr) -[@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
 - [@bhuvanavenkataramanan](https://github.com/bhuvanavenkataramanan)
 
@@ -10203,8 +10196,7 @@
 
 - [@Kyxics](https://github.com/Kyxics)
 
--[@nemeanDev] (https://github.com/andrewgivens)
--[@nyarkn10](https://github.com/nyrkn10)
+-[@nemeanDev] (https://github.com/andrewgivens) -[@nyarkn10](https://github.com/nyrkn10)
 
 -[@HaugeNNN](https://github.com/HaugeNNN)
 
@@ -10226,6 +10218,8 @@
 
 -[@em1e](https://github.com/em1e)
 
--[@mrobert2994]( https://github.com/mrobert2994)
+-[@mrobert2994](https://github.com/mrobert2994)
 
 -[@Walid-1998](http://github.com/Walid-1998)
+
+- [@martindvs](https://github.com/martindvs)
