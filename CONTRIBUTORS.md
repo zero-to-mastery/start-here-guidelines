@@ -1838,6 +1838,8 @@
 
 - [@Dimitritavshavadze](https://github.com/DimitriTavshavadze)
 
+- [@RedHoodJT1988](https://github.com/RedHoodJT1988)
+
 - [@Dinesh729](https://github.com/dinesh-729)
 
 - [@Dineshkhanal](https://github.com/Dinesh-Khanal/)
@@ -10125,6 +10127,8 @@
 - [@j-corp-25](https://github.com/j-corp-25)
 
 - [@HX-AQuintero](https://github.com/HX-AQuintero)
+
+- [@Abhishek-Mallick](https://github.com/Abhishek-Mallick)
 
 - [@VladislavGD](https://github.com/VladislavGD)
 
