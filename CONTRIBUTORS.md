@@ -1,8 +1,11 @@
 # CONTRIBUTORS
 
+- [Krish Soni](https://github.com/krishvsoni)
+
 - [Priyank Panchal](https://github.com/Priyank911)
 
 - [Rohan](https://github.com/RohanReddy2003)
+
 - [Dhananjay warade](https://github.com/Dhananjaywarade)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
@@ -20,11 +23,7 @@
 - [Rohith R](https://github.com/ROOHITH)
 - [meghaverma3110](https://github.com/meghaverma3110)
 
-
-- [Rohan](https://github.com/RohanReddy2003)
-
 - [Ruhi14](https://github.com/Ruhi14)
-
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 - [@LaraibNoorien](https://github.com/laraibnoorien)
@@ -10126,6 +10125,8 @@
 - [@j-corp-25](https://github.com/j-corp-25)
 
 - [@HX-AQuintero](https://github.com/HX-AQuintero)
+
+- [@VladislavGD](https://github.com/VladislavGD)
 
 - [@Abhishek-Mallick](https://github.com/Abhishek-Mallick)
 
