@@ -4695,6 +4695,8 @@
 
 - [@Lennydamiani](https://github.com/lenny-damiani)
 
+- [@GarnierLenny](https://github.com/GarnierLenny)
+
 - [@Lenspira](https://github.com/lenspira)
 
 - [@Leod14](https://github.com/LeoD14/)
