@@ -10126,6 +10126,8 @@
 
 - [@JeDesi](https://github.com/JeDesi)
 
+-[@IndraniSom](https://github.com/IndraniSom/)
+
 - [@rossclay](https://github.com/rossclay)
 
 - [@CbnMarian](https://github.com/CbnMarian)
@@ -10155,6 +10157,8 @@
 - [@selestrel07](https://github.com/selestrel07)
 
 -[@BlueButterflies](https://github.com/BlueButterflies/)
+
+-[@angelievv](https://github.com/angelievv/)
 
 -[@hfarah02](https://github.com/hfarah02)
 
