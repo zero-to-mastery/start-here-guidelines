@@ -10156,7 +10156,7 @@
 
 - [@selestrel07](https://github.com/selestrel07)
 
--[@BlueButterflies](https://github.com/BlueButterflies/)
+-[@BDragosteellueButterflies](https://github.com/BlueButterflies/)
 
 -[@angelievv](https://github.com/angelievv/)
 
@@ -10167,6 +10167,8 @@
 -[@digoxik](https://github.com/digoxik/)
 
 - [@iliyan300](https://github.com/Iliyan300/)
+
+-[@Dragosteel](https://github.com/Dragosteel)
 
 - [@Emmarie-Ahtunan](https://github.com/Emmarie-Ahtunan)
 
@@ -10233,6 +10235,7 @@
 - [@Kyxics](https://github.com/Kyxics)
 
 -[@nemeanDev] (https://github.com/andrewgivens)
+
 -[@nyarkn10](https://github.com/nyrkn10)
 
 -[@HaugeNNN](https://github.com/HaugeNNN)
