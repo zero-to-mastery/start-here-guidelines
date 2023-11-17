@@ -29,6 +29,8 @@
 
 - [Rohith R](https://github.com/ROOHITH)
 
+- [Rohan](https://github.com/RohanReddy2003)
+
 - [kolibri0509](https://github.com/kolibri0509)
 
 - [meghaverma3110](https://github.com/meghaverma3110)
@@ -10326,4 +10328,8 @@
 - [@BytaL](https://github.com/BytaL)
 
 - [@Kalliran](https://github.com/Kalliran)
+
+- [@neagugeorgecristian](https://github.com/neagugeorgecristian)
+
+- [@reinerknudsen](https://github.com/ReinerKnudsen)
 
