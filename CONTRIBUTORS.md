@@ -25,6 +25,8 @@
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 
+- [Utkarsh Singh](https://github.com/vib795)
+
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
 - [Rohith R](https://github.com/ROOHITH)
