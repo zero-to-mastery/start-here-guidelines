@@ -4333,6 +4333,8 @@
 
 - [@Kephass](https://github.com/Kephass)
 
+- [@jeremyrayjewell](https://github.com/jeremyrayjewell)
+
 - [@Kerwindows](https://github.com/kerwindows)
 
 - [@Keshetjackson](https://github.com/keshetjackson)
