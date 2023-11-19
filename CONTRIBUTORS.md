@@ -62,6 +62,7 @@
 - [@Alisha-786](https://github.com/Alisha-786)
 
 - [@ykwon2018](https://github.com/ykwon2018)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@BaruBenoni](https://github.com/BaruBenoni)
@@ -91,6 +92,7 @@
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
 - [Mridul Sharma](https://github.com/mridulsharma000)
+
 - [sivangbagri](https://github.com/sivangbagri)
 
 - [Upendra](https://github.com/Upendra2003)
@@ -10247,6 +10249,10 @@
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
+- [@aayushnr](https://github.com/aayushnr) 
+
+- [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+
 - [@aayushnr](https://github.com/aayushnr)
 
 - [@paulbryan](https://github.com/paulbryan)
@@ -10288,6 +10294,10 @@
 - [@BrezaCpt](https://github.com/BrezaCpt)
 
 - [@Kyxics](https://github.com/Kyxics)
+
+- [@nemeanDev](https://github.com/andrewgivens)
+
+- [@nyarkn10](https://github.com/nyrkn10)
 
 - [@nemeanDev] (https://github.com/andrewgivens)
 
@@ -10345,4 +10355,9 @@
 
 - [@jason272001](https://https://github.com/jason272001)
 
+- [@neagugeorgecristian](https://github.com/neagugeorgecristian)
+
+- [@s7so] (https://github.com/s7so)
+
 - [@Dragos1331](https://github.com/Dragos1331)
+
