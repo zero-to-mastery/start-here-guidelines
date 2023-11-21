@@ -62,6 +62,7 @@
 - [@Alisha-786](https://github.com/Alisha-786)
 
 - [@ykwon2018](https://github.com/ykwon2018)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@BaruBenoni](https://github.com/BaruBenoni)
@@ -91,6 +92,7 @@
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
 - [Mridul Sharma](https://github.com/mridulsharma000)
+
 - [sivangbagri](https://github.com/sivangbagri)
 
 - [Upendra](https://github.com/Upendra2003)
@@ -4333,6 +4335,8 @@
 
 - [@Kephass](https://github.com/Kephass)
 
+- [@jeremyrayjewell](https://github.com/jeremyrayjewell)
+
 - [@Kerwindows](https://github.com/kerwindows)
 
 - [@Keshetjackson](https://github.com/keshetjackson)
@@ -5197,8 +5201,6 @@
 - [@Martinburton](https://github.com/MartinBurton)
 
 - [@Martincorona007](https://github.com/martincorona007)
-
-- [@Martindvs](https://github.com/martindvs)
 
 - [@Martinlednar](https://github.com/MartinLednar)
 
@@ -8634,6 +8636,8 @@
 
 - [@Tianwen42](https://github.com/tianwen42/)
 
+- [@WhiteVogel](https://github.com/WhiteVogel/)
+
 - [@Tichagodwill](https://github.com/tichagodwill/)
 
 - [@Tihusky](https://github.com/tihusky/)
@@ -10117,6 +10121,8 @@
 
 - [@MariamaDiallo07](https://github.com/MariamaDiallo07/)
 
+-[]
+
 - [@myselfprincee](https://github.com/myselfprincee/)
 
 - [@Milosz-Dev](https://github.com/Milosz-Dev/)
@@ -10235,6 +10241,12 @@
 
 - [@jonasneuf](https://github.com/jonasneuf)
 
+- [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+
+- [@aayushnr](https://github.com/aayushnr) 
+
+- [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+
 - [@aayushnr](https://github.com/aayushnr) 
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
@@ -10284,6 +10296,10 @@
 - [@BrezaCpt](https://github.com/BrezaCpt)
 
 - [@Kyxics](https://github.com/Kyxics)
+
+- [@nemeanDev](https://github.com/andrewgivens)
+
+- [@nyarkn10](https://github.com/nyrkn10)
 
 - [@nemeanDev] (https://github.com/andrewgivens)
 
@@ -10337,4 +10353,23 @@
 
 - [@phfj](https://github.com/phfj)
 
+- [@davidpauledmondson](https://github.com/davidpauledmondson)
 
+- [@jason272001](https://https://github.com/jason272001)
+
+- [@neagugeorgecristian](https://github.com/neagugeorgecristian)
+
+- [@s7so] (https://github.com/s7so)
+
+- [@mrobert2994](https://github.com/mrobert2994)
+
+- [@Walid-1998](http://github.com/Walid-1998)
+
+- [@martindvs](https://github.com/martindvs)
+
+- [@Dragos1331](https://github.com/Dragos1331)
+
+- [@Tanvir-Hasan1](https://github.com/Tanvir-Hasan1)
+
+- [@codingjogo](https://github.com/codingjogo)
+- [@NicNikhil](https://github.com/NicNikhil)
