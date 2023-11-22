@@ -3765,6 +3765,8 @@
 
 - [@Jgonz19](https://github.com/jgonz19)
 
+- [@jh318](https://github.com/jh318)
+
 - [@Jhar](https://github.com/jharStadistics)
 
 - [@Jhaycee11](https://github.com/jhaycee11)
@@ -10385,5 +10387,3 @@
 - [@rahmlad-aramide] (https://github.com/rahmlad-aramide)
 
 - [@Nimittxo](https://github.com/Nimittxo)
-
-- [@jh318](https://github.com/jh318)
