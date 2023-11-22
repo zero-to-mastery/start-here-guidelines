@@ -217,6 +217,8 @@
 
 - [@abilash0205](https://github.com/abilash0205)
 
+- [@lotirium](https://github.com/lotirium)
+
 - [@Ankoor Gorai](https://github.com/ankoorgorai)
 
 - [Subhayu Dutta](https://github.com/subhayudutta)
