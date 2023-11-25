@@ -1971,6 +1971,8 @@
 
 - [@Doublet1](https://github.com/Double-T1)
 
+- [@Ericel7erek](https://github.com/Ericel7erek)
+
 - [@Dpazb1](https://github.com/dpazb1/)
 
 - [@Dragokami](https://github.com/DragoKami/)
