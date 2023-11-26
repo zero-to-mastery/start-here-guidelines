@@ -4541,6 +4541,8 @@
 
 - [@Kriskodes](https://github.com/kristigordon)
 
+-[@SzymonHarajda](https://github.com/SzymonHarajda)
+
 - [@Kristiingco](https://github.com/kristiingco)
 
 - [@Kristybell](https://github.com/kristybell)
