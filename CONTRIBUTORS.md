@@ -19,6 +19,8 @@
 
 - [Vidhi Jain](https://github.com/vidhijain27)
 
+- [Idan B](https://github.com/idanbe)
+
 - [Smit Patel](https://github.com/smit2749)
 
 - [Krish Soni](https://github.com/krishvsoni)
