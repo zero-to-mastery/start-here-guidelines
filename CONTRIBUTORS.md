@@ -195,6 +195,8 @@
 
 - [Marianas](https://github.com/mariana-antos)
 
+- [brandon1812](https://github.com/brandon1812) 
+
 - [Maria Duran](https://github.com/bduran04)
 
 - [Brady Ayres](https://github.com/MojoBoingo)
