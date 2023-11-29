@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Priyank Panchal](https://github.com/Priyank911)
@@ -32,6 +31,8 @@
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
 - [Rohith R](https://github.com/ROOHITH)
+
+- [Roman Acheampong](https://github.com/r0mankeys)
 
 - [Rohan](https://github.com/RohanReddy2003)
 
