@@ -10432,4 +10432,6 @@
 
 - [@YumiMachino](https://github.com/YumiMachino)
 
-- [@harryharran] (https://github.com/Harryharran)
+- [@harryharran](https://github.com/Harryharran)
+
+- [@fedryalvindra](https://github.com/fedryalvindra)
