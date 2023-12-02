@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [Sunny Gandhwani](https://github.com/Sunny-unik)
 
 - [Krish Soni](https://github.com/krishvsoni)
 
