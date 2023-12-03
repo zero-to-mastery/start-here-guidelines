@@ -180,6 +180,8 @@
 
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 
+- [Affan](https://github.com/TerminalEagle)
+
 - [Harsh Singh](https://github.com/HarshSingh2009)
 
 - [Shambhavi20031984](https://github.com/Shambhavi20031984)
