@@ -22,6 +22,8 @@
 
 - [Idan B](https://github.com/idanbe)
 
+- [Georgiy Bereza](https://github.com/GeorgiyBereza)
+
 - [Smit Patel](https://github.com/smit2749)
 
 - [Krish Soni](https://github.com/krishvsoni)
