@@ -311,6 +311,8 @@
 
 - [@pypimo](https://github.com/pypimo)
 
+- [@moncefarajdal](https://github.com/moncefarajdal)
+
 - [@Ankit-3130](https://github.com/Ankit-3130)
 
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
