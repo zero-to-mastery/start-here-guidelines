@@ -10,6 +10,8 @@
 
 - [Rohan](https://github.com/RohanReddy2003)
 
+- [Jim Hatley](https://github.com/jhatley75)
+
 - [Dhananjay warade](https://github.com/Dhananjaywarade)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
