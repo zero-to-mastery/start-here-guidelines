@@ -10189,7 +10189,7 @@
 
 - [@JeDesi](https://github.com/JeDesi)
 
--[@IndraniSom](https://github.com/IndraniSom/)
+- [@IndraniSom](https://github.com/IndraniSom/)
 
 - [@rossclay](https://github.com/rossclay)
 
@@ -10221,27 +10221,27 @@
 
 - [@selestrel07](https://github.com/selestrel07)
 
--[@BDragosteellueButterflies](https://github.com/BlueButterflies/)
+- [@BDragosteellueButterflies](https://github.com/BlueButterflies/)
 
--[@angelievv](https://github.com/angelievv/)
+- [@angelievv](https://github.com/angelievv/)
 
--[@hfarah02](https://github.com/hfarah02)
+- [@hfarah02](https://github.com/hfarah02)
 
--[@angelievv](https://github.com/angelievv/)
+- [@angelievv](https://github.com/angelievv/)
 
--[@digoxik](https://github.com/digoxik/)
+- [@digoxik](https://github.com/digoxik/)
 
 - [@iliyan300](https://github.com/Iliyan300/)
 
--[@Dragosteel](https://github.com/Dragosteel)
+- [@Dragosteel](https://github.com/Dragosteel)
 
 - [@Emmarie-Ahtunan](https://github.com/Emmarie-Ahtunan)
 
--[@Calen-W-3](https://github.com/Calen-W-3)
+- [@Calen-W-3](https://github.com/Calen-W-3)
 
--[@Cmo45](https://github.com/Cmo45/)
+- [@Cmo45](https://github.com/Cmo45/)
 
--[@dvashisht](https://github.com/dvashisht/)
+- [@dvashisht](https://github.com/dvashisht/)
 
 - [@Dasistwei](https://github.com/Dasistwei/)
 
@@ -10251,7 +10251,7 @@
 
 - [@PiyushLuitel-07](https://github.com/PiyushLuitel-07)
 
--[Tehesuma007](https://github.com/Tehesuma007)
+- [Tehesuma007](https://github.com/Tehesuma007)
 
 - [@hanifny](https://github.com/hanifny)
 
@@ -10406,6 +10406,7 @@
 - [@Tanvir-Hasan1](https://github.com/Tanvir-Hasan1)
 
 - [@codingjogo](https://github.com/codingjogo)
+
 - [@NicNikhil](https://github.com/NicNikhil)
 
 - [@Pauldevwork](https://github.com/Pauldevwork)
@@ -10422,7 +10423,7 @@
 
 - [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
 
--[@hamzakadd](https://github.com/hamzakadd)
+- [@hamzakadd](https://github.com/hamzakadd)
 
 - [@rom4kov](https://github.com/rom4kov)
 
@@ -10433,14 +10434,16 @@
 - [@yogeshkarpe-dot](https://github.com/yogeshkarpe-dot)
 
 - [@youcefbedrani](https://github.com/youcefbedrani)
+
 - [@ism3](https://github.com/ism3)
 
 - [@jared2997](https://github.com/jared2997) 
 
 - [@PeCrio](https://github.com/PeCrio)
 
--[@nirgopal](https://github.com/nirgopal)
-[@Akadir695](https://github.com/Akadir695)
+- [@nirgopal](https://github.com/nirgopal)
+
+- [@Akadir695](https://github.com/Akadir695)
 
 - [@YumiMachino](https://github.com/YumiMachino)
 
@@ -10465,3 +10468,5 @@
 - [@gedi-official](https://github.com/gedi-official/)
 
 - [@azick99](https://github.com/azick99)
+
+- [@Esmion] (https://github.com/Esmion)
