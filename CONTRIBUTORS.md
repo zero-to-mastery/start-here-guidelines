@@ -6,6 +6,7 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
+
 - [Harun Adil](https://github.com/HarunAdil)
 
 - [Rohan](https://github.com/RohanReddy2003)
@@ -17,7 +18,7 @@
 - [Rohan Sharma](https://github.com/RS-labhub)
 
 - [meghaverma3110](https://github.com/meghaverma3110)
-
+- [Krishna Kaushik](https://github.com/kRiShNa-429407)
 - [Vraj Patel](https://github.com/VrajPatel7)
 
 - [Vidhi Jain](https://github.com/vidhijain27)
