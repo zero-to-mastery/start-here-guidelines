@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Paulgorithms](https://github.com/paulgorithms)
+
 - [Sunny Gandhwani](https://github.com/Sunny-unik)
 
 - [Randy Canegaly](https://github.com/randycanegaly)
