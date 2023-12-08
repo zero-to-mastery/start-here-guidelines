@@ -2,6 +2,8 @@
 
 - [Sunny Gandhwani](https://github.com/Sunny-unik)
 
+- [Randy Canegaly](https://github.com/randycanegaly)
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Priyank Panchal](https://github.com/Priyank911)
