@@ -3771,6 +3771,8 @@
 
 - [@Jesusmjc](https://github.com/Jesusmjc)
 
+- [@EltaninDraco](https://github.com/EltaninDraco/)
+
 - [@Jetibo](https://github.com/jetibo)
 
 - [@Jetsetnofuture](https://github.com/jetsetnofuture)
@@ -10467,5 +10469,3 @@
 - [@azick99](https://github.com/azick99)
 
 - [@tejubhurbhure](https://github.com/tejubhurbhure)
-
-- [@EltaninDraco](https://github.com/EltaninDraco/)
