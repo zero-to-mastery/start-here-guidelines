@@ -267,6 +267,8 @@
 
 - [Moksh](https://github.com/Moksh-10)
 
+- [agr2000](https://github.com/agr2000)
+
 - [Shubham](https://github.com/shubham-shinde-442)
 
 - [@AnkitaSikdar005](https://github.com/AnkitaSikdar005)
@@ -3774,6 +3776,8 @@
 - [@Jesuskid](https://github.com/Jesuskid)
 
 - [@Jesusmjc](https://github.com/Jesusmjc)
+
+- [@EltaninDraco](https://github.com/EltaninDraco/)
 
 - [@Jetibo](https://github.com/jetibo)
 
@@ -7986,6 +7990,8 @@
 
 - [@Shubham568](https://github.com/shubham-568)
 
+-[@AbrahamVasquez] (https://github.com/AbrahamVasquez)
+
 - [@Shubhambaghel34](https://github.com/shubhambaghel34)
 
 - [@Shubhamj2004](https://github.com/ShubhamJ2004)
@@ -8309,6 +8315,8 @@
 - [@Stika01](https://github.com/Stika01)
 
 - [@Stkz](https://github.com/stkz)
+
+- [@RalIlieva](https://github.com/RalIlieva)
 
 - [@Stoneymcwheels](https://github.com/stoneymcwheels)
 
@@ -10479,4 +10487,10 @@
 
 -[@Guptaji16](https://github.com/Guptaji16)
 
+
 -[magic1986](https://github.com/magic1986)
+
+-[@murdermittenz](https://github.com/murdermittenz)
+
+-[@soh3illl](https://github.com/soh3illl)
+
