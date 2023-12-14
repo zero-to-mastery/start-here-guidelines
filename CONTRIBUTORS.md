@@ -7773,7 +7773,7 @@
 - [@Securedmallo](https://github.com/SecuredMallo)
 
 - [@Sedeba19](https://github.com/sedeba19)
-
+- [@Ragnar711](https://github.com/Raganr711)
 - [@Sedra313](https://github.com/Sedra313/)
 
 - [@Sedulance](https://github.com/sedulance)
