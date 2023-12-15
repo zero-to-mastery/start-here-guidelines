@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [AdarshPanda931](https://github.com/AdarshPanda931)
+
 - [Paulgorithms](https://github.com/paulgorithms)
 
 - [Sunny Gandhwani](https://github.com/Sunny-unik)
