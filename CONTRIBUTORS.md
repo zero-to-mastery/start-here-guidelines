@@ -55,6 +55,8 @@
 
 - [Ruhi14](https://github.com/Ruhi14)
 
+- [DawidOrtegon](https://github.com/DawidOrtegon)
+
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
 - [@LaraibNoorien](https://github.com/laraibnoorien)
