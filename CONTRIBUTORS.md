@@ -23,6 +23,8 @@
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 
+- [Saurav Shrestha](https://github.com/SauravShrestha04)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 - [Krishna Kaushik](https://github.com/kRiShNa-429407)
 - [Vraj Patel](https://github.com/VrajPatel7)
