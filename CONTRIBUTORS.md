@@ -461,6 +461,8 @@
 
 - [@elciosato](https://github.com/elciosato)
 
+- [@Miha Jan](https://github.com/MihecJan)
+
 - [@Akshayabalasubramani](https://github.com/AkshayaBalasubramani)
 
 - [@Alaina12](https://github.com/alaina12)
