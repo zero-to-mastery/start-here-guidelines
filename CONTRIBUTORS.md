@@ -219,7 +219,7 @@
 
 - [Marianas](https://github.com/mariana-antos)
 
-- [brandon1812](https://github.com/brandon1812) 
+- [brandon1812](https://github.com/brandon1812)
 
 - [Maria Duran](https://github.com/bduran04)
 
@@ -524,7 +524,7 @@
 - [@Araneus84](https://github.com/Araneus84)
 
 - [@Archeana](https://github.com/archeana)
-- [@travyu](https://github.com/travyu) 
+- [@travyu](https://github.com/travyu)
 
 - [@Aremuolayinka](https://github.com/aremuolayinka02)
 
@@ -10308,15 +10308,15 @@
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
@@ -10466,7 +10466,7 @@
 - [@youcefbedrani](https://github.com/youcefbedrani)
 - [@ism3](https://github.com/ism3)
 
-- [@jared2997](https://github.com/jared2997) 
+- [@jared2997](https://github.com/jared2997)
 
 - [@PeCrio](https://github.com/PeCrio)
 
@@ -10531,10 +10531,10 @@
 -[@MoumitaGhoshh](https://github.com/MoumitaGhoshh/)
 
 -[@danielmuszkiet](https://github.com/danielmuszkiet/)
-
+-[@pces8729](https://github.com/pces8729)
 -[@mickey-40](https://https://github.com/mickey-40/)
 
--[@OliBoli80](https://github.com/OliBoli80) 
+-[@OliBoli80](https://github.com/OliBoli80)
 
 -[@Maheshreddy14](https://github.com/Maheshreddy14)
 -[@kartik20144](https://github.com/kartik20144)
