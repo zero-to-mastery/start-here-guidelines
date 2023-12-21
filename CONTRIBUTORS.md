@@ -8,6 +8,8 @@
 
 - [Randy Canegaly](https://github.com/randycanegaly)
 
+- [CandleLearner-M](https://github.com/CandleLearner-M)
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Priyank Panchal](https://github.com/Priyank911)
