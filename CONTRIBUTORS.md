@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+
 - [AdarshPanda931](https://github.com/AdarshPanda931)
 
 - [Paulgorithms](https://github.com/paulgorithms)
@@ -3574,8 +3575,7 @@
 
 - [@Jaimeginesky](https://github.com/Jaime-Ginesky)
 
--
-    - [Vivek](https://github.com/vivekghori)
+- - [Vivek](https://github.com/vivekghori)
 
 - [@Jainchetan81](https://github.com/jainChetan81)
 
@@ -9629,7 +9629,7 @@
 
 - [@Zocum](https://github.com/Zocum)
 
-    - [@Elviskazerwa](https://github.com/Elviskazerwa)
+  - [@Elviskazerwa](https://github.com/Elviskazerwa)
 
 - [@Zohair001](https://github.com/zohair001)
 
@@ -10324,9 +10324,6 @@
 
 - [@jonasneuf](https://github.com/jonasneuf)
 
-- [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
-
-- [@aayushnr](https://github.com/aayushnr) 
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
@@ -10335,6 +10332,11 @@
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
 - [@aayushnr](https://github.com/aayushnr) 
+
+
+- [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
+
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
@@ -10400,7 +10402,7 @@
 
 - [@em1e](https://github.com/em1e)
 
-- [@mrobert2994]( https://github.com/mrobert2994)
+- [@mrobert2994](https://github.com/mrobert2994)
 
 
 - [@angelievv](https://github.com/angelievv/)
@@ -10435,6 +10437,8 @@
 - [@phfj](https://https://github.com/phfj)
 
 - [@jason272001](https://https://github.com/jason272001)
+
+- [@Hayyangovinda](https://github.com/hayyangovinda)
 
 - [@neagugeorgecristian](https://github.com/neagugeorgecristian)
 
@@ -10566,9 +10570,9 @@
 
 -[@DRidleyS](https://github.com/DRidleyS)
 
-[@aneagoie](https://github.com/rylew0925)
+- [@aneagoie](https://github.com/rylew0925)
 
-[@Kage2100](https://github.com/Kage2100)
+- [@Kage2100](https://github.com/Kage2100)
 
 -[@raffalml](https://github.com/raffalml)
 
