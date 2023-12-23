@@ -10432,9 +10432,9 @@
 
 - [@reinerknudsen](https://github.com/ReinerKnudsen)
 
-- [@davidpauledmondson](https://github.com/davidpauledmondson)
+- [@phfj](https://github.com/phfj)
 
-- [@phfj](https://https://github.com/phfj)
+- [@davidpauledmondson](https://github.com/davidpauledmondson)
 
 - [@jason272001](https://https://github.com/jason272001)
 
