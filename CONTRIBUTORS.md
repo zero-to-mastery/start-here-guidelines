@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [AdarshPanda931](https://github.com/AdarshPanda931)
 
 - [Paulgorithms](https://github.com/paulgorithms)
@@ -10327,11 +10326,11 @@
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
@@ -10404,7 +10403,6 @@
 
 - [@mrobert2994](https://github.com/mrobert2994)
 
-
 - [@angelievv](https://github.com/angelievv/)
 
 - [@sumanth1018](https://github.com/sumanth1018/)
@@ -10455,6 +10453,8 @@
 - [@Tanvir-Hasan1](https://github.com/Tanvir-Hasan1)
 
 - [@codingjogo](https://github.com/codingjogo)
+
+- [@Skolnikov](https://github.com/Skolnikov)
 
 
 - [@NicNikhil](https://github.com/NicNikhil)
