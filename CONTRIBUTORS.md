@@ -10378,7 +10378,7 @@
 
 - [@nyarkn10](https://github.com/nyrkn10)
 
-- [@nemeanDev] (https://github.com/andrewgivens)
+- [@nemeanDev](https://github.com/andrewgivens)
 
 - [@nyarkn10](https://github.com/nyrkn10)
 
@@ -10388,7 +10388,7 @@
 
 - [@Facanha10](https://github.com/Facanha10)
 
-- [@samran-spec] (https://github.com/samran-spec)
+- [@samran-spec](https://github.com/samran-spec)
 
 - [@adrianb0496](https://github.com/adrianb0496)
 
@@ -10420,7 +10420,7 @@
 
 - [@williamlim26](https://github.com/williamlim26)
 
-- [@samran-spec] (https://github.com/samran-spec)
+- [@samran-spec](https://github.com/samran-spec)
 
 - [@BytaL](https://github.com/BytaL)
 
@@ -10440,7 +10440,7 @@
 
 - [@neagugeorgecristian](https://github.com/neagugeorgecristian)
 
-- [@s7so] (https://github.com/s7so)
+- [@s7so](https://github.com/s7so)
 
 - [@mrobert2994](https://github.com/mrobert2994)
 
@@ -10464,7 +10464,7 @@
 
 - [@ItsDY19](https://github.com/ItsDY19)
 
-- [@rahmlad-aramide] (https://github.com/rahmlad-aramide)
+- [@rahmlad-aramide](https://github.com/rahmlad-aramide)
 
 - [@Nimittxo](https://github.com/Nimittxo)
 
@@ -10533,7 +10533,7 @@
 
 -[@sayudha](https://github.com/mazayastudio)
 
--[@bornonadrum] (https://github.com/bornonadrum)
+-[@bornonadrum](https://github.com/bornonadrum)
 
 -[@vikrant](https://github.com/Vikrant-k09)
 
@@ -10541,7 +10541,11 @@
 
 -[@khusan2006](https://github.com/khusan2006)
 
--[@sabahpalani](https://github.com/sabahpalani) -[@shemavalentin](https://github.com/shemavalentin) -[@ZeroCool0204](https://github.com/ZeroCool0204/)
+-[@sabahpalani](https://github.com/sabahpalani)
+
+-[@shemavalentin](https://github.com/shemavalentin)
+
+-[@ZeroCool0204](https://github.com/ZeroCool0204/)
 
 -[@hgh23](https://github.com/hgh23)
 
@@ -10555,7 +10559,11 @@
 
 -[@OliBoli80](https://github.com/OliBoli80)
 
--[@Maheshreddy14](https://github.com/Maheshreddy14) -[@kartik20144](https://github.com/kartik20144) -[@JayeshJain246](https://github.com/JayeshJain246)
+-[@Maheshreddy14](https://github.com/Maheshreddy14)
+
+-[@kartik20144](https://github.com/kartik20144)
+
+-[@JayeshJain246](https://github.com/JayeshJain246)
 
 -[psykter](https://github.com/psykter)
 
@@ -10581,7 +10589,9 @@
 
 -[@7AkhilV](https://github.com/7AkhilV)
 
--[@Rayenkan](https://github.com/Rayenkan) -[@lambruGeorge](https://github.com/lambrugeorge)
+-[@Rayenkan](https://github.com/Rayenkan)
+
+-[@lambruGeorge](https://github.com/lambrugeorge)
 
 -[@chkhs](https://github.com/chkhs)
 
