@@ -14,6 +14,7 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
+- [Shraddh Nand Shah](https://github.com/shraddha1512)
 
 - [Harun Adil](https://github.com/HarunAdil)
 
