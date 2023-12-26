@@ -224,7 +224,7 @@
 
 - [Marianas](https://github.com/mariana-antos)
 
-- [brandon1812](https://github.com/brandon1812) 
+- [brandon1812](https://github.com/brandon1812)
 
 - [Maria Duran](https://github.com/bduran04)
 
@@ -531,7 +531,7 @@
 - [@Araneus84](https://github.com/Araneus84)
 
 - [@Archeana](https://github.com/archeana)
-- [@travyu](https://github.com/travyu) 
+- [@travyu](https://github.com/travyu)
 
 - [@Aremuolayinka](https://github.com/aremuolayinka02)
 
@@ -10326,7 +10326,6 @@
 
 - [@jonasneuf](https://github.com/jonasneuf)
 
-
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
 - [@aayushnr](https://github.com/aayushnr)
@@ -10334,7 +10333,6 @@
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
 - [@aayushnr](https://github.com/aayushnr)
-
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
@@ -10414,7 +10412,6 @@
 
 - [@nextbecks23](https://github.com/nextbecks23)
 
-
 - [@kiki-tomato](https://github.com/kiki-tomato)
 
 - [@robertconstantin](https://github.com/robertconstantin)
@@ -10459,7 +10456,6 @@
 
 - [@Skolnikov](https://github.com/Skolnikov)
 
-
 - [@NicNikhil](https://github.com/NicNikhil)
 
 - [@leepowe](https:://github.com/leepowe)
@@ -10491,7 +10487,7 @@
 - [@youcefbedrani](https://github.com/youcefbedrani)
 - [@ism3](https://github.com/ism3)
 
-- [@jared2997](https://github.com/jared2997) 
+- [@jared2997](https://github.com/jared2997)
 
 - [@PeCrio](https://github.com/PeCrio)
 
@@ -10545,9 +10541,7 @@
 
 -[@khusan2006](https://github.com/khusan2006)
 
--[@sabahpalani](https://github.com/sabahpalani)
--[@shemavalentin](https://github.com/shemavalentin)
--[@ZeroCool0204](https://github.com/ZeroCool0204/)
+-[@sabahpalani](https://github.com/sabahpalani) -[@shemavalentin](https://github.com/shemavalentin) -[@ZeroCool0204](https://github.com/ZeroCool0204/)
 
 -[@hgh23](https://github.com/hgh23)
 
@@ -10559,11 +10553,9 @@
 
 -[@mickey-40](https://https://github.com/mickey-40/)
 
--[@OliBoli80](https://github.com/OliBoli80) 
+-[@OliBoli80](https://github.com/OliBoli80)
 
--[@Maheshreddy14](https://github.com/Maheshreddy14)
--[@kartik20144](https://github.com/kartik20144)
--[@JayeshJain246](https://github.com/JayeshJain246)
+-[@Maheshreddy14](https://github.com/Maheshreddy14) -[@kartik20144](https://github.com/kartik20144) -[@JayeshJain246](https://github.com/JayeshJain246)
 
 -[psykter](https://github.com/psykter)
 
@@ -10585,13 +10577,14 @@
 
 -[@JordanDeeKay](https://github.com/JordanDeeKay)
 
--[@akram02-sde]( https://github.com/akram02-sde)
+-[@akram02-sde](https://github.com/akram02-sde)
 
 -[@7AkhilV](https://github.com/7AkhilV)
 
--[@Rayenkan](https://github.com/Rayenkan)
--[@lambruGeorge](https://github.com/lambrugeorge)
+-[@Rayenkan](https://github.com/Rayenkan) -[@lambruGeorge](https://github.com/lambrugeorge)
 
 -[@chkhs](https://github.com/chkhs)
 
 -[@chadGomez](https://github.com/chadGomez)
+
+-[@sreeja1743](https://github.com/sreeja1743)
