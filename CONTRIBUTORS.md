@@ -1721,6 +1721,8 @@
 
 - [@Ddareus](https://github.com/ddareus/)
 
+-[@yaroslav-vechirko](https://github.com/yaroslav-vechirko)
+
 - [@Ddikshal](https://github.com/DDikshaL)
 
 - [@Ddmuzyk](https://github.com/ddmuzyk)
