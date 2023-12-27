@@ -10592,10 +10592,12 @@
 -[@Rayenkan](https://github.com/Rayenkan)
 -[@lambruGeorge](https://github.com/lambrugeorge)
 
--[@chkhs](https://github.com/chkhs)
+-[[@chkhs](https://github.com/chkhs)]
 
 -[@chadGomez](https://github.com/chadGomez)
 
 -[@Ammar-h22](https://github.com/Ammar-h22)
 
 -[@MorotAmaury](https://github.com/MorotAmaury)]
+
+-[[@sidiq20](https://github.com/sidiq20/)]
