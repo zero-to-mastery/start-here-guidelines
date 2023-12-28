@@ -1,5 +1,8 @@
 # Contributors
 
+
+- [Krish Soni](https://github.com/krishvsoni)
+
 - [@PhilipPopa](https://github.com/PhilipPopa)
 
 - [@MohammadKhaleghii](https://github.com/MohammadKhaleghii)
@@ -13,3 +16,4 @@
 - [@Staindek](https://github.com/Staindek)
 
 - [@ng753](https://github.com/ng753)
+
