@@ -26,3 +26,6 @@
 
 - [@shazeen-1990](https://github.com/shazeen-1990)
 
+- [@AkshajVanka](https://github.com/AkshajVanka)
+
+- [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
