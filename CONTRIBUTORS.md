@@ -10,4 +10,6 @@
 
 - [@supershegs](https://github.com/supershegs)
 
+- [@Staindek](https://github.com/Staindek)
+
 - [@ng753](https://github.com/ng753)
