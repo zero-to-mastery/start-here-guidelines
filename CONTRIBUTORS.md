@@ -1,6 +1,5 @@
 # Contributors
 
-
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [@PhilipPopa](https://github.com/PhilipPopa)
@@ -17,3 +16,4 @@
 
 - [@ng753](https://github.com/ng753)
 
+- [@shazeen-1990](https://github.com/shazeen-1990)
