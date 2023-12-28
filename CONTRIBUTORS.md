@@ -1,4 +1,4 @@
-# Contributors
+# CONTRIBUTORS
 
 - [Krish Soni](https://github.com/krishvsoni)
 
@@ -15,5 +15,9 @@
 - [@Staindek](https://github.com/Staindek)
 
 - [@ng753](https://github.com/ng753)
+
+- [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
+
+- [@xAzkall](https://github.com/xAzkall)
 
 - [@shazeen-1990](https://github.com/shazeen-1990)
