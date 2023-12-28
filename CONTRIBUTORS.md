@@ -20,4 +20,9 @@
 
 - [@xAzkall](https://github.com/xAzkall)
 
+- [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
+
+- [@nada107](https://github.com/nada107)
+
 - [@shazeen-1990](https://github.com/shazeen-1990)
+
