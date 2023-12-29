@@ -28,6 +28,8 @@
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 
+- [Daryl Stensland](https://github.com/darylste)
+
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
 - [Rohith R](https://github.com/ROOHITH)
@@ -10468,12 +10470,10 @@
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
-
 -[@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
-
 
 -[magic1986](https://github.com/magic1986)
 
