@@ -10429,12 +10429,52 @@
 
 - [@PeCrio](https://github.com/PeCrio)
 
+- [@nirgopal](https://github.com/nirgopal)
+- [@Akadir695](https://github.com/Akadir695)
+
+- [@YumiMachino](https://github.com/YumiMachino)
+
+- [@harryharran](https://github.com/Harryharran)
+
+- [@fedryalvindra](https://github.com/fedryalvindra)
+
+- [@PhilipPopa](https://github.com/PhilipPopa)
+
+- [@MohammadKhaleghii](https://github.com/MohammadKhaleghii)
+
+- [@dkey01](https://github.com/dkey01)
+
+- [@Imaginario27](https://github.com/Imaginario27)
+
+- [@SasankTanikella99](https://github.com/SasankTanikella99)
+
+- [@aogajoseph](https://github.com/aogajoseph)
+
+- [@Sl33pySage](https://github.com/Sl33pySage)
+
+- [@gedi-official](https://github.com/gedi-official/)
+
+- [@azick99](https://github.com/azick99)
+
+- [@tejubhurbhure](https://github.com/tejubhurbhure)
+
+- [@Harshvardhan](https://github.com/trescomaasvardhannn)
+
+- [@Gana0606](https://github.com/Gana0606)
+
+- [@yusufskebbe](https://github.com/yusufskebbe)
+
 - [@ism3](https://github.com/ism3)
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
+
+-[@rmortera] (https://github.com/rmortera)
+
+- [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
 
 - [@berenvrl](https://github.com/berenvrl)
 
+- [@sayudha](https://github.com/mazayastudio)
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
