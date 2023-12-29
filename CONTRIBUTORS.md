@@ -1178,6 +1178,8 @@
 
 - [@Chayan11](https://github.com/Chayan-11)
 
+- [@chelseapang](https://github.com/chelseapang)
+
 - [@Chengali111](https://github.com/chengali111)
 
 - [@Cherrydub](https://github.com/cherrydub)
@@ -10468,12 +10470,10 @@
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
-
 -[@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
-
 
 -[magic1986](https://github.com/magic1986)
 
