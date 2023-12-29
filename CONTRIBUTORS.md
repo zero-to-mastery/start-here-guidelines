@@ -10392,34 +10392,36 @@
 
 - [@Dragos1331](https://github.com/Dragos1331)
 
-- [@Tanvir-Hasan1](https://github.com/Tanvir-Hasan1)
+- [@PhilipPopa](https://github.com/PhilipPopa)
 
-- [@codingjogo](https://github.com/codingjogo)
-- [@NicNikhil](https://github.com/NicNikhil)
+- [@MohammadKhaleghii](https://github.com/MohammadKhaleghii)
 
-- [@Pauldevwork](https://github.com/Pauldevwork)
+- [@wcgraupmann](http://github.com/wcgraupmann)
 
-- [@ItsDY19](https://github.com/ItsDY19)
+- [@dkey01](https://github.com/dkey01)
 
-- [@rahmlad-aramide] (https://github.com/rahmlad-aramide)
+- [@supershegs](https://github.com/supershegs)
 
-- [@Nimittxo](https://github.com/Nimittxo)
+- [@Staindek](https://github.com/Staindek)
 
-- [@rfingerhut93](https://github.com/rfingerhut93)
-
-- [@mkchong0710](https://github.com/mkchong0710)
+- [@ng753](https://github.com/ng753)
 
 - [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
 
--[@hamzakadd](https://github.com/hamzakadd)
+- [@xAzkall](https://github.com/xAzkall)
 
-- [@rom4kov](https://github.com/rom4kov)
+- [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
 
-- [@arkanide1](https://github.com/arkanide1)
+- [@nada107](https://github.com/nada107)
+
+- [@shazeen-1990](https://github.com/shazeen-1990)
 
 - [@AkshajVanka](https://github.com/AkshajVanka)
 
 - [@yogeshkarpe-dot](https://github.com/yogeshkarpe-dot)
 
 - [@youcefbedrani](https://github.com/youcefbedrani)
+- 
 - [@ism3](https://github.com/ism3)
+
+- [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
