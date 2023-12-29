@@ -196,7 +196,7 @@
 
 - [Marianas](https://github.com/mariana-antos)
 
-- [brandon1812](https://github.com/brandon1812) 
+- [brandon1812](https://github.com/brandon1812)
 
 - [Maria Duran](https://github.com/bduran04)
 
@@ -497,6 +497,8 @@
 - [@Araneus84](https://github.com/Araneus84)
 
 - [@Archeana](https://github.com/archeana)
+
+- [@travyu](https://github.com/travyu)
 
 - [@Aremuolayinka](https://github.com/aremuolayinka02)
 
@@ -3534,8 +3536,7 @@
 
 - [@Jaimeginesky](https://github.com/Jaime-Ginesky)
 
--
-    - [Vivek](https://github.com/vivekghori)
+- - [Vivek](https://github.com/vivekghori)
 
 - [@Jainchetan81](https://github.com/jainChetan81)
 
@@ -5083,7 +5084,7 @@
 - [@Manishgp94](https://github.com/manishgp94)
 
 - [@Mannjaiswal786](https://github.com/MannJaiswal786/)
-- [@williebonavente](https://github.com/williebonavente )
+- [@williebonavente](https://github.com/williebonavente)
 
 - [@Mannynj87](https://github.com/mannynj87/)
 
@@ -9569,7 +9570,7 @@
 
 - [@Zocum](https://github.com/Zocum)
 
-    - [@Elviskazerwa](https://github.com/Elviskazerwa)
+  - [@Elviskazerwa](https://github.com/Elviskazerwa)
 
 - [@Zohair001](https://github.com/zohair001)
 
@@ -10266,15 +10267,15 @@
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
-- [@aayushnr](https://github.com/aayushnr) 
+- [@aayushnr](https://github.com/aayushnr)
 
 - [@OmarHeshamShehab](https://github.com/OmarHeshamShehab)
 
@@ -10348,7 +10349,7 @@
 
 - [@em1e](https://github.com/em1e)
 
-- [@mrobert2994]( https://github.com/mrobert2994)
+- [@mrobert2994](https://github.com/mrobert2994)
 
 - [@angelievv](https://github.com/angelievv/)
 
@@ -10424,6 +10425,16 @@
 
 - [@ism3](https://github.com/ism3)
 
+- [@jared2997](https://github.com/jared2997)
+
+- [@PeCrio](https://github.com/PeCrio)
+
+- [@ism3](https://github.com/ism3)
+
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
+
+- [@vikrant](https://github.com/Vikrant-k09)
+
+- [@berenvrl](https://github.com/berenvrl)
 
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
