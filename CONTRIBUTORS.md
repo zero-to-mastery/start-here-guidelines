@@ -10474,6 +10474,13 @@
 - [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
 
+
+-[magic1986](https://github.com/magic1986)
+
+-[@murdermittenz](https://github.com/murdermittenz)
+
+-[@soh3illl](https://github.com/soh3illl)
+
 - [@berenvrl](https://github.com/berenvrl)
 
 - [@sayudha](https://github.com/mazayastudio)
