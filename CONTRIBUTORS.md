@@ -3,6 +3,8 @@
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Priyank Panchal](https://github.com/Priyank911)
+ 
+
 
 - [Harun Adil](https://github.com/HarunAdil)
 
@@ -27,6 +29,7 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
+- [Valarian Dennison](https://github.com/ValarianD) 
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
