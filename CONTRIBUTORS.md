@@ -13,7 +13,7 @@
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Priyank Panchal](https://github.com/Priyank911)
-
+- [Valarian Dennison](https://github.com/ValarianD) 
 
 - [Harun Adil](https://github.com/HarunAdil)
 
