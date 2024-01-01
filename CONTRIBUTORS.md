@@ -10478,19 +10478,18 @@
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
 
--[@rmortera] (https://github.com/rmortera)
+- [@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
 
 
--[magic1986](https://github.com/magic1986)
+- [@magic1986](https://github.com/magic1986)
 
--[@murdermittenz](https://github.com/murdermittenz)
+- [@murdermittenz](https://github.com/murdermittenz)
 
--[@ojumbo-do](https://github.com/ojumbo-do)
--[@soh3illl](https://github.com/soh3illl)
-
+- [@ojumbo-do](https://github.com/ojumbo-do)
+- [@soh3illl](https://github.com/soh3illl)
 
 
 - [@berenvrl](https://github.com/berenvrl)
@@ -10503,10 +10502,13 @@
 
 - [@Isti19](https://github.com/Isti19/)
 
+- [@danielmuszkiet](https://github.com/danielmuszkiet/)
+- [@pces8729](https://github.com/pces8729)
+- [@mickey-40](https://https://github.com/mickey-40/)
+
 - [@OliBoli80](https://github.com/OliBoli80)
 
 - [@danielmuszkiet](https://github.com/danielmuszkiet/)
-
 
 - [@Maheshreddy14](https://github.com/Maheshreddy14)
 
@@ -10519,5 +10521,7 @@
 - [@Ashu-Viron](https://github.com/Ashu-Viron)
 
 - [@kelvtmoney](https://github.com/kelvtmoney)
+
+- [@DRidleyS](https://github.com/DRidleyS)
 
 - [@lazuardidev](https://github.com/lazuardidev/)
