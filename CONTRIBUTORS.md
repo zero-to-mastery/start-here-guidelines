@@ -5785,6 +5785,8 @@
 
 - [@Mprcode](https://github.com/MPRCode)
 
+- [@TheMahe](https://github.com/TheMahe)
+
 - [@Mrai0](https://github.com/MrAi0)
 
 - [@Mraydemir](https://github.com/mraydemir)
@@ -10492,3 +10494,6 @@
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
 
 -[@ahmadajlouni3](https://github.com/ahmadajlouni3)
+-[@Hazem Elbatawy](https://github.com/zoma00/)
+
+-[@lazuardidev](https://github.com/lazuardidev/)
