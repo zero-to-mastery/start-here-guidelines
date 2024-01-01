@@ -6,7 +6,6 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
-
 - [Harun Adil](https://github.com/HarunAdil)
 
 - [Rohan](https://github.com/RohanReddy2003)
@@ -10487,6 +10486,7 @@
 
 -[@murdermittenz](https://github.com/murdermittenz)
 
+-[@ojumbo-do](https://github.com/ojumbo-do)
 -[@soh3illl](https://github.com/soh3illl)
 
 
@@ -10498,7 +10498,7 @@
 - [@ahmadajlouni3](https://github.com/ahmadajlouni3)
 - [@Hazem Elbatawy](https://github.com/zoma00/)
 
--[@Isti19] (https://github.com/Isti19/)
+- [@Isti19](https://github.com/Isti19/)
 
 - [@danielmuszkiet](https://github.com/danielmuszkiet/)
 
