@@ -2,8 +2,10 @@
 
 - [Krish Soni](https://github.com/krishvsoni)
 
+- [Eric Lahoda](https://github.com/elahoda)
+
 - [Priyank Panchal](https://github.com/Priyank911)
- 
+
 
 - [Harun Adil](https://github.com/HarunAdil)
 
@@ -10487,14 +10489,17 @@
 
 -[@soh3illl](https://github.com/soh3illl)
 
+
 - [@berenvrl](https://github.com/berenvrl)
 
 - [@sayudha](https://github.com/mazayastudio)
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
 
--[@ahmadajlouni3](https://github.com/ahmadajlouni3)
--[@Hazem Elbatawy](https://github.com/zoma00/)
+- [@ahmadajlouni3](https://github.com/ahmadajlouni3)
+- [@Hazem Elbatawy](https://github.com/zoma00/)
 
 -[@Isti19] (https://github.com/Isti19/)
 
--[@lazuardidev](https://github.com/lazuardidev/)
+- [@danielmuszkiet](https://github.com/danielmuszkiet/)
+
+- [@lazuardidev](https://github.com/lazuardidev/)
