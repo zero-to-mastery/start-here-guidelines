@@ -3,8 +3,6 @@
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Priyank Panchal](https://github.com/Priyank911)
- 
-
 
 - [Harun Adil](https://github.com/HarunAdil)
 
@@ -48,6 +46,8 @@
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
 - [@LaraibNoorien](https://github.com/laraibnoorien)
+
+- [@megshinagawa](https://github.com/megshinagawa)
 
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
 
