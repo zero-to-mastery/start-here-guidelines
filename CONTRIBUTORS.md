@@ -5,7 +5,6 @@
 - [Priyank Panchal](https://github.com/Priyank911)
  
 
-
 - [Harun Adil](https://github.com/HarunAdil)
 
 - [Rohan](https://github.com/RohanReddy2003)
@@ -10495,5 +10494,7 @@
 
 -[@ahmadajlouni3](https://github.com/ahmadajlouni3)
 -[@Hazem Elbatawy](https://github.com/zoma00/)
+
+-[@Isti19] (https://github.com/Isti19/)
 
 -[@lazuardidev](https://github.com/lazuardidev/)
