@@ -2997,7 +2997,7 @@
 
 - [@Harryshitt](https://github.com/harry-shitt/)
 
--[@abermu3] (https://github.com/abermu3)
+- [@abermu3](https://github.com/abermu3)
 
 - [@Harsh1509C](https://github.com/harsh1509c)
 
