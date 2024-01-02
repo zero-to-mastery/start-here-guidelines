@@ -10537,4 +10537,4 @@
 -[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
 -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
--[@valyndis](https://github.com/valyndis/)
+- [@valyndis](https://github.com/valyndis/)
