@@ -20,7 +20,7 @@ jobs:
       run: |
         echo "Changed" > CONTRIBUTORS.md 
     - name: Check for changes
-      uses: tj-actions/verify-changed-files@v5.5
+      uses: tj-actions/verify-changed-files@v17
       id: changed_files
       with: 
         files: |
