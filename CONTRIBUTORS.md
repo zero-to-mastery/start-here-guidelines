@@ -4,6 +4,7 @@
 
 - [Eric Lahoda](https://github.com/elahoda)
 
+- [Dhruv Jain](https://github.com/dhruvjaink07)
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
