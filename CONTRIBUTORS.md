@@ -4635,6 +4635,8 @@
 
 - [@nyllegriffiths1](https://github.com/nyllegriffiths1)
 
+- [@VedangKevlani](https://github.com/VedangKevlani/)
+
 - [@Kwaichanz](https://github.com/kwaichanz/)
 
 - [@Kwassisenam](https://github.com/KwassiSenam)
