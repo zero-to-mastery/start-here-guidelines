@@ -32,7 +32,7 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- [Valarian Dennison](https://github.com/ValarianD) 
+- [Valarian Dennison](https://github.com/ValarianD)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -2384,6 +2384,8 @@
 
 - [@Eyucoder](https://github.com/eyucoder)
 
+- [@Kbafekr](https://github.com/Kbafekr)
+
 - [@Ez1Ck](https://github.com/Ez1ck)
 
 - [@Ezclops](https://github.com/EzClops)
@@ -4315,7 +4317,7 @@
 
 - [@keanbayneslow](https://github.com/keanbayneslow)
 
-- [@Heimdalldev](https://github.com/Heimdalldev) 
+- [@Heimdalldev](https://github.com/Heimdalldev)
 
 - [@Keanojorda](https://github.com/keanojorda)
 
