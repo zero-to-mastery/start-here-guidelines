@@ -8,8 +8,9 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
-
 - [Harun Adil](https://github.com/HarunAdil)
+
+- [Adithya](https://github.com/adithyakb10)
 
 - [Rohan](https://github.com/RohanReddy2003)
 
