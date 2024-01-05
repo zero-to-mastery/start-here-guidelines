@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [subutian](https://github.com/krishvsoni)
+- 
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Eric Lahoda](https://github.com/elahoda)
