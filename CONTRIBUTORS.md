@@ -25,6 +25,8 @@
 
 - [Idan B](https://github.com/idanbe)
 
+- [Deima Nongkseh] (https://github.com/deima96)
+
 - [Smit Patel](https://github.com/smit2749)
 
 - [Krish Soni](https://github.com/krishvsoni)
@@ -10561,3 +10563,5 @@
 - [ltenoriom](https://github.com/ltenoriom)
 
 - [@nestlyy](https://github.com/nestlyy)
+
+- [@abdu47black](https://github.com/abdu47black/)
