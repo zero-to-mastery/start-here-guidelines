@@ -51,7 +51,7 @@
 
 - [Ruhi14](https://github.com/Ruhi14)
 
--[ktasie](https://github.com/ktasie)
+- [ktasie](https://github.com/ktasie)
 
 - [Dhruvpalsinh] (https://github.com/Dhruvpalsinh)
 
