@@ -303,6 +303,8 @@
 
 - [@Sandesh-Pyakurel](https://github.com/Sandesh-Pyakurel)
 
+- [@AlessioBugetti](https://github.com/AlessioBugetti)
+
 - [@Petitesha](https://github.com/Petitesha)
 
 - [@priyanshuawas](https://github.com/priyanshuawas)
