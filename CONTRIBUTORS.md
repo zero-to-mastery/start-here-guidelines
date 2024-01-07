@@ -168,6 +168,8 @@
 - [Laraib Noorien](https://github.com/laraibnoorien)
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
 
+- [Diego Ruiz-Huidobro](https://github.com/Yego99)
+
 - [Roger](https://github.com/Roger)
 
 - [Roger Wang](https://github.com/rogerwang)
