@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [subutian](https://github.com/krishvsoni)
+- 
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Eric Lahoda](https://github.com/elahoda)
@@ -24,6 +26,8 @@
 - [Vidhi Jain](https://github.com/vidhijain27)
 
 - [Idan B](https://github.com/idanbe)
+
+- [Deima Nongkseh] (https://github.com/deima96)
 
 - [Smit Patel](https://github.com/smit2749)
 
@@ -225,6 +229,8 @@
 - [0Armaan025](https://github.com/0Armaan025)
 
 - [@CorrynSN](https://github.com/CorrynSN)
+
+- [TiDev00](https://github.com/TiDev00)
 
 - [Bratajit-03](https://github.com/Bratajit-03)
 
@@ -4635,6 +4641,8 @@
 
 - [@nyllegriffiths1](https://github.com/nyllegriffiths1)
 
+- [@VedangKevlani](https://github.com/VedangKevlani/)
+
 - [@Kwaichanz](https://github.com/kwaichanz/)
 
 - [@Kwassisenam](https://github.com/KwassiSenam)
@@ -4698,6 +4706,8 @@
 - [@Laurelinep](https://github.com/LaurelineP)
 
 - [@Laurencecoleman](https://github.com/LaurenceColeman)
+
+- [@uuvedant4](https://github.com/uuvedant4)
 
 - [@Lavielle](https://github.com/Lavielle)
 
@@ -10504,6 +10514,7 @@
 
 
 - [@berenvrl](https://github.com/berenvrl)
+- [@AshwanthSai](https://github.com/AshwanthSai)
 
 - [@sayudha](https://github.com/mazayastudio)
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
@@ -10547,3 +10558,23 @@
 - [@Tolux001](https://github.com/Tolux001)
 
 - [@mateusrenhe](https://github.com/mateusrenhe)
+
+- [JohnnyWLan](https://github.com/JohnnywLan)
+
+- [Rawat107](https://github.com/Rawat107)
+
+- [ltenoriom](https://github.com/ltenoriom)
+
+- [@nestlyy](https://github.com/nestlyy)
+
+- [@abdu47black](https://github.com/abdu47black/)
+
+- [@melkibson](https://github.com/Melkibson)
+
+- [@Razvanelm](https://github.com/Razvanelm)
+
+- [@Ramen96] (https://github.com/Ramen96)
+
+- [@amannraawat](https://github.com/amannraawat)
+
+- [@kwongen](https://github.com/kwongen)
