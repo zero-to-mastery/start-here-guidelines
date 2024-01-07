@@ -14,27 +14,27 @@ Providing the opportunity for you to flex your developer muscles whilst working 
 
 # How You Benefit
 
-Along with learning new skills, you will also gain experience on projects you can start to list on your resume/CV. In addition, you will build out your commit history on Github, which employers love! But most importantly, you will learn to work in teams which is one of the most important skills to be a top developer.
+Along with learning new skills, you will also gain experience on projects you can start to list on your resume/CV. In addition, you will build out your commit history on Github, which employers love! But most importantly, you will learn to work in teams, which is one of the most important skills to be a top developer.
 
 # You have 2 options: Join an existing project or Create a new project:
 
 ## Option 1: Join a project
 
-Joining a project is pretty simple, checkout the [current projects](https://github.com/zero-to-mastery) and find one you would like to participate in. Check out the project README in its repo as it will have a guide on how to get started!
+Joining a project is pretty simple. Checkout the [current projects](https://github.com/zero-to-mastery) and find one you would like to participate in. Check out the project README in its repo, as it will have a guide on how to get started!
 
-**Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/CodeofConduct)
+**Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/CodeofConduct).
 
 ## Option 2: Create a project
 
-We are always on the lookout for new and exciting projects to add to Zero to Mastery for you all to collaborate on! If you think you have a new and exciting project/idea the community would love to get involved in Reach out to a member of the Management Team on our Discord server, with a detailed project brief.
+We are always on the lookout for new and exciting projects to add to Zero to Mastery for you all to collaborate on! If you think you have a new and exciting project/idea the community would love to get involved in, reach out to a member of the Management Team on our Discord server with a detailed project brief.
 
 ### **Rules**
 
 In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
 
--   The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
--   The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
--   The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
+-   The project repo and discussion channels will be hosted under the Zero To Mastery Github organization/Discord Server.
+-   The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+-   The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct).
 
 ## Projects
 
@@ -44,9 +44,9 @@ You can view all projects [here](https://github.com/zero-to-mastery).
 
 Open source is the original way of creating software – in an open, transparent and collaborative manner. “[What is free software?](https://www.gnu.org/philosophy/free-sw.en.html)" and “[What is open source?](https://opensource.com/resources/what-open-source)" are good overviews of the subject.
 
-Open source means that you get the final executable for a software project, and also have access to the source code from which it was produced. Having access to the source code means that you can better understand how the program functions, and more importantly you can modify it to fix any problems you have with the software or add new features that you desire.
+Open source means that you get the final executable for a software project, and also have access to the source code from which it was produced. Having access to the source code means that you can better understand how the program functions, and more importantly, you can modify it to fix any problems you have with the software or add new features that you desire.
 
-What might look like a chaotic way of creating software (everybody focusing on their own needs) works surprisingly well: for example, the Linux kernel contains more than 4,000 man-years worth of effort.
+What might look like a chaotic way of creating software (everybody focusing on their own needs), works surprisingly well. For example, the Linux kernel contains more than 4,000 man-years worth of effort.
 
 ## Why would I want to contribute?
 
@@ -66,6 +66,6 @@ Practicing is our primary objective here, but there are also many practical reas
 
 **2.** **Suggest features:** Look for possible improvements and provide suggestions in the comment section.
 
-**3.** **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repository and make a pull request about it. _Commit often and provide appropriate messages to your commits._
+**3.** **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repository and make a pull request about it. Commit often and provide appropriate messages to your commits.
 
 **4.** You can also help in providing proper documentation for various projects.
