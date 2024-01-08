@@ -3,6 +3,8 @@
 
 - [@shashwatbangar](https://github.com/shashwatbangar)
 
+- [Robert J. Regalado](https://github.com/rojre1979)
+
 - [@bhanutejachindukuri](https://github.bhanutejachindukuri)
 
 - [@ainurabek](https://github.com/ainurabek)
