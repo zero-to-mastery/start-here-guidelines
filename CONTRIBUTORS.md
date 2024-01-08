@@ -10,6 +10,7 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
+- [Matheus Tecchio](https://github.com/matheustecchio)
 
 - [Harun Adil](https://github.com/HarunAdil)
 
