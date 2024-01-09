@@ -1787,6 +1787,8 @@
 
 - [@Developermetalhead](https://github.com/developer-metalhead/)
 
+- [@JonathaWRDCosta](https://github.com/JonathaWRDCosta/)
+
 - [@Developmental141](https://github.com/Developmental141/)
 
 - [@Devenes](https://github.com/devenes)
