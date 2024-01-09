@@ -1,0 +1,73 @@
+[1mdiff --git a/CONTRIBUTORS.md b/CONTRIBUTORS.md[m
+[1mindex fdebe0276..4638a9448 100644[m
+[1m--- a/CONTRIBUTORS.md[m
+[1m+++ b/CONTRIBUTORS.md[m
+[36m@@ -1,7 +1,7 @@[m
+ # CONTRIBUTORS[m
+ [m
+ - [subutian](https://github.com/krishvsoni)[m
+[31m-- [m
+[32m+[m[32m-[m
+ - [Krish Soni](https://github.com/krishvsoni)[m
+ [m
+ - [Eric Lahoda](https://github.com/elahoda)[m
+[36m@@ -37,7 +37,7 @@[m
+ - [Prathmesh Khede](https://github.com/Prathm3021)[m
+ [m
+ - [Rohan Sharma](https://github.com/RS-labhub)[m
+[31m-- [Valarian Dennison](https://github.com/ValarianD) [m
+[32m+[m[32m- [Valarian Dennison](https://github.com/ValarianD)[m
+ [m
+ - [Pratham Mahajan](https://github.com/Killer2OP)[m
+ [m
+[36m@@ -4330,7 +4330,7 @@[m
+ [m
+ - [@keanbayneslow](https://github.com/keanbayneslow)[m
+ [m
+[31m-- [@Heimdalldev](https://github.com/Heimdalldev) [m
+[32m+[m[32m- [@Heimdalldev](https://github.com/Heimdalldev)[m
+ [m
+ - [@Keanojorda](https://github.com/keanojorda)[m
+ [m
+[36m@@ -10507,13 +10507,11 @@[m
+ [m
+ - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)[m
+ [m
+[31m-[m
+ - [@rmortera] (https://github.com/rmortera)[m
+ [m
+ - [@murdermittenz](https://github.com/murdermittenz)[m
+ - [@vikrant](https://github.com/Vikrant-k09)[m
+ [m
+[31m-[m
+ - [@magic1986](https://github.com/magic1986)[m
+ [m
+ - [@murdermittenz](https://github.com/murdermittenz)[m
+[36m@@ -10521,7 +10519,6 @@[m
+ - [@ojumbo-do](https://github.com/ojumbo-do)[m
+ - [@soh3illl](https://github.com/soh3illl)[m
+ [m
+[31m-[m
+ - [@berenvrl](https://github.com/berenvrl)[m
+ - [@AshwanthSai](https://github.com/AshwanthSai)[m
+ [m
+[36m@@ -10559,8 +10556,7 @@[m
+ [m
+ - [@34shifty](https://github.com/34shifty/)[m
+ [m
+[31m--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)[m
+[31m--[@yashpratapsingh12](https://github.com/yashpratapsingh12/)[m
+[32m+[m[32m-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)[m
+ [m
+ - [@valyndis](https://github.com/valyndis/)[m
+ [m
+[36m@@ -10595,4 +10591,7 @@[m
+ - [@muzungor](https://github.com/muzungor)[m
+ [m
+ - [@tusharkumar2302](https://github.com/tusharkumar2302)[m
+[31m--[@olajuw](https://github.com/olajuw)[m
+\ No newline at end of file[m
+[32m+[m
+[32m+[m[32m-[@olajuw](https://github.com/olajuw)[m
+[32m+[m
+[32m+[m[32m-[@vidit9151](https://github.com/vidit9151)[m
