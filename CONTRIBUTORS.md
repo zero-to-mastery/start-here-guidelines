@@ -259,6 +259,8 @@
 
 - [Avinav Chatterjee](https://github.com/AvinavCHATTERJEE2103028)
 
+- [michaelkmwaura](https://github.com/michaelkmwaura)
+
 - [Soumyadeep Garai](https://github.com/SOUMYADEP)
 
 - [Pawas Pandey](https://github.com/pawaspy)
