@@ -10473,6 +10473,8 @@
 
 - [@yogeshkarpe-dot](https://github.com/yogeshkarpe-dot)
 
+- @[mvidaljr](https://github.com/mvidaljr)
+
 - [Praveenraj002](https://github.com/Praveenraj002)
 
 - [@youcefbedrani](https://github.com/youcefbedrani)
