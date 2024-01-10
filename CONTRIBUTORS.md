@@ -412,6 +412,8 @@
 
 - [@alakh0703](https://github.com/alakh0703)
 
+- [@Nyame100](https://github.com/Nyame100)
+
 - [@Abdifatahsaid](https://github.com/Abdifatah-said/)
 
 - [@Abhishekgoel](https://github.com/abhishek94goel)
@@ -10478,6 +10480,8 @@
 - [Praveenraj002](https://github.com/Praveenraj002)
 
 - [@youcefbedrani](https://github.com/youcefbedrani)
+
+- [@ism3](https://github.com/ism3)
 
 - [@ism3](https://github.com/ism3)
 
