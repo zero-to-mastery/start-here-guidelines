@@ -211,6 +211,8 @@
 
 - [Marianas](https://github.com/mariana-antos)
 
+- [George Omondi](https://github.com/Argwingskodhek)
+
 - [brandon1812](https://github.com/brandon1812)
 
 - [Maria Duran](https://github.com/bduran04)
