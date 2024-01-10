@@ -73,6 +73,8 @@
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
+- [Kaz Smino](https://github.com/Kaz-Smino)
+
 - [@LaraibNoorien](https://github.com/laraibnoorien)
 
 - [@VenkateshArveti] (https://github.com/varveti)
