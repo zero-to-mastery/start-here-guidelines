@@ -221,6 +221,8 @@
 
 - [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
+- [Maurizio Conte](https://github.com/mconte10)
+
 - [Ankoor Gorai](https://github.com/ankoorgorai)
 
 - [Carol Bolger](https://github.com/RealWorldApplications)
