@@ -5552,6 +5552,8 @@
 
 - [@Miguelgiraldog](https://github.com/MiguelGiraldoG)
 
+- [@brendan-s-james](https://github.com/brendan-s-james/)
+
 - [@lpenaloza16](https://github.com/lpenaloza16)
 
 - [@Miguelpenagithub](https://github.com/miguelpena-github/)
