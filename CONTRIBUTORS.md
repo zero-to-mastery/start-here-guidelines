@@ -1570,6 +1570,8 @@
 
 - [@Danielgluhak](https://github.com/danielgluhak)
 
+- [@TzaddiLamed](https://github.com/TzaddiLamed)
+
 - [@Danielmartingit](https://github.com/DanielMartinGit)
 
 - [@Danielpimentel00](https://github.com/danielpimentel00)
