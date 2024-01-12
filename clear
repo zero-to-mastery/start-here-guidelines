@@ -12,3 +12,17 @@
 [32m+[m
 [32m+[m[32m- [@Staindek](https://github.com/Staindek)[m
 \ No newline at end of file[m
+[1mdiff --git a/CONTRIBUTORS.md b/CONTRIBUTORS.md[m
+[1mindex 929b399b8..b7991172d 100644[m
+[1m--- a/CONTRIBUTORS.md[m
+[1m+++ b/CONTRIBUTORS.md[m
+[36m@@ -10642,4 +10642,6 @@[m
+ [m
+ - [@CharlieBrown5](https://github.com/CharlieBrown5)[m
+ [m
+[31m-- [@Theanishtar](https://github.com/TheanIshtar)[m
+\ No newline at end of file[m
+[32m+[m[32m- [@Theanishtar](https://github.com/TheanIshtar)[m
+[32m+[m
+[32m+[m[32m- [@SAbdulBasit] (https://github.com/SAbdulBasit)[m
+\ No newline at end of file[m
