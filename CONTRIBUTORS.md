@@ -218,6 +218,8 @@
 
 - [George Omondi](https://github.com/Argwingskodhek)
 
+- [@Jaweria Batool](https://github.com/Jaweria-B)
+
 - [brandon1812](https://github.com/brandon1812)
 
 - [Maria Duran](https://github.com/bduran04)
