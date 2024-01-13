@@ -68,6 +68,8 @@
 
 - [@cosbyhayes](https://github.com/cosbyhayes)
 
+- [StormJose](https://github.com/StormJose)
+
 - [@Alisha-786](https://github.com/Alisha-786)
 
 - [Vishal_Sandhan](https://github.com/vishalsandhan)
