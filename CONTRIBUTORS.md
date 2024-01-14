@@ -52,6 +52,8 @@
 
 - [kolibri0509](https://github.com/kolibri0509)
 
+- [Joanna McDonald](https://github.com/joannamcd)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Ruhi14](https://github.com/Ruhi14)
