@@ -52,6 +52,8 @@
 
 - [kolibri0509](https://github.com/kolibri0509)
 
+- [Joanna McDonald](https://github.com/joannamcd)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Ruhi14](https://github.com/Ruhi14)
@@ -67,6 +69,8 @@
 - [@oladetoungee](https://github.com/oladetoungee)
 
 - [@cosbyhayes](https://github.com/cosbyhayes)
+
+- [StormJose](https://github.com/StormJose)
 
 - [@Alisha-786](https://github.com/Alisha-786)
 
@@ -217,6 +221,8 @@
 - [Marianas](https://github.com/mariana-antos)
 
 - [George Omondi](https://github.com/Argwingskodhek)
+
+- [@Jaweria Batool](https://github.com/Jaweria-B)
 
 - [brandon1812](https://github.com/brandon1812)
 
@@ -5590,6 +5596,8 @@
 
 - [@Mikedev23](https://github.com/mikedev23)
 
+- [@jamalabdulnasir220](https://github.com/jamalabdulnasir220)
+
 - [@Mikeescro](https://github.com/mikeescro)
 
 - [@Mikeiglesias](https://github.com/mikeiglesias)
@@ -10650,3 +10658,8 @@
 
 -[@rumduth](https://github.com/rumduth)
 
+- [@Qwerty3341](https://github.com/Qwerty3341)
+
+- [@burekusvemiru3](https://github.com/burekusvemiru3)
+
+- [@thiagovandieten](https://github.com/thiagovandieten)
