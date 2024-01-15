@@ -5752,6 +5752,8 @@
 
 - [@Mohsinsh](https://github.com/mohsin-sh)
 
+- [@santosism](https://github.com/santosism)
+
 - [@Mohtasimeram](https://github.com/MohtasimEram/)
 
 - [@Moinkhan4](https://github.com/moinkhan4)
@@ -10659,5 +10661,11 @@
 - [@burekusvemiru3](https://github.com/burekusvemiru3)
 
 - [@thiagovandieten](https://github.com/thiagovandieten)
+
+- [@ibrahim-raad](https://github.com/ibrahim-raad)
+
+- [@SkaterDrew](https://github.com/skater_drew)
+
+- [@hannahrosin](https://github.com/hannahrosin)
 
 - [@agt-luc](https://github.com/agt-luc)
