@@ -92,6 +92,8 @@
 
 - [@ykwon2018](https://github.com/ykwon2018)
 
+- [@shafi-yaftali01](https://github.com/Shafi-Yaftali01)
+
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
 - [@BaruBenoni](https://github.com/BaruBenoni)
