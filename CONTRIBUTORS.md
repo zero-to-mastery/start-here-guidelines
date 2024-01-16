@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-- [aryanhash](https://github.com/aryanhash)
 
 - [subutian](https://github.com/krishvsoni)
 
@@ -10677,3 +10676,5 @@
 - [@agt-luc](https://github.com/agt-luc)
 
 - [@eibart](https://github.com/eibart)
+
+- [@aryanhash](https://github.com/aryanhash)
