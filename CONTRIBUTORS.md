@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+- [aryanhash](https://github.com/aryanhash)
 
 - [subutian](https://github.com/krishvsoni)
 
