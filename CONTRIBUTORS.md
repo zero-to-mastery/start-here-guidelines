@@ -138,6 +138,8 @@
 
 - [0xPew](https://github.com/0xPew)
 
+- [Rindirisia Wangira](https://github.com/Rindirisia)
+
 - [Chandanmali](https://github.com/Chandanmali)
 
 - [Karintorn Suebthawilkul](https://github.com/Acceletor)
