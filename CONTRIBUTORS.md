@@ -52,6 +52,8 @@
 
 - [Rohan](https://github.com/RohanReddy2003)
 
+- [Egan](https://github.com/maegan)
+
 - [kolibri0509](https://github.com/kolibri0509)
 
 - [Joanna McDonald](https://github.com/joannamcd)
