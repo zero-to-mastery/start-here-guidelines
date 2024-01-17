@@ -10666,7 +10666,9 @@
 
 - [@srs-sunil](https://github.com/srs-sunil)
 
-- [@Qwerty3341](https://github.com/Qwerty3341)
+-[@Qwerty3341](https://github.com/Qwerty3341)
+
+-[@Sintaxxx] (https://github.com/Sintaxxx)
 
 - [@burekusvemiru3](https://github.com/burekusvemiru3)
 
@@ -10695,3 +10697,4 @@
 - [@VaidasKe](https://github.com/VaidasKe)
 
 - [@kailashgautham](https://github.com/kailashgautham)
+
