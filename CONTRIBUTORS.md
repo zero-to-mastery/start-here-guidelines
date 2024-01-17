@@ -102,6 +102,8 @@
 
 - [@Upendra](https://github.com/Upendra2003)
 
+- [@lohitkolluri](https://github.com/lohitkolluri)
+
 - [@AnshMeshram](https://github.com/AnshMeshram)
 
 - [Korada Vishal](https://github.com/Vishalk91-4)
