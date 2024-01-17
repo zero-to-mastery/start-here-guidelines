@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [subutian](https://github.com/krishvsoni)
 
 - [Krish Soni](https://github.com/krishvsoni)
@@ -42,7 +41,7 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- [Valarian Dennison](https://github.com/ValarianD) 
+- [Valarian Dennison](https://github.com/ValarianD)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -4367,7 +4366,7 @@
 
 - [@keanbayneslow](https://github.com/keanbayneslow)
 
-- [@Heimdalldev](https://github.com/Heimdalldev) 
+- [@Heimdalldev](https://github.com/Heimdalldev)
 
 - [@Keanojorda](https://github.com/keanojorda)
 
@@ -10560,12 +10559,10 @@
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
-
 - [@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
-
 
 - [@magic1986](https://github.com/magic1986)
 
@@ -10573,7 +10570,6 @@
 
 - [@ojumbo-do](https://github.com/ojumbo-do)
 - [@soh3illl](https://github.com/soh3illl)
-
 
 - [@berenvrl](https://github.com/berenvrl)
 - [@AshwanthSai](https://github.com/AshwanthSai)
@@ -10612,8 +10608,7 @@
 
 - [@34shifty](https://github.com/34shifty/)
 
--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
--[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
 - [@valyndis](https://github.com/valyndis/)
 
@@ -10647,8 +10642,7 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302)
--[@olajuw](https://github.com/olajuw)
+- [@tusharkumar2302](https://github.com/tusharkumar2302) -[@olajuw](https://github.com/olajuw)
 
 -[@SirNickolas21](https://github.com/SirNickolas21)
 
@@ -10697,3 +10691,5 @@
 - [@VaidasKe](https://github.com/VaidasKe)
 
 - [@kailashgautham](https://github.com/kailashgautham)
+
+- [@anisaberjani1](https://github.com/anisaberjani1)
