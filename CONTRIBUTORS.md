@@ -10672,6 +10672,10 @@
 
 - [@srs-sunil](https://github.com/srs-sunil)
 
+-[@Qwerty3341](https://github.com/Qwerty3341)
+
+-[@Sintaxxx](https://github.com/Sintaxxx)
+
 - [@Qwerty3341](https://github.com/Qwerty3341)
 
 - [@burekusvemiru3](https://github.com/burekusvemiru3)
@@ -10711,3 +10715,4 @@
 -[@wwwcris007](https://github.com/wwwcris007/)
 
 -[DevTyFord] (https://github.com/DevTyFord)
+
