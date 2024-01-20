@@ -10648,4 +10648,4 @@
 
 -[@Qwerty3341](https://github.com/Qwerty3341)
 
--[@Sintaxxx] (https://github.com/Sintaxxx)
+-[@Sintaxxx](https://github.com/Sintaxxx)
