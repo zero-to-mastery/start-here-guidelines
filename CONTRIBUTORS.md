@@ -5,6 +5,8 @@
 
 - [Krish Soni](https://github.com/krishvsoni)
 
+- [tfernandez2017] (https://github.com/tfernandez2017)
+
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Dhruv Jain](https://github.com/dhruvjaink07)
@@ -10715,5 +10717,7 @@
 - [@Aman-Sigroha](https://github.com/Aman-Sigroha)
 
 - [AMP35](https://github.com/AMP35)
+
+- [@im-divyanshu](https://github.com/im-divyanshu)
 
 - [@chickinicky](https://github.com/chickinicky/)
