@@ -522,6 +522,8 @@
 
 - [@Alleksb](https://github.com/AlleksB)
 
+- [@Rataash99](https://github.com/Rataash99)
+
 - [@Ashishpro](https://github.com/ashish-pro)
 
 - [@mixamum](https://github.com/mixamum)
