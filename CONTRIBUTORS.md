@@ -1562,6 +1562,8 @@
 
 - [@Dakshithu2013](https://github.com/dakshith-u-2013)
 
+- [@dalecarpenter](https://github.com/dalecarpenter)
+
 - [@Damaluku](https://github.com/damaluku)
 
 - [@Damianpad](https://github.com/Damianpad)
