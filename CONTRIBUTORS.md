@@ -4961,6 +4961,8 @@
 
 - [@Lucan7](https://github.com/LuCAN7)
 
+- [@munnyd](https://github.com/munnyd)
+
 - [@Lucasgm17](https://github.com/LucasGM17/)
 
 - [@Lucastannus](https://github.com/lucas-tannus)
@@ -10747,3 +10749,6 @@
 - [@Themis23](https://github.com/Themis23)
 
 -[@sanjaythapa](https://github.com/SanjayThapa)
+- [@pranavlonari](https://github.com/pranavlonari)
+
+-[@Ottttoooo](https://github.com/Ottttoooo)
