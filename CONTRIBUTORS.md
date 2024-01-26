@@ -5196,6 +5196,8 @@
 
 - [@Lucan7](https://github.com/LuCAN7)
 
+- [@munnyd](https://github.com/munnyd)
+
 - [@Lucasgm17](https://github.com/LucasGM17/)
 
 - [@Lucastannus](https://github.com/lucas-tannus)
@@ -11752,3 +11754,7 @@
 -[@steveostler](https://github.com/steveostler)
 
 -[@danielbarrosdevs](https://github.com/danielbarrosdevs)
+-[@sanjaythapa](https://github.com/SanjayThapa)
+- [@pranavlonari](https://github.com/pranavlonari)
+
+-[@Ottttoooo](https://github.com/Ottttoooo)
