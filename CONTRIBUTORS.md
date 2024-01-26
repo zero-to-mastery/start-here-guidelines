@@ -10746,7 +10746,7 @@
 - [@learningGit-profile ](https://github.com/learningGit-profile)
 - [@Themis23](https://github.com/Themis23)
 
--[@sanjaythapa](https://github.com/SanjayThapa)
+- [@sanjaythapa](https://github.com/SanjayThapa)
 - [@pranavlonari](https://github.com/pranavlonari)
 
--[@Ottttoooo](https://github.com/Ottttoooo)
+- [@Ottttoooo](https://github.com/Ottttoooo)
