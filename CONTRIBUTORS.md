@@ -1,10 +1,8 @@
 # CONTRIBUTORS
 
-
 - [subutian](https://github.com/krishvsoni)
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
-  
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [tfernandez2017] (https://github.com/tfernandez2017)
@@ -48,7 +46,7 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- [Valarian Dennison](https://github.com/ValarianD) 
+- [Valarian Dennison](https://github.com/ValarianD)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -4377,7 +4375,7 @@
 
 - [@keanbayneslow](https://github.com/keanbayneslow)
 
-- [@Heimdalldev](https://github.com/Heimdalldev) 
+- [@Heimdalldev](https://github.com/Heimdalldev)
 
 - [@Keanojorda](https://github.com/keanojorda)
 
@@ -8451,6 +8449,8 @@
 
 - [@Sunnysavlot](https://github.com/sunnySavlot)
 
+- [@sanwlot](https://github.com/sanwlot)
+
 - [@Sunshadowhood](https://github.com/SunShadowhood)
 
 - [@Sunthecrow](https://github.com/sunthecrow)
@@ -10577,12 +10577,10 @@
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
-
 - [@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
 - [@vikrant](https://github.com/Vikrant-k09)
-
 
 - [@Mariaines24](https://github.com/Mariaines24)
 
@@ -10592,7 +10590,6 @@
 
 - [@ojumbo-do](https://github.com/ojumbo-do)
 - [@soh3illl](https://github.com/soh3illl)
-
 
 - [@berenvrl](https://github.com/berenvrl)
 - [@AshwanthSai](https://github.com/AshwanthSai)
@@ -10631,8 +10628,7 @@
 
 - [@34shifty](https://github.com/34shifty/)
 
--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
--[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
 - [@valyndis](https://github.com/valyndis/)
 
@@ -10666,8 +10662,7 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302)
--[@olajuw](https://github.com/olajuw)
+- [@tusharkumar2302](https://github.com/tusharkumar2302) -[@olajuw](https://github.com/olajuw)
 
 -[@SirNickolas21](https://github.com/SirNickolas21)
 
@@ -10722,8 +10717,7 @@
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
-@Emilianalila
--[@Emilianalila](https://github.com/Emilianalila)
+  @Emilianalila -[@Emilianalila](https://github.com/Emilianalila)
 
 -[@wwwcris007](https://github.com/wwwcris007/)
 
@@ -10747,6 +10741,7 @@
 - [@Themis23](https://github.com/Themis23)
 
 -[@sanjaythapa](https://github.com/SanjayThapa)
+
 - [@pranavlonari](https://github.com/pranavlonari)
 
 -[@Ottttoooo](https://github.com/Ottttoooo)
