@@ -111,6 +111,8 @@
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 
+- [@vusaeng](https://github.com/RS-vusaeng)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [melina-mora](https://github.com/melina-mora)
