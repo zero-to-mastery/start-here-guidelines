@@ -254,6 +254,8 @@
 
 - [Ankoor Gorai](https://github.com/ankoorgorai)
 
+- [Sean Brook](https://github.com/sbrook776)
+
 - [Carol Bolger](https://github.com/RealWorldApplications)
 
 - [Bratajit-03](https://github.com/Bratajit-03)
