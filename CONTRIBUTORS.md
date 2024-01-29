@@ -11724,3 +11724,6 @@
 - [@danielbarrosdevs](https://github.com/danielbarrosdevs)
 
 - [@betancourtYeison](https://github.com/betancourtYeison/)
+
+- [@anaisrevellat](https://github.com/anaisrevellat)
+
