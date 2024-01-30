@@ -33,6 +33,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 
+- [@vusaeng](https://github.com/RS-vusaeng)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Vraj Patel](https://github.com/VrajPatel7)
