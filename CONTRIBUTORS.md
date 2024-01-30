@@ -21,6 +21,8 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
+_ [Ramon R](https://github.com/artboycat)
+
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Sreecharan](https://github.com/Sreecharan885)
