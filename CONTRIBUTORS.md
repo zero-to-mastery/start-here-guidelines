@@ -66,6 +66,8 @@
 
 - [Joanna McDonald](https://github.com/joannamcd)
 
+- [leviduncan] (https://github.com/leviduncan)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Ruhi14](https://github.com/Ruhi14)
