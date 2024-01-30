@@ -23,6 +23,8 @@
 
 _ [Ramon R](https://github.com/artboycat)
 
+- [Muhammad Asim](https://github.com/MRGLOBIN)
+
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Sreecharan](https://github.com/Sreecharan885)
