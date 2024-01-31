@@ -5368,6 +5368,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Mateuszbestcreator](https://github.com/Mateusz-best-creator/)
 
+- [@hristomir2002](https://github.com/hristomir2002/)
+
 - [@Matg91](https://github.com/MatG91)
 
 - [@Matheustkoch](https://github.com/MatheusTKoch)
