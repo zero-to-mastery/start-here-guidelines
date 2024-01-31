@@ -3657,6 +3657,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Jameswsm](https://github.com/JamesWSM)
 
+- [@jamie-reynolds](https://github.com/jamie-reynolds)
+
 - [@Jamiewalkerstf](https://github.com/JamieWalkerSTF)
 
 - [@Jaminwebdev](https://github.com/jaminwebdev)
