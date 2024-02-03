@@ -4413,6 +4413,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Kel](https://github.com/K-eL)
 
+- [@Ashish Shilvant](https://github.com/AshishShilvant)
+
 - [@Kellerjohnson](https://github.com/keller-johnson)
 
 - [@Kelsydev](https://github.com/Kelsy-Dev)
@@ -9035,6 +9037,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Vaibhavkumartondak](https://github.com/VAIBHAVKUMARTONDAK/)
 
+- [@VaibhavSuryavanshi93](https://github.com/VaibhavSuryavanshi93/)
+
 - [@Vaibiz](https://github.com/vaibiz/)
 
 - [@Vaidehi2027](https://github.com/Vaidehi2027)
@@ -10575,6 +10579,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@SasankTanikella99](https://github.com/SasankTanikella99)
 
+- [@Taras-Klimenko](https://github.com/Taras-Klimenko)
+
 - [@aogajoseph](https://github.com/aogajoseph)
 
 - [@Sl33pySage](https://github.com/Sl33pySage)
@@ -10796,3 +10802,10 @@ _ [Ramon R](https://github.com/artboycat)
 -[@adriaanrijkens](https://github.com/adriaanrijkens)
 
 -[@badu665](https://github.com/badu665)
+
+-[@zaugust4891](https://github.com/zaugust4891/)
+
+-[@O-Tobi](https://github.com/O-Tobi)
+
+-[@ArmanBhatia0100](https://github.com/ArmanBhatia0100)
+>>>>>>> 225134a924d018460c843a6e0b16c7783e94d617
