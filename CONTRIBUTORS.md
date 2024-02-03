@@ -4411,6 +4411,8 @@
 
 - [@Kel](https://github.com/K-eL)
 
+- [@Ashish Shilvant](https://github.com/AshishShilvant)
+
 - [@Kellerjohnson](https://github.com/keller-johnson)
 
 - [@Kelsydev](https://github.com/Kelsy-Dev)
@@ -9033,6 +9035,8 @@
 
 - [@Vaibhavkumartondak](https://github.com/VAIBHAVKUMARTONDAK/)
 
+- [@VaibhavSuryavanshi93](https://github.com/VaibhavSuryavanshi93/)
+
 - [@Vaibiz](https://github.com/vaibiz/)
 
 - [@Vaidehi2027](https://github.com/Vaidehi2027)
@@ -10793,3 +10797,6 @@
 -[@O-Tobi](https://github.com/O-Tobi)
 
 -[@Ariba](https://github.com/nayabshah)
+
+-[@ArmanBhatia0100](https://github.com/ArmanBhatia0100)
+
