@@ -10579,6 +10579,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@SasankTanikella99](https://github.com/SasankTanikella99)
 
+- [@Taras-Klimenko](https://github.com/Taras-Klimenko)
+
 - [@aogajoseph](https://github.com/aogajoseph)
 
 - [@Sl33pySage](https://github.com/Sl33pySage)
