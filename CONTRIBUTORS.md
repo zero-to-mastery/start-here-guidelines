@@ -198,6 +198,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Mariana Cristina Dias dos Santos](https://github.com/mariana-cristina-santos)
 
+- [Marcus](https://github.com/msimpson7)
+
 - [Marian Kleineberg](https://github.com/marian42)
 - [Laraib Noorien](https://github.com/laraibnoorien)
 - [Maria Barkouzou](https://github.com/mariabarkouzou)
