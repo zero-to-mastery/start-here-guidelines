@@ -5342,6 +5342,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Martyumlas](https://github.com/martyumlas)
 
+- [@SinisterChef](https://github.com/SinisterChef)
+
 - [@Marulo03](https://github.com/Marulo03)
 
 - [@Marustas](https://github.com/marustas)
