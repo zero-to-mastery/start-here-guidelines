@@ -7006,7 +7006,7 @@
 
 - [@Planetnamektech](https://github.com/PlanetNamekTech)
 
-- [@pleomorph]<https://github.com/pleomorph>)
+- [@pleomorph](https://github.com/pleomorph>)
 
 - [@Pmakaju](https://github.com/Pmakaju)
 
@@ -11734,3 +11734,5 @@
 - [@badu665](https://github.com/badu665)
 
 - [@ojieprincewill](https://github.com/ojieprincewill)
+
+-[@Oscar-99](https://github.com/Oscar-999)
