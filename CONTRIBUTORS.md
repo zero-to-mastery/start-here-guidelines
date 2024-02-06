@@ -184,7 +184,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Mariatta](https://github.com/Mariatta)
 
-- [Sarthak Lamba] (https://github.com/sarthaklambaa)
+- [Sarthak Lamba](https://github.com/sarthaklambaa)
 
 - [Pariskarpoudel](https://github.com/Pariskarpoudel)
 
