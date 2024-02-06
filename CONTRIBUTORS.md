@@ -30,6 +30,7 @@
 - [@wahidulalamriyad](https://github.com/wahidulalamriyad)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
+<<<<<<< HEAD
 
 - [windY1Y](https://github.com/windy1y)
 
@@ -41,6 +42,8 @@
 
 - [HINGA PETER](https://github.com/Hinga-inc)
 
+=======
+>>>>>>> 181ef3e86 (added my name to contributor list)
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [@harrisbyrnes](https://github.com/harrisbyrnes)
@@ -79,7 +82,11 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
+<<<<<<< HEAD
 - [Ramon R](https://github.com/artboycat)
+=======
+\_ [Ramon R](https://github.com/artboycat)
+>>>>>>> 181ef3e86 (added my name to contributor list)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
@@ -134,6 +141,7 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
+<<<<<<< HEAD
 
 - [MohamedAhad](https://github.com/MohamedAhad)
 
@@ -143,6 +151,8 @@
 
 - [Daryl Stensland](https://github.com/darylste)
 
+=======
+>>>>>>> 181ef3e86 (added my name to contributor list)
 - [Valarian Dennison](https://github.com/ValarianD)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
@@ -11734,3 +11744,5 @@
 - [@Ariba](https://github.com/nayabshah)
 
 - [@badu665](https://github.com/badu665)
+
+- [@ojieprincewill](https://github.com/ojieprincewill)
