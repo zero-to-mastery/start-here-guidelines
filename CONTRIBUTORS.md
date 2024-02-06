@@ -6286,6 +6286,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Niyuti](https://github.com/niyuti)
 
+- [@SoyeonL](https://github.com/SoyeonL)
+
 - [@Njblaga](https://github.com/NJBLAGA)
 
 - [@Nleflohic](https://github.com/NLeflohic)
