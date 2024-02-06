@@ -184,6 +184,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Mariatta](https://github.com/Mariatta)
 
+- [Sarthak Lamba] (https://github.com/sarthaklambaa)
+
 - [Pariskarpoudel](https://github.com/Pariskarpoudel)
 
 - [Code Drinks](https://github.com/CodeDrinks270)
