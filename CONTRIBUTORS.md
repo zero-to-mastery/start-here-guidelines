@@ -1,4 +1,5 @@
 # Contributors
+
 -[@crypt0nate](https://github.com/crypt0nate)
 
 -[@devinekadeni](https://github.com/devinekadeni)
@@ -277,9 +278,9 @@
 
 -[@Piotrrrek](https://github.com/Piotrrrek)
 
--[@avdoseferovic](https://github.com/avdoseferovic) 
+-[@avdoseferovic](https://github.com/avdoseferovic)
 
--[@codewithsupra](https://github.com/codewithsupra) 
+-[@codewithsupra](https://github.com/codewithsupra)
 
 -[@subinvarghese99](https://github.com/subinvarghese99)
 
@@ -2554,3 +2555,5 @@
 -[@seouled81](https://github.com/seouled81)
 
 -[@RCarvalhoDan](https://github.com/RCarvalhoDan)
+
+-[@msoficaru](https://github.com/msoficaru)
