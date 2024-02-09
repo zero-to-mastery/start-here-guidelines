@@ -200,6 +200,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Mariana Cristina Dias dos Santos](https://github.com/mariana-cristina-santos)
 
+- [Stana Radu](https://github.com/RaduStana)
+
 - [Marcus](https://github.com/msimpson7)
 
 - [Marian Kleineberg](https://github.com/marian42)
