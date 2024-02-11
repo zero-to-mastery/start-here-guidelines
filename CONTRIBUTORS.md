@@ -96,6 +96,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Aryan](https://github.com/Aryan4884)
 
+-[@tejaswini](https://github.com/Tejaswini-628)
+
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
 - [Kaz Smino](https://github.com/Kaz-Smino)
