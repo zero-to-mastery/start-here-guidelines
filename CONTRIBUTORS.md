@@ -41,6 +41,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Vidhi Jain](https://github.com/vidhijain27)
 
+- [Bach](https://github.com/danbax)
+
 - [Idan B](https://github.com/idanbe)
 
 - [Deima Nongkseh] (https://github.com/deima96)
