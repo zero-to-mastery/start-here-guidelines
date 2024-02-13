@@ -72,6 +72,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Joanna McDonald](https://github.com/joannamcd)
 
+- [Bltzz](https://github.com/Bltzz)
+
 - [leviduncan] (https://github.com/leviduncan)
 
 - [meghaverma3110](https://github.com/meghaverma3110)
