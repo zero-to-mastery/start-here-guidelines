@@ -9843,7 +9843,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@bassamarnaout](https://github.com/bassamarnaout)
 
-- [@mihajlo88](https://github.com/mihajlo88/)
+- [@Mihajlo88](https://github.com/Mihajlo88)
 
 - [@Arraj2611](https://github.com/Arraj2611)
 
