@@ -10868,5 +10868,3 @@ _ [Ramon R](https://github.com/artboycat)
 -[@Mohamed-Amir](https://github.com/Mohamed-Amir)
 
 -[@timthetech30](https://github.com/timthetech30)
-
--[@medula07](https://github.com/medula07)
