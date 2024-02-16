@@ -9429,6 +9429,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Wsg](https://github.com/WS-G)
 
+- [@DarioGu](https://github.com/DarioGu)
+
 - [@Wylenjoan](https://github.com/wylenjoan)
 
 - [@Wylerlight](https://github.com/Wylerlight)
