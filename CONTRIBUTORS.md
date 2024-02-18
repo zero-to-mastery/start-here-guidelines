@@ -6,7 +6,7 @@
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
-  
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [tfernandez2017] (https://github.com/tfernandez2017)
@@ -56,7 +56,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- [Valarian Dennison](https://github.com/ValarianD) 
+- [Valarian Dennison](https://github.com/ValarianD)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -4409,7 +4409,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@keanbayneslow](https://github.com/keanbayneslow)
 
-- [@Heimdalldev](https://github.com/Heimdalldev) 
+- [@Heimdalldev](https://github.com/Heimdalldev)
 
 - [@Keanojorda](https://github.com/keanojorda)
 
@@ -10896,10 +10896,12 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Carmelo85S](https://github.com/Carmelo85S)
 
--[@jwradhe](https://github.com/jwradhe) 
+-[@jwradhe](https://github.com/jwradhe)
 
 -[@Tradejack229](https://github.com/tradejack229/)
 -[@Oma3r](https://github.com/Oma3r/)
 
 -[@rccoder22](https://github.com/rccoder22/)
 -[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
+
+-[@tugsem](https://github.com/tugsem)
