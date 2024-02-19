@@ -9260,6 +9260,8 @@
 
 - [@Ufaruki](https://github.com/ufaruki)
 
+-[@shruts26](https://gituhub.com/shruts26)
+
 - [@Ufombam](https://github.com/ufombam)
 
 - [@Ugboyaerica](https://github.com/Ugboya-Erica)
