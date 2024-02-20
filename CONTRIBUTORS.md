@@ -6775,6 +6775,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Pizzio98](https://github.com/pizzio98)
 
+- [@KJovan](https://github.com/KJovan)
+
 - [@Pkini2002](https://github.com/pkini2002)
 
 - [@Planetnamektech](https://github.com/PlanetNamekTech)
