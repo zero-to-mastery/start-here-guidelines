@@ -2483,6 +2483,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Ezzykine](https://github.com/ezzykine)
 
+- [@Erzanthedev](https://github.com/erzanthedev)
+
 - [@F1V3Dev](https://github.com/f1v3-dev)
 
 - [@F3Ll0W](https://github.com/f3ll0w)
