@@ -10914,3 +10914,5 @@ _ [Ramon R](https://github.com/artboycat)
 -[@DanielSmrz4](https://github.com/DanielSmrz4)
 
 -[@JoeyWright](https://github.com/JoeyWright)
+
+-[@EMEDAT](https://github.com/EMEDAT)
