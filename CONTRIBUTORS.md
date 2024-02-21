@@ -10,6 +10,8 @@
   
 - [Krish Soni](https://github.com/krishvsoni)
 
+- [Reesu Jagan](https://github.com/codejay12)
+
 - [tfernandez2017] (https://github.com/tfernandez2017)
 
 - [Eric Lahoda](https://github.com/elahoda)
