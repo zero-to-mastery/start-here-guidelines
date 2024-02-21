@@ -8504,6 +8504,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Sunshadowhood](https://github.com/SunShadowhood)
 
+- [@angelsosa11] (https://github.com/angelsosa11)
+
 - [@Sunthecrow](https://github.com/sunthecrow)
 
 - [@Suochantsao](https://github.com/suochantsao)
