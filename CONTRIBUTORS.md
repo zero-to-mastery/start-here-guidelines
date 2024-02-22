@@ -10922,3 +10922,5 @@ _ [Ramon R](https://github.com/artboycat)
 -[@proelisei](https://github.com/proelisei)
 
 -[@EMEDAT](https://github.com/EMEDAT)
+
+-[@4Rikas](https://github.com/4Rikas)
