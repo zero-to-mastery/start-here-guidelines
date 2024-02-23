@@ -14,6 +14,8 @@
 
 - [tfernandez2017] (https://github.com/tfernandez2017)
 
+- [dustinkeller] (https://github.com/dustinkeller)
+
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Dhruv Jain](https://github.com/dhruvjaink07)
