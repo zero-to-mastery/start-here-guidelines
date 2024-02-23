@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
 
