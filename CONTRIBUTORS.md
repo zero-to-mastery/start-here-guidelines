@@ -10958,4 +10958,14 @@
 
 - [@mauromig](https://github.com/mauromig/)
 
-- [@davidmcosta](https://github.com/mauromig/)
+- [@davidmcosta](https://github.com/davidmcosta/)
+
+-[@liesvyvall](https://github.com/liesvyvall)
+
+-[@FordPipatkittikul](https://github.com/FordPipatkittikul/)
+
+-[@jesse4217](https://github.com/jesse4217)
+
+-[@InflixOP](https://github.com/InflixOP)
+
+-[@charliebillek](https://github.com/charliebillek)
