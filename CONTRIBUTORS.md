@@ -11299,7 +11299,7 @@
 
 - [@fenwood](https://github.com/fenwood)
 
-- [@law973] (https://github.com/law973)
+- [@law973](https://github.com/law973)
 
 - [@sabahpalani](https://github.com/sabahpalani)
 
@@ -11796,3 +11796,5 @@
 - [@4Rikas](https://github.com/4Rikas)
 
 - [@Eyosias1](https://github.com/Eyosias1)
+
+- [@abutaymiyyah](https://github.com/abutaymiyyah)
