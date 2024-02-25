@@ -43,6 +43,8 @@
 
 - [meghaverma3110](https://github.com/meghaverma3110)
 
+- [ThomasDaclinat](https://github.com/ThomasDaclinat)
+
 - [Vraj Patel](https://github.com/VrajPatel7)
 
 - [Vidhi Jain](https://github.com/vidhijain27)
@@ -5558,6 +5560,8 @@
 
 - [@Aakaashhari](https://github.com/aakaashhari/)
 
+- [@DavidBab](https://github.com/DavidBab)
+
 - [@Mesbahialii](https://github.com/MesbahiAlii)
 
 - [@Metatony](https://github.com/metatony)
@@ -10960,12 +10964,14 @@
 
 - [@davidmcosta](https://github.com/davidmcosta/)
 
--[@liesvyvall](https://github.com/liesvyvall)
+- [@liesvyvall](https://github.com/liesvyvall)
 
--[@FordPipatkittikul](https://github.com/FordPipatkittikul/)
+- [@FordPipatkittikul](https://github.com/FordPipatkittikul/)
 
--[@jesse4217](https://github.com/jesse4217)
+- [@jesse4217](https://github.com/jesse4217)
 
--[@InflixOP](https://github.com/InflixOP)
+- [@InflixOP](https://github.com/InflixOP)
 
--[@charliebillek](https://github.com/charliebillek)
+- [@charliebillek](https://github.com/charliebillek)
+
+- [@law973](https://github.com/law973)
