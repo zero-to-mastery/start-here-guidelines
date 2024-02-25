@@ -43,6 +43,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [meghaverma3110](https://github.com/meghaverma3110)
 
+- [ThomasDaclinat](https://github.com/ThomasDaclinat)
+
 - [Vraj Patel](https://github.com/VrajPatel7)
 
 - [Vidhi Jain](https://github.com/vidhijain27)
