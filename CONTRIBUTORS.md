@@ -582,7 +582,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Araguaci](https://github.com/araguaci)
 
-- [@ruchircodes24](https://github.com/ruchircodes24)
+- [@ruchircodes24](https://github.com/ruchircodes24
 - [@Sanjeewa](https://github.com/sranuluge)
 - [@Araneus84](https://github.com/Araneus84)
 
@@ -10975,4 +10975,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@KoThu2000](https://github.com/KoThu2000)
 
+-[@MoumitaGhoshh](https://github.com/MoumitaGhoshh/)
+
+-[@kelvtmoney](https://github.com/kelvtmoney/)
+
 -[@Lenrok01](https://github.com/Lenrok01)
+
