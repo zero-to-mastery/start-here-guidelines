@@ -10345,7 +10345,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@JeDesi](https://github.com/JeDesi)
 
--[@IndraniSom](https://github.com/IndraniSom/)
+- [@IndraniSom](https://github.com/IndraniSom/)
 
 - [@rossclay](https://github.com/rossclay)
 
@@ -10377,27 +10377,27 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@selestrel07](https://github.com/selestrel07)
 
--[@BDragosteellueButterflies](https://github.com/BlueButterflies/)
+- [@BDragosteellueButterflies](https://github.com/BlueButterflies/)
 
--[@angelievv](https://github.com/angelievv/)
+- [@angelievv](https://github.com/angelievv/)
 
--[@hfarah02](https://github.com/hfarah02)
+- [@hfarah02](https://github.com/hfarah02)
 
--[@angelievv](https://github.com/angelievv/)
+- [@angelievv](https://github.com/angelievv/)
 
--[@digoxik](https://github.com/digoxik/)
+- [@digoxik](https://github.com/digoxik/)
 
 - [@iliyan300](https://github.com/Iliyan300/)
 
--[@Dragosteel](https://github.com/Dragosteel)
+- [@Dragosteel](https://github.com/Dragosteel)
 
 - [@Emmarie-Ahtunan](https://github.com/Emmarie-Ahtunan)
 
--[@Calen-W-3](https://github.com/Calen-W-3)
+- [@Calen-W-3](https://github.com/Calen-W-3)
 
--[@Cmo45](https://github.com/Cmo45/)
+- [@Cmo45](https://github.com/Cmo45/)
 
--[@dvashisht](https://github.com/dvashisht/)
+- [@dvashisht](https://github.com/dvashisht/)
 
 - [@Dasistwei](https://github.com/Dasistwei/)
 
@@ -10407,7 +10407,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@PiyushLuitel-07](https://github.com/PiyushLuitel-07)
 
--[Tehesuma007](https://github.com/Tehesuma007)
+- [Tehesuma007](https://github.com/Tehesuma007)
 
 - [@hanifny](https://github.com/hanifny)
 
@@ -10563,6 +10563,10 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@PhilipPopa](https://github.com/PhilipPopa)
 
+- [@codingjogo](https://github.com/codingjogo)
+
+- [@NicNikhil](https://github.com/NicNikhil)
+
 - [@MohammadKhaleghii](https://github.com/MohammadKhaleghii)
 
 - [@wcgraupmann](http://github.com/wcgraupmann)
@@ -10579,9 +10583,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
 
-- [@xAzkall](https://github.com/xAzkall)
+- [@hamzakadd](https://github.com/hamzakadd)
 
-- [@Rituraj-Ray](https://github.com/Rituraj-Ray/)
+- [@xAzkall](https://github.com/xAzkall)
 
 - [@nada107](https://github.com/nada107)
 
@@ -10604,6 +10608,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@PeCrio](https://github.com/PeCrio)
 
 - [@nirgopal](https://github.com/nirgopal)
+
 - [@Akadir695](https://github.com/Akadir695)
 
 - [@YumiMachino](https://github.com/YumiMachino)
@@ -10637,6 +10642,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@gedi-official](https://github.com/gedi-official/)
 
 - [@azick99](https://github.com/azick99)
+
+- [@Esmion] (https://github.com/Esmion)
 
 - [@tejubhurbhure](https://github.com/tejubhurbhure)
 
