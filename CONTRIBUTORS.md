@@ -153,6 +153,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [alegratis](https://github.com/alegratis)
 
 - [Khushminder Singh](https://github.com/khushminder270)
+- [KMaxwell](https://github.com/devkmax)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
