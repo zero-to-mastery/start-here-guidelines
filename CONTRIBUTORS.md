@@ -10990,6 +10990,6 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@mkch-dev](https://github.com/mkch-dev)
 
--[@dvallemo] (https://github.com/dvallemo)
+-[@dvallemo](https://github.com/dvallemo)
 
 
