@@ -153,6 +153,7 @@ m
 - [alegratis](https://github.com/alegratis)
 
 - [Khushminder Singh](https://github.com/khushminder270)
+- [KMaxwell](https://github.com/devkmax)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
 
@@ -11007,5 +11008,11 @@ m
 - [@c-zoe](https://github.com/c-zoe)
 
 - [@AnithaRajamuthu](https://github.com/AnithaRajamuthu)
+
+- [@mkch-dev](https://github.com/mkch-dev)
+
+- [@GKefas](https://github.com/GKefas)
+
+- [@citlallivillarreal](https://github.com/citlallivillarreal)
 
 - [@davidmcosta](https://github.com/davidmcosta)
