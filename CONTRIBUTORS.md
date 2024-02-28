@@ -10995,3 +10995,5 @@ _ [Ramon R](https://github.com/artboycat)
 -[@citlallivillarreal](https://github.com/citlallivillarreal)
 
 - [@iamovi](https://github.com/iamovi)
+
+- [@alextruonglt](https://github.com/alextruonglt)
