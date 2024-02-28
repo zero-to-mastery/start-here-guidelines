@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-<<<<<<< HEAD
+
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [VinoLemos](https://github.com/VinoLemos)
@@ -11,8 +11,6 @@
 
 - [@singhprabh27](https://github.com/singhprabh27)
 
-=======
->>>>>>> 27d8a5980 (Added my name to the list)
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Kashif Nazar](https://github.com/kashifnazar)
@@ -27,13 +25,10 @@
   
 - [subutian](https://github.com/krishvsoni)
 
-<<<<<<< HEAD
 - [Carlos Gerardo](https://github.com/CSGerardo)
 
 - [olekingkinga](https://github.com/olekingKinga)
 
-=======
->>>>>>> 27d8a5980 (Added my name to the list)
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
 - [@lemonazaur](https://github.com/lemonazaur)
@@ -41,10 +36,6 @@
 - [@wahidulalamriyad](https://github.com/wahidulalamriyad)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
-<<<<<<< HEAD
-=======
-- [Krish Soni](https://github.com/krishvsoni)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [windY1Y](https://github.com/windy1y)
 
@@ -94,11 +85,7 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
-<<<<<<< HEAD
 - [Ramon R](https://github.com/artboycat)
-=======
-\_ [Ramon R](https://github.com/artboycat)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
@@ -151,7 +138,6 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-<<<<<<< HEAD
 
 - [MohamedAhad](https://github.com/MohamedAhad)
 
@@ -161,8 +147,6 @@
 
 - [Daryl Stensland](https://github.com/darylste)
 
-=======
->>>>>>> 27d8a5980 (Added my name to the list)
 - [Valarian Dennison](https://github.com/ValarianD)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
@@ -10946,18 +10930,11 @@
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
-<<<<<<< HEAD
 - [@Niven121](https://github.com/Niven121)
 
 - [@rmortera](https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
-=======
-- [@rmortera] (https://github.com/rmortera)
-
-- [@murdermittenz](https://github.com/murdermittenz)
-- [@vikrant](https://github.com/Vikrant-k09)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@Mariaines24](https://github.com/Mariaines24)
 
@@ -11011,13 +10988,9 @@
 
 - [@34shifty](https://github.com/34shifty/)
 
-<<<<<<< HEAD
 - [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
-=======
--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@valyndis](https://github.com/valyndis/)
 
@@ -11063,11 +11036,7 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-<<<<<<< HEAD
 - [@tusharkumar2302](https://github.com/tusharkumar2302) 
-=======
-- [@tusharkumar2302](https://github.com/tusharkumar2302) -[@olajuw](https://github.com/olajuw)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@olajuw](https://github.com/olajuw)
 
@@ -11146,10 +11115,6 @@
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
-<<<<<<< HEAD
-=======
-  @Emilianalila -[@Emilianalila](https://github.com/Emilianalila)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@Emilianalila](https://github.com/Emilianalila)
 
@@ -11185,11 +11150,7 @@
 
 - [@Themis23](https://github.com/Themis23)
 
-<<<<<<< HEAD
 - [@sanjaythapa](https://github.com/SanjayThapa)
-=======
--[@sanjaythapa](https://github.com/SanjayThapa)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@pranavlonari](https://github.com/pranavlonari)
 
@@ -11207,11 +11168,7 @@
 
 - [@Ivaeden](https://github.com/Ivaeden)
 
-<<<<<<< HEAD
 - [@KasiaKesi](https://github.com/KasiaKesi)
-=======
--[@RobTheWorld](https://github.com/RobTheWorld/) -[@ArvinYang1925](https://github.com/ArvinYang1925) -[@tonguegrease](https://github.com/tonguegrease)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@RobTheWorld](https://github.com/RobTheWorld/)
 
@@ -11233,11 +11190,7 @@
 
 - [@O-Tobi](https://github.com/O-Tobi)
 
-<<<<<<< HEAD
 - [@Arathi-Ram](https://github.com/Arathi-Ram)
-=======
--[@nathanfrank](https://github.com/nathanfrank) -[@vanceaaalexandru](https://github.com/vanceaaalexandru) -[@DevCielo](https://github.com/DevCielo)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@ArmanBhatia0100](https://github.com/ArmanBhatia0100)
 
@@ -11247,11 +11200,7 @@
 
 - [@vanceaaalexandru](https://github.com/vanceaaalexandru)
 
-<<<<<<< HEAD
 - [@DevCielo](https://github.com/DevCielo)
-=======
--[@Nasrallahilyass](https://github.com/nasrallahilyass) -[@marnold316613](https://github.com/marnold316613)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@DevKobs](https://github.com/DevKobs)
 
@@ -11287,19 +11236,11 @@
 
 - [@VasilTsvetkov](https://github.com/VasilTsvetkov)
 
-<<<<<<< HEAD
 - [@Mohamed-Amir](https://github.com/Mohamed-Amir)
 
 - [@timthetech30](https://github.com/timthetech30)
 
 - [@adarshk01](https://github.com/adarshk01)
-=======
--[@jwradhe](https://github.com/jwradhe)
-
--[@Tradejack229](https://github.com/tradejack229/) -[@Oma3r](https://github.com/Oma3r/)
-
--[@rccoder22](https://github.com/rccoder22/) -[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
->>>>>>> 27d8a5980 (Added my name to the list)
 
 - [@mprepelita](https://github.com/mprepelita)
 
@@ -11866,3 +11807,5 @@
 - [@dvallemo](https://github.com/dvallemo)
 
 - [@LucasDaSilva96](https://github.com/LucasDaSilva96)
+
+- [@Tookyoo](https://github.com/Tookyoo)
