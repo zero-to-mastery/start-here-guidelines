@@ -25,6 +25,8 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
+- [Adithya](https://github.com/adithyakb10)
+
 - [Matheus Tecchio](https://github.com/matheustecchio)
 
 - [Harun Adil](https://github.com/HarunAdil)
@@ -10726,7 +10728,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@34shifty](https://github.com/34shifty/)
 
--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+
+- [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
 - [@valyndis](https://github.com/valyndis/)
 
@@ -10742,7 +10746,10 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [ltenoriom](https://github.com/ltenoriom)
 
+
 - [@nestlyy](https://github.com/nestlyy)
+
+- [@abdu47black](https://github.com/abdu47black)
 
 - [@abdu47black](https://github.com/abdu47black/)
 
