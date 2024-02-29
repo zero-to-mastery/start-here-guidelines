@@ -11004,9 +11004,16 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@iamovi](https://github.com/iamovi)
 
+-[[@chkhs](https://github.com/chkhs)]
+
 -[@Rayenkan](https://github.com/Rayenkan)
+
 
 -[@lambruGeorge](https://github.com/lambrugeorge)
 
 -[@Liemnguyensgf](https://github.com/Liemnguyensgf)
+
+-[@MorotAmaury](https://github.com/MorotAmaury)]
+
+-[[@sidiq20](https://github.com/sidiq20/)]
 
