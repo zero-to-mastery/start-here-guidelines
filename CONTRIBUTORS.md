@@ -10994,4 +10994,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@citlallivillarreal](https://github.com/citlallivillarreal)
 
+-[@neagugeorgecristian](https://github.com/neagugeorgecristian)
+
+-[@StevenCiaccio] (https://github.com/StevenCiaccio)
+
 - [@iamovi](https://github.com/iamovi)
