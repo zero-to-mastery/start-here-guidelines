@@ -66,6 +66,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Valarian Dennison](https://github.com/ValarianD) 
 
+- [Daryl Stensland](https://github.com/darylste)
+
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
 - [Rohith R](https://github.com/ROOHITH)
