@@ -8,7 +8,7 @@
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
-  
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Reesu Jagan](https://github.com/codejay12)
@@ -93,6 +93,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Ruhi14](https://github.com/Ruhi14)
+
+- [ktasie](https://github.com/ktasie)
 
 - [Dhruvpalsinh] (https://github.com/Dhruvpalsinh)
 
@@ -10732,6 +10734,10 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+
+- [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+
 - [@valyndis](https://github.com/valyndis/)
 
 - [@Tolux001](https://github.com/Tolux001)
@@ -10767,8 +10773,6 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Razvanelm](https://github.com/Razvanelm)
 
 - [@Ramen96] (https://github.com/Ramen96)
-
-- [@amannraawat](https://github.com/amannraawat)
 
 - [@kwongen](https://github.com/kwongen)
 
@@ -11049,4 +11053,3 @@ _ [Ramon R](https://github.com/artboycat)
 -[[@sidiq20](https://github.com/sidiq20/)
 
 -[@p-aditya15](https://github.com/p-aditya15)
-
