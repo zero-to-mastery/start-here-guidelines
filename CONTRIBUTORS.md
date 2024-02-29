@@ -96,6 +96,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@LaraibNoorien](https://github.com/laraibnoorien)
 
+- [@megshinagawa](https://github.com/megshinagawa)
+
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
 
 - [@oladetoungee](https://github.com/oladetoungee)
