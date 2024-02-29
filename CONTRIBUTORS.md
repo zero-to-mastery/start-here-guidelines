@@ -10750,6 +10750,10 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@nestlyy](https://github.com/nestlyy)
 
+- [@abdu47black](https://github.com/abdu47black)
+
+- [@AntonioAlcaideMoreno](https://github.com/AntonioAlcaideMoreno)
+
 - [@3rd-Son] (https://github.com/3rd-Son)
 
 - [@abdu47black](https://github.com/abdu47black)
