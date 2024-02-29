@@ -10746,8 +10746,11 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [ltenoriom](https://github.com/ltenoriom)
 
-
 - [@nestlyy](https://github.com/nestlyy)
+
+- [@3rd-Son] (https://github.com/3rd-Son)
+
+- [@abdu47black](https://github.com/abdu47black)
 
 - [@abdu47black](https://github.com/abdu47black)
 
@@ -11037,4 +11040,4 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@MorotAmaury](https://github.com/MorotAmaury)]
 
--[[@sidiq20](https://github.com/sidiq20/)]
+-[[@sidiq20](https://github.com/sidiq20/)
