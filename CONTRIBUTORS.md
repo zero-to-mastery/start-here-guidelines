@@ -1271,6 +1271,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Chayan11](https://github.com/Chayan-11)
 
+- [@chelseapang](https://github.com/chelseapang)
+
 - [@Chengali111](https://github.com/chengali111)
 
 - [@Cherrydub](https://github.com/cherrydub)
@@ -10660,6 +10662,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
+-[@rmortera] (https://github.com/rmortera)
+
 - [@Niven121](https://github.com/Niven121)
 
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
@@ -10667,8 +10671,10 @@ _ [Ramon R](https://github.com/artboycat)
 - [@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
+
 - [@vikrant](https://github.com/Vikrant-k09)
 
+- [magic1986](https://github.com/magic1986)
 
 - [@Mariaines24](https://github.com/Mariaines24)
 
