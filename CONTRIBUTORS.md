@@ -134,6 +134,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@aayushchauhan](https://github.com/Aayushchauhan05)
 
+- [@Radulfr27](https://github.com/Radulfr27)
+
 - [@BaruBenoni](https://github.com/BaruBenoni)
 
 - [@Upendra](https://github.com/Upendra2003)
@@ -11027,3 +11029,4 @@ _ [Ramon R](https://github.com/artboycat)
 -[@MorotAmaury](https://github.com/MorotAmaury)]
 
 -[[@sidiq20](https://github.com/sidiq20/)]
+
