@@ -2465,6 +2465,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Evisssa](https://github.com/Evisssa)
 
+- [@EdwardShanahan07](https://github.com/EdwardShanahan07)
+
 - [@Evropa](https://github.com/evropa)
 
 - [@Exxonose]([@https://github.com/exxonose])
