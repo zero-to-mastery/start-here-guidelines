@@ -19,6 +19,8 @@
 
 - [Eric Lahoda](https://github.com/elahoda)
 
+- [Priyank Panchal](https://github.com/Priyank911)
+
 - [Dhruv Jain](https://github.com/dhruvjaink07)
 
 - [Priyank Panchal](https://github.com/Priyank911)
@@ -64,7 +66,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
-- [Valarian Dennison](https://github.com/ValarianD) 
+- [Valarian Dennison](https://github.com/ValarianD)
 
 - [Daryl Stensland](https://github.com/darylste)
 
@@ -4428,7 +4430,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@keanbayneslow](https://github.com/keanbayneslow)
 
-- [@Heimdalldev](https://github.com/Heimdalldev) 
+- [@Heimdalldev](https://github.com/Heimdalldev)
 
 - [@Keanojorda](https://github.com/keanojorda)
 
@@ -8597,7 +8599,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Sylphritz](https://github.com/Sylphritz)
 
 - [@Sylvahh](https://github.com/sylvahh)
-
+- [@K01wfd](https://github.com/K01wfd/)
 - [@Syrmaplibpos](https://github.com/syrmaplibpos/)
 
 - [@Sysdab](https://github.com/sysdab)
@@ -10666,8 +10668,6 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
--[@rmortera] (https://github.com/rmortera)
-
 - [@Niven121](https://github.com/Niven121)
 
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
@@ -10678,17 +10678,12 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@vikrant](https://github.com/Vikrant-k09)
 
-- [magic1986](https://github.com/magic1986)
-
 - [@Mariaines24](https://github.com/Mariaines24)
 
 - [@magic1986](https://github.com/magic1986)
 
-- [@murdermittenz](https://github.com/murdermittenz)
-
 - [@ojumbo-do](https://github.com/ojumbo-do)
 - [@soh3illl](https://github.com/soh3illl)
-
 
 - [@berenvrl](https://github.com/berenvrl)
 - [@AshwanthSai](https://github.com/AshwanthSai)
@@ -10729,8 +10724,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@34shifty](https://github.com/34shifty/)
 
--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
--[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
 - [@valyndis](https://github.com/valyndis/)
 
