@@ -74,7 +74,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Valarian Dennison](https://github.com/ValarianD)
 
-- [Daryl Stensland](https://github.com/darylste
+- [Shaquille Pearson](https://github/SV592)
+
+- [Daryl Stensland](https://github.com/darylste)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -7906,6 +7908,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Seangraydev](https://github.com/seangray-dev)
 
+- [@Seanjiangsh](https://github.com/seanjiangsh)
+
 - [@Seanryderjr](https://github.com/seanryderjr)
 
 - [@Seantait](https://github.com/sean-tait)
@@ -10792,9 +10796,15 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@muzungor](https://github.com/muzungor)
 
+ -[@olajuw](https://github.com/olajuw)
+
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
+
+- [@lukahristic](https://github.com/lukahristic/)
+
+- [@imshubhamchavan](https://github.com/imshubhamchavan)
 
 - [@SirNickolas21](https://github.com/SirNickolas21)
 
@@ -11080,6 +11090,20 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@ayinla77](https://github.com/ayinla77/)
 
+- [@ayinla77](https://github.com/ayinla77/)
+
+- [@kwongen](https://github.com/kwongen)
+  
+- [@pranavlonari](https://github.com/pranavlonari)
+
+- [@kwongen](https://github.com/kwongen)
+
+- [Abdulaziz7878](https://github.com/Abdulaziz7878)
+
 - [@AnishereMariam](https://github.com/AnishereMariam)
+
+- [@kwongen](https://github.com/kwongen)
+
+- [@eDmxHr](https://github.com/eDmxHr)
 
 - [@davidmcosta](https://github.com/davidmcosta)
