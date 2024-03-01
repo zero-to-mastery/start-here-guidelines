@@ -85,11 +85,7 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
-<<<<<<< HEAD
 - [Ramon R](https://github.com/artboycat)
-=======
-\_ [Ramon R](https://github.com/artboycat)
->>>>>>> e53ac7d9c (added my name to contributor list)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
@@ -3964,6 +3960,8 @@
 - [@Jcfennell](https://github.com/JCFennell)
 
 - [@Jclem28](https://github.com/jclem28)
+
+- [@J3Technology](https://github.com/J3Technology)
 
 - [@Jcon306](https://github.com/jcon306)
 
@@ -11044,7 +11042,7 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302) 
+- [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
 
