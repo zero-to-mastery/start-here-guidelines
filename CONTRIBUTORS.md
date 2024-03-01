@@ -70,6 +70,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Valarian Dennison](https://github.com/ValarianD)
 
+- [Shaquille Pearson](https://github/SV592)
+
 - [Daryl Stensland](https://github.com/darylste)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
@@ -10732,6 +10734,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@34shifty](https://github.com/34shifty/)
 
+- [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+
 - [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
@@ -10792,6 +10796,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@muzungor](https://github.com/muzungor)
 
+ -[@olajuw](https://github.com/olajuw)
+
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 -[@olajuw](https://github.com/olajuw)
@@ -10801,6 +10807,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@imshubhamchavan](https://github.com/imshubhamchavan)
 
 -[@olajuw](https://github.com/olajuw)
+
 
 -[@SirNickolas21](https://github.com/SirNickolas21)
 
