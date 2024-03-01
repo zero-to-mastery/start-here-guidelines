@@ -40,7 +40,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Sreecharan](https://github.com/Sreecharan885)
 
-  [Olson661](https://github.com/Olson661)
+- [Olson661](https://github.com/Olson661)
 
 - [Dhananjay warade](https://github.com/Dhananjaywarade)
 
@@ -169,7 +169,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [alegratis](https://github.com/alegratis)
 
 - [Khushminder Singh](https://github.com/khushminder270)
-- 
+
 - [KMaxwell](https://github.com/devkmax)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
@@ -258,7 +258,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Marianas](https://github.com/mariana-antos)
 
--[Victor Nkire](https://github.com/ObinnaVic)
+- [Victor Nkire](https://github.com/ObinnaVic)
 
 - [Mehul](https://github.com/MehulSweetiAgrawal)
 
@@ -3673,7 +3673,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Jaimeginesky](https://github.com/Jaime-Ginesky)
 
-- - [Vivek](https://github.com/vivekghori)
+- [Vivek](https://github.com/vivekghori)
 
 - [@Jainchetan81](https://github.com/jainChetan81)
 
@@ -3704,6 +3704,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Jamesmoseti](https://github.com/james-moseti)
 
 - [@Jamesnjovu](https://github.com/jamesnjovu)
+- 
 - [@Jami-tsm](https://github.com/Jami-tsm)
 
 - [@Jameswsm](https://github.com/JamesWSM)
@@ -4530,7 +4531,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Khaledellabban1](https://github.com/KhaledEllabban1)
 
--[@zandernh](https://github.com/zandernh)
+- [@zandernh](https://github.com/zandernh)
 
 - [@Jacob82129](https://github.com/Jacob82129)
 
@@ -4700,7 +4701,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Kriskodes](https://github.com/kristigordon)
 
--[@SzymonHarajda](https://github.com/SzymonHarajda)
+- [@SzymonHarajda](https://github.com/SzymonHarajda)
 
 - [@Kristiingco](https://github.com/kristiingco)
 
@@ -11076,5 +11077,9 @@ _ [Ramon R](https://github.com/artboycat)
 - [@sidiq20](https://github.com/sidiq20/)
 
 - [@p-aditya15](https://github.com/p-aditya15)
+
+- [@ayinla77](https://github.com/ayinla77/)
+
+- [@AnishereMariam](https://github.com/AnishereMariam)
 
 - [@davidmcosta](https://github.com/davidmcosta)
