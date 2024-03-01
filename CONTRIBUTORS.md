@@ -7897,6 +7897,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Seangraydev](https://github.com/seangray-dev)
 
+- [@Seanjiangsh](https://github.com/seanjiangsh)
+
 - [@Seanryderjr](https://github.com/seanryderjr)
 
 - [@Seantait](https://github.com/sean-tait)
@@ -10730,6 +10732,10 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@34shifty](https://github.com/34shifty/)
 
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+
+- [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+
 -[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
@@ -11069,4 +11075,6 @@ _ [Ramon R](https://github.com/artboycat)
 - [Abdulaziz7878](https://github.com/Abdulaziz7878)
 
 - [@AnishereMariam](https://github.com/AnishereMariam)
+
+- [@kwongen](https://github.com/kwongen)
 
