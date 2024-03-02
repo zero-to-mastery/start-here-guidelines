@@ -7975,6 +7975,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Sergiismagin](https://github.com/sergii-smagin)
 
+- [@Sergio-OP](https://github.com/Sergio-OP)
+
 - [@Sergiodsanchez](https://github.com/sergiodsanchez)
 
 - [@Sergioraya](https://github.com/sergioraya)
