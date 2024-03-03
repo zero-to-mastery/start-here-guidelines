@@ -11105,3 +11105,5 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Sid7602](https://github.com/Sid7602)
 
 -[@Quouou](https://github.com/Quouou)
+
+-[@izaragozajr](https://github.com/izaragozajr)
