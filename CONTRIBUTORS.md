@@ -2889,6 +2889,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Gmedakeys](https://github.com/gmedakeys)
 
+- [@bathiyaa](https://github.com/bathiyaa)
+
 - [@Gmihaic](https://github.com/gmihaic)
 
 - [@shiwanhs05](https://github.com/shiwanhs05)
