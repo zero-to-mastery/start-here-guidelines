@@ -721,6 +721,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Asvorz](https://github.com/asvorz)
 
+- [@abdo-elm](https://github.com/abdo-elm)
+
 - [@Atcnplt](https://github.com/at-cnplt)
 
 - [@Atef1995](https://github.com/atef1995)
@@ -2888,6 +2890,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Glowrhee](https://github.com/Glow-rhee)
 
 - [@Gmedakeys](https://github.com/gmedakeys)
+
+- [@bathiyaa](https://github.com/bathiyaa)
 
 - [@Gmihaic](https://github.com/gmihaic)
 
@@ -11106,4 +11110,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Quouou](https://github.com/Quouou)
 
--[@Ableboy](https://github.com/Ableboy/)
+-[@izaragozajr](https://github.com/izaragozajr)
+
+-[@chringodoteth](https://github.com/chringodoteth)
+
+-[@Ableboy](https://github.com/Ableboy)
