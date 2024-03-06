@@ -3732,6 +3732,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@shubhamgoel90](https://github.com/shubhamgoel90)
 
+- [@jdavies9119](https://github.com/jdavies9119)
+
 - [@Jaredaustin813](https://github.com/Jaredaustin813)
 
 - [@Jareddyck](https://github.com/jareddyck)
