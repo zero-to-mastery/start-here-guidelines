@@ -101,7 +101,7 @@
 
 - [Brittany Normandin](https://github.com/BrittNorm)
 
-  [Olson661](https://github.com/Olson661)
+- [Olson661](https://github.com/Olson661)
 
 - [Dhananjay warade](https://github.com/Dhananjaywarade)
 
@@ -270,6 +270,7 @@
 - [alegratis](https://github.com/alegratis)
 
 - [Khushminder Singh](https://github.com/khushminder270)
+
 - [KMaxwell](https://github.com/devkmax)
 
 - [hegdepavankumar](https://github.com/hegdepavankumar)
@@ -698,7 +699,7 @@
 
 - [@Amminadabdb](https://github.com/Amminadab-db/)
 
-- - [saket gupta](https://github.com/saket0x07)
+- [saket gupta](https://github.com/saket0x07)
 
 - [@Anandaffaa](https://github.com/anandaffA)
 
@@ -1434,7 +1435,7 @@
 
 - [@Chijason99](https://github.com/chijason99)
 
-  [@zoHC](https://github.com/zoHC)
+- [@zoHC](https://github.com/zoHC)
 
 - [@Chilledoutluke](https://github.com/chilledoutluke)
 
@@ -3822,7 +3823,7 @@
 
 - [@Jaimeginesky](https://github.com/Jaime-Ginesky)
 
-- - [Vivek](https://github.com/vivekghori)
+- [Vivek](https://github.com/vivekghori)
 
 - [@Jainchetan81](https://github.com/jainChetan81)
 
@@ -4726,7 +4727,7 @@
 - [@Kindredfp](https://github.com/kindredFP)
 
 - [@Kingcobrapy](https://github.com/KingCobraPy)
--
+
 - [@erangeals](https://github/com/erangeals)
 
 - [@Kingshuk97](https://github.com/Kingshuk97)
@@ -7721,6 +7722,7 @@
 - [@Rosajen27](https://github.com/rosajen27)
 
 - [@Rosalbac4300](https://github.com/rosalbac4300)
+
 - [@Rose-Codes](https://github.com/rose-codes)
 
 - [@Roshan798](https://github.com/roshan798)
@@ -8336,6 +8338,7 @@
 - [@Shirshak89](https://github.com/shirshak89)
 
 - [@Shivam](https://github.com/shivamsinghydv)
+
 - [@ShivamSingh](https://github.com/Shivam250702)
 
 - [@Shivangisharmacs](https://github.com/Shivangi-Sharma-CS/)
@@ -8847,7 +8850,9 @@
 - [@Sylphritz](https://github.com/Sylphritz)
 
 - [@Sylvahh](https://github.com/sylvahh)
+
 - [@K01wfd](https://github.com/K01wfd/)
+
 - [@Syrmaplibpos](https://github.com/syrmaplibpos/)
 
 - [@Sysdab](https://github.com/sysdab)
@@ -8879,7 +8884,9 @@
 - [@Talhaarshad7](https://github.com/talhaarshad7)
 
 - [@Talhaawol](https://github.com/TalhaAWOL)
+
 - [@Tanmay-Giram](https://github.com/Tanmay-Giram)
+
 - [@Talhakhan7640](https://github.com/talhakhan7640/)
 
 - [@Talhaozgn](https://github.com/talhaozgn)
@@ -10006,7 +10013,7 @@
 
 - [@Zocum](https://github.com/Zocum)
 
-  - [@Elviskazerwa](https://github.com/Elviskazerwa)
+- [@Elviskazerwa](https://github.com/Elviskazerwa)
 
 - [@Zohair001](https://github.com/zohair001)
 
@@ -10872,7 +10879,7 @@
 
 - [@yogeshkarpe-dot](https://github.com/yogeshkarpe-dot)
 
-- @[mvidaljr](https://github.com/mvidaljr)
+- [@mvidaljr](https://github.com/mvidaljr)
 
 - [Praveenraj002](https://github.com/Praveenraj002)
 
@@ -11049,10 +11056,6 @@
 - [@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302) 
-
-- [@olajuw](https://github.com/olajuw)
-
-- [@olajuw](https://github.com/olajuw)
 
 - [@lukahristic](https://github.com/lukahristic/)
 
@@ -11356,7 +11359,7 @@
 
 - [@akram02-sde](https://github.com/akram02-sde)
 
-- [[@chkhs](https://github.com/chkhs)]
+- [@chkhs](https://github.com/chkhs)
 
 - [@Rayenkan](https://github.com/Rayenkan)
 
@@ -11395,8 +11398,6 @@
 - [@Quouou](https://github.com/Quouou)
 
 - [@Priyanshi-1601](https://github.com/Priyanshi-1601)
-
-- [@izaragozajr](https://github.com/izaragozajr)
 
 - [@chringodoteth](https://github.com/chringodoteth)
 
@@ -11825,3 +11826,5 @@
 - [@Gideonandrew05](https://github.com/Gideonandrew05)
 
 - [@RazalBinKabeer](https://github.com/RazalBinKabeer)
+- [@izaragozajr](https://github.com/izaragozajr)
+
