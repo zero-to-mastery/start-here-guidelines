@@ -10927,6 +10927,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Ivaeden](https://github.com/Ivaeden)
 
+- [@KasiaKesi](https://github.com/KasiaKesi)
+
 -[@RobTheWorld](https://github.com/RobTheWorld/)
 -[@ArvinYang1925](https://github.com/ArvinYang1925)
 -[@tonguegrease](https://github.com/tonguegrease)
@@ -11140,4 +11142,3 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@KatsuTsushima](https://github.com/KatsuTsushima)
 
-- [@KasiaKesi](https://github.com/KasiaKesi)
