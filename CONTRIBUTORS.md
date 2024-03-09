@@ -71,6 +71,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [Valarian Dennison](https://github.com/ValarianD)
 
 - [Shaquille Pearson](https://github/SV592)
+- [Auliyanto](https://github.com/ditorisan)
 
 - [Daryl Stensland](https://github.com/darylste)
 
