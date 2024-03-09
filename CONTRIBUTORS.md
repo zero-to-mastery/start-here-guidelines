@@ -7621,6 +7621,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@vinay-s36](https://github.com/vinay-s36)
 
+- [@sonnypate](https://github.com/sonnypate)
+
 - [@Sudayanga](https://github.com/sudayanga/)
 
 - [@Saaluga](https://github.com/saaluga)
