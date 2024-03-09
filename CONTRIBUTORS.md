@@ -11156,3 +11156,5 @@ _ [Ramon R](https://github.com/artboycat)
 - [@anasm3] (https://github.com/anasm3)
 
 - [@gabrielmoris](https://github.com/gabrielmoris)
+
+- [@SoJinnie](https://github.com/SoJinnie)
