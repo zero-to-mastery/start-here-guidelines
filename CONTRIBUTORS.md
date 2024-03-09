@@ -11154,3 +11154,5 @@ _ [Ramon R](https://github.com/artboycat)
 - [@abhayV420](https://github.com/abhayV420)
 
 - [@anasm3] (https://github.com/anasm3)
+
+- [@gabrielmoris](https://github.com/gabrielmoris)
