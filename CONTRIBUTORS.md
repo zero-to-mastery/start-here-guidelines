@@ -210,6 +210,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Eakkawat](https://github.com/eakkawat)
 
+- [titooktavian](https://github.com/titooktavian)
+
 - [Roman G](https://github.com/rome)
 
 - [Roman Nita](https://github.com/maria)
