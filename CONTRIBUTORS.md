@@ -125,6 +125,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
+- [@thaijupiter](https://github.com/thaijupiter)
+
 - [Kaz Smino](https://github.com/Kaz-Smino)
 
 - [@LaraibNoorien](https://github.com/laraibnoorien)
