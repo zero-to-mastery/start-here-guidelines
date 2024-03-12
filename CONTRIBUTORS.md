@@ -125,6 +125,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@HVbajoria](https://gitHub.com/HVbajoria)
 
+- [@thaijupiter](https://github.com/thaijupiter)
+
 - [Kaz Smino](https://github.com/Kaz-Smino)
 
 - [@LaraibNoorien](https://github.com/laraibnoorien)
@@ -209,6 +211,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [Roman Gershman](https://github.com/romange)
 
 - [Eakkawat](https://github.com/eakkawat)
+
+- [titooktavian](https://github.com/titooktavian)
 
 - [Roman G](https://github.com/rome)
 
@@ -693,6 +697,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Ashmitha15](https://github.com/ashmitha15)
 
 - [@MathDevWeb](https://github.com/MathDevWeb)
+
+- [@theamazingwolf](https://github.com/theamazingwolf)
 
 - [@Ashrafb1](https://github.com/ashrafb1)
 
@@ -11164,5 +11170,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@SoJinnie](https://github.com/SoJinnie)
 
 - [@GurjeetS27](https://github.com/GurjeetS27)
+
+- [@farrelstw](https://github.com/farrelstw)
 
 - [@MSoAM](https://github.com/mostsayed93)
