@@ -698,6 +698,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@MathDevWeb](https://github.com/MathDevWeb)
 
+- [@theamazingwolf](https://github.com/theamazingwolf)
+
 - [@Ashrafb1](https://github.com/ashrafb1)
 
 - [@Ashrafuljoypb](https://github.com/ashrafuljoypb)
