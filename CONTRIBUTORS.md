@@ -94,9 +94,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [Bltzz](https://github.com/Bltzz)
 
 - [leviduncan] (https://github.com/leviduncan)
-
 - [meghaverma3110](https://github.com/meghaverma3110)
-
+-[@AsligulSafarova](https://github.com/AsligulSafarova)
 - [Ruhi14](https://github.com/Ruhi14)
 
 - [ktasie](https://github.com/ktasie)
