@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
@@ -8,7 +9,7 @@
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
-
+- 
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Reesu Jagan](https://github.com/codejay12)
@@ -33,7 +34,7 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
-_ [Ramon R](https://github.com/artboycat)
+\_ [Ramon R](https://github.com/artboycat)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
@@ -71,11 +72,12 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Valarian Dennison](https://github.com/ValarianD)
-
+- 
 - [Shaquille Pearson](https://github/SV592)
 - [Auliyanto](https://github.com/ditorisan)
 
 - [Daryl Stensland](https://github.com/darylste)
+
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -10781,6 +10783,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
+
 - [@valyndis](https://github.com/valyndis/)
 
 - [@Tolux001](https://github.com/Tolux001)
@@ -10824,6 +10827,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@NathanLouis90](https://github.com/NathanLouis90)
 
 - [@muzungor](https://github.com/muzungor)
+
 
  -[@olajuw](https://github.com/olajuw)
 
@@ -10897,8 +10901,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
-@Emilianalila
--[@Emilianalila](https://github.com/Emilianalila)
+  @Emilianalila -[@Emilianalila](https://github.com/Emilianalila)
 
 -[@wwwcris007](https://github.com/wwwcris007/)
 
@@ -10926,6 +10929,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Themis23](https://github.com/Themis23)
 
 -[@sanjaythapa](https://github.com/SanjayThapa)
+
 - [@pranavlonari](https://github.com/pranavlonari)
 
 -[@Ottttoooo](https://github.com/Ottttoooo)
@@ -10948,6 +10952,7 @@ _ [Ramon R](https://github.com/artboycat)
 -[@ArvinYang1925](https://github.com/ArvinYang1925)
 -[@tonguegrease](https://github.com/tonguegrease)
 
+
 -[@mirikerimli](https://github.com/mirikerimli)
 
 -[@xavieralvz](https://github.com/xavieralvz)
@@ -10968,9 +10973,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@codewithsupra](https://github.com/codewithsupra)
 
--[@nathanfrank](https://github.com/nathanfrank)
--[@vanceaaalexandru](https://github.com/vanceaaalexandru)
--[@DevCielo](https://github.com/DevCielo)
+-[@nathanfrank](https://github.com/nathanfrank) -[@vanceaaalexandru](https://github.com/vanceaaalexandru) -[@DevCielo](https://github.com/DevCielo)
 
 -[@DevKobs](https://github.com/DevKobs)
 
@@ -10981,8 +10984,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[Jonee](https://github.com/Jonee2)
 
--[@Nasrallahilyass](https://github.com/nasrallahilyass)
--[@marnold316613](https://github.com/marnold316613)
+-[@Nasrallahilyass](https://github.com/nasrallahilyass) -[@marnold316613](https://github.com/marnold316613)
 
 -[@DanutStriblea](https://github.com/DanutStriblea)
 
@@ -11018,13 +11020,11 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Carmelo85S](https://github.com/Carmelo85S)
 
--[@jwradhe](https://github.com/jwradhe) 
+-[@jwradhe](https://github.com/jwradhe)
 
--[@Tradejack229](https://github.com/tradejack229/)
--[@Oma3r](https://github.com/Oma3r/)
+-[@Tradejack229](https://github.com/tradejack229/) -[@Oma3r](https://github.com/Oma3r/)
 
--[@rccoder22](https://github.com/rccoder22/)
--[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
+-[@rccoder22](https://github.com/rccoder22/) -[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
 
 -[@simirmantas](https://github.com/simirmantas)
 
@@ -11087,6 +11087,8 @@ _ [Ramon R](https://github.com/artboycat)
 -[@GKefas](https://github.com/GKefas)
 
 -[@citlallivillarreal](https://github.com/citlallivillarreal)
+
+-[@Tookyoo](https://github.com/Tookyoo)
 
 -[@neagugeorgecristian](https://github.com/neagugeorgecristian)
 
@@ -11182,3 +11184,4 @@ _ [Ramon R](https://github.com/artboycat)
 - [@nischal6](https://github.com/nischal6)
 
 - [@anamfatima1989](https://github.com/anamfatima1989)
+
