@@ -3,6 +3,8 @@
 
 - [Grace Bong](https://github.com/bongster91)
 
+- [@jamesxleon](https://github.com/jamesxleon)
+
 - [subutian](https://github.com/krishvsoni)
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
