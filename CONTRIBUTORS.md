@@ -85,11 +85,7 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
-<<<<<<< HEAD
 - [Ramon R](https://github.com/artboycat)
-=======
-\_ [Ramon R](https://github.com/artboycat)
->>>>>>> dff7e8c98 (added my name to contributor list)
 
 - [FancyTobias](https://github.com/FancyTobias)
 
@@ -11846,3 +11842,5 @@
 - [@dxxdshot](https://github.com/dxxdshot)
 
 - [@ajconnects](https://github.com/ajconnects)
+
+- [aldohu](https://github.com/aldohu/)
