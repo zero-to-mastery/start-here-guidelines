@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-<<<<<<< HEAD
 
 - [@crypt0nate](https://github.com/crypt0nate)
 
@@ -12,8 +11,6 @@
 
 - [@singhprabh27](https://github.com/singhprabh27)
 
-=======
->>>>>>> dff7e8c98 (added my name to contributor list)
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Kashif Nazar](https://github.com/kashifnazar)
@@ -11847,3 +11844,5 @@
 - [@mannu1433](https://github.com/mannu1433)
 
 - [@dxxdshot](https://github.com/dxxdshot)
+
+- [@ajconnects](https://github.com/ajconnects)
