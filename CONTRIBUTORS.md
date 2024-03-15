@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+<<<<<<< HEAD
 
 - [@crypt0nate](https://github.com/crypt0nate)
 
@@ -11,6 +12,8 @@
 
 - [@singhprabh27](https://github.com/singhprabh27)
 
+=======
+>>>>>>> dff7e8c98 (added my name to contributor list)
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Kashif Nazar](https://github.com/kashifnazar)
@@ -85,7 +88,11 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
+<<<<<<< HEAD
 - [Ramon R](https://github.com/artboycat)
+=======
+\_ [Ramon R](https://github.com/artboycat)
+>>>>>>> dff7e8c98 (added my name to contributor list)
 
 - [FancyTobias](https://github.com/FancyTobias)
 
@@ -5977,6 +5984,8 @@
 
 - [@Mka0000](https://github.com/MKA0000)
 
+- [@roweltimbal](https://github.com/roweltimbal/)
+
 - [@Mkr1984](https://github.com/Mkr1984)
 
 - [@Mksameera89](https://github.com/mksameera89/)
@@ -10905,8 +10914,6 @@
 
 - [@pramodh-2002](https://github.com/Pramodh-2002)
 
-- [@harryharran](https://github.com/Harryharran)
-
 - [@fedryalvindra](https://github.com/fedryalvindra)
 
 - [@PhilipPopa](https://github.com/PhilipPopa)
@@ -11450,8 +11457,6 @@
 - [Ethang187](https://github.com/Ethang187)
 
 - [@nandiitha](https://github.com/nandiitha)
-
-- [@Harryharran](https://github.com/harryharran)
 
 - [@KuanHsienYEH](https://github.com/KuanHsienYEH)
 
