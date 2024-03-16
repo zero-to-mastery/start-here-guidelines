@@ -11195,3 +11195,5 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Harryharran](https://github.com/harryharran)
 
 - [@KuanHsienYEH](https://github.com/KuanHsienYEH)
+
+- [@sylvainjeanelie](https://github.com/sylvainjeanelie)
