@@ -85,8 +85,6 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Roman Acheampong](https://github.com/r0mankeys)
 
-- [vishwaradhya](https://github.com/vishwa-radhya)
-
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Egan](https://github.com/maegan)
@@ -98,6 +96,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [Bltzz](https://github.com/Bltzz)
 
 - [leviduncan] (https://github.com/leviduncan)
+
+- [vishwaradhya](https://github.com/vishwa-radhya)
 
 - [meghaverma3110](https://github.com/meghaverma3110)
 
