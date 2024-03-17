@@ -39,6 +39,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
+- [FancyTobias] (https://github.com/FancyTobias)
+
 - [Rohan](https://github.com/RohanReddy2003)
 
 - [Sreecharan](https://github.com/Sreecharan885)
