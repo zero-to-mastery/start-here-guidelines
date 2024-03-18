@@ -4,9 +4,13 @@
 
 - [Grace Bong](https://github.com/bongster91)
 
+- [@jamesxleon](https://github.com/jamesxleon)
+
 - [subutian](https://github.com/krishvsoni)
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
+
+- [@lemonazaur](https://github.com/lemonazaur)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
@@ -37,6 +41,8 @@
 \_ [Ramon R](https://github.com/artboycat)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
+
+- [FancyTobias] (https://github.com/FancyTobias)
 
 - [Rohan](https://github.com/RohanReddy2003)
 
@@ -96,6 +102,8 @@
 
 - [leviduncan] (https://github.com/leviduncan)
 
+- [vishwaradhya](https://github.com/vishwa-radhya)
+
 - [meghaverma3110](https://github.com/meghaverma3110)
 
 - [Ruhi14](https://github.com/Ruhi14)
@@ -109,6 +117,8 @@
 - [@LaraibNoorien](https://github.com/laraibnoorien)
 
 - [@megshinagawa](https://github.com/megshinagawa)
+
+-[@SunflowerPKU](https://github.com/SunflowerPKU)
 
 - [@AmaanFarooquee](https://github.com/AmaanFarooquee)
 
@@ -151,6 +161,8 @@
 - [@BaruBenoni](https://github.com/BaruBenoni)
 
 - [@Upendra](https://github.com/Upendra2003)
+
+- [@ImieboGodson](https://github.com/ImieboGodson)
 
 - [@lohitkolluri](https://github.com/lohitkolluri)
 
@@ -10838,7 +10850,9 @@
 
 -[@olajuw](https://github.com/olajuw)
 
--[@SirNickolas21](https://github.com/SirNickolas21)
+- [@allegraanka](https://github.com/allegraanka)
+
+- [@SirNickolas21](https://github.com/SirNickolas21)
 
 -[@rxshipatel] (https://github.com/rxshipatel)
 
@@ -11179,6 +11193,13 @@
 - [Ethang187](https://github.com/Ethang187)
 
 - [@nandiitha](https://github.com/nandiitha)
+
 - [@Harryharran](https://github.com/harryharran)
+
+- [@KuanHsienYEH](https://github.com/KuanHsienYEH)
+
+- [@sylvainjeanelie](https://github.com/sylvainjeanelie)
+
+-[@Haud3r](https://github.com/Haud3r)
 
 - [@TrixP] (https://github.com/TrixP/)
