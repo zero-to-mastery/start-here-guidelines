@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 - [Mark Mavis](https://github.com/mark-mavis)
 
+
 - [Grace Bong](https://github.com/bongster91)
 
 - [@jamesxleon](https://github.com/jamesxleon)
@@ -37,7 +38,7 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
-_ [Ramon R](https://github.com/artboycat)
+\_ [Ramon R](https://github.com/artboycat)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
@@ -78,10 +79,12 @@ _ [Ramon R](https://github.com/artboycat)
 - [Rohan Sharma](https://github.com/RS-labhub)
 - [Valarian Dennison](https://github.com/ValarianD)
 
+
 - [Shaquille Pearson](https://github/SV592)
 - [Auliyanto](https://github.com/ditorisan)
 
 - [Daryl Stensland](https://github.com/darylste)
+
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
@@ -10719,15 +10722,19 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
+
 - [@Niven121](https://github.com/Niven121)
 
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
+
 
 - [@rmortera] (https://github.com/rmortera)
 
 - [@murdermittenz](https://github.com/murdermittenz)
 
+
 - [@vikrant](https://github.com/Vikrant-k09)
+
 
 - [@Mariaines24](https://github.com/Mariaines24)
 
@@ -10775,6 +10782,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@34shifty](https://github.com/34shifty/)
 
+
+-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
 - [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
@@ -10792,6 +10802,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+
 
 - [@valyndis](https://github.com/valyndis/)
 
@@ -10837,6 +10848,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@muzungor](https://github.com/muzungor)
 
+
+- [@tusharkumar2302](https://github.com/tusharkumar2302) -[@olajuw](https://github.com/olajuw)
+
  -[@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
@@ -10848,6 +10862,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@imshubhamchavan](https://github.com/imshubhamchavan)
 
 -[@olajuw](https://github.com/olajuw)
+
 
 - [@allegraanka](https://github.com/allegraanka)
 
@@ -10910,8 +10925,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
-@Emilianalila
--[@Emilianalila](https://github.com/Emilianalila)
+  @Emilianalila -[@Emilianalila](https://github.com/Emilianalila)
 
 -[@wwwcris007](https://github.com/wwwcris007/)
 
@@ -10939,6 +10953,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Themis23](https://github.com/Themis23)
 
 -[@sanjaythapa](https://github.com/SanjayThapa)
+
 - [@pranavlonari](https://github.com/pranavlonari)
 
 -[@Ottttoooo](https://github.com/Ottttoooo)
@@ -10981,9 +10996,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@codewithsupra](https://github.com/codewithsupra)
 
--[@nathanfrank](https://github.com/nathanfrank)
--[@vanceaaalexandru](https://github.com/vanceaaalexandru)
--[@DevCielo](https://github.com/DevCielo)
+-[@nathanfrank](https://github.com/nathanfrank) -[@vanceaaalexandru](https://github.com/vanceaaalexandru) -[@DevCielo](https://github.com/DevCielo)
 
 -[@DevKobs](https://github.com/DevKobs)
 
@@ -10994,8 +11007,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[Jonee](https://github.com/Jonee2)
 
--[@Nasrallahilyass](https://github.com/nasrallahilyass)
--[@marnold316613](https://github.com/marnold316613)
+-[@Nasrallahilyass](https://github.com/nasrallahilyass) -[@marnold316613](https://github.com/marnold316613)
 
 -[@DanutStriblea](https://github.com/DanutStriblea)
 
@@ -11020,6 +11032,11 @@ _ [Ramon R](https://github.com/artboycat)
 -[@timthetech30](https://github.com/timthetech30)
 
 -[@adarshk01](https://github.com/adarshk01)
+
+
+-[@wincutrer](https://github.com/wincutrer)
+
+-[@Fred759](https://github.com/Fred759)
 
 -[@stefisha](https://github.com/stefisha)
 
@@ -11209,3 +11226,4 @@ _ [Ramon R](https://github.com/artboycat)
 - [@sylvainjeanelie](https://github.com/sylvainjeanelie)
 
 -[@Haud3r](https://github.com/Haud3r)
+
