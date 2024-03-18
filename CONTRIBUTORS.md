@@ -9,6 +9,8 @@
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
+- [@lemonazaur](https://github.com/lemonazaur)
+
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
 - [Krish Soni](https://github.com/krishvsoni)
