@@ -10,6 +10,8 @@
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
+- [@lemonazaur](https://github.com/lemonazaur)
+
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
 - [Krish Soni](https://github.com/krishvsoni)
@@ -39,6 +41,8 @@
 \_ [Ramon R](https://github.com/artboycat)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
+
+- [FancyTobias] (https://github.com/FancyTobias)
 
 - [Rohan](https://github.com/RohanReddy2003)
 
@@ -159,6 +163,8 @@
 - [@BaruBenoni](https://github.com/BaruBenoni)
 
 - [@Upendra](https://github.com/Upendra2003)
+
+- [@ImieboGodson](https://github.com/ImieboGodson)
 
 - [@lohitkolluri](https://github.com/lohitkolluri)
 
