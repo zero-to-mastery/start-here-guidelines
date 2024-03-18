@@ -11213,3 +11213,5 @@ _ [Ramon R](https://github.com/artboycat)
 - [@derraic] (https://github.com/derraic/)
 
 - [@Zain7413] (https://github.com/Zain7413)
+
+- [@PatLatting] (https://github.com/PatLatting)
