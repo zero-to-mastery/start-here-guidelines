@@ -11210,16 +11210,16 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Haud3r](https://github.com/Haud3r)
 
-- [@derraic] (https://github.com/derraic/)
+- [@derraic](https://github.com/derraic/)
 
-- [@Zain7413] (https://github.com/Zain7413)
+- [@Zain7413](https://github.com/Zain7413)
 
-- [@PatLatting] (https://github.com/PatLatting)
+- [@PatLatting](https://github.com/PatLatting)
 
-- [@justinmnge] (https://github.com/justinmnge/)
+- [@justinmnge](https://github.com/justinmnge/)
 
-- [@Thohung95] (https://github.com/ThoHung95)
+- [@Thohung95](https://github.com/ThoHung95)
 
-- [@shubhamuni] (https://github.com/shubhamuni)
+- [@shubhamuni](https://github.com/shubhamuni)
 
-- [@jsmartdev] (https://github.com/jsmartdev)
+- [@jsmartdev](https://github.com/jsmartdev)
