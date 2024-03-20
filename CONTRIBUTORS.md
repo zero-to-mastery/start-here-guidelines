@@ -7528,6 +7528,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Rornek](https://github.com/rornek)
 
+- [@nsr7t](https://github.com/nsr7t)
+
 - [@Rosajen27](https://github.com/rosajen27)
 
 - [@Rosalbac4300](https://github.com/rosalbac4300)
