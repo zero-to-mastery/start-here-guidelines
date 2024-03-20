@@ -548,7 +548,7 @@
 
 - [@Ananddixit007](https://github.com/ananddixit007)
 
-- [@Anandsvd](https://github.com/Anandkp6937)
+- [@bateman](https://github.com/Anandkp6937)
 
 - [@Anasolomon](https://github.com/anasolomon)
 
