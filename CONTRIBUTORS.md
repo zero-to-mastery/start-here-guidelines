@@ -9,6 +9,8 @@
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
+- [Bilal Pl](https://github.com/bpmdevr)
+
 - [@lemonazaur](https://github.com/lemonazaur)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
