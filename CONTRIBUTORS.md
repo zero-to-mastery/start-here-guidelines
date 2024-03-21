@@ -7751,7 +7751,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Samanthalps](https://github.com/samanthalps/)
 
 - [@Samarjeetpatankar](https://github.com/samarjeetpatankar)
-  
+
 - [@hakeemshah9846](https://github.com/hakeemshah9846)
 
 - [@Sambaransingh](https://github.com/sambaran-singh)
@@ -8051,6 +8051,8 @@ _ [Ramon R](https://github.com/artboycat)
 - [@Shahab548](https://github.com/shahab548)
 
 - [@Shaheershakir](https://github.com/shaheershakir)
+
+- [@AlvaroTV](https://github.com/AlvaroTV)
 
 - [@Shahrokht](https://github.com/shahrokh-t)
 
@@ -10781,19 +10783,19 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
-- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
--[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
-- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
-- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
@@ -11035,7 +11037,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Carmelo85S](https://github.com/Carmelo85S)
 
--[@jwradhe](https://github.com/jwradhe) 
+-[@jwradhe](https://github.com/jwradhe)
 
 -[@Tradejack229](https://github.com/tradejack229/)
 -[@Oma3r](https://github.com/Oma3r/)
@@ -11133,7 +11135,7 @@ _ [Ramon R](https://github.com/artboycat)
 - [@ayinla77](https://github.com/ayinla77/)
 
 - [@kwongen](https://github.com/kwongen)
-  
+
 - [@pranavlonari](https://github.com/pranavlonari)
 
 - [@kwongen](https://github.com/kwongen)
