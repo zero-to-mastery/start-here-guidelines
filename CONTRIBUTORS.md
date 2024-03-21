@@ -7529,6 +7529,8 @@
 
 - [@Rornek](https://github.com/rornek)
 
+- [@nsr7t](https://github.com/nsr7t)
+
 - [@Rosajen27](https://github.com/rosajen27)
 
 - [@Rosalbac4300](https://github.com/rosalbac4300)
@@ -7750,6 +7752,8 @@
 - [@Samanthalps](https://github.com/samanthalps/)
 
 - [@Samarjeetpatankar](https://github.com/samarjeetpatankar)
+  
+- [@hakeemshah9846](https://github.com/hakeemshah9846)
 
 - [@Sambaransingh](https://github.com/sambaran-singh)
 
@@ -11210,4 +11214,12 @@
 
 - [@justinmnge] (https://github.com/justinmnge/)
 
+
 - [@Kisalaykisu] (https://github.com/Kisalaykisu/)
+
+- [@Thohung95] (https://github.com/ThoHung95)
+
+- [@shubhamuni] (https://github.com/shubhamuni)
+
+- [@jsmartdev] (https://github.com/jsmartdev)
+
