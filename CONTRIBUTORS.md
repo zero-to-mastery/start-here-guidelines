@@ -453,6 +453,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Shuklaaa](https://github.com/Shuklaaa)
 
+- [@adrianna-yixin](https://github.com/adrianna-yixin)
+
 - [@Nivedita021](https://github.com/Nivedita021)
 
 - [@Subash-Lamichhane](https://github.com/Subash-Lamichhane)
