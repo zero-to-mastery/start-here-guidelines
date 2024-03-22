@@ -26,6 +26,7 @@
 - [Priyank Panchal](https://github.com/Priyank911)
 
 - [Bilal Pl](https://github.com/bpmdevr)
+- [Arnav Bajaj] (https://github.com/arnavbajaj4)
 
 - [Dhruv Jain](https://github.com/dhruvjaink07)
 
