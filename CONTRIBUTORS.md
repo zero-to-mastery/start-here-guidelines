@@ -1,4 +1,6 @@
 # CONTRIBUTORS
+- [Cyrus](https://github.com/0HA0/)
+
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
