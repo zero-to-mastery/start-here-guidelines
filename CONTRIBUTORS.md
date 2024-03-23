@@ -89,6 +89,8 @@
 
 - [Amitha H](https://github.com/amithah)
 
+- [Andrew Christensen] (https://github.com/rewpolo)
+
 - [Dhruv Jain](https://github.com/dhruvjaink07)
 
 - [Priyank Panchal](https://github.com/Priyank911)
@@ -11087,12 +11089,6 @@
 
 - [@olajuw](https://github.com/olajuw)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302)
-
-- [@olajuw](https://github.com/olajuw)
-
-- [@olajuw](https://github.com/olajuw)
-
 - [@lukahristic](https://github.com/lukahristic/)
 
 - [@imshubhamchavan](https://github.com/imshubhamchavan)
@@ -11289,8 +11285,6 @@
 
 - [@adarshk01](https://github.com/adarshk01)
 
-- [@mprepelita](https://github.com/mprepelita)
-
 - [@wincutrer](https://github.com/wincutrer)
 
 - [@Fred759](https://github.com/Fred759)
@@ -11394,10 +11388,6 @@
 - [@chkhs](https://github.com/chkhs)
 
 - [@shreeentka](https://github.com/shreeentka/)
-
-- [@Rayenkan](https://github.com/Rayenkan)
-
-- [@lambruGeorge](https://github.com/lambrugeorge)
 
 - [@Liemnguyensgf](https://github.com/Liemnguyensgf)
 
