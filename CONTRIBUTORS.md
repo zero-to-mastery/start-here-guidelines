@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-- [Cyrus] (https://github.com/0HA0/)
+- [Cyrus](https://github.com/0HA0/)
 
 - [Mark Mavis](https://github.com/mark-mavis)
 
