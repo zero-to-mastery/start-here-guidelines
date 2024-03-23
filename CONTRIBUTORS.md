@@ -11238,3 +11238,5 @@ _ [Ramon R](https://github.com/artboycat)
 - [@MateoAguilera] (https://github.com/MateoAguilera/)
 
 - [@gg-daddy] (https://github.com/gg-daddy/)
+
+- [@lorandblzs] (https://github.com/lorandblzs)
