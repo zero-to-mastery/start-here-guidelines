@@ -11116,9 +11116,9 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@neagugeorgecristian](https://github.com/neagugeorgecristian)
 
--[@StevenCiaccio] (https://github.com/StevenCiaccio)
+-[@StevenCiaccio](https://github.com/StevenCiaccio)
 
--[@akram02-sde]( https://github.com/akram02-sde)
+-[@akram02-sde](https://github.com/akram02-sde)
 
 -[@Vaida-Paul](https://github.com/Vaida-Paul)
 
@@ -11128,14 +11128,13 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Rayenkan](https://github.com/Rayenkan)
 
-
 -[@lambruGeorge](https://github.com/lambrugeorge)
 
 -[@Liemnguyensgf](https://github.com/Liemnguyensgf)
 
--[@MorotAmaury](https://github.com/MorotAmaury)]
+-[@MorotAmaury](https://github.com/MorotAmaury)
 
--[[@sidiq20](https://github.com/sidiq20/)
+-[@sidiq20](https://github.com/sidiq20/)
 
 -[@p-aditya15](https://github.com/p-aditya15)
 
@@ -11191,7 +11190,7 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@abhayV420](https://github.com/abhayV420)
 
-- [@anasm3] (https://github.com/anasm3)
+- [@anasm3](https://github.com/anasm3)
 
 - [@gabrielmoris](https://github.com/gabrielmoris)
 
@@ -11223,25 +11222,25 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@Haud3r](https://github.com/Haud3r)
 
-- [@derraic] (https://github.com/derraic/)
+- [@derraic](https://github.com/derraic/)
 
-- [@Zain7413] (https://github.com/Zain7413)
+- [@Zain7413](https://github.com/Zain7413)
 
-- [@PatLatting] (https://github.com/PatLatting)
+- [@PatLatting](https://github.com/PatLatting)
 
-- [@justinmnge] (https://github.com/justinmnge/)
+- [@justinmnge](https://github.com/justinmnge/)
 
-- [@Thohung95] (https://github.com/ThoHung95)
+- [@Thohung95](https://github.com/ThoHung95)
 
-- [@shubhamuni] (https://github.com/shubhamuni)
+- [@shubhamuni](https://github.com/shubhamuni)
 
-- [@jsmartdev] (https://github.com/jsmartdev)
+- [@jsmartdev](https://github.com/jsmartdev)
 
-- [@MateoAguilera] (https://github.com/MateoAguilera/)
+- [@MateoAguilera](https://github.com/MateoAguilera/)
 
-- [@gg-daddy] (https://github.com/gg-daddy/)
+- [@gg-daddy](https://github.com/gg-daddy/)
 
-- [@lorandblzs] (https://github.com/lorandblzs)
+- [@lorandblzs](https://github.com/lorandblzs)
 
 - [@Jaydee-88](https://github.com/Jaydee-88)
 
