@@ -19,6 +19,8 @@
 
 - [Reesu Jagan](https://github.com/codejay12)
 
+- [@harrisbyrnes](https://github.com/harrisbyrnes)
+
 - [tfernandez2017] (https://github.com/tfernandez2017)
 
 - [dustinkeller] (https://github.com/dustinkeller)
