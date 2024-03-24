@@ -15,6 +15,8 @@
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
+- [@harrisbyrnes](https://github.com/harrisbyrnes)
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Reesu Jagan](https://github.com/codejay12)
