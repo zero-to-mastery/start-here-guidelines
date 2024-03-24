@@ -11243,6 +11243,12 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@lorandblzs] (https://github.com/lorandblzs)
 
+<<<<<<< HEAD
 - [@Jaydee-88](https://https://github.com/Jaydee-88)
 
 - [@bot-of-flesh](https://github.com/Bot-of-flesh)
+=======
+- [@Jaydee-88](https://github.com/Jaydee-88)
+
+- [@ttrefilio](https://github.com/ttrefilio)
+>>>>>>> 834719239b5b32a8cd6bb1f2cc3d00907de3fb3f
