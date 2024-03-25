@@ -4562,6 +4562,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Khaire3108](https://github.com/khaire3108)
 
+- [@The-Soul-Reaver](https://github.com/The-Soul-Reaver/)
+
 - [@Khaivern](https://github.com/khaivern)
 
 - [@Khaledellabban1](https://github.com/KhaledEllabban1)
