@@ -2441,6 +2441,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Epaula7149](https://github.com/epaula7149)
 
+- [@epicjazsax] (https://github.com/epicjazsax)
+
 - [@Epresmassive](https://github.com/epresmassive)
 
 - [@Erdnag](https://github.com/erdnag/)
