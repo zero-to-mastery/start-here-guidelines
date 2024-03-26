@@ -11102,6 +11102,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 -[@ZeroCool0204](https://github.com/ZeroCool0204/)
 
+- [@janduplessis883](https://github.com/janduplessis883)
+
 -[@hgh23](https://github.com/hgh23)
 
 -[@KoThu2000](https://github.com/KoThu2000)
