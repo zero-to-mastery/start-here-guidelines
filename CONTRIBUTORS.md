@@ -30,6 +30,8 @@
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Priyank Panchal](https://github.com/Priyank911)
+  
+- [Shivanagouda Patil](https://github.com/10sp)
 
 - [Bilal Pl](https://github.com/bpmdevr)
 - [Arnav Bajaj] (https://github.com/arnavbajaj4)
