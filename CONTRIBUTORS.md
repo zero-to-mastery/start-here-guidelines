@@ -5206,6 +5206,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [@Mahir118](https://github.com/mahir118)
 
+- [@SoulFireMage](https://github.com/SoulFireMage)
+
 - [@Mahivkpatel](https://github.com/mahivkpatel/)
 
 - [@Mahiworld](https://github.com/mahiworld)
