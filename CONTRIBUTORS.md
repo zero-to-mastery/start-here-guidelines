@@ -96,6 +96,8 @@ _ [Ramon R](https://github.com/artboycat)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
+- [@Bandit-Army](https://github.com/Bandit-Army)
+
 - [Rohith R](https://github.com/ROOHITH)
 
 - [Roman Acheampong](https://github.com/r0mankeys)
