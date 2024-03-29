@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
@@ -18,13 +17,22 @@
 
 - [Reesu Jagan](https://github.com/codejay12)
 
+- [@harrisbyrnes](https://github.com/harrisbyrnes)
+
 - [tfernandez2017] (https://github.com/tfernandez2017)
 
 - [dustinkeller] (https://github.com/dustinkeller)
 
+- [Bowen Cheng] (https://github.com/bowencheng2027)
+
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Priyank Panchal](https://github.com/Priyank911)
+  
+- [Shivanagouda Patil](https://github.com/10sp)
+
+- [Bilal Pl](https://github.com/bpmdevr)
+- [Arnav Bajaj] (https://github.com/arnavbajaj4)
 
 - [Dhruv Jain](https://github.com/dhruvjaink07)
 
@@ -85,6 +93,8 @@
 - [Daryl Stensland](https://github.com/darylste)
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
+
+- [@Bandit-Army](https://github.com/Bandit-Army)
 
 - [Rohith R](https://github.com/ROOHITH)
 
@@ -453,6 +463,8 @@
 - [@11Aghayan](https://github.com/11aghayan)
 
 - [@Shuklaaa](https://github.com/Shuklaaa)
+
+- [@adrianna-yixin](https://github.com/adrianna-yixin)
 
 - [@Nivedita021](https://github.com/Nivedita021)
 
@@ -2432,6 +2444,8 @@
 - [@Epale](https://github.com/Epale)
 
 - [@Epaula7149](https://github.com/epaula7149)
+
+- [@epicjazsax] (https://github.com/epicjazsax)
 
 - [@Epresmassive](https://github.com/epresmassive)
 
@@ -4554,6 +4568,8 @@
 
 - [@Khaire3108](https://github.com/khaire3108)
 
+- [@The-Soul-Reaver](https://github.com/The-Soul-Reaver/)
+
 - [@Khaivern](https://github.com/khaivern)
 
 - [@Khaledellabban1](https://github.com/KhaledEllabban1)
@@ -4670,6 +4686,8 @@
 
 - [@Knudcb28](https://github.com/knudcb28)
 
+- [@donovandomaoan](https://github.com/donovandomaoan)
+
 - [@Patricio-Ponton](https://github.com/Patricio-Ponton)
 
 - [@Kobbyjones](https://github.com/Kobby-jones)
@@ -4757,6 +4775,8 @@
 - [@Kt382](https://github.com/kT382/)
 
 - [@Kthao21](https://github.com/kthao21)
+
+- [@KaylaVu](https://github.com/kaylavu)
 
 - [@Kttalley](https://github.com/kttalley)
 
@@ -5185,6 +5205,8 @@
 - [@Mahalabs](https://github.com/mahalabs)
 
 - [@Mahir118](https://github.com/mahir118)
+
+- [@SoulFireMage](https://github.com/SoulFireMage)
 
 - [@Mahivkpatel](https://github.com/mahivkpatel/)
 
@@ -8796,6 +8818,8 @@
 
 - [@Texterd](https://github.com/TexterD/)
 
+- [@ThanhLePhuong](https://github.com/Thanh811)
+
 - [@Thabetchaaouri](https://github.com/Thabet-Chaaouri)
 
 - [@Thainge](https://github.com/thainge)
@@ -11033,9 +11057,11 @@
 
 -[@jwradhe](https://github.com/jwradhe)
 
--[@Tradejack229](https://github.com/tradejack229/) -[@Oma3r](https://github.com/Oma3r/)
+-[@Tradejack229](https://github.com/tradejack229/) 
+-[@Oma3r](https://github.com/Oma3r/)
 
--[@rccoder22](https://github.com/rccoder22/) -[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
+-[@rccoder22](https://github.com/rccoder22/) 
+-[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
 
 -[@simirmantas](https://github.com/simirmantas)
 
@@ -11076,6 +11102,8 @@
 -[@shemavalentin](https://github.com/shemavalentin)
 
 -[@ZeroCool0204](https://github.com/ZeroCool0204/)
+
+- [@janduplessis883](https://github.com/janduplessis883)
 
 -[@hgh23](https://github.com/hgh23)
 
@@ -11222,4 +11250,34 @@
 - [@shubhamuni] (https://github.com/shubhamuni)
 
 - [@jsmartdev] (https://github.com/jsmartdev)
+
+- [@MateoAguilera] (https://github.com/MateoAguilera/)
+
+- [@gg-daddy] (https://github.com/gg-daddy/)
+
+- [@lorandblzs] (https://github.com/lorandblzs)
+
+- [@Jaydee-88](https://github.com/Jaydee-88)
+
+- [@ttrefilio](https://github.com/ttrefilio)
+
+- [@amol-30-2000](https://github.com/amol-30-2000)
+
+- [@osamaayub](https://github.com/osamaayub)
+
+- [@gaborpusztai](https://github.com/gaborpusztai)
+
+- [@RockstarReality](https://github.com/RockstarReality/)
+
+- [@Sidvp](https://github.com/Sidvp)
+
+- [@Andresk-w](https://github.com/Andresk-w)
+- [@HilaryOkonkwo](https://github.com/HilaryOkonkwo/)
+
+-[@Mayur K M](https://github.com/mVr89)
+
+-[@perception5](https://github.com/perception5)
+
+-[@jennlee0701] (https://github.com/jennlee0701/)
+-[@C0des-by-SAGAR] (https://github.com/C0des-by-SAGAR)
 
