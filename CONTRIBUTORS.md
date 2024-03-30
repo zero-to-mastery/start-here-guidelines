@@ -21,6 +21,8 @@
 
 - [tfernandez2017] (https://github.com/tfernandez2017)
 
+- [Kuda M'ndau](https://github.com/kudamndau/)
+
 - [dustinkeller] (https://github.com/dustinkeller)
 
 - [Bowen Cheng] (https://github.com/bowencheng2027)
