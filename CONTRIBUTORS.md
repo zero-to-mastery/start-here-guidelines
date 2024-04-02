@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
@@ -30,7 +31,6 @@
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Priyank Panchal](https://github.com/Priyank911)
-  
 - [Shivanagouda Patil](https://github.com/10sp)
 
 - [Bilal Pl](https://github.com/bpmdevr)
@@ -2992,6 +2992,8 @@
 - [@Grace569](https://github.com/grace569)
 
 - [@Graceoby](https://github.com/GraceOby)
+
+- [@isabellaterano] (https://github.com/isabellaterano)
 
 - [@Graficdoctor](https://github.com/graficdoctor/)
 
@@ -7780,7 +7782,6 @@
 - [@Samanthalps](https://github.com/samanthalps/)
 
 - [@Samarjeetpatankar](https://github.com/samarjeetpatankar)
-  
 - [@hakeemshah9846](https://github.com/hakeemshah9846)
 
 - [@Sambaransingh](https://github.com/sambaran-singh)
@@ -11064,11 +11065,9 @@
 
 -[@jwradhe](https://github.com/jwradhe)
 
--[@Tradejack229](https://github.com/tradejack229/) 
--[@Oma3r](https://github.com/Oma3r/)
+-[@Tradejack229](https://github.com/tradejack229/) -[@Oma3r](https://github.com/Oma3r/)
 
--[@rccoder22](https://github.com/rccoder22/) 
--[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
+-[@rccoder22](https://github.com/rccoder22/) -[@Faheem-Musthafa](https://github.com/Faheem-Musthafa)
 
 -[@simirmantas](https://github.com/simirmantas)
 
@@ -11286,8 +11285,7 @@
 
 -[@perception5](https://github.com/perception5)
 
--[@jennlee0701] (https://github.com/jennlee0701/)
--[@C0des-by-SAGAR] (https://github.com/C0des-by-SAGAR)
+-[@jennlee0701] (https://github.com/jennlee0701/) -[@C0des-by-SAGAR] (https://github.com/C0des-by-SAGAR)
 
 -[@marwanbz] (https://github.com/marwanbz/)
 
@@ -11297,8 +11295,7 @@
 
 - [@phoebe03111] (https://github.com/phoebe03111)
 
--[@NCxaizen](https://github.com/NCxaizen)
--[@ellenibetru)](https://github.com/ellenibetru)
+-[@NCxaizen](https://github.com/NCxaizen) -[@ellenibetru)](https://github.com/ellenibetru)
 
 -[@ShiroganeIXV](https://github.com/ShiroganeIXV)
 
