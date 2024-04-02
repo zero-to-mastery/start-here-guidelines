@@ -1,4 +1,7 @@
 # CONTRIBUTORS
+
+- [aryanhash](https://github.com/aryanhash)
+
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
@@ -48,7 +51,7 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
-\_ [Ramon R](https://github.com/artboycat)
+- [Ramon R](https://github.com/artboycat)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
