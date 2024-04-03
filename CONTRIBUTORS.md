@@ -1,7 +1,5 @@
 # CONTRIBUTORS
 
-- [aryanhash](https://github.com/aryanhash)
-
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
@@ -10933,6 +10931,8 @@
 - [@agt-luc](https://github.com/agt-luc)
 
 - [@eibart](https://github.com/eibart)
+
+- [@aryanhash](https://github.com/aryanhash)
 
 - [@sahil](https://github.com/Sahillather002)
 
