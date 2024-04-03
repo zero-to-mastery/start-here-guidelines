@@ -69,6 +69,8 @@
 
 - [meghaverma3110](https://github.com/meghaverma3110)
 
+- [melina-mora](https://github.com/melina-mora))
+
 - [ThomasDaclinat](https://github.com/ThomasDaclinat)
 
 - [Vraj Patel](https://github.com/VrajPatel7)
