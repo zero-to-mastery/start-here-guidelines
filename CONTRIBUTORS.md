@@ -11351,4 +11351,7 @@
 - [@chadGomez](https://github.com/chadGomez)
 
 - [@MustafaHashmani](https://github.com/MustafaHashmani)
-- -[@ItzJustEric](https://github.com/ItzJustEric)
+
+- [@ItzJustEric](https://github.com/ItzJustEric)
+
+- [@ChuxMg](https://github.com/ChuxMg/)
