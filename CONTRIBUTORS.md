@@ -10832,6 +10832,8 @@
 
 - [@34shifty](https://github.com/34shifty/)
 
+-[@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) -[@yashpratapsingh12](https://github.com/yashpratapsingh12/)
+
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
 - [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
@@ -11087,6 +11089,10 @@
 -[@adarshk01](https://github.com/adarshk01)
 
 -[@mprepelita] (https://github.com/mprepelita)
+
+-[@wincutrer](https://github.com/wincutrer)
+
+-[@Fred759](https://github.com/Fred759)
 
 -[@stefisha](https://github.com/stefisha)
 
@@ -11393,4 +11399,5 @@
 - [@IlonaZaika] (https://github.com/IlonaZaika)
 
 - [@jsmartdev] (https://github.com/jsmartdev)
+
 - [@TrixP] (https://github.com/TrixP/)
