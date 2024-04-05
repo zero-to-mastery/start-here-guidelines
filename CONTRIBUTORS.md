@@ -10917,9 +10917,13 @@
 
 -[@Qwerty3341](https://github.com/Qwerty3341)
 
+<<<<<<< HEAD
 -[@rumduth](https://github.com/rumduth)
 
 - [@Qwerty3341](https://github.com/Qwerty3341)
+=======
+-[@Sintaxxx] (https://github.com/Sintaxxx)
+>>>>>>> c2f67c6e9f24044851de3cbc0b22bd9fefefa6e6
 
 - [@burekusvemiru3](https://github.com/burekusvemiru3)
 
@@ -10951,6 +10955,7 @@
 
 - [@kailashgautham](https://github.com/kailashgautham)
 
+<<<<<<< HEAD
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
@@ -11344,3 +11349,5 @@
 - [@chadGomez](https://github.com/chadGomez)
 
 - [@MustafaHashmani](https://github.com/MustafaHashmani)
+=======
+>>>>>>> c2f67c6e9f24044851de3cbc0b22bd9fefefa6e6
