@@ -31,7 +31,7 @@
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Priyank Panchal](https://github.com/Priyank911)
--
+
 - [Shivanagouda Patil](https://github.com/10sp)
 
 - [Bilal Pl](https://github.com/bpmdevr)
@@ -5905,6 +5905,8 @@
 
 - [@Mohammadnomankhan](https://github.com/MohammadNomankhan)
 
+- [@aaronmug](https://github.com/aaronmug)
+
 - [@Mohammadrezaaalaei](https://github.com/MohammadRezaAalaei)
 
 - [@Mohammednadeempasha](https://github.com/MohammedNadeemPasha)
@@ -7777,6 +7779,7 @@
 - [@Salmanseediq](https://github.com/salmanseediq)
 
 - [@Salmaradni](https://github.com/samialmaradni97)
+
 - [@supermarios77](https://github.com/supermarios77)
 
 - [@Salvo9107](https://github.com/Salvo9107)
@@ -7786,7 +7789,7 @@
 - [@Samanthalps](https://github.com/samanthalps/)
 
 - [@Samarjeetpatankar](https://github.com/samarjeetpatankar)
--
+
 - [@hakeemshah9846](https://github.com/hakeemshah9846)
 
 - [@Sambaransingh](https://github.com/sambaran-singh)
@@ -10917,13 +10920,9 @@
 
 -[@Qwerty3341](https://github.com/Qwerty3341)
 
-<<<<<<< HEAD
 -[@rumduth](https://github.com/rumduth)
 
-- [@Qwerty3341](https://github.com/Qwerty3341)
-=======
 -[@Sintaxxx] (https://github.com/Sintaxxx)
->>>>>>> c2f67c6e9f24044851de3cbc0b22bd9fefefa6e6
 
 - [@burekusvemiru3](https://github.com/burekusvemiru3)
 
@@ -10955,7 +10954,6 @@
 
 - [@kailashgautham](https://github.com/kailashgautham)
 
-<<<<<<< HEAD
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
@@ -11349,5 +11347,3 @@
 - [@chadGomez](https://github.com/chadGomez)
 
 - [@MustafaHashmani](https://github.com/MustafaHashmani)
-=======
->>>>>>> c2f67c6e9f24044851de3cbc0b22bd9fefefa6e6
