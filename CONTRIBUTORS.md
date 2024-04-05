@@ -2999,6 +2999,8 @@
 
 - [@Graceoby](https://github.com/GraceOby)
 
+- [@isabellaterano] (https://github.com/isabellaterano)
+
 - [@Graficdoctor](https://github.com/graficdoctor/)
 
 - [@Grand282](https://github.com/grand282)
