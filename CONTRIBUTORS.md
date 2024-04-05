@@ -35,6 +35,7 @@
 - [Shivanagouda Patil](https://github.com/10sp)
 
 - [Bilal Pl](https://github.com/bpmdevr)
+
 - [Arnav Bajaj] (https://github.com/arnavbajaj4)
 
 - [Dhruv Jain](https://github.com/dhruvjaink07)
@@ -67,7 +68,7 @@
 
 - [meghaverma3110](https://github.com/meghaverma3110)
 
-- [melina-mora](https://github.com/melina-mora))
+- [melina-mora](https://github.com/melina-mora)
 
 - [ThomasDaclinat](https://github.com/ThomasDaclinat)
 
@@ -90,9 +91,11 @@
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
+
 - [Valarian Dennison](https://github.com/ValarianD)
 
 - [Shaquille Pearson](https://github/SV592)
+
 - [Auliyanto](https://github.com/ditorisan)
 
 - [Daryl Stensland](https://github.com/darylste)
@@ -10880,17 +10883,13 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-  -[@olajuw](https://github.com/olajuw)
+-[@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
-
--[@olajuw](https://github.com/olajuw)
 
 - [@lukahristic](https://github.com/lukahristic/)
 
 - [@imshubhamchavan](https://github.com/imshubhamchavan)
-
--[@olajuw](https://github.com/olajuw)
 
 - [@allegraanka](https://github.com/allegraanka)
 
@@ -10955,7 +10954,8 @@
 - [@AlbertFrancis07](https://github.com/AlbertFrancis07)
 
 - [@MD-Jafor-Sadek-Khan](https://github.com/MD-Jafor-Sadek-Khan)
-  @Emilianalila -[@Emilianalila](https://github.com/Emilianalila)
+
+-[@Emilianalila](https://github.com/Emilianalila)
 
 -[@wwwcris007](https://github.com/wwwcris007/)
 
@@ -10974,6 +10974,7 @@
 - [@itsallaboutme613](https://github.com/itsallaboutme613/)
 
 - [Nelan](https://github.com/NelanJoe)
+
 - [@Saifza](https://github.com/saifza)
 
 - [@Davittio-L](https://github.com/Davittio-L)
@@ -11004,7 +11005,9 @@
 
 -[@RobTheWorld](https://github.com/RobTheWorld/)
 
--[@ArvinYang1925](https://github.com/ArvinYang1925) -[@tonguegrease](https://github.com/tonguegrease)
+-[@ArvinYang1925](https://github.com/ArvinYang1925)
+
+-[@tonguegrease](https://github.com/tonguegrease)
 
 -[@mirikerimli](https://github.com/mirikerimli)
 
@@ -11338,4 +11341,6 @@
 
 -[@pratik1707](https://github.com/pratik1707)
 
--[@chadGomez](https://github.com/chadGomez)
+- [@chadGomez](https://github.com/chadGomez)
+
+- [@MustafaHashmani](https://github.com/MustafaHashmani)
