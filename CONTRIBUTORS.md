@@ -11084,6 +11084,8 @@
 
 -[@adarshk01](https://github.com/adarshk01)
 
+-[@mprepelita] (https://github.com/mprepelita)
+
 -[@stefisha](https://github.com/stefisha)
 
 -[@JayKirt](https://github.com/JayKirt)
@@ -11381,3 +11383,7 @@
 - [@gg-daddy] (https://github.com/gg-daddy/)
 
 - [@KadenBrothersOfficial] (https://github.com/KadenBrothersOfficial)
+
+- [@jsmartdev] (https://github.com/jsmartdev)
+
+- [@mprepelita] (https://github.com/mprepelita)
