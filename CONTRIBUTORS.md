@@ -16,6 +16,8 @@
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
+- [HINGA PETER](https://github.com/Hinga-inc)
+
 - [Krish Soni](https://github.com/krishvsoni)
 
 - [Reesu Jagan](https://github.com/codejay12)
