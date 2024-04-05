@@ -10904,7 +10904,7 @@
 
 - [@allegraanka](https://github.com/allegraanka)
 
--[@SirNickolas21](https://github.com/SirNickolas21)
+- [@SirNickolas21](https://github.com/SirNickolas21)
 
 -[@rxshipatel] (https://github.com/rxshipatel)
 
@@ -11393,3 +11393,4 @@
 - [@IlonaZaika] (https://github.com/IlonaZaika)
 
 - [@jsmartdev] (https://github.com/jsmartdev)
+- [@TrixP] (https://github.com/TrixP/)
