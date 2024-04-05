@@ -11049,6 +11049,7 @@
 -[@Aekagra-7](https://github.com/Aekagra-7)
 
 -[@Dice-k5599](https://github.com/Dice-k5599)
+
 [2edwinq](https://github.com/2edwinq)
 
 -[Jonee](https://github.com/Jonee2)
@@ -11137,7 +11138,11 @@
 
 -[@law973] (https://github.com/law973)
 
--[@sabahpalani](https://github.com/sabahpalani) -[@shemavalentin](https://github.com/shemavalentin) -[@ZeroCool0204](https://github.com/ZeroCool0204/)
+-[@sabahpalani](https://github.com/sabahpalani)
+
+-[@shemavalentin](https://github.com/shemavalentin)
+
+-[@ZeroCool0204](https://github.com/ZeroCool0204/)
 
 -[@hgh23](https://github.com/hgh23)
 
@@ -11301,7 +11306,9 @@
 
 - [@lorandblzs] (https://github.com/lorandblzs)
 
-- [@Jaydee-88](https://github.com/Jaydee-88)
+- [@bot-of-flesh](https://github.com/Bot-of-flesh)
+
+- [@Jaydee-88](https://https://github.com/Jaydee-88)
 
 - [@ttrefilio](https://github.com/ttrefilio)
 
@@ -11323,7 +11330,9 @@
 
 -[@perception5](https://github.com/perception5)
 
--[@jennlee0701] (https://github.com/jennlee0701/) -[@C0des-by-SAGAR] (https://github.com/C0des-by-SAGAR)
+-[@jennlee0701] (https://github.com/jennlee0701/)
+
+-[@C0des-by-SAGAR] (https://github.com/C0des-by-SAGAR)
 
 -[@marwanbz] (https://github.com/marwanbz/)
 
