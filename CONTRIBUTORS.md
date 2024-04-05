@@ -11298,7 +11298,7 @@
 
 - [@Kisalaykisu] (https://github.com/Kisalaykisu/)
 
-- [@Thohung95] (https://github.com/ThoHung95)
+- [@Thohung95](https://github.com/ThoHung95)
 
 - [@shubhamuni](https://github.com/shubhamuni)
 
