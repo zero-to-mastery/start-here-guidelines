@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [Cyrus](https://github.com/0HA0/)
+
 - [Mark Mavis](https://github.com/mark-mavis)
 
 - [Grace Bong](https://github.com/bongster91)
@@ -10890,7 +10892,7 @@
 
 - [@muzungor](https://github.com/muzungor)
 
--[@olajuw](https://github.com/olajuw)
+- [@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
 
@@ -11355,3 +11357,5 @@
 - [@ItzJustEric](https://github.com/ItzJustEric)
 
 - [@ChuxMg](https://github.com/ChuxMg/)
+
+- [@catychelpan](https://github.com/catychelpan)
