@@ -8094,6 +8094,8 @@
 
 - [@Shaheershakir](https://github.com/shaheershakir)
 
+- [@AlvaroTV](https://github.com/AlvaroTV)
+
 - [@Shahrokht](https://github.com/shahrokh-t)
 
 - [@Shahzaibnaeem](https://github.com/ShahzaibNaeem)
@@ -11389,3 +11391,5 @@
 - [@mprepelita] (https://github.com/mprepelita)
 
 - [@IlonaZaika] (https://github.com/IlonaZaika)
+
+- [@jsmartdev] (https://github.com/jsmartdev)
