@@ -4974,8 +4974,6 @@
 
 - [@Leszekzawilski](https://github.com/LeszekZawilski)
 
-- [@Lethalsilicon](https://github.com/lethalsilicon)
-
 - [@Letz0703](https://github.com/letz0703)
 
 - [@Leul1212](https://github.com/leul1212)
@@ -10767,6 +10765,8 @@
 - [@Gana0606](https://github.com/Gana0606)
 
 - [@yusufskebbe](https://github.com/yusufskebbe)
+
+- [@lethalsilicon](https://github.com/lethalsilicon)
 
 - [@ism3](https://github.com/ism3)
 
