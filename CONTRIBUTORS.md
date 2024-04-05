@@ -11174,7 +11174,7 @@
 
 -[@neagugeorgecristian](https://github.com/neagugeorgecristian)
 
--[@StevenCiaccio] (https://github.com/StevenCiaccio)
+-[@StevenCiaccio](https://github.com/StevenCiaccio)
 
 -[@akram02-sde](https://github.com/akram02-sde)
 
@@ -11250,7 +11250,7 @@
 
 - [@abhayV420](https://github.com/abhayV420)
 
-- [@anasm3] (https://github.com/anasm3)
+- [@anasm3](https://github.com/anasm3)
 
 - [@gabrielmoris](https://github.com/gabrielmoris)
 
@@ -11282,13 +11282,13 @@
 
 -[@Haud3r](https://github.com/Haud3r)
 
-- [@derraic] (https://github.com/derraic/)
+- [@derraic](https://github.com/derraic/)
 
-- [@Zain7413] (https://github.com/Zain7413)
+- [@Zain7413](https://github.com/Zain7413)
 
-- [@PatLatting] (https://github.com/PatLatting)
+- [@PatLatting](https://github.com/PatLatting)
 
-- [@justinmnge] (https://github.com/justinmnge/)
+- [@justinmnge](https://github.com/justinmnge/)
 
 - [@jonwor01] (https://github.com/jonwor01)
 
@@ -11296,15 +11296,15 @@
 
 - [@Thohung95] (https://github.com/ThoHung95)
 
-- [@shubhamuni] (https://github.com/shubhamuni)
+- [@shubhamuni](https://github.com/shubhamuni)
 
-- [@jsmartdev] (https://github.com/jsmartdev)
+- [@jsmartdev](https://github.com/jsmartdev)
 
-- [@MateoAguilera] (https://github.com/MateoAguilera/)
+- [@MateoAguilera](https://github.com/MateoAguilera/)
 
-- [@gg-daddy] (https://github.com/gg-daddy/)
+- [@gg-daddy](https://github.com/gg-daddy/)
 
-- [@lorandblzs] (https://github.com/lorandblzs)
+- [@lorandblzs](https://github.com/lorandblzs)
 
 - [@bot-of-flesh](https://github.com/Bot-of-flesh)
 
