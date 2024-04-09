@@ -4541,6 +4541,8 @@
 
 - [@Kem247](https://github.com/kem247)
 
+- [Kendrick Chestnut](https://github.com/KendrickChe)
+
 - [@Kendzisah](https://github.com/kendzisah)
 
 - [@Kenjramos](https://github.com/KenJRamos)
