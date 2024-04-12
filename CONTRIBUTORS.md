@@ -1126,6 +1126,8 @@
 
 - [@Bryce](https://github.com/brycedipalo)
 
+- [@bchschaefer](https://github.com/bchschaefer)
+
 - [@Bshohug](https://github.com/bshohug)
 
 - [@Bstojkovic](https://github.com/bstojkovic)
