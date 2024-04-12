@@ -63,6 +63,8 @@
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
+- [Shaman M](https://github.com/shaman-004)
+
 - [FancyTobias] (https://github.com/FancyTobias)
 
 - [Rohan](https://github.com/RohanReddy2003)
