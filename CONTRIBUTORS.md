@@ -8,6 +8,8 @@
 
 - [@jamesxleon](https://github.com/jamesxleon)
 
+- [Joel Burns](https://github.com/jburns6789)
+
 
 - [subutian](https://github.com/krishvsoni)
 
