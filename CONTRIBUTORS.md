@@ -33,6 +33,8 @@
 
 - [Kuda M'ndau](https://github.com/kudamndau/)
 
+- [Jacky Lee] (https://github.com/jackyle92)
+
 - [dustinkeller] (https://github.com/dustinkeller)
 
 - [Bowen Cheng] (https://github.com/bowencheng2027)
