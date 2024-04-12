@@ -886,8 +886,6 @@
 
 - [@Bbrazil1](https://github.com/Bbrazil1)
 
-- [@Bchschaefer](https://github.com/bchschaefer/)
-
 - [@Bcismaniac81](https://github.com/BCIs-maniac81/)
 
 - [@Beatformer](https://github.com/beatformer/)
