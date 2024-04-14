@@ -10,6 +10,7 @@
 
 - [Joel Burns](https://github.com/jburns6789)
 
+
 - [subutian](https://github.com/krishvsoni)
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
@@ -10802,6 +10803,7 @@
 
 - [@Deevyne99](https://github.com/Deevyne99/start-here-guidelines)
 
+
 - [@Niven121](https://github.com/Niven121)
 
 - [@AMAN-KULDEEP](https://github.com/AMAN-KULDEEP)
@@ -10811,6 +10813,7 @@
 - [@murdermittenz](https://github.com/murdermittenz)
 
 - [@vikrant](https://github.com/Vikrant-k09)
+
 
 - [@Mariaines24](https://github.com/Mariaines24)
 
@@ -10921,6 +10924,7 @@
 - [@NathanLouis90](https://github.com/NathanLouis90)
 
 - [@muzungor](https://github.com/muzungor)
+
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302) -[@olajuw](https://github.com/olajuw)
 
@@ -11428,7 +11432,8 @@
 
 - [@jsmartdev] (https://github.com/jsmartdev)
 
-- [@TrixP] (https://github.com/TrixP/) -[@Nazy9021] (https://github.com/Nazy9021/)
+- [@TrixP] (https://github.com/TrixP/)
+-[@Nazy9021] (https://github.com/Nazy9021/)
 
 -[@unstableunicorn745] (https://github.com/unstableunicorn745)
 
@@ -11436,9 +11441,9 @@
 
 -[@clegaspi3333] (https://github.com/clegaspi3333)
 
--[@daryldelrosario](https://github.com/daryldelrosario)
+-[@daryldelrosario](https://github.com/daryldelrosario) 
 
--[@lysandraphan](https://github.com/lysandraphan)
+-[@lysandraphan](https://github.com/lysandraphan) 
 
 -[@mariocaptain](https://github.com/mariocaptain)
 
