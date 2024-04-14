@@ -8740,6 +8740,8 @@
 
 - [@Tajunta](https://github.com/tajunta)
 
+- [@TykkiD](https://github.com/TykkiD)
+
 - [@Takanomedev](https://github.com/TAKANOME-DEV)
 
 - [@Takewkat](https://github.com/Takewkat)
