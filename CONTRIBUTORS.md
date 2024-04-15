@@ -2802,7 +2802,7 @@
 
 - [@Gab990](https://github.com/Gab990)
 
-- [EddSaul](https://github.com/EddSaul)
+- [@EddSaul](https://github.com/EddSaul)
 
 - [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
