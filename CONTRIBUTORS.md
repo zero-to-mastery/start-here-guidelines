@@ -2802,6 +2802,8 @@
 
 - [@Gab990](https://github.com/Gab990)
 
+- [EddSaul](https://github.com/EddSaul)
+
 - [@Gabeifeoluwa](https://github.com/Gabeifeoluwa)
 
 - [@Gabevelasquez](https://github.com/Gabe-Velasquez)
@@ -11452,5 +11454,3 @@
 -@[shraddha gurram] (https://github.com/sgurram15)
 
 -[@VirgSam](https://github.com/VirgSam)
-
--[EddSaul](https://github.com/EddSaul)
