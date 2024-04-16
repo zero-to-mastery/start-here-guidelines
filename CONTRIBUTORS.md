@@ -17,6 +17,8 @@
 
 - [@lemonazaur](https://github.com/lemonazaur)
 
+- [@wahidulalamriyad](https://github.com/wahidulalamriyad)
+
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
 - [windY1Y](https://github.com/windy1y)
