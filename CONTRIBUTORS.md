@@ -4026,6 +4026,8 @@
 
 - [@Jimmyooops](https://github.com/JIMMYOOOPS/)
 
+- [@jimwellgersalia](https://github.com/jimwellgersalia)
+
 - [@Jinalgoyani](https://github.com/jinalgoyani/)
 
 - [@Jinalpatel](https://github.com/JinalPatel17)
@@ -11495,4 +11497,3 @@
 - [@VirgSam](https://github.com/VirgSam)
 
 - [@K0R1NGA69](https://github.com/K0R1NGA69)
-
