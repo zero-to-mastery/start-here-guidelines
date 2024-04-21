@@ -10437,3 +10437,14 @@
 - [@GPGPgauravpunetha12](https://github.com/GPGPgauravpunetha12)
 
 - [@sarthaksanskari](https://github.com/sarthaksanskari)
+<<<<<<< HEAD
+=======
+
+- [@milicasvonja](https://github.com/milicasvonja)
+
+- [@Burimg](https://github.com/burimg)
+
+- [@nikeshnikesh5](https://github.com/nikeshnikesh5/)
+
+-[rawanalwadeai](https://github.com/rawanalwadeai)
+>>>>>>> 5d768fad1 ( adding my name to my computer list)
