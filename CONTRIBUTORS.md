@@ -20,7 +20,8 @@
 - [@jamesxleon](https://github.com/jamesxleon)
 
 - [Joel Burns](https://github.com/jburns6789)
-- [Bashir-Nyanya](https://github.com/Bashir-12345)
+
+- [Bashir-Ny](https://github.com/Bashir-12345)
 
 - [Simontagbor](https://https://github.com/Simontagbor)
   
