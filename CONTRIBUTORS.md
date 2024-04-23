@@ -3176,8 +3176,6 @@
 
 - [@Hanschen666](https://github.com/hanschen666)
 
-- [Michael](https://github.com/StackOverflowIsBetterThanAnyAI)
-
 - [@Hansh1484519](https://github.com/Hansh-1484519/)
 
 - [@Hanzalabhutto](https://github.com/hanzala-bhutto)
