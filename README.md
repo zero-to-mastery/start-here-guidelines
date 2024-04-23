@@ -4,9 +4,9 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 ## A Guide to Get Started (used to be the 4 step guide)
 
-1. Check out [Andrei's videos on github](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't watched it already.
+1. Check out [Andrei's video on GitHub](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't watched it already.
 
-2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the button "Fork."
+2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the button "Fork".
 
    ![fork image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
 
@@ -24,7 +24,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    Learn more about [forking](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [cloning a repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
 
-4. Move to project directory:
+4. Move to your project directory:
 
    ```bash
    cd start-here-guidelines
@@ -39,7 +39,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can [watch this tutorial](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4).
 
-6. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
+6. After adding the upstream and checking that all files are up to date, we now will create a new branch before editing any files. There are two ways to do so:
 
    ```bash
    git checkout -b <branch-name>
@@ -52,10 +52,10 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
 
-- ⚠️ **IMPORTANT NOTE #1:** Add your name somewhere in the middle. Not at the top or bottom in order to avoid the chance of you getting a [merge conflict](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4)!
+- ⚠️ **IMPORTANT NOTE #1:** Add your name somewhere in the middle of the file. Not at the top or bottom in order to avoid the chance of you getting a [merge conflict](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4)!
 - ⚠️ **IMPORTANT NOTE #2:** Please do **NOT** edit or remove other people from the list, even to fix their indentation etc. This will likely prevent your PR from being merged.
 
-8. Add the changes with `git add`, `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
+8. Add the changes with `git add` and `git commit` ([write a good commit message](https://chris.beams.io/posts/git-commit/), if possible):
 
    ```bash
    git add CONTRIBUTORS.md
@@ -64,7 +64,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    **Replace \<your-github-username\>!**
 
-9. Push your changes _to your repository_:
+9. Push your changes _to your (forked) repository_:
 
    ```bash
    git push origin <branch-name>
