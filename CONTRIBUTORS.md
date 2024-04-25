@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+<<<<<<< HEAD
 
 - [@crypt0nate](https://github.com/crypt0nate)
 
@@ -7,6 +8,8 @@
 
 - [Kane Chang](https://github.com/kane-chang)
 
+=======
+>>>>>>> d956674ce (Add DipaGalani)
 - [Cyrus](https://github.com/0HA0/)
 
 - [@singhprabh27](https://github.com/singhprabh27)
@@ -11637,7 +11640,6 @@
 
 - [@Joshualwh](https://github.com/Joshualwh)
 
-- [@rebekag2](https://github.com/rebekag2)
 
 - [@And_GG](https://github.com/AndGG1)
 
@@ -11904,3 +11906,5 @@
 - [@ishan080604](https://github.com/ishan080604)
 
 - [@sonnywuzhere](https://github.com/sonnywuzhere)
+
+- [@DipaGalani](https://github.com/DipaGalani)
