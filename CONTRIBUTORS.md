@@ -11524,6 +11524,8 @@
 
 - [@mateusmart6] (https://github.com/mateusmart6/)
 
+- [@spaceparanoid] (https://github.com/SpaceParanoid)
+
 -[@jsant04](https://github.com/jsant04/)
 
 -[@fayinana](https://github.com/fayinana)
@@ -11535,3 +11537,4 @@
 - [@guillaume23](https://github.com/guillaume23)
 
 - [@bsour](https://github.com/bsour)
+
