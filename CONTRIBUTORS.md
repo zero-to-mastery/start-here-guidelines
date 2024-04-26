@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-<<<<<<< HEAD
 
 - [@crypt0nate](https://github.com/crypt0nate)
 
@@ -8,8 +7,6 @@
 
 - [Kane Chang](https://github.com/kane-chang)
 
-=======
->>>>>>> d956674ce (Add DipaGalani)
 - [Cyrus](https://github.com/0HA0/)
 
 - [@singhprabh27](https://github.com/singhprabh27)
@@ -18,7 +15,7 @@
 
 - [Kashif Nazar](https://github.com/kashifnazar)
 
--- [Md. Azim Fazar Akhtar](https://github.com/Azim-Akhtar)
+- [Md. Azim Fazar Akhtar](https://github.com/Azim-Akhtar)
 
 - [Grace Bong](https://github.com/bongster91)
 
@@ -588,7 +585,7 @@
 
 - [@sufyanhabib](https://github.com/sufyanhabib)
 
-- [@aditya7302]((https://github.com/aditya7302)
+- [@aditya7302](https://github.com/aditya7302)
 
 - [@manjillama](https://github.com/manjillama)
 
@@ -11642,7 +11639,6 @@
 
 - [@Joshualwh](https://github.com/Joshualwh)
 
-
 - [@And_GG](https://github.com/AndGG1)
 
 - [@jeffersonrj14](https://github.com/jeffersonrj14)
@@ -11912,3 +11908,5 @@
 - [@DipaGalani](https://github.com/DipaGalani)
 
 - [@IsacGomess](https://github.com/IsacGomess)
+
+- [@dveytsman](https://github.com/dveytsman)
