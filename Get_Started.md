@@ -58,20 +58,20 @@ What might look like a chaotic way of creating software (everybody focusing on t
 
 Practicing is our primary objective here, but there are also many practical reasons for contributing to open source projects:
 
-**1.** To add a new feature / improvement to a project, or to fix an issue with a project.
+- To add a new feature / improvement to a project, or to fix an issue with a project.
 
-**2.** To practice and learn about software development – contributing to a project is a great way to learn about the more hands-on aspects of software development like using debuggers, version control systems, issue trackers, etc.
+- To practice and learn about software development – contributing to a project is a great way to learn about the more hands-on aspects of software development like using debuggers, version control systems, issue trackers, etc.
 
-**3.** To practice/learn a particular programming language or technology in which you are interested.
+- To practice/learn a particular programming language or technology in which you are interested.
 
-**4.** To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest.
+- To build your online presence – highlighting open source contributions relevant to the job makes your resume stand out from the rest.
 
 ## How can I contribute to projects?
 
-**1.** **Test :** Start with testing the code for any bugs. If you find one, raise an issue about it. (Always check first if someone else has already raised an issue for the same bug.)
+- **Test :** Start with testing the code for any bugs. If you find one, raise an issue about it. (Always check first if someone else has already raised an issue for the same bug.)
 
-**2.** **Suggest features:** Look for possible improvements and provide suggestions in the comment section.
+- **Suggest features:** Look for possible improvements and provide suggestions in the comment section.
 
-**3.** **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repository and make a pull request about it. _Commit often and provide appropriate messages to your commits._
+- **Design:** Considering the fact that practice is the main objective, try to make little changes on your forked repository and make a pull request about it. _Commit often and provide appropriate messages to your commits._
 
-**4.** You can also help in providing proper documentation for various projects.
+- You can also help in providing proper documentation for various projects.
