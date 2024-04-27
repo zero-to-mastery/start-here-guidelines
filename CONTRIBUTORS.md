@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [Januda Bethmin](https://github.com/itzzjb)
 
 - [Cyrus](https://github.com/0HA0/)
 
@@ -10969,11 +10970,11 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302) 
+- [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302) 
+- [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
 
@@ -11068,7 +11069,6 @@
 - [@itsallaboutme613](https://github.com/itsallaboutme613/)
 
 - [Nelan](https://github.com/NelanJoe)
-
 
 - [@Efficient_C](https://github.com/Efficient-C)
 
@@ -11498,9 +11498,9 @@
 
 - [@clegaspi3333](https://github.com/clegaspi3333)
 
-- [@daryldelrosario](https://github.com/daryldelrosario) 
+- [@daryldelrosario](https://github.com/daryldelrosario)
 
-- [@lysandraphan](https://github.com/lysandraphan) 
+- [@lysandraphan](https://github.com/lysandraphan)
 
 - [@mariocaptain](https://github.com/mariocaptain)
 
@@ -11518,9 +11518,9 @@
 
 - [@NuSense-Creative](https://github.com/NuSense-Creative)
 
-- [@khemraj10](https://github.com/khemraj10/) 
+- [@khemraj10](https://github.com/khemraj10/)
 
-- [@cam1608](https://github.com/cam1608) 
+- [@cam1608](https://github.com/cam1608)
 
 - [@mateusmart6] (https://github.com/mateusmart6/)
 
