@@ -7059,6 +7059,8 @@
 
 - [@Preethamm](https://github.com/preetham-m)
 
+- [@JenniferUgo](https://github.com/JenniferUgo)
+
 - [@Preetiraitech](https://github.com/Preetirai-tech)
 
 - [@Premahhh](https://github.com/premahhh)
