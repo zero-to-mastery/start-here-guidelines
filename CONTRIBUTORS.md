@@ -1,7 +1,6 @@
 # CONTRIBUTORS
 
 
-- [And_GG](https://github.com/AndGG1)
 - [Cyrus](https://github.com/0HA0/)
 
 - [@singhprabh27](https://github.com/singhprabh27)
@@ -11544,3 +11543,5 @@
 - [@Joshualwh](https://github.com/Joshualwh)
 
 -[@rebekag2](https://github.com/rebekag2)
+
+- [@And_GG](https://github.com/AndGG1)
