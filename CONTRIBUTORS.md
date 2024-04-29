@@ -935,6 +935,8 @@
 
 - [@Belalbilaldev](https://github.com/belalbilaldev)
 
+- [@Synytchka](https://github.com/Synytchka)
+
 - [@Benabbott](https://github.com/ben-abbott)
 
 - [Bennett](https://github.com/bwilbert67)
