@@ -5264,6 +5264,8 @@
 
 - [@Mahalabs](https://github.com/mahalabs)
 
+- [@SixtusX] (https://github.com/SixtusX/)
+
 - [@Mahir118](https://github.com/mahir118)
 
 - [@SoulFireMage](https://github.com/SoulFireMage)
