@@ -185,6 +185,8 @@
 
 - [Kaz Smino](https://github.com/Kaz-Smino)
 
+- [Michael Jones](https://github.com/yardquit)
+
 - [@LaraibNoorien](https://github.com/laraibnoorien)
 
 - [@VenkateshArveti](https://github.com/varveti)
