@@ -5779,6 +5779,8 @@
 
 - [@Midnyt01](https://github.com/midnyt01)
 
+- [@BadassBaddy](https://github.com/BadassBaddy/)
+
 - [@Midocoder87](https://github.com/midocoder87/)
 
 - [@Migfra1](https://github.com/migfra1/)
