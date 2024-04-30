@@ -406,6 +406,8 @@
 
 - [Pawas Pandey](https://github.com/pawaspy)
 
+- [@corikiyomi] (https://github.com/corikiyomi)
+
 - [@albossmohammad83](https://github.com/albossmohammad83)
 
 - [@sserwangaedrisa](https://github.com/sserwangaedrisa)
