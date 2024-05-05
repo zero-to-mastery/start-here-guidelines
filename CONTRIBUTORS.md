@@ -108,6 +108,8 @@
 
 - [Krish Soni](https://github.com/krishvsoni)
 
+-[madhav](https://github.com/madhav-000)
+
 - [Sowmya Mannem](https://github.com/sowmya1408)
 
 - [Prathmesh Khede](https://github.com/Prathm3021)
