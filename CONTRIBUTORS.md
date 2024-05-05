@@ -15,6 +15,8 @@
 
 - [subutian](https://github.com/krishvsoni)
 
+- [olekingkinga](https://github.com/olekingKinga)
+
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
 
 - [@lemonazaur](https://github.com/lemonazaur)
