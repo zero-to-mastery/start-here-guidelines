@@ -27,6 +27,8 @@
 
 - [windY1Y](https://github.com/windy1y)
 
+- [@felixsundaykpormon](https://github.com/felixsunyk)
+
 - [HINGA PETER](https://github.com/Hinga-inc)
 
 - [Krish Soni](https://github.com/krishvsoni)
