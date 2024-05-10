@@ -11931,3 +11931,7 @@
 - [michafdlr](https://github.com/michafdlr)
 
 - [@elmer139](https://github.com/Elmer139)
+
+-[@henzbori] (https://github.com/henzbori)
+
+-[@KatiLou](https://github.com/KatiLou)
