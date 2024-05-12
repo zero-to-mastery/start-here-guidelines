@@ -9,6 +9,8 @@
 
 - [Cyrus](https://github.com/0HA0/)
 
+- [Diyar Hussein](https://github.com/diyarHussein/)
+
 - [@singhprabh27](https://github.com/singhprabh27)
 
 - [Mark Mavis](https://github.com/mark-mavis)
@@ -11656,10 +11658,6 @@
 
 - [@Echoslayer](https://github.com/Echoslayer)
 
-- [@projuan](https://github.com/projuan)
-
-- [@prakharpaliwar](https://github.com/prakharpaliwar)
-
 - [@wazirwazir](https://github.com/wazirwazir)
 
 - [@MiroslavPopovich](https://github.com/MiroslavPopovich)
@@ -11935,3 +11933,4 @@
 -[@henzbori] (https://github.com/henzbori)
 
 -[@KatiLou](https://github.com/KatiLou)
+
