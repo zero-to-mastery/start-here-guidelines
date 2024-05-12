@@ -11367,6 +11367,8 @@
 
 - [@bazzani](https://github.com/bazzani)
 
+- [@582Bamfo](https://github.com/582Bamfo)
+
 - [@Ady-debug](https://github.com/Ady-debug)
 
 - [@Sahil-Mhatre14](https://github.com/Sahil-Mhatre14)
