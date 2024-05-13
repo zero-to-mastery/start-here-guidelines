@@ -41,6 +41,8 @@
 
 - [Kuda M'ndau](https://github.com/kudamndau/)
 
+- [RJRYT](https://github.com/rjryt/)
+
 - [Jacky Lee](https://github.com/jackyle92)
 
 - [dustinkeller](https://github.com/dustinkeller)
