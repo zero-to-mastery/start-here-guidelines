@@ -292,6 +292,8 @@
 
 - [Roman Nita](https://github.com/maria)
 
+- [macalemid](https://github.com/macalemid)
+
 - [Mariatta](https://github.com/Mariatta)
 
 - [Sarthak Lamba](https://github.com/sarthaklambaa)
