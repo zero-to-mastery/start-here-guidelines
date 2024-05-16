@@ -223,6 +223,8 @@
 
 - [@ImieboGodson](https://github.com/ImieboGodson)
 
+- [@KhushiRoy](https://github.com/roykhushi)
+
 - [@lohitkolluri](https://github.com/lohitkolluri)
 
 - [@AnshMeshram](https://github.com/AnshMeshram)
