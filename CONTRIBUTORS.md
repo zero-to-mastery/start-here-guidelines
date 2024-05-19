@@ -7205,6 +7205,8 @@
 
 - [@Qaitkenq](https://github.com/QaitkenQ)
 
+- [@developedbymarco](https://github.com/developedbymarco)
+
 - [@Qasimmughalz](https://github.com/qasimmughalz)
 
 - [@Qassu02](https://github.com/qassu02)
