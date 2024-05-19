@@ -49,6 +49,8 @@
 
 - [Bowen Cheng](https://github.com/bowencheng2027)
 
+- -[@mintera10](https://github.com/mintera10)
+
 - [Eric Lahoda](https://github.com/elahoda)
 
 - [Priyank Panchal](https://github.com/Priyank911)
@@ -2839,7 +2841,8 @@
 
 - [@Funnyr0B0T](https://github.com/funnyr0b0t)
 
-- [@Fwparj](https://github.com/fwparj)
+- [@Fwparj](https://github.com/fwparj)s
+
 
 - [@Fyemane](https://github.com/fyemane)
 
@@ -2881,6 +2884,7 @@
 
 - [@Galexandrud](https://github.com/GAlexandruD)
 
+s
 - [@Galiardi](https://github.com/galiardi)
 
 - [@Gamerjanai](https://github.com/gamerjanai)
@@ -2965,6 +2969,7 @@
 
 - [@Giantherios](https://github.com/GianTheRios)
 
+s
 - [@Gibso10](https://github.com/gibso10)
 
 - [@Gifariramadhan](https://github.com/gifariramadhan/)
@@ -3004,6 +3009,7 @@
 - [@Glitzym](https://github.com/GlitzyM)
 
 - [@Glowczyns](https://github.com/Glowczyns)
+s
 
 - [@Glowrhee](https://github.com/Glow-rhee)
 
@@ -3160,6 +3166,7 @@
 - [@Haileybyun](https://github.com/HaileyByun)
 
 - [@Haimhamiel](https://github.com/HaimHamiel)
+s
 
 - [@Haitruong](https://github.com/haitruong-tech)
 
@@ -3193,6 +3200,7 @@
 
 - [@Hamzatariq98](https://github.com/HamzaTariq98/)
 
+s
 - [@Han044](https://github.com/han044)
 
 - [@Hanakamer](https://github.com/hanakamer)
@@ -5007,7 +5015,6 @@
 - [@Leeorf](https://github.com/leeorf)
 
 - [@Leerobertdyer](https://github.com/leerobertdyer)
-
 - [@Lefson](https://github.com/olefson)
 
 - [@Lefie](https://github.com/Lefie)
