@@ -27,6 +27,8 @@
 
 - [windY1Y](https://github.com/windy1y)
 
+- [pauquad](https://github.com/pauquad)
+
 - [@felixsundaykpormon](https://github.com/felixsunyk)
 
 - [HINGA PETER](https://github.com/Hinga-inc)
