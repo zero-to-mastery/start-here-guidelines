@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-<<<<<<< HEAD
 
 - [@crypt0nate](https://github.com/crypt0nate)
 
@@ -8,9 +7,8 @@
 
 - [Kane Chang](https://github.com/kane-chang)
 
-=======
 - [Nicholas Patrick Ward](https://github.com/Karr1985)
->>>>>>> 571fa2d39 (karr1985)
+
 - [Cyrus](https://github.com/0HA0/)
 
 - [Diyar Hussein](https://github.com/diyarHussein/)
@@ -11088,8 +11086,6 @@
 - [@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
-<<<<<<< HEAD
-=======
 
 - [@olajuw](https://github.com/olajuw)
 
@@ -11678,12 +11674,6 @@
 
 - [@projuan](https://github.com/projuan) 
 
-- [@prakharpaliwar](https://github.com/prakharpaliwar)
-
-- [@wazirwazir](https://github.com/wazirwazir)
-
-- [@MiroslavPopovich](https://github.com/MiroslavPopovich)
-
 - [@sabreu12](https://github.com/sabreu12)
 
 - [@icez213](https://github.com/icez213)
@@ -11720,7 +11710,7 @@
 
 - [@shaynepinto](https://github.com/shaynepinto)
 
-- [@Waynexchan](https://github.com/Waynexchan) 
+- [@Waynexchan](https://github.com/Waynexchan)
 
 - [@SoilihBenSoilih](https://github.com/SoilihBenSoilih)
 
@@ -11957,3 +11947,5 @@
 - [@shreeentka](https://github.com/shreeentka/)
 
 - [@On4m](https://github.com/On4m)
+
+- [@adolfolimonc](https://github.com/adolfolimonc)
