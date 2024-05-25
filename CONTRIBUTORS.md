@@ -11687,6 +11687,8 @@
 
 -[@cansurer-at](https://github.com/cansurer-at)
 
+-[@colarti](https://github.com/colarti)
+
 -[@Straxion96](https://github.com/Straxion96)
 
 -[@strikerghost](https://github.com/strikerghost)
@@ -11698,5 +11700,3 @@
 -[@luizaauge](https://github.com/luizaauge)
 
 -[@iamaryankr](https://github.com/iamaryankr)
-
--[@colarti](https://github.com/colarti)
