@@ -15,6 +15,8 @@
 
 - [subutian](https://github.com/krishvsoni)
 
+- [Carlos Gerardo](https://github.com/CSGerardo)
+
 - [olekingkinga](https://github.com/olekingKinga)
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
