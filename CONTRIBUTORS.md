@@ -61,6 +61,8 @@
 
 - [Amit Yadav](https://github.com/addyplays)
 
+- [Jameson Baker](https://github.com/Jami-tsm)
+
 - [Reesu Jagan](https://github.com/codejay12)
 
 - [@harrisbyrnes](https://github.com/harrisbyrnes)
@@ -108,7 +110,9 @@
 - [FancyTobias](https://github.com/FancyTobias)
 
 - [Rohan](https://github.com/RohanReddy2003)
+
 - [Nikita](https://github.com/nikitaa-sinhaa)
+
 - [Sreecharan](https://github.com/Sreecharan885)
 
 - [Pankaj Mulay](https://github.com/pcm1984)
@@ -11948,6 +11952,7 @@
 - [@adolfolimonc](https://github.com/adolfolimonc)
 
 - [@Johnnydiazjr] (https://github.com/Johnnydiazjr)
+
 - [@rewpolo](https://github.com/rewpolo)
 
 - [@asttle](https://github.com/asttle)
