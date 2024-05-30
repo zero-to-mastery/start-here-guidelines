@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [Cyrus](https://github.com/0HA0/)
 
 - [@singhprabh27](https://github.com/singhprabh27)
@@ -3134,6 +3133,8 @@
 - [@Gurjits081](https://github.com/gurjits081/)
 
 - [@Gurmander](https://github.com/gurmander)
+
+- [@aarushsaboo](https://github.com/aarushsaboo)
 
 - [@Gurupsd05](https://github.com/Guru-Prasad-Rana)
 
@@ -11032,11 +11033,11 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302) 
+- [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302) 
+- [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
 
@@ -11568,9 +11569,9 @@
 
 - [@clegaspi3333](https://github.com/clegaspi3333)
 
-- [@daryldelrosario](https://github.com/daryldelrosario) 
+- [@daryldelrosario](https://github.com/daryldelrosario)
 
-- [@lysandraphan](https://github.com/lysandraphan) 
+- [@lysandraphan](https://github.com/lysandraphan)
 
 - [@mariocaptain](https://github.com/mariocaptain)
 
@@ -11588,9 +11589,9 @@
 
 - [@NuSense-Creative](https://github.com/NuSense-Creative)
 
-- [@khemraj10](https://github.com/khemraj10/) 
+- [@khemraj10](https://github.com/khemraj10/)
 
-- [@cam1608](https://github.com/cam1608) 
+- [@cam1608](https://github.com/cam1608)
 
 - [@mateusmart6] (https://github.com/mateusmart6/)
 
@@ -11626,13 +11627,11 @@
 
 - [@TaiLung](https://github.com/Tailung42)
 
-- [@neeti-kurulkar](https://github.com/neeti-kurulkar)
--[@manasroutcse](https://github.com/manasroutcse/)
+- [@neeti-kurulkar](https://github.com/neeti-kurulkar) -[@manasroutcse](https://github.com/manasroutcse/)
 
 -[@Echoslayer](https://github.com/Echoslayer)
 
--[@projuan](https://github.com/projuan)
--[@prakharpaliwar](https://github.com/prakharpaliwar)
+-[@projuan](https://github.com/projuan) -[@prakharpaliwar](https://github.com/prakharpaliwar)
 
 - [@wazirwazir](https://github.com/wazirwazir)
 
@@ -11656,8 +11655,7 @@
 
 -[@smohrchi](https://github.com/smohrchi)
 
--[@sewargh](https://github.com/sewargh)
--[@JBM-05](https://github.com/JBM-05)
+-[@sewargh](https://github.com/sewargh) -[@JBM-05](https://github.com/JBM-05)
 
 -[@henzbori] (https://github.com/henzbori)
 
@@ -11673,7 +11671,7 @@
 
 - [@shaynepinto](https://github.com/shaynepinto)
 
--[@Waynexchan](https://github.com/Waynexchan) 
+-[@Waynexchan](https://github.com/Waynexchan)
 
 -[@SoilihBenSoilih](https://github.com/SoilihBenSoilih)
 
