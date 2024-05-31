@@ -11722,3 +11722,5 @@
 - [@rengoku33](https://github.com/rengoku33)
 
 -[@Sav-Savage](https://github.com/Sav-Savage)
+
+-[Huỳnh Tùy Quang](https://github.com/quang-ztm)
