@@ -7,7 +7,7 @@
 
 - [Mark Mavis](https://github.com/mark-mavis)
 
-- [Kashif Nazar] (https://github.com/kashifnazar)
+- [Kashif Nazar](https://github.com/kashifnazar)
 
 - [Grace Bong](https://github.com/bongster91)
 
