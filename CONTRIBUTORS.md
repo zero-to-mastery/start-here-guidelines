@@ -97,6 +97,8 @@
 
 - [Javon](https://github.com/SlayersJay)
 
+- [Brittany Normandin](https://github.com/BrittNorm)
+
   [Olson661](https://github.com/Olson661)
 
 - [Dhananjay warade](https://github.com/Dhananjaywarade)
