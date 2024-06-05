@@ -11746,3 +11746,5 @@
 -[@Ismaelsalcedo](https://github.com/Ismaelsalcedo)
 
 -[@steveostler](https://github.com/steveostler)
+
+-[@danielbarrosdevs](https://github.com/danielbarrosdevs)
