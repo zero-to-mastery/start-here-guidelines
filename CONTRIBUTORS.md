@@ -11731,7 +11731,9 @@
 
 -[@Sav-Savage](https://github.com/Sav-Savage)
 
--[Huỳnh Tùy Quang](https://github.com/quang-ztm)
+-[quang-ztm](https://github.com/quang-ztm)
+
+-[Huỳnh Tùy Quang](https://github.com/quang06091988)
 
 -[@SominZex](https://github.com/SominZex)
 
