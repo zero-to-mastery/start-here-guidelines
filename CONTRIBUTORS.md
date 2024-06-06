@@ -1,5 +1,6 @@
 # CONTRIBUTORS
 
+- [@crypt0nate](https://github.com/crypt0nate)
 
 - [VinoLemos](https://github.com/VinoLemos)
 
@@ -279,6 +280,8 @@
 - [Harsh Singh](https://github.com/HarshSingh2009)
 
 - [0xPew](https://github.com/0xPew)
+
+- [@avdoseferovic](https://github.com/avdoseferovic)
 
 - [Rindirisia Wangira](https://github.com/Rindirisia)
 
@@ -11741,3 +11744,6 @@
 
 - [@zEuS0390](https://github.com/zEuS0390)
 
+- [@RCarvalhoDan](https://github.com/RCarvalhoDan)
+
+- [@msoficaru](https://github.com/msoficaru)
