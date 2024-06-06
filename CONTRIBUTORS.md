@@ -43,8 +43,6 @@
 
 - [Krish Soni](https://github.com/krishvsoni)
 
-- [Reesu Jagan](https://github.com/codejay12)
-
 - [@harrisbyrnes](https://github.com/harrisbyrnes)
 
 - [tfernandez2017](https://github.com/tfernandez2017)
@@ -11730,3 +11728,5 @@
 - [@Log-benjamin](https://github.com/Log-benjamin/)
 
 - [@MxCrts](https://github.com/MxCrts)
+
+- [@johnni5](https://github.com/johnni5/)
