@@ -10437,9 +10437,3 @@
 - [@GPGPgauravpunetha12](https://github.com/GPGPgauravpunetha12)
 
 - [@sarthaksanskari](https://github.com/sarthaksanskari)
-
-- [@milicasvonja](https://github.com/milicasvonja)
-
-- [@Burimg](https://github.com/burimg)
-
-- [@nikeshnikesh5](https://github.com/nikeshnikesh5/)
