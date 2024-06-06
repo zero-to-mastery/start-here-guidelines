@@ -41,8 +41,6 @@
 
 - [HINGA PETER](https://github.com/Hinga-inc)
 
-- [Krish Soni](https://github.com/krishvsoni)
-
 - [@harrisbyrnes](https://github.com/harrisbyrnes)
 
 - [tfernandez2017](https://github.com/tfernandez2017)
@@ -11734,3 +11732,5 @@
 - [@Ariba](https://github.com/nayabshah)
 
 - [@badu665](https://github.com/badu665)
+
+- [@ojieprincewill](https://github.com/ojieprincewill)
