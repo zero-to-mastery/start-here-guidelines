@@ -18,6 +18,8 @@
 
 - [Joel Burns](https://github.com/jburns6789)
 
+- [Simontagbor](https://https://github.com/Simontagbor)
+  
 - [subutian](https://github.com/krishvsoni)
 
 - [Carlos Gerardo](https://github.com/CSGerardo)
@@ -11755,5 +11757,5 @@
 - [@saar324](https://github.com/saar324/)
 
 - [@venkatsai2027][https://github.com/venkatsai2027]
-- 
+
 - [@MichaelGudovsky](https://github.com/MichaelGudovsky/)
