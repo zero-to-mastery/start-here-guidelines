@@ -66,6 +66,8 @@
 
 - [Arnav Bajaj](https://github.com/arnavbajaj4)
 
+- [Amitha H](https://github.com/amithah)
+
 - [Dhruv Jain](https://github.com/dhruvjaink07)
 
 - [Priyank Panchal](https://github.com/Priyank911)
