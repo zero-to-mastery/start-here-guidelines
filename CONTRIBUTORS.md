@@ -9192,7 +9192,8 @@
 - [@Trickster36](https://github.com/Trickster36)
 
 - [@Xuan19](https://github.com/Xuan19)
-- - [@Tricky](https://github.com/Trickkyyy/)
+
+- [@Tricky](https://github.com/Trickkyyy/)
 
 - [@Tridenda](https://github.com/tridenda)
 
@@ -9259,6 +9260,8 @@
 - [@Uditsaroj](https://github.com/Udit-Saroj)
 
 - [@Ufaruki](https://github.com/ufaruki)
+
+- [@shruts26](https://gituhub.com/shruts26)
 
 - [@Ufombam](https://github.com/ufombam)
 
@@ -11772,6 +11775,7 @@
 
 - [@medula07](https://github.com/medula07)
 
--[@BrendonPedro](https://github.com/BrendonPedro)
+- [@BrendonPedro](https://github.com/BrendonPedro)
 
--[@tugsem](https://github.com/tugsem)
+- [@tugsem](https://github.com/tugsem)
+
