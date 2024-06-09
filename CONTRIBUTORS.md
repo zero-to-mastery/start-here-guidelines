@@ -46,7 +46,7 @@
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
-- [lemonbirch](https://github.com/lemonbirch)
+- [@lemonbirch](https://github.com/lemonbirch)
 
 - [windY1Y](https://github.com/windy1y)
   
