@@ -1876,8 +1876,6 @@
 
 - [@Darmcwil](https://github.com/darmcwil)
 
-- [@alxPgns](https://github.com/alxPgns)
-
 - [@Darrickfauvel](https://github.com/DarrickFauvel/)
 
 - [@Darwinscorn](https://github.com/DarwinsCorn)
@@ -1899,6 +1897,8 @@
 - [@Datng](https://github.com/dattuannguyen/)
 
 - [@Davdwoo](https://github.com/davdwoo/)
+
+- [@alxPgns](https://github.com/alxPgns)
 
 - [@Davi0254](https://github.com/Davi0254)
 
