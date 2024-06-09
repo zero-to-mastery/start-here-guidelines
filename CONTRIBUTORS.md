@@ -6234,7 +6234,7 @@
 
 - [@Mrschabs](https://github.com/Mrschabs)
 
--[@alxPgns] (https://github.com/alxPgns)
+- [@alxPgns](https://github.com/alxPgns)
 
 - [@Mrtadeu](https://github.com/MrTadeu)
 
