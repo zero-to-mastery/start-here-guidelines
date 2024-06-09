@@ -88,8 +88,6 @@
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
-- [Shaman M](https://github.com/shaman-004)
-
 - [FancyTobias](https://github.com/FancyTobias)
 
 - [Rohan](https://github.com/RohanReddy2003)
@@ -11786,3 +11784,5 @@
 - [@Im-Jayesh](https://github.com/Im-Jayesh/)
 
 - [@mbel12345](https://github.com/mbel12345)
+
+- [@pertsu](https://github.com/pertsu)
