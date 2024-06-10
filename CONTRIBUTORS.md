@@ -3961,6 +3961,8 @@
 
 - [@Jclem28](https://github.com/jclem28)
 
+- [@J3Technology](https://github.com/J3Technology)
+
 - [@Jcon306](https://github.com/jcon306)
 
 - [@Jcpkoruna](https://github.com/jcpkoruna)
@@ -11040,7 +11042,7 @@
 
 - [@muzungor](https://github.com/muzungor)
 
-- [@tusharkumar2302](https://github.com/tusharkumar2302) 
+- [@tusharkumar2302](https://github.com/tusharkumar2302)
 
 - [@olajuw](https://github.com/olajuw)
 
