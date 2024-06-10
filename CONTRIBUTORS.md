@@ -9196,6 +9196,8 @@
 
 - [@Tregalloway](https://github.com/TreGalloway)
 
+- [@TrevorMcHaffie](https://github.com/trevormchaffie)
+
 - [@Trickster36](https://github.com/Trickster36)
 
 - [@Xuan19](https://github.com/Xuan19)
@@ -10988,7 +10990,7 @@
 
 - [@34shifty](https://github.com/34shifty/)
 
-- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/) 
+- [@Chayton-Lamkin](https://github.com/Chayton-Lamkin/)
 
 - [@yashpratapsingh12](https://github.com/yashpratapsingh12/)
 
