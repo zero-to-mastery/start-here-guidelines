@@ -85,7 +85,11 @@
 
 - [Harun Adil](https://github.com/HarunAdil)
 
+<<<<<<< HEAD
 - [Ramon R](https://github.com/artboycat)
+=======
+\_ [Ramon R](https://github.com/artboycat)
+>>>>>>> e53ac7d9c (added my name to contributor list)
 
 - [Muhammad Asim](https://github.com/MRGLOBIN)
 
@@ -120,6 +124,8 @@
 - [Vidhi Jain](https://github.com/vidhijain27)
 
 - [Bach](https://github.com/danbax)
+
+- [@xccyxx](https://github.com/xccyxx)
 
 - [Idan B](https://github.com/idanbe)
 
