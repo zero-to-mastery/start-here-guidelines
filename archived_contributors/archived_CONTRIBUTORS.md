@@ -548,7 +548,7 @@
 
 - [@Ananddixit007](https://github.com/ananddixit007)
 
-- [@Anandsvd](https://github.com/Anandkp6937)
+- [@bateman](https://github.com/Anandkp6937)
 
 - [@Anasolomon](https://github.com/anasolomon)
 
@@ -10437,9 +10437,3 @@
 - [@GPGPgauravpunetha12](https://github.com/GPGPgauravpunetha12)
 
 - [@sarthaksanskari](https://github.com/sarthaksanskari)
-
-- [@milicasvonja](https://github.com/milicasvonja)
-
-- [@Burimg](https://github.com/burimg)
-
-- [@nikeshnikesh5](https://github.com/nikeshnikesh5/)
