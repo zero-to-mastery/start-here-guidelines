@@ -11860,3 +11860,6 @@
 - [@sumanmedda](https://github.com/sumanmedda)
 
 - [@Fir3Tig3r](https://github.com/Fir3Tig3r/)
+
+- [@samuelIkoli](https://github.com/samuelIkoli)
+>>>>>>> 0ff7189c5 (added my name to contributor list)
