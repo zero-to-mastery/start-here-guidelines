@@ -15,6 +15,8 @@
 
 - [Kashif Nazar](https://github.com/kashifnazar)
 
+-- [Md. Azim Fazar Akhtar](https://github.com/Azim-Akhtar)
+
 - [Grace Bong](https://github.com/bongster91)
 
 - [@jamesxleon](https://github.com/jamesxleon)
