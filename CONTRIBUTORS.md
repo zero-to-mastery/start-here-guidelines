@@ -11966,4 +11966,9 @@
 - [@Mohamed Mahmoud](https://github.com/MohamedMahmoudHaleem)
 
 - [@rue19](https://github.com/rue19/)
->>>>>>> b276387c3 (Add alxPgns)
+
+- [@bashir-12345](https://github.com/Bashir-12345/) 
+
+- [@clearlycam](https://github.com/clearlycam/)
+
+
