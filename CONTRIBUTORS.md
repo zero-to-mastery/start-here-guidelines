@@ -51,6 +51,10 @@
 
 - [HINGA PETER](https://github.com/Hinga-inc)
 
+- [Amit Yadav](https://github.com/addyplays)
+
+- [Reesu Jagan](https://github.com/codejay12)
+
 - [@harrisbyrnes](https://github.com/harrisbyrnes)
 
 - [tfernandez2017](https://github.com/tfernandez2017)
@@ -11068,14 +11072,6 @@
 - [@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
-
-- [@lukahristic](https://github.com/lukahristic/)
-
-- [@imshubhamchavan](https://github.com/imshubhamchavan)
-
-- [@allegraanka](https://github.com/allegraanka)
-
-- [@SirNickolas21](https://github.com/SirNickolas21)
 
 - [@rxshipatel](https://github.com/rxshipatel)
 
