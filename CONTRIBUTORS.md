@@ -11569,6 +11569,8 @@
 
 - [@TrixP](https://github.com/TrixP/)
 
+- [@karan74jaiswal](https://github.com/karan74jaiswal/)
+
 - [@Nazy9021](https://github.com/Nazy9021/)
 
 - [@unstableunicorn745](https://github.com/unstableunicorn745)
@@ -11597,7 +11599,7 @@
 
 - [@NuSense-Creative](https://github.com/NuSense-Creative)
 
-- [@khemraj10](https://github.com/khemraj10/) 
+- [@khemraj10](https://github.com/khemraj10/)
 
 - [@cam1608](https://github.com/cam1608) 
 
