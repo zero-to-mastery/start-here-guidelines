@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [VinoLemos](https://github.com/VinoLemos)
@@ -22,7 +21,6 @@
 - [Joel Burns](https://github.com/jburns6789)
 
 - [Simontagbor](https://https://github.com/Simontagbor)
-  
 - [subutian](https://github.com/krishvsoni)
 
 - [Carlos Gerardo](https://github.com/CSGerardo)
@@ -5284,6 +5282,8 @@
 
 - [@Lyntee](https://github.com/lyntee)
 
+- [@BCIamLong](https://github.com/BCIamLong)
+
 - [@M0Lese](https://github.com/m0lese)
 
 - [@Maaneth](https://github.com/maan-eth)
@@ -8187,7 +8187,7 @@
 
 - [@Seinnlee](https://github.com/seinnlee)
 
-- [@Selva02695](https://github.com/Selva02695)
+- [@Selva02695](<https://github.com/Selva02695)
 
 - [@Selvendranks](https://github.com/selvendranks)
 
@@ -10389,11 +10389,11 @@
 
 - [Idrees9321](https://github.com/Idrees9321)
 
-- [@Davve686](<https://github.com/Davve686>)
+- [@Davve686](https://github.com/Davve686)
 
 - [@XayZay](https://github.com/XayZay)
 
-- [joyboyid](<https://github.com/joyboyid>)
+- [joyboyid](https://github.com/joyboyid)
 
 - [@Pratyush-Dehury](https://github.com/Pratyush-Dehury)
 
@@ -11569,8 +11569,6 @@
 
 - [@TrixP](https://github.com/TrixP/)
 
-- [@karan74jaiswal](https://github.com/karan74jaiswal/)
-
 - [@Nazy9021](https://github.com/Nazy9021/)
 
 - [@unstableunicorn745](https://github.com/unstableunicorn745)
@@ -11601,7 +11599,7 @@
 
 - [@khemraj10](https://github.com/khemraj10/)
 
-- [@cam1608](https://github.com/cam1608) 
+- [@cam1608](https://github.com/cam1608)
 
 - [@mateusmart6](https://github.com/mateusmart6/)
 
@@ -11687,7 +11685,7 @@
 
 - [@shaynepinto](https://github.com/shaynepinto)
 
-- [@Waynexchan](https://github.com/Waynexchan) 
+- [@Waynexchan](https://github.com/Waynexchan)
 
 - [@SoilihBenSoilih](https://github.com/SoilihBenSoilih)
 
@@ -11882,4 +11880,3 @@
 - [@RainerG6](https://github.com/RainerG6)
 
 - [@gejaco](https://github.com/gejaco)
-
