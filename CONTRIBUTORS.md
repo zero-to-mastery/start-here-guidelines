@@ -8187,7 +8187,7 @@
 
 - [@Seinnlee](https://github.com/seinnlee)
 
-- [@Selva02695](<https://github.com/Selva02695)
+- [@Selva02695](https://github.com/Selva02695)
 
 - [@Selvendranks](https://github.com/selvendranks)
 
@@ -11569,6 +11569,8 @@
 
 - [@TrixP](https://github.com/TrixP/)
 
+- [@karan74jaiswal](https://github.com/karan74jaiswal/)
+
 - [@Nazy9021](https://github.com/Nazy9021/)
 
 - [@unstableunicorn745](https://github.com/unstableunicorn745)
@@ -11866,5 +11868,15 @@
 - [@Fir3Tig3r](https://github.com/Fir3Tig3r/)
 
 - [@samuelIkoli](https://github.com/samuelIkoli)
+
 - [@sjeevankumar](https://github.com/sjeevankumar)
+
 - [@Ato186](https://github.com/Ato186/)
+
+- [Kritkhong](https://github.com/kritkhong/)
+
+- [@fkaaziebu](https://github.com/fkaaziebu)
+
+- [rawanalwadeai](https://github.com/rawanalwadeai)
+
+
