@@ -1,18 +1,11 @@
 # CONTRIBUTORS
 
-<<<<<<< test
-=======
-<<<<<<< HEAD
-
->>>>>>> master
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [VinoLemos](https://github.com/VinoLemos)
 
 - [Kane Chang](https://github.com/kane-chang)
-
-=======
->>>>>>> d956674ce (Add DipaGalani)
+- 
 - [Cyrus](https://github.com/0HA0/)
 
 - [@singhprabh27](https://github.com/singhprabh27)
@@ -11902,8 +11895,6 @@
 - [@RainerG6](https://github.com/RainerG6)
 
 - [@gejaco](https://github.com/gejaco)
-<<<<<<< test
-=======
 
 - [@khemraj10](https://github.com/khemraj10/) 
 
@@ -11914,4 +11905,6 @@
 - [@sonnywuzhere](https://github.com/sonnywuzhere)
 
 - [@DipaGalani](https://github.com/DipaGalani)
->>>>>>> master
+
+- [@IsacGomess](https://github.com/IsacGomess)
+
