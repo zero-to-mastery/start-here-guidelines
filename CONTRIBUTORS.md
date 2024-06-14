@@ -14,11 +14,15 @@
 
 - [Kashif Nazar](https://github.com/kashifnazar)
 
+- [Md. Azim Fazar Akhtar](https://github.com/Azim-Akhtar)
+
 - [Grace Bong](https://github.com/bongster91)
 
 - [@jamesxleon](https://github.com/jamesxleon)
 
 - [Joel Burns](https://github.com/jburns6789)
+
+- [Bashir-Ny](https://github.com/Bashir-12345)
 
 - [Simontagbor](https://https://github.com/Simontagbor)
 - [subutian](https://github.com/krishvsoni)
@@ -28,6 +32,8 @@
 - [olekingkinga](https://github.com/olekingKinga)
 
 - [Eslam Abdelhakem](https://github.com/EslamAbdElhakem)
+
+- [@Olly100](https://github.com/Olly100)
 
 - [@lemonazaur](https://github.com/lemonazaur)
 
@@ -44,6 +50,10 @@
 - [@felixsundaykpormon](https://github.com/felixsunyk)
 
 - [HINGA PETER](https://github.com/Hinga-inc)
+
+- [Amit Yadav](https://github.com/addyplays)
+
+- [Reesu Jagan](https://github.com/codejay12)
 
 - [@harrisbyrnes](https://github.com/harrisbyrnes)
 
@@ -373,6 +383,8 @@
 
 - [Shaikh Aman](https://github.com/ShaikhAman01)
 
+- [Abin](https://github.com/iam-abin)
+
 - [Shambhavi20031984](https://github.com/Shambhavi20031984)
 
 - [codercourt](https://github.com/codercourt)
@@ -571,7 +583,7 @@
 
 - [@sufyanhabib](https://github.com/sufyanhabib)
 
-- [@aditya7302]((https://github.com/aditya7302)
+- [@aditya7302](https://github.com/aditya7302)
 
 - [@manjillama](https://github.com/manjillama)
 
@@ -2654,6 +2666,8 @@
 - [@F1V3Dev](https://github.com/f1v3-dev)
 
 - [@F3Ll0W](https://github.com/f3ll0w)
+
+- [@fabio123789](https://github.com/fabio123789)
 
 - [@Fabienmarchand](https://github.com/fabienMarchand)
 
@@ -7445,6 +7459,8 @@
 
 - [@Rathmanjonathan](https://github.com/rathmanjonathan)
 
+- [@HASH-0021](https://github.com/HASH-0021)
+
 - [@Raufnarejo505](https://github.com/Raufnarejo505)
 
 - [@Raulrobi2018](https://github.com/raulrobi2018)
@@ -11621,8 +11637,6 @@
 
 - [@Joshualwh](https://github.com/Joshualwh)
 
-- [@rebekag2](https://github.com/rebekag2)
-
 - [@And_GG](https://github.com/AndGG1)
 
 - [@jeffersonrj14](https://github.com/jeffersonrj14)
@@ -11880,3 +11894,17 @@
 - [@RainerG6](https://github.com/RainerG6)
 
 - [@gejaco](https://github.com/gejaco)
+
+- [@khemraj10](https://github.com/khemraj10/)
+
+- [@bashir-12345](https://github.com/Bashir-12345/)
+
+- [@ishan080604](https://github.com/ishan080604)
+
+- [@sonnywuzhere](https://github.com/sonnywuzhere)
+
+- [@DipaGalani](https://github.com/DipaGalani)
+
+- [@IsacGomess](https://github.com/IsacGomess)
+
+- [@dveytsman](https://github.com/dveytsman)
