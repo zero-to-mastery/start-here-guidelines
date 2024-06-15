@@ -7055,7 +7055,7 @@
 
 - [@Planetnamektech](https://github.com/PlanetNamekTech)
 
-- [@pleomorph](https://github.com/pleomorph>)
+- [@pleomorph](https://github.com/pleomorph)
 
 - [@Pmakaju](https://github.com/Pmakaju)
 
@@ -10407,11 +10407,11 @@
 
 - [Idrees9321](https://github.com/Idrees9321)
 
-- [@Davve686](<https://github.com/Davve686>)
+- [@Davve686](https://github.com/Davve686)
 
 - [@XayZay](https://github.com/XayZay)
 
-- [joyboyid](<https://github.com/joyboyid>)
+- [joyboyid](https://github.com/joyboyid)
 
 - [@Pratyush-Dehury](https://github.com/Pratyush-Dehury)
 
@@ -11080,8 +11080,6 @@
 - [@olajuw](https://github.com/olajuw)
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
-
-- [@lukahristic](https://github.com/lukahristic/)
 
 - [@imshubhamchavan](https://github.com/imshubhamchavan)
 
@@ -11914,3 +11912,5 @@
 - [@dveytsman](https://github.com/dveytsman)
 
 - [@ali-witwit](https://github.com/ali-witwit)
+
+- [@VictorResines](https://github.com/VictorResines)
