@@ -1961,6 +1961,8 @@
 
 - [@Dedaldinopapelo](https://github.com/Dedaldino-Papelo)
 
+- [@anilsanli](https://github.com/anilsanli)
+
 - [@Dedanmsafari](https://github.com/dedanmsafari)
 
 - [@Deedee1970](https://github.com/Deedee1970/)
@@ -7053,7 +7055,7 @@
 
 - [@Planetnamektech](https://github.com/PlanetNamekTech)
 
-- [@pleomorph](https://github.com/pleomorph>)
+- [@pleomorph](https://github.com/pleomorph)
 
 - [@Pmakaju](https://github.com/Pmakaju)
 
@@ -11079,10 +11081,6 @@
 
 - [@tusharkumar2302](https://github.com/tusharkumar2302)
 
-- [@lukahristic](https://github.com/lukahristic/)
-
-- [@imshubhamchavan](https://github.com/imshubhamchavan)
-
 - [@allegraanka](https://github.com/allegraanka)
 
 - [@SirNickolas21](https://github.com/SirNickolas21)
@@ -11171,6 +11169,7 @@
 
 - [Nelan](https://github.com/NelanJoe)
 
+
 - [@Efficient_C](https://github.com/Efficient-C)
 
 - [@Saifza](https://github.com/saifza)
@@ -11180,8 +11179,6 @@
 - [@Vsu25](https://github.com/Vsu25)
 
 - [@learningGit-profile ](https://github.com/learningGit-profile)
-
-- [@dmpapageo](https://github.com/dmpapageo)
 
 - [@Themis23](https://github.com/Themis23)
 
@@ -11908,3 +11905,23 @@
 - [@IsacGomess](https://github.com/IsacGomess)
 
 - [@dveytsman](https://github.com/dveytsman)
+
+- [@ali-witwit](https://github.com/ali-witwit)
+
+- [@VictorResines](https://github.com/VictorResines)
+
+- [@AKASH02003](https://github.com/AKASH02003)
+
+- [@ACRUZ04](https://github.com/ACRUZ04)
+
+- [@rebekag2](https://github.com/rebekag2)
+
+- [@Andronicusk](https://github.com/Andronicusk)
+
+- [@stcybrdgs](https://github.com/stcybrdgs)
+
+- [@StanishCode](https://github.com/StanishCode)
+
+- [@jintoAntony](https://github.com/jintoAntony)
+
+- [michafdlr](https://github.com/michafdlr)
