@@ -44,6 +44,8 @@
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
 - [windY1Y](https://github.com/windy1y)
+  
+- [lemonbirch](https://github.com/lemonbirch)
 
 - [saurabh-172](https://github.com/saurabh-172)
 
