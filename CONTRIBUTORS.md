@@ -423,6 +423,8 @@
 
 - [Maurizio Conte](https://github.com/mconte10)
 
+- [Manikanta Pise](https://github.com/piseMani)
+
 - [Ankoor Gorai](https://github.com/ankoorgorai)
 
 - [Sean Brook](https://github.com/sbrook776)
