@@ -108,7 +108,7 @@
 - [FancyTobias](https://github.com/FancyTobias)
 
 - [Rohan](https://github.com/RohanReddy2003)
-
+- [Nikita](https://github.com/nikitaa-sinhaa)
 - [Sreecharan](https://github.com/Sreecharan885)
 
 - [Pankaj Mulay](https://github.com/pcm1984)
