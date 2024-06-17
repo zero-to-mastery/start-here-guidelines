@@ -6799,6 +6799,8 @@
 
 - [@Oulyone](https://github.com/Oulyone/)
 
+- [@stas-demi](https://github.com/stas-demi)
+
 - [@Ousainoubsj](https://github.com/ousainoubsj/)
 
 - [@Overdrivemachines](https://github.com/overdrivemachines)
@@ -11094,7 +11096,6 @@
 - [@lukahristic](https://github.com/lukahristic/)
 
 - [@imshubhamchavan](https://github.com/imshubhamchavan)
->>>>>>> 571fa2d39 (karr1985)
 
 - [@allegraanka](https://github.com/allegraanka)
 
@@ -11672,6 +11673,8 @@
 
 - [@Echoslayer](https://github.com/Echoslayer)
 
+- [@prakharpaliwar](https://github.com/prakharpaliwar)
+
 - [@projuan](https://github.com/projuan) 
 
 - [@sabreu12](https://github.com/sabreu12)
@@ -11949,3 +11952,5 @@
 - [@On4m](https://github.com/On4m)
 
 - [@adolfolimonc](https://github.com/adolfolimonc)
+
+- [@Johnnydiazjr] (https://github.com/Johnnydiazjr)
