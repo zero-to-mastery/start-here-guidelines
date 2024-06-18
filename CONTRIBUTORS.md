@@ -155,6 +155,8 @@
 
 - [Prathmesh Khede](https://github.com/Prathm3021)
 
+- [Jonathan Lu](https://github.com/jonL0001)
+
 - [Rohan Sharma](https://github.com/RS-labhub)
 
 - [MohamedAhad](https://github.com/MohamedAhad)
