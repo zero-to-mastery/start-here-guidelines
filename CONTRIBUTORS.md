@@ -45,6 +45,8 @@
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
 
+- [@lemonbirch](https://github.com/lemonbirch)
+
 - [windY1Y](https://github.com/windy1y)
   
 - [lemonbirch](https://github.com/lemonbirch)
@@ -58,6 +60,8 @@
 - [HINGA PETER](https://github.com/Hinga-inc)
 
 - [Amit Yadav](https://github.com/addyplays)
+
+- [Jameson Baker](https://github.com/Jami-tsm)
 
 - [Reesu Jagan](https://github.com/codejay12)
 
@@ -107,6 +111,8 @@
 
 - [Rohan](https://github.com/RohanReddy2003)
 
+- [Nikita](https://github.com/nikitaa-sinhaa)
+
 - [Sreecharan](https://github.com/Sreecharan885)
 
 - [Pankaj Mulay](https://github.com/pcm1984)
@@ -152,6 +158,8 @@
 - [Sowmya Mannem](https://github.com/sowmya1408)
 
 - [Prathmesh Khede](https://github.com/Prathm3021)
+
+- [Jonathan Lu](https://github.com/jonL0001)
 
 - [Rohan Sharma](https://github.com/RS-labhub)
 
@@ -420,6 +428,8 @@
 - [amandeep singh parihar](https://github.com/amandeep-singh-parihar)
 
 - [Maurizio Conte](https://github.com/mconte10)
+
+- [Manikanta Pise](https://github.com/piseMani)
 
 - [Ankoor Gorai](https://github.com/ankoorgorai)
 
@@ -1026,6 +1036,8 @@
 - [@EnzoCuervo](https://github.com/EnzoCuervo)
 
 - [@Benr027](https://github.com/Benr027)
+
+- [@Ankush142930](https://github.com/Ankush142930)
 
 - [@Bentan101](https://github.com/BenTan101)
 
@@ -1884,6 +1896,8 @@
 - [@Datng](https://github.com/dattuannguyen/)
 
 - [@Davdwoo](https://github.com/davdwoo/)
+
+- [@alxPgns](https://github.com/alxPgns)
 
 - [@Davi0254](https://github.com/Davi0254)
 
@@ -6220,6 +6234,8 @@
 - [@Mrsakib94](https://github.com/mrsakib94)
 
 - [@Mrschabs](https://github.com/Mrschabs)
+
+- [@alxPgns](https://github.com/alxPgns)
 
 - [@Mrtadeu](https://github.com/MrTadeu)
 
@@ -11271,6 +11287,8 @@
 
 - [@domzone1](https://github.com/domzone1)
 
+- [@rue19](https://github.com/rue19)
+
 - [@KevMonstah](https://github.com/KevMonstah)
 
 - [@Vulture33](https://github.com/Vulture33)
@@ -11659,8 +11677,6 @@
 
 - [@manasroutcse](https://github.com/manasroutcse/)
 
-- [@Echoslayer](https://github.com/Echoslayer)
-
 - [@prakharpaliwar](https://github.com/prakharpaliwar)
 
 - [@projuan](https://github.com/projuan) 
@@ -11942,4 +11958,12 @@
 - [@adolfolimonc](https://github.com/adolfolimonc)
 
 - [@Johnnydiazjr] (https://github.com/Johnnydiazjr)
+
 - [@rewpolo](https://github.com/rewpolo)
+
+- [@asttle](https://github.com/asttle)
+
+- [@Mohamed Mahmoud](https://github.com/MohamedMahmoudHaleem)
+
+- [@rue19](https://github.com/rue19/)
+>>>>>>> b276387c3 (Add alxPgns)
