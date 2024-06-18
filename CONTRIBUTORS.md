@@ -1898,6 +1898,8 @@
 
 - [@Davdwoo](https://github.com/davdwoo/)
 
+- [@alxPgns](https://github.com/alxPgns)
+
 - [@Davi0254](https://github.com/Davi0254)
 
 - [@ParzivalAFK](https://github.com/ParzivalAFK)
@@ -6231,6 +6233,8 @@
 - [@Mrsakib94](https://github.com/mrsakib94)
 
 - [@Mrschabs](https://github.com/Mrschabs)
+
+- [@alxPgns](https://github.com/alxPgns)
 
 - [@Mrtadeu](https://github.com/MrTadeu)
 
@@ -11963,3 +11967,4 @@
 - [@Mohamed Mahmoud](https://github.com/MohamedMahmoudHaleem)
 
 - [@rue19](https://github.com/rue19/)
+>>>>>>> b276387c3 (Add alxPgns)
