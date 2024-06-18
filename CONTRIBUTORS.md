@@ -1,6 +1,5 @@
 # CONTRIBUTORS
 
-
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [VinoLemos](https://github.com/VinoLemos)
@@ -5320,6 +5319,8 @@
 - [@Lwelsh5](https://github.com/lwelsh5)
 
 - [@Lyntee](https://github.com/lyntee)
+
+- [@BCIamLong](https://github.com/BCIamLong)
 
 - [@M0Lese](https://github.com/m0lese)
 
@@ -11606,8 +11607,6 @@
 
 - [@TrixP](https://github.com/TrixP/)
 
-- [@karan74jaiswal](https://github.com/karan74jaiswal/)
-
 - [@Nazy9021](https://github.com/Nazy9021/)
 
 - [@unstableunicorn745](https://github.com/unstableunicorn745)
@@ -11912,9 +11911,9 @@
 
 - [@gejaco](https://github.com/gejaco)
 
-- [@khemraj10](https://github.com/khemraj10/) 
+- [@khemraj10](https://github.com/khemraj10/)
 
-- [@bashir-12345](https://github.com/Bashir-12345/) 
+- [@bashir-12345](https://github.com/Bashir-12345/)
 
 - [@ishan080604](https://github.com/ishan080604)
 
