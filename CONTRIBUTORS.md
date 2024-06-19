@@ -48,7 +48,6 @@
 - [@lemonbirch](https://github.com/lemonbirch)
 
 - [windY1Y](https://github.com/windy1y)
-  
 - [lemonbirch](https://github.com/lemonbirch)
 
 - [saurabh-172](https://github.com/saurabh-172)
@@ -306,6 +305,8 @@
 - [sivangbagri](https://github.com/sivangbagri)
 
 - [Upendra](https://github.com/Upendra2003)
+
+- [aZolo77](https://github.com/aZolo77)
 
 - [FernHerrera11](https://github.com/FernHerrera11)
 
@@ -11679,7 +11680,7 @@
 
 - [@prakharpaliwar](https://github.com/prakharpaliwar)
 
-- [@projuan](https://github.com/projuan) 
+- [@projuan](https://github.com/projuan)
 
 - [@sabreu12](https://github.com/sabreu12)
 
@@ -11967,13 +11968,14 @@
 
 - [@rue19](https://github.com/rue19/)
 
-- [@bashir-12345](https://github.com/Bashir-12345/) 
+- [@bashir-12345](https://github.com/Bashir-12345/)
 
 - [@clearlycam](https://github.com/clearlycam/)
 
 - [@defrogdev](https://github.com/defrogdev)
 
--[@JPDeveloper1](https://github.com/JPDeveloper1)
+- [@JPDeveloper1](https://github.com/JPDeveloper1)
 
--[@IIK99](https://github.com/IIK99)
--[@nabeed-haider](https://github.com/nabeed-haider)
+- [@IIK99](https://github.com/IIK99)
+
+- [@nabeed-haider](https://github.com/nabeed-haider)
