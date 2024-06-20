@@ -176,6 +176,8 @@
 
 - [Pratham Mahajan](https://github.com/Killer2OP)
 
+- [IbeLexus](https://github.com/IbeLexus)
+
 - [@Bandit-Army](https://github.com/Bandit-Army)
 
 - [Rohith R](https://github.com/ROOHITH)
