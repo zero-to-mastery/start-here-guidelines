@@ -26,6 +26,8 @@
 
 - [Joel Burns](https://github.com/jburns6789)
 
+- [Kannan B](https://github.com/kannanb2745)
+
 - [Bashir-Ny](https://github.com/Bashir-12345)
 
 - [Simontagbor](https://https://github.com/Simontagbor)
