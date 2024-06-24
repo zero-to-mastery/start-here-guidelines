@@ -30,6 +30,8 @@
 
 - [Kannan B](https://github.com/kannanb2745)
 
+- [Oksana](https://github.com/oprokopieva382)
+
 - [Bashir-Ny](https://github.com/Bashir-12345)
 
 - [Simontagbor](https://https://github.com/Simontagbor)
