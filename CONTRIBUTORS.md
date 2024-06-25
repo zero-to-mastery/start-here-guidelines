@@ -98,6 +98,8 @@
 
 - [Andrew Christensen] (https://github.com/rewpolo)
 
+- [ashish0kumar](https://github.com/ashish0kumar)
+
 - [Dhruv Jain](https://github.com/dhruvjaink07)
 
 - [Priyank Panchal](https://github.com/Priyank911)
