@@ -3969,6 +3969,8 @@
 
 - [@Javadbim](https://github.com/JavadBIM)
 
+- [Arthur Côrtes](https://github.com/arthurpc02)
+
 - [@Javakidx](https://github.com/javakidx/)
 
 - [@Javierb07](https://github.com/javierb07)
