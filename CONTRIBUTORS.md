@@ -104,6 +104,8 @@
 
 - [Priyank Panchal](https://github.com/Priyank911)
 
+- [Abubakar Abdulmajeed](https://github.com/Abukstech)
+
 - [Adithya](https://github.com/adithyakb10)
 
 - [Ibragim](https://github.com/Heilonng23)
