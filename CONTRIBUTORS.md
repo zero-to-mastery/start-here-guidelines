@@ -12020,19 +12020,20 @@
 
 - [@fgulde](https://github.com/fgulde/)
 
--[@Rishi](https://github.com/RishiMishra3004)
+- [@Rishi](https://github.com/RishiMishra3004)
 
--[@BradXIII](https://github.com/BradXIII/)
+- [@BradXIII](https://github.com/BradXIII/)
 
--[@nonny2006](https://github.com/nonny2006/)
+- [@nonny2006](https://github.com/nonny2006/)
 
--[@melirojasg](https://github.com/melirojasg/)
+- [@melirojasg](https://github.com/melirojasg/)
 
--[@ShebMichel](https://github.com/ShebMichel/)
+- [@ShebMichel](https://github.com/ShebMichel/)
 
--[@Maryp90](https://github.com/Maryp90/)
+- [@Maryp90](https://github.com/Maryp90/)
 
 - [@Rayaxco](https://github.com/rayaxco/)
 
 - [@khalidAgnaber] (https://github.com/khalidAgnaber/)
+
 - [@nickriley5](https://github.com/nickriley5) 
