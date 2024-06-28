@@ -12048,8 +12048,8 @@
 
 - [@mamouddiallo](https://github.com/mamouddiallo)
 
-- [@BravoKolos] (https://github.com/BravoKolos)
+- [@BravoKolos](https://github.com/BravoKolos)
 
-- [@vasukotadiya7] (https://github.com/vasukotadiya7)
+- [@vasukotadiya7](https://github.com/vasukotadiya7)
 
-- [@lazab2011] (https://github.com/lazab2011)
+- [@lazab2011](https://github.com/lazab2011)
