@@ -12078,4 +12078,4 @@
 
 - [@AndreiphBs](https://github.com/AndreiphBs)
 
-- [@egipot] (https://github.com/egipot)
+- [@egipot](https://github.com/egipot)
