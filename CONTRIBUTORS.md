@@ -7892,6 +7892,8 @@
 
 - [@Ryanberger2](https://github.com/ryanberger2/)
 
+- [@ryanhorsey](https://github.com/ryanhorsey/)
+
 - [@Ryankanderson](https://github.com/ryan-k-anderson)
 
 - [@Ryankjoseph](https://github.com/ryankjoseph)
