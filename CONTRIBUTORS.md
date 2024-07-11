@@ -12098,6 +12098,10 @@
 
 - [@fukudaum](https://github.com/fukudaum)
 
+<<<<<<< HEAD
 - [@EZZkhalaf](https://github.com/EZZkhalaf)
 
 - [@WeiHaoEric](https://github.com/WeiHaoEric)
+=======
+- [@izhar-ahmed](https://github.com/izhar-ahmed)
+>>>>>>> bbc80dbe1 (added my name to contributor list)
