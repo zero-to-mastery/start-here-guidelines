@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@dhritikothari11](https://github.com/dhritikothari11)
+
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [@Leen020](https://github.com/Leen020)
