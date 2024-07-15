@@ -12100,11 +12100,9 @@
 
 - [@hainguyen](https://github.com/iminloved)
 
-<<<<<<< HEAD
 - [@EZZkhalaf](https://github.com/EZZkhalaf)
 
 - [@WeiHaoEric](https://github.com/WeiHaoEric)
-=======
 - [@izhar-ahmed](https://github.com/izhar-ahmed)
->>>>>>> bbc80dbe1 (added my name to contributor list)
 - [@xfifixq](https://github.com/xfifixq)
+- [@ZawadiKiarie](https://github.com/ZawadiKiarie)
