@@ -9322,6 +9322,8 @@
 
 - [@Troypouliot](https://github.com/troypouliot)
 
+- [Troy Duncan](https://github.com/TroyKDuncan)
+
 - [@Trsohankumar](https://github.com/trsohankumar)
 
 - [@Tsaiching](https://github.com/Tsai-Ching)
