@@ -19,11 +19,10 @@ def get_user_list(lines):
     for line in lines:
         username_chars = []
         start_chars = ['-', ' ', '[', '@']
-        for letter in line:
-            if letter not in start_chars:
-                if letter == ']':
-                    break
-                username_chars.append(letter)
+        if ']' in line:
+            username_chars = [letter for letter in line if letter not in start_chars and letter != ']']
+        else:
+            username_chars = [letter for letter in line if letter not in start_chars]
         username = ''.join(username_chars)
         username_list.append(username)
     return username_list
