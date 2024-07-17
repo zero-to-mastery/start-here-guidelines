@@ -4,6 +4,8 @@
 
 - [@crypt0nate](https://github.com/crypt0nate)
 
+- [Yuvraj Singh](https://github.com/YuweAEC)
+
 - [@Leen020](https://github.com/Leen020)
 
 - [VinoLemos](https://github.com/VinoLemos)
