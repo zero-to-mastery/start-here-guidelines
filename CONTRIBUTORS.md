@@ -2,6 +2,8 @@
 
 - [@dhritikothari11](https://github.com/dhritikothari11)
 
+- [Vaibhav-kesarwani](https://github.com/Vaibhav-kesarwani)
+
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [Yuvraj Singh](https://github.com/YuweAEC)
