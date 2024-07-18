@@ -12096,6 +12096,8 @@
 
 - [@egipot](https://github.com/egipot)
 
+- [@Haris-Dilawar](https://github.com/Haris-Dilawar)
+
 - [@ASChirag](https://github.com/ASChirag)
 
 - [@SPHLam](https://github.com/SPHLam)
