@@ -132,6 +132,8 @@
 
 - [Pankaj Mulay](https://github.com/pcm1984)
 
+- [AribaS] (https://github.com/asiddiqi16)
+
 - [Javon](https://github.com/SlayersJay)
 
 - [Brittany Normandin](https://github.com/BrittNorm)
