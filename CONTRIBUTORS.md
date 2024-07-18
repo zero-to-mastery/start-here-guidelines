@@ -12116,6 +12116,8 @@
 
 - [@EZZkhalaf](https://github.com/EZZkhalaf)
 
+- [@dangelicer](https://github.com/dangelicer)
+
 - [@WeiHaoEric](https://github.com/WeiHaoEric)
 
 - [@izhar-ahmed](https://github.com/izhar-ahmed)
@@ -12141,5 +12143,3 @@
 - [@swashpo](https://github.com/swashpo)
 
 - [@Mastermassive](https://github.com/Mastermassive)
-
-- [@dangelicer](https://github.com/dangelicer)
