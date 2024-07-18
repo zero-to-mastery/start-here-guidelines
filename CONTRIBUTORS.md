@@ -12116,6 +12116,8 @@
 
 - [@EZZkhalaf](https://github.com/EZZkhalaf)
 
+- [@dangelicer](https://github.com/dangelicer)
+
 - [@WeiHaoEric](https://github.com/WeiHaoEric)
 
 - [@izhar-ahmed](https://github.com/izhar-ahmed)
