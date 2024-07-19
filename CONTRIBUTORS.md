@@ -2,6 +2,8 @@
 
 - [@dhritikothari11](https://github.com/dhritikothari11)
 
+- [Vaibhav-kesarwani](https://github.com/Vaibhav-kesarwani)
+
 - [@crypt0nate](https://github.com/crypt0nate)
 
 - [Yuvraj Singh](https://github.com/YuweAEC)
@@ -54,6 +56,8 @@
 - [@wahidulalamriyad](https://github.com/wahidulalamriyad)
 
 - [Aimen Altaiyeb](https://github.com/aimenAlt)
+
+- [ahmetarslanS](https://github.com/ahmetarslanS)
 
 - [@lemonbirch](https://github.com/lemonbirch)
 
@@ -131,6 +135,8 @@
 - [Sreecharan](https://github.com/Sreecharan885)
 
 - [Pankaj Mulay](https://github.com/pcm1984)
+
+- [AribaS] (https://github.com/asiddiqi16)
 
 - [Javon](https://github.com/SlayersJay)
 
@@ -8084,6 +8090,8 @@
 
 - [@Sandeepgaur98223](https://github.com/sandeepgaur98223)
 
+- [@henriqueeapsilva](https://github.com/henriqueeapsilva)
+
 - [@Sandeepgprec](https://github.com/Sandeepgprec)
 
 - [@Sandranaim](https://github.com/SandraNaim)
@@ -12094,6 +12102,8 @@
 
 - [@egipot](https://github.com/egipot)
 
+- [@Haris-Dilawar](https://github.com/Haris-Dilawar)
+
 - [@ASChirag](https://github.com/ASChirag)
 
 - [@SPHLam](https://github.com/SPHLam)
@@ -12107,6 +12117,8 @@
 - [@hainguyen](https://github.com/iminloved)
 
 - [@EZZkhalaf](https://github.com/EZZkhalaf)
+
+- [@dangelicer](https://github.com/dangelicer)
 
 - [@WeiHaoEric](https://github.com/WeiHaoEric)
 
@@ -12129,3 +12141,14 @@
 - [@kanishkK12](https://github.com/KanishkK12)
 
 - [@jsavla16](https://github.com/jsavla16)
+
+- [@Jerrychan0218](https://github.com/Jerrychan0218)
+
+- [@swashpo](https://github.com/swashpo)
+
+- [@Mastermassive](https://github.com/Mastermassive)
+
+- [@dubsumm](https://github.com/dubsumm)
+
+- [@shepherd-astro-flexer](https://github.com/shepherd-astro-flexer)
+
