@@ -108,6 +108,8 @@
 
 - [Amitha H](https://github.com/amithah)
 
+- [Chirag Joshi] (https://github.com/chiragjoshi481)
+
 - [Andrew Christensen] (https://github.com/rewpolo)
 
 - [ashish0kumar](https://github.com/ashish0kumar)
