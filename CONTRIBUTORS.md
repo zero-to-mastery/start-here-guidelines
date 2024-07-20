@@ -14,6 +14,8 @@
 
 - [Kane Chang](https://github.com/kane-chang)
 
+- [@nagpalnitesh](https://github.com/nagpalnitesh)
+
 - [Nicholas Patrick Ward](https://github.com/Karr1985)
 
 - [Cyrus](https://github.com/0HA0/)
