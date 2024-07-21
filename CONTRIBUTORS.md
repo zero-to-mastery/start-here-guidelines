@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@jonatng](https://github.com/jonatng)
+
 - [@dhritikothari11](https://github.com/dhritikothari11)
 
 - [Vaibhav-kesarwani](https://github.com/Vaibhav-kesarwani)
