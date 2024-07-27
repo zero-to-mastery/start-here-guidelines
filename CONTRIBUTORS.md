@@ -11,3 +11,4 @@
 - [@Pauljd1](https://github.com/Pauljd1)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@i-m-hossain](https://github.com/i-m-hossain)
+- [@jamesyuill](https://github.com/jamesyuill)
