@@ -6,6 +6,7 @@
 - [@pardub] (https://github.com/pardub)
 - [@jtor8](https://github.com/jtor8)
 - [@TamunaPak](https://github.com/TamunaPak)
+- [@Zandersoph](https://github.com/Zandersoph)
 - [@Akindex5427](https://github.com/Akindex5427/)
 - [@lonewolf159951](https://github.com/lonewolf159951)
 - [@Pauljd1](https://github.com/Pauljd1)
