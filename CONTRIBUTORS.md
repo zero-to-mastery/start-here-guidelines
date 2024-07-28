@@ -11,6 +11,7 @@
 - [@lonewolf159951](https://github.com/lonewolf159951)
 - [@Vuaya-B](https://github.com/Vuaya-B)
 - [@Pauljd1](https://github.com/Pauljd1)
+- [@Patrick-maged](https://github.com/Patrick-maged)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@i-m-hossain](https://github.com/i-m-hossain)
 - [@jamesyuill](https://github.com/jamesyuill)
