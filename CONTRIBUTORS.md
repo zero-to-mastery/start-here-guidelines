@@ -18,4 +18,8 @@
 - [@Kranjec023](https://github.com/Kranjec023)
 - [@lone4d7](https://github.com/lone4d7)
 - [@gops26](https://github.com/gops26)
+<<<<<<< HEAD
 - [@slegro97](https://github.com/slegro97)
+=======
+- [@dawnhajdu](https://github.com/dawnhajdu)
+>>>>>>> 081e976935a7210357791a083d8d89c7c42117df
