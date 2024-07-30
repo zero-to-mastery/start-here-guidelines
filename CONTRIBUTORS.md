@@ -19,3 +19,4 @@
 - [@lone4d7](https://github.com/lone4d7)
 - [@gops26](https://github.com/gops26)
 - [@dawnhajdu](https://github.com/dawnhajdu)
+- [@slegro97](https://github.com/slegro97)
