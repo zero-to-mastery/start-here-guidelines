@@ -13,6 +13,7 @@
 - [@Vuaya-B](https://github.com/Vuaya-B)
 - [@josewaihiga](https://github.com/josewaihiga)
 - [@Pauljd1](https://github.com/Pauljd1)
+- [@oxXLucasXxo](https://github.com/oxXLucasXxo)
 - [@Patrick-maged](https://github.com/Patrick-maged)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@i-m-hossain](https://github.com/i-m-hossain)
