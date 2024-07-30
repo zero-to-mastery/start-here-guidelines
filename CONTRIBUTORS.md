@@ -5,6 +5,7 @@
 - [@bosecodes](https://github.com/BOSE-git)
 - [@pardub](https://github.com/pardub)
 - [@jtor8](https://github.com/jtor8)
+- [@Michael-Kornilich](https://github.com/Michael-Kornilich)
 - [@TamunaPak](https://github.com/TamunaPak)
 - [@Zandersoph](https://github.com/Zandersoph)
 - [@Akindex5427](https://github.com/Akindex5427/)
