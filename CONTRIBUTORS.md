@@ -10,6 +10,7 @@
 - [@Akindex5427](https://github.com/Akindex5427/)
 - [@lonewolf159951](https://github.com/lonewolf159951)
 - [@Vuaya-B](https://github.com/Vuaya-B)
+- [@josewaihiga](https://github.com/josewaihiga)
 - [@Pauljd1](https://github.com/Pauljd1)
 - [@Patrick-maged](https://github.com/Patrick-maged)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
