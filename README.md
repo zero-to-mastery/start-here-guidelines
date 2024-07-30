@@ -46,8 +46,7 @@ We don't care if you break things. This is a playground, and we encourage failin
    ```
 
    ```bash
-   git branch <branch-name>
-   git switch <branch-name>
+   git switch -c <branch-name>
    ```
 
 7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
