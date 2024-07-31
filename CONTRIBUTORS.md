@@ -26,3 +26,4 @@
 - [@shubhamkourav](https://github.com/shubhamkourav)
 - [@rabit314](https://github.com/rabit314)
 - [@inv-amalusudhakaran](https://github.com/inv-amalusudhakaran)
+- [@Shruti-panchal](https://github.com/Shruti-panchal)
