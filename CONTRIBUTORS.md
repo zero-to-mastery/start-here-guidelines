@@ -24,3 +24,4 @@
 - [@dawnhajdu](https://github.com/dawnhajdu)
 - [@slegro97](https://github.com/slegro97)
 - [@shubhamkourav](https://github.com/shubhamkourav)
+- [@rabit314](https://github.com/rabit314)
