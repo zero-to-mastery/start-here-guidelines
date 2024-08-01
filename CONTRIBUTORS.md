@@ -21,6 +21,7 @@
 - [@jamesyuill](https://github.com/jamesyuill)
 - [@Kranjec023](https://github.com/Kranjec023)
 - [@lone4d7](https://github.com/lone4d7)
+- [@UpadyaR](https://github.com/UpadyaR)
 - [@gops26](https://github.com/gops26)
 - [@dawnhajdu](https://github.com/dawnhajdu)
 - [@slegro97](https://github.com/slegro97)
