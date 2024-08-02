@@ -3,6 +3,7 @@
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
 - [@bosecodes](https://github.com/BOSE-git)
+- [@tshepop](https://github.com/tshepop)
 - [@pardub](https://github.com/pardub)
 - [@jtor8](https://github.com/jtor8)
 - [@Michael-Kornilich](https://github.com/Michael-Kornilich)
