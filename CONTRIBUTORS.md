@@ -35,3 +35,4 @@
 - [@KeiliV](https://github.com/KeiliV)
 - [@MiltonCWhite](https://github.com/MiltonCWhite)
 - [@Dbarbanakov](https://github.com/Dbarbanakov)
+- [@maparrar](https://github.com/maparrar)
