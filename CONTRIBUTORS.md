@@ -3,6 +3,7 @@
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
 - [@abrams0](https://github.com/abrams0)
+- [@shakirbakare](https://github.com/shakirbakare)
 - [@bosecodes](https://github.com/BOSE-git)
 - [@pardub](https://github.com/pardub)
 - [@jtor8](https://github.com/jtor8)
