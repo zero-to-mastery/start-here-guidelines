@@ -34,3 +34,4 @@
 - [@oleg-rom](https://github.com/oleg-rom)
 - [@KeiliV](https://github.com/KeiliV)
 - [@MiltonCWhite](https://github.com/MiltonCWhite)
+- [@Dbarbanakov](https://github.com/Dbarbanakov)
