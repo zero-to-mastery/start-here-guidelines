@@ -9,6 +9,7 @@
 - [@tshepop](https://github.com/tshepop)
 - [@pardub](https://github.com/pardub)
 - [@jtor8](https://github.com/jtor8)
+- [@Budur6655](https://github.com/Budur6655)
 - [@Michael-Kornilich](https://github.com/Michael-Kornilich)
 - [@TamunaPak](https://github.com/TamunaPak)
 - [@Zandersoph](https://github.com/Zandersoph)
