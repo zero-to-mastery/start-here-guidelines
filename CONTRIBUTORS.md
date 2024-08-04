@@ -6,6 +6,7 @@
 - [@shakirbakare](https://github.com/shakirbakare)
 - [@bosecodes](https://github.com/BOSE-git)
 - [@AmoghJM](https://github.com/AmoghJM)
+- [@skohler16](https://github.com/skohler16)
 - [@tshepop](https://github.com/tshepop)
 - [@pardub](https://github.com/pardub)
 - [@jtor8](https://github.com/jtor8)
