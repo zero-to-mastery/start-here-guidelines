@@ -9,5 +9,4 @@
 - [@Akindex5427](https://github.com/Akindex5427/)
 - [@lonewolf159951](https://github.com/lonewolf159951)
 - [@Pauljd1](https://github.com/Pauljd1)
-
--[@Tashenica](https://github.com/Tashenica)
+- [@Tashenica](https://github.com/Tashenica)
