@@ -22,6 +22,7 @@
 - [@josewaihiga](https://github.com/josewaihiga)
 - [@Pauljd1](https://github.com/Pauljd1)
 - [@oxXLucasXxo](https://github.com/oxXLucasXxo)
+- [@FaizanLiaqat](https://github.com/FaizanLiaqat)
 - [@Patrick-maged](https://github.com/Patrick-maged)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@VishalKrishnanR](https://github.com/VishalKrishnanR)
