@@ -49,3 +49,4 @@
 - [@neelshrimali](https://github.com/neelshrimali)
 - [@chaiwawtf](https://github.com/chaiwatf)
 - [@Kendi-prog](https://github.com/kendi-prog)
+- [@Banditman](https://github.com/Banditman00)
