@@ -50,3 +50,4 @@
 - [@chaiwawtf](https://github.com/chaiwatf)
 - [@Kendi-prog](https://github.com/kendi-prog)
 - [@Banditman](https://github.com/Banditman00)
+- [@RJCunanan](https://github.com/RJCunanan)
