@@ -20,6 +20,7 @@
 -[@Muki-Dev](https://github.com/Muki-Dev)
 - [@lonewolf159951](https://github.com/lonewolf159951)
 - [@Vuaya-B](https://github.com/Vuaya-B)
+- [@psierrajs](https://github.com/psierrajs)
 - [@josewaihiga](https://github.com/josewaihiga)
 - [@Pauljd1](https://github.com/Pauljd1)
 - [@oxXLucasXxo](https://github.com/oxXLucasXxo)
