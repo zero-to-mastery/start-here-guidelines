@@ -41,6 +41,7 @@
 - [@slegro97](https://github.com/slegro97)
 - [@shubhamkourav](https://github.com/shubhamkourav)
 - [@rabit314](https://github.com/rabit314)
+- [@Dhanwith03](https://github.com/Dhanwith03)
 - [@inv-amalusudhakaran](https://github.com/inv-amalusudhakaran)
 - [@ddegiorgio](https://github.com/ddegiorgio)
 - [@Shruti-panchal](https://github.com/Shruti-panchal)
