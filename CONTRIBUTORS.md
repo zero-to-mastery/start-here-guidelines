@@ -54,6 +54,7 @@
 - [@jacob80a](https://github.com/jacob80a)
 - [@chaiwawtf](https://github.com/chaiwatf)
 - [@Kendi-prog](https://github.com/kendi-prog)
+- [@Sachin](https://github.com/ksachin7)
 - [@Banditman](https://github.com/Banditman00)
 - [@RJCunanan](https://github.com/RJCunanan)
 - [@imayushhh](https://github.com/imayushhh)
