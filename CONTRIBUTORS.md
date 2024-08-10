@@ -61,4 +61,5 @@
 - [@RJCunanan](https://github.com/RJCunanan)
 - [@imayushhh](https://github.com/imayushhh)
 - [@mohsinwani15](https://github.com/mohsinwani15)
-= [@tdg7](https://github.com/tdg7/)
+- [@tdg7](https://github.com/tdg7/)
+- [@kemaxx](https://github.com/kemaxx/)
