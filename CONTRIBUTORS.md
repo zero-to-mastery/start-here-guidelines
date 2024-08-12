@@ -22,6 +22,7 @@
 - [@Yashika9013](https://github.com/Yashika9013)
 - [@Muki-Dev](https://github.com/Muki-Dev)
 - [@lonewolf159951](https://github.com/lonewolf159951)
+- [@jormondroyd27](https://github.com/jormondroyd27)
 - [@Vuaya-B](https://github.com/Vuaya-B)
 - [@psierrajs](https://github.com/psierrajs)
 - [@josewaihiga](https://github.com/josewaihiga)
