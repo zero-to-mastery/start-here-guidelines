@@ -68,5 +68,6 @@
 - [@kemaxx](https://github.com/kemaxx/)
 - [@Bren12](https://github.com/Bren12/)
 - [@debosli](https://github.com/debosli/)
+- [@eelopez515](https://github.com/eelopez515/)
 - [@ryiuzahn](https://github.com/ryiuzahn/)
 - [@jamie123234](https://github.com/jamie123234/)
