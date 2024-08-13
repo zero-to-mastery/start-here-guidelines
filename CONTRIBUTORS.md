@@ -32,6 +32,7 @@
 - [@Patrick-maged](https://github.com/Patrick-maged)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@VishalKrishnanR](https://github.com/VishalKrishnanR)
+- [@NOFAXKING](https://github.com/NOFAXKING)
 - [@i-m-hossain](https://github.com/i-m-hossain)
 - [@G-makes](https://github.com/G-makes)
 - [@jamesyuill](https://github.com/jamesyuill)
