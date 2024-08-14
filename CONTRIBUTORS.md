@@ -48,6 +48,7 @@
 - [@AyyamAgauri](https://github.com/AyyamAgauri)
 - [@inv-amalusudhakaran](https://github.com/inv-amalusudhakaran)
 - [@ddegiorgio](https://github.com/ddegiorgio)
+- [@Da-dotcom-code](https://github.com/Da-dotcom-code)
 - [@Shruti-panchal](https://github.com/Shruti-panchal)
 - [@oleg-rom](https://github.com/oleg-rom)
 - [@KeiliV](https://github.com/KeiliV)
