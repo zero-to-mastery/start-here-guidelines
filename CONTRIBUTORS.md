@@ -56,6 +56,7 @@
 - [@Dbarbanakov](https://github.com/Dbarbanakov)
 - [@maparrar](https://github.com/maparrar)
 - [@KC-002](https://github.com/KC-002)
+- [@OuTaThIsWoRlD3000](https://github.com/OuTaThIsWoRlD3000)
 - [@neelshrimali](https://github.com/neelshrimali)
 - [@jacob80a](https://github.com/jacob80a)
 - [@chaiwawtf](https://github.com/chaiwatf)
