@@ -79,6 +79,6 @@
 - [@knejzu](https://github.com/knejzu)
 - [@Aceer121](https://github.com/Aceer121)
 - [@ESAMHADI](https://github.com/ESAMHADI/)
-- [@ESAMHADI](https://github.com/ESAMHADI/)
 - [@vsp926](https://github.com/vsp926/)
 - [@askaryabbas](https://github.com/askaryabbas/)
+- [@klhaug](https://github.com/klhaug/)
