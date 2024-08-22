@@ -94,4 +94,4 @@
 - [@codeswitchstudio](https://github.com/codeswitchstudio)
 - [@AY-BREAD](https://github.com/AY-BREAD/)
 - [@shvvvansh](https://github.com/shvvvansh/)
-- [@Exia01] (https://github.com/Exia01)
+- [@Exia01](https://github.com/Exia01)
