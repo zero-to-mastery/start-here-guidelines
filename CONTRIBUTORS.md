@@ -97,3 +97,4 @@
 - [@Exia01](https://github.com/Exia01)
 - [@stanleyedegwa](https://github.com/stanleyedegwa/)
 - [@IVIonsters](https://github.com/IVIonsters)
+- [@tintinguy01](https://github.com/tintinguy01/)
