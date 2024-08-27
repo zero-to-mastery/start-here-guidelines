@@ -37,7 +37,7 @@
 - [@NOFAXKING](https://github.com/NOFAXKING)
 - [@i-m-hossain](https://github.com/i-m-hossain)
 - [@G-makes](https://github.com/G-makes)
-- [@bluemli-arts] (https://github.com/Bluemli-Arts)
+- [@Bluemli-Arts] (https://github.com/Bluemli-Arts)
 - [@jamesyuill](https://github.com/jamesyuill)
 - [@Kranjec023](https://github.com/Kranjec023)
 - [@lone4d7](https://github.com/lone4d7)
