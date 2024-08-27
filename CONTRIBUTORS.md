@@ -10,6 +10,7 @@
 - [@bmalvo](https://github.com/bmalvo)
 - [@tshepop](https://github.com/tshepop)
 - [@pardub](https://github.com/pardub)
+- [@SWojti](https://github.com/SWojti)
 - [@jtor8](https://github.com/jtor8)
 - [@Budur6655](https://github.com/Budur6655)
 - [@KLNewton](https://github.com/KLNewton)
