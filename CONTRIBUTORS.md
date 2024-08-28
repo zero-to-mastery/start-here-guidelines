@@ -41,6 +41,7 @@
 - [@Bluemli-Arts] (https://github.com/Bluemli-Arts)
 - [@jamesyuill](https://github.com/jamesyuill)
 - [@Kranjec023](https://github.com/Kranjec023)
+- [@sarthak132](https://github.com/sarthak132)
 - [@lone4d7](https://github.com/lone4d7)
 - [@UpadyaR](https://github.com/UpadyaR)
 - [@shawnvogt](https://github.com/shawnvogt)
