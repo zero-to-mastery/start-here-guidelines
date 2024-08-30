@@ -109,4 +109,4 @@
 - [@Michelleivan](https://github.com/Michelleivan)
 - [@Regularshaka](https://github.com/Regularshaka/)
 - [@victor-schez](https://github.com/victor-schez/)
-
+- [@8morr](https://github.com/8morr)
