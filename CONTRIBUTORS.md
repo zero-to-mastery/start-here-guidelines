@@ -107,3 +107,4 @@
 - [@thejonamreddy](https://github.com/thejonamreddy)
 - [@Michelleivan](https://github.com/Michelleivan)
 - [@Regularshaka](https://github.com/Regularshaka/)
+- [@victor-schez](https://github.com/victor-schez/)
