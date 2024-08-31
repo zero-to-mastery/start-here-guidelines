@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-
 - [@devMTCodes](https://github.com/devMTCodes)
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
@@ -87,6 +86,7 @@
 - [@Aceer121](https://github.com/Aceer121)
 - [@codewithsupra](https://github.com/codewithsupra)
 - [@Code-with-Ian](https://github.com/Code-with-Ian)
+- [@anurag-singh](https://github.com/dev-anurag-singh)
 - [@ESAMHADI](https://github.com/ESAMHADI/)
 - [@askaryabbas](https://github.com/askaryabbas/)
 - [@vsp926](https://github.com/vsp926/)
@@ -112,4 +112,3 @@
 - [@victor-schez](https://github.com/victor-schez/)
 - [@8morr](https://github.com/8morr)
 - [@m00nk0d3](https://github.com/m00nk0d3)
-- [@4liyar](https://github.com/4liyar/)
