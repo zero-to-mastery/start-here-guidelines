@@ -65,6 +65,7 @@
 - [@maparrar](https://github.com/maparrar)
 - [@KC-002](https://github.com/KC-002)
 - [@OuTaThIsWoRlD3000](https://github.com/OuTaThIsWoRlD3000)
+- [@havvaguler](https://github.com/havvaguler)
 - [@neelshrimali](https://github.com/neelshrimali)
 - [@jacob80a](https://github.com/jacob80a)
 - [@chaiwawtf](https://github.com/chaiwatf)
