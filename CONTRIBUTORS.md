@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@devMTCodes](https://github.com/devMTCodes)
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
@@ -64,6 +65,7 @@
 - [@maparrar](https://github.com/maparrar)
 - [@KC-002](https://github.com/KC-002)
 - [@OuTaThIsWoRlD3000](https://github.com/OuTaThIsWoRlD3000)
+- [@havvaguler](https://github.com/havvaguler)
 - [@neelshrimali](https://github.com/neelshrimali)
 - [@jacob80a](https://github.com/jacob80a)
 - [@chaiwawtf](https://github.com/chaiwatf)
@@ -82,6 +84,7 @@
 - [@eelopez515](https://github.com/eelopez515/)
 - [@ryiuzahn](https://github.com/ryiuzahn/)
 - [@jamie123234](https://github.com/jamie123234/)
+- [@MLKinnear](https://github.com/MLKinnear)
 - [@nomo5g](https://github.com/nomo5g/)
 - [@knejzu](https://github.com/knejzu)
 - [@Aceer121](https://github.com/Aceer121)
@@ -112,6 +115,8 @@
 - [@victor-schez](https://github.com/victor-schez/)
 - [@8morr](https://github.com/8morr)
 - [@m00nk0d3](https://github.com/m00nk0d3)
-
-
-
+- [@4liyar](https://github.com/4liyar/)
+- [@Divya-Vernekar](https://github.com/Divya-Vernekar)
+- [@Siddharth-Singh-Verma](https://github.com/Siddharth-Singh-Verma)
+- [@Rayen-nasser](https://github.com/Rayen-nasser)
+- [@A.D-O](https://github.com/Jrho-0)
