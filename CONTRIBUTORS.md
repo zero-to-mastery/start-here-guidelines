@@ -83,6 +83,7 @@
 - [@eelopez515](https://github.com/eelopez515/)
 - [@ryiuzahn](https://github.com/ryiuzahn/)
 - [@jamie123234](https://github.com/jamie123234/)
+- [@MLKinnear](https://github.com/MLKinnear)
 - [@nomo5g](https://github.com/nomo5g/)
 - [@knejzu](https://github.com/knejzu)
 - [@Aceer121](https://github.com/Aceer121)
