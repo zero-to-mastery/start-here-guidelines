@@ -77,6 +77,7 @@
 - [@Sumisha4](https://github.com/Sumisha4)
 - [@mohsinwani15](https://github.com/mohsinwani15)
 - [@tdg7](https://github.com/tdg7/)
+- [@havvaguler](https://github.com/havvaguler)
 - [@kemaxx](https://github.com/kemaxx/)
 - [@Bren12](https://github.com/Bren12/)
 - [@debosli](https://github.com/debosli/)
@@ -118,4 +119,4 @@
 - [@Divya-Vernekar](https://github.com/Divya-Vernekar)
 - [@Siddharth-Singh-Verma](https://github.com/Siddharth-Singh-Verma)
 - [@Rayen-nasser](https://github.com/Rayen-nasser)
--[@A.D-O](https://github.com/Jrho-0)
+- [@A.D-O](https://github.com/Jrho-0)
