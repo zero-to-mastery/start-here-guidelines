@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@devMTCodes](https://github.com/devMTCodes)
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
@@ -54,6 +55,7 @@
 - [@Dhanwith03](https://github.com/Dhanwith03)
 - [@AyyamAgauri](https://github.com/AyyamAgauri)
 - [@inv-amalusudhakaran](https://github.com/inv-amalusudhakaran)
+- [@PatrickSchubert-Munich](https://github.com/PatrickSchubert-Munich)
 - [@ddegiorgio](https://github.com/ddegiorgio)
 - [@Da-dotcom-code](https://github.com/Da-dotcom-code)
 - [@Shruti-panchal](https://github.com/Shruti-panchal)
