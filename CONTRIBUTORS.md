@@ -128,4 +128,3 @@
 - [@ekecolin](https://github.com/ekecolin)
 - [@Ikermann](https://github.com/Ikermann)
 - [@rahulverma14061998](https://github.com/rahulverma14061998)
-- [@starphillips](https://github.com/starphillips)
