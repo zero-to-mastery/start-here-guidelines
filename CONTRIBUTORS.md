@@ -136,3 +136,4 @@
 -[@Taha](https://github.com/tahadzdzdz)
 - [@Baswa-Akshay](https://github.com/baswa-akshay/)
 - [@BugzTheBunny](https://github.com/BugzTheBunny)
+- [@Isabelle36](https://github.com/Isabelle36)
