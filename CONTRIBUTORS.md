@@ -135,3 +135,4 @@
 - [@Shali](https://github.com/Shaliryo1567)
 -[@Taha](https://github.com/tahadzdzdz)
 - [@Baswa-Akshay](https://github.com/baswa-akshay/)
+- [@BugzTheBunny](https://github.com/BugzTheBunny)
