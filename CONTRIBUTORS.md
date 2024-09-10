@@ -6,6 +6,7 @@
 - [@abrams0](https://github.com/abrams0)
 - [@shakirbakare](https://github.com/shakirbakare)
 - [@bosecodes](https://github.com/BOSE-git)
+- [@MainakSil](https://github.com/MainakSil)
 - [@AmoghJM](https://github.com/AmoghJM)
 - [@skohler16](https://github.com/skohler16)
 - [@bmalvo](https://github.com/bmalvo)
