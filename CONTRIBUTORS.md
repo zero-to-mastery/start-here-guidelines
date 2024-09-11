@@ -16,6 +16,7 @@
 - [@jtor8](https://github.com/jtor8)
 - [@Budur6655](https://github.com/Budur6655)
 - [@espain](https://github.com/espain)
+- [@suhaanigurjar](https://github.com/suhaanigurjar)
 - [@KLNewton](https://github.com/KLNewton)
 - [@bageorge1976](https://github.com/bageorge1976)
 - [@Michael-Kornilich](https://github.com/Michael-Kornilich)
