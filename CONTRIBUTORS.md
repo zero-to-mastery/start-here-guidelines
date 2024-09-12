@@ -148,3 +148,4 @@
 - [@NovusOpus](https://github.com/NovusOpus)
 - [@NANDAGOPALNG](https://github.com/NANDAGOPALNG)
 - [@dhatri7](https://github.com/dhatri7)
+- [@vaishaliisingh](https://github.com/vaishaliisingh)
