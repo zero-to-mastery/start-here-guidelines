@@ -10,6 +10,7 @@
 - [@AmoghJM](https://github.com/AmoghJM)
 - [@skohler16](https://github.com/skohler16)
 - [@bmalvo](https://github.com/bmalvo)
+- [@MiriKanner](https://github.com/MiriKanner)
 - [@tshepop](https://github.com/tshepop)
 - [@pardub](https://github.com/pardub)
 - [@SWojti](https://github.com/SWojti)
