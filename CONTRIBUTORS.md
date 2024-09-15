@@ -73,6 +73,7 @@
 - [@Dbarbanakov](https://github.com/Dbarbanakov)
 - [@maparrar](https://github.com/maparrar)
 - [@AndreiP91](https://github.com/AndreiP91)
+- [@modern-web-developer]((https://github.com/modern-web-developer))
 - [@KC-002](https://github.com/KC-002)
 - [@OuTaThIsWoRlD3000](https://github.com/OuTaThIsWoRlD3000)
 - [@havvaguler](https://github.com/havvaguler)
