@@ -46,6 +46,7 @@
 - [@abdullahahadi](https://github.com/abdullahahadi)
 - [@G-makes](https://github.com/G-makes)
 - [@Bluemli-Arts] (https://github.com/Bluemli-Arts)
+- [@Dev-YashRajPurohit](https://github.com/Dev-YashRajPurohit)
 - [@jamesyuill](https://github.com/jamesyuill)
 - [@Kranjec023](https://github.com/Kranjec023)
 - [@sarthak132](https://github.com/sarthak132)
