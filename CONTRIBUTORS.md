@@ -4,6 +4,7 @@
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
 - [@abrams0](https://github.com/abrams0)
+- [@TejasNarkhede](https://github.com/TejasNarkhede)
 - [@shakirbakare](https://github.com/shakirbakare)
 - [@bosecodes](https://github.com/BOSE-git)
 - [@MainakSil](https://github.com/MainakSil)
