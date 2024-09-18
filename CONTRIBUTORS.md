@@ -13,6 +13,7 @@
 - [@bmalvo](https://github.com/bmalvo)
 - [@MiriKanner](https://github.com/MiriKanner)
 - [@tshepop](https://github.com/tshepop)
+- [@strykeFreedom08](https://github.com/strykeFreedom08)
 - [@pardub](https://github.com/pardub)
 - [@SWojti](https://github.com/SWojti)
 - [@jtor8](https://github.com/jtor8)
