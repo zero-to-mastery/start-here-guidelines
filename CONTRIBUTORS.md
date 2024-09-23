@@ -41,6 +41,7 @@
 - [@oxXLucasXxo](https://github.com/oxXLucasXxo)
 - [@FaizanLiaqat](https://github.com/FaizanLiaqat)
 - [@Patrick-maged](https://github.com/Patrick-maged)
+- [@bima-taruna](https://github.com/bima-taruna)
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@VishalKrishnanR](https://github.com/VishalKrishnanR)
 - [@NOFAXKING](https://github.com/NOFAXKING)
