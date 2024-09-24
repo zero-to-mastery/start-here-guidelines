@@ -170,3 +170,4 @@
 - [@marissaaragon](https://github.com/marissaaragon)
 - [@EvaHli](https://github.com/evahli)
 - [@Franciserah](https://github.com/Franciserah)
+- [@ryo873](https://github.com/ryo873)
