@@ -17,6 +17,7 @@
 - [@pardub](https://github.com/pardub)
 - [@SWojti](https://github.com/SWojti)
 - [@jtor8](https://github.com/jtor8)
+- [@samymigwi](https://github.com/samy-migwi)
 - [@Budur6655](https://github.com/Budur6655)
 - [@espain](https://github.com/espain)
 - [@suhaanigurjar](https://github.com/suhaanigurjar)
