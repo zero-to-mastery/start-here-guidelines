@@ -180,3 +180,4 @@
 - [@e1000son](https://github.com/e1000son/)
 - [@okechukwuchinweitem](https://github.com/okechukwuchinweitem/)
 - [@IsaacLindsey](https://github.com/IsaacLindsey)
+- [@micahtech1](https://github.com/micahtech1/)
