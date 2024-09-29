@@ -182,3 +182,4 @@
 - [@IsaacLindsey](https://github.com/IsaacLindsey)
 - [@micahtech1](https://github.com/micahtech1/)
 - [@SJ-209](https://github.com/SJ-209)
+- [@willex13](https://github.com/willex13)
