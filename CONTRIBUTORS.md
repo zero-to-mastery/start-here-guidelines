@@ -168,6 +168,7 @@
 - [@AbhishekPanwarr](https://github.com/AbhishekPanwarr)
 - [@Revo127](https://github.com/Revo127)
 - [@vigimus](https://github.com/vigimus)
+- [@vigneshs-dev](https://github.com/vigneshs-dev)
 - [@anisashabbani](https://github.com/anisashabbani)
 - [@ohnivasasanka](https://github.com/ohnivasasanka)
 - [@umarzub](https://github.com/umarzub)
@@ -183,4 +184,3 @@
 - [@micahtech1](https://github.com/micahtech1/)
 - [@SJ-209](https://github.com/SJ-209)
 - [@willex13](https://github.com/willex13)
-- [@vigneshs-dev](https://github.com/vigneshs-dev)
