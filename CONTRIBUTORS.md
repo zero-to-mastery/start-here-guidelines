@@ -141,6 +141,7 @@
   [@tikihorea](https://github.com/tikihorea)
 - [@m00nk0d3](https://github.com/m00nk0d3)
 - [@4liyar](https://github.com/4liyar/)
+- [@MadAvidCoder](https://github.com/madavidcoder)
 - [@Divya-Vernekar](https://github.com/Divya-Vernekar)
 - [@Siddharth-Singh-Verma](https://github.com/Siddharth-Singh-Verma)
 - [@Rayen-nasser](https://github.com/Rayen-nasser)
