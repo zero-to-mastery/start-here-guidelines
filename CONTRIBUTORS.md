@@ -180,6 +180,7 @@
 - [@Spencer555](https://github.com/Spencer555)
 - [@e1000son](https://github.com/e1000son/)
 - [@okechukwuchinweitem](https://github.com/okechukwuchinweitem/)
+- [@zhudai](https://github.com/zhudai)
 - [@IsaacLindsey](https://github.com/IsaacLindsey)
 - [@micahtech1](https://github.com/micahtech1/)
 - [@SJ-209](https://github.com/SJ-209)
