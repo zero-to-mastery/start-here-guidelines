@@ -29,6 +29,7 @@
 - [@Zandersoph](https://github.com/Zandersoph)
 - [@Akindex5427](https://github.com/Akindex5427/)
 - [@rojin025](https://github.com/rojin025)
+- [@Daki-15](https://github.com/Daki-15)
 - [@Tashenica](https://github.com/Tashenica)
 - [@Muki-Dev](https://github.com/Muki-Dev)
 - [@Yashika9013](https://github.com/Yashika9013)
