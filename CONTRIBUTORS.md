@@ -89,6 +89,7 @@
 - [@jacob80a](https://github.com/jacob80a)
 - [@mohammad-nd96](https://github.com/mohammad-nd96)
 - [@chaiwawtf](https://github.com/chaiwatf)
+- [@logan-tolbert](https://github.com/logan-tolbert)
 - [@Kendi-prog](https://github.com/kendi-prog)
 - [@Sachin](https://github.com/ksachin7)
 - [@Banditman](https://github.com/Banditman00)
