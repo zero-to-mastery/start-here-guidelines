@@ -183,6 +183,7 @@
 - [@Spencer555](https://github.com/Spencer555)
 - [@e1000son](https://github.com/e1000son/)
 - [@okechukwuchinweitem](https://github.com/okechukwuchinweitem/)
+- [@stutxi](https://github.com/stutxi)
 - [@zhudai](https://github.com/zhudai)
 - [@IsaacLindsey](https://github.com/IsaacLindsey)
 - [@micahtech1](https://github.com/micahtech1/)
