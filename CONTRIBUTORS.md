@@ -199,4 +199,5 @@
 - [@willex13](https://github.com/willex13)
 - [@hatchingideas](https://github.com/hatchingideas)
 - [@sakethyalamanchili](https://github.com/sakethyalamanchili)
+- [@wassimami](https://github.com/wassimami)
 - [@MIhnatco](https://github.com/MIhnatco)
