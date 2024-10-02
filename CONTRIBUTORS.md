@@ -16,6 +16,7 @@
 - [@strykeFreedom08](https://github.com/strykeFreedom08)
 - [@pardub](https://github.com/pardub)
 - [@SWojti](https://github.com/SWojti)
+- [@kvv1618](https://github.com/kvv1618)
 - [@jtor8](https://github.com/jtor8)
 - [@samymigwi](https://github.com/samy-migwi)
 - [@Budur6655](https://github.com/Budur6655)
