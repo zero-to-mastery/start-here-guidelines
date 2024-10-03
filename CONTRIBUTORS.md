@@ -100,6 +100,7 @@
 - [@imayushhh](https://github.com/imayushhh)
 - [@Sumisha4](https://github.com/Sumisha4)
 - [@mohsinwani15](https://github.com/mohsinwani15)
+- [@JordanBoller](https://github.com/JordanBoller)
 - [@tdg7](https://github.com/tdg7/)
 - [@havvaguler](https://github.com/havvaguler)
 - [@kemaxx](https://github.com/kemaxx/)
@@ -205,3 +206,4 @@
 - [@wassimami](https://github.com/wassimami)
 - [@MIhnatco](https://github.com/MIhnatco)
 - [@Rifat100587](https://github.com/Rifat100587)
+
