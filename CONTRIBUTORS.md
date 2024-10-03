@@ -165,6 +165,7 @@
 - [@andrewvattuone](https://github.com/andrewvattuone)
 - [@Tech-Reni](https://github.com/Tech-Reni)
 - [@Shali](https://github.com/Shaliryo1567)
+- [@YuJieQiu0823712](https://github.com/YuJieQiu0823712)
 - [@Taha](https://github.com/tahadzdzdz)
 - [@Baswa-Akshay](https://github.com/baswa-akshay/)
 - [@BugzTheBunny](https://github.com/BugzTheBunny)
