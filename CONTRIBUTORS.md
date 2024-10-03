@@ -119,6 +119,7 @@
 - [@JanardhanJayanth](https://github.com/JanardhanJayanthxhd)
 - [@anurag-singh](https://github.com/dev-anurag-singh)
 - [@ESAMHADI](https://github.com/ESAMHADI/)
+- [@Jaideep Rawat](https://github.com/jaydeeprawat17/)
 - [@TJEgbert](https://github.com/TJEgbert)
 - [@askaryabbas](https://github.com/askaryabbas/)
 - [@vsp926](https://github.com/vsp926/)
