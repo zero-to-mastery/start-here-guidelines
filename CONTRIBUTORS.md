@@ -113,6 +113,7 @@
 - [@nomo5g](https://github.com/nomo5g/)
 - [@knejzu](https://github.com/knejzu)
 - [@Aceer121](https://github.com/Aceer121)
+- [@alexc83] (https://github.com/alexc83)
 - [@codewithsupra](https://github.com/codewithsupra)
 - [@Code-with-Ian](https://github.com/Code-with-Ian)
 - [@JanardhanJayanth](https://github.com/JanardhanJayanthxhd)
