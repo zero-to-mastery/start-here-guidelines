@@ -211,3 +211,5 @@
 - [@niltonpimentel02](https://github.com/niltonpimentel02)
 - [@Rifat100587](https://github.com/Rifat100587)
 - [@eriksalascode](https://github.com/eriksalascode)
+- [xj4v1x ](https://github.com/xj4v1x)
+- 
