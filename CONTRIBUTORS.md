@@ -133,6 +133,7 @@
 - [@rf777rf777](https://github.com/rf777rf777/)
 - [@jpatrickmc](https://github.com/jpatrickmc)
 - [@lalaiii](https://github.com/lalaiii/)
+- [@Faylina](https://github.com/Faylina/)
 - [@Shinsekami](https://github.com/Shinsekami/)
 - [@ivsuleman](https://github.com/ivsuleman/)
 - [@neetasawant](https://github.com/neetasawant/)
