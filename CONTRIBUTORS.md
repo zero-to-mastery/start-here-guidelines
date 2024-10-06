@@ -217,3 +217,4 @@
 - [xj4v1x](https://github.com/xj4v1x)
 - [@AHuzail](https://github.com/AHuzail)
 - [@shahan360](https://github.com/shahan360)
+- [@FaresElsobky99](https://github.com/FaresElsobky99)
