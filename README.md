@@ -8,9 +8,9 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the button "Fork."
 
-   ![fork image](https://docs.github.com/assets/cb-28613/images/help/repository/fork_button.png)
+   ![fork image](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png)
 
-3. Clone _your forked repository_ to your computer:
+3. Clone _your forked repository_ to your computer :
 
    ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
 
@@ -46,8 +46,7 @@ We don't care if you break things. This is a playground, and we encourage failin
    ```
 
    ```bash
-   git branch <branch-name>
-   git switch <branch-name>
+   git switch -c <branch-name>
    ```
 
 7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
@@ -70,7 +69,7 @@ We don't care if you break things. This is a playground, and we encourage failin
    git push origin <branch-name>
    ```
 
-10. Go to the GitHub page of _your fork_, and make a pull request:
+10. Go to the GitHub page of _your fork_, and make a pull request :
 
     ![pull request image](https://docs.github.com/assets/cb-87213/images/help/pull_requests/pull-request-review-edit-branch.png)
 
