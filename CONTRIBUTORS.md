@@ -1,6 +1,8 @@
 # CONTRIBUTORS
 
 - [@devMTCodes](https://github.com/devMTCodes)
+- [@GT0SRT](https://github.com/GT0SRT)
+- [@Sannabs](https://github.com/Sannabs/)
 - [@jonatng](https://github.com/jonatng)
 - [@qazipoor](https://github.com/qazipoor)
 - [@abrams0](https://github.com/abrams0)
