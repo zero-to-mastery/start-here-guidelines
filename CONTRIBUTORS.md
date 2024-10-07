@@ -216,6 +216,8 @@
 
 - [@Lwhite](https://github.com/l-white)
 
+- [@MattCSmith](https://github.com/MattCSmith)
+
 - [@M00Nk0D3](https://github.com/m00nk0d3)
 
 - [@Madavidcoder](https://github.com/madavidcoder)
