@@ -10,6 +10,8 @@
 
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
 
+- [@AustinBao](https://github.com/AustinBao)
+
 - [@Abhinav0103](https://github.com/Abhinav-0103/)
 
 - [@Abhisdroid](https://github.com/Abhis-droid)
