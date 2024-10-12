@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Sami-21](https://github.com/Sami-21/)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@8Morr](https://github.com/8morr)
