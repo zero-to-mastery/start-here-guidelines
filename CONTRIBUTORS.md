@@ -450,6 +450,8 @@
 
 - [@Yashika9013](https://github.com/Yashika9013)
 
+- [@Wicia92](https://github.com/Wicia92/)
+
 - [@Yujieqiu0823712](https://github.com/YuJieQiu0823712)
 
 - [@Zandersoph](https://github.com/Zandersoph)
