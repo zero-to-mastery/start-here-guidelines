@@ -30,6 +30,8 @@
 
 - [@Akindex5427](https://github.com/Akindex5427/)
 
+- [@Sharath524](https://github.com/Sharath524)
+
 - [@Alexc83](https://github.com/alexc83)
 
 - [@Amoghjm](https://github.com/AmoghJM)
