@@ -485,7 +485,7 @@
 
 - [@EngJasmine](https://github.com/EngJasmine)
 
-- [@lukas2485] (https://github.com/lukas2485)
+- [@lukas2485](https://github.com/lukas2485)
 
 - [@Riwys](https://github.com/Riwys)
 
@@ -495,4 +495,9 @@
 
 - [@jonreapsome](https://github.com/jonreapsome)
 
+- [@gabe_marques](https://github.com/gabe-marques)
+
+- [@shrlaw](https://github.com/shrlaw/)
+
 - [@yash](https://github.com/yashpj)
+
