@@ -20,7 +20,7 @@ jobs:
       run: |
         echo "Changed" > CONTRIBUTORS.md 
     - name: Check for changes
-      uses: tj-actions/verify-changed-files@v5.5
+      uses: tj-actions/verify-changed-files@v17
       id: changed_files
       with: 
         files: |
@@ -34,5 +34,6 @@ jobs:
       run: |
         git config --global user.name github-actions
         git config --global user.email github-actions@github.com
+        git checkout -B ${{ github.event.pull_request.head.ref }}
         git commit -a -m "(CI) format code"
-        git push
+        git push origin ${{ github.event.pull_request.head.ref }}
