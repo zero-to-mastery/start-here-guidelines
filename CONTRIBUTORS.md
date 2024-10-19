@@ -245,6 +245,8 @@
 
 - [@Marissaaragon](https://github.com/marissaaragon)
 
+- [@OGTimi](https://github.com/OgTimi)
+
 - [@Mattewgh](https://github.com/MatthewGH)
 
 - [@Micahtech1](https://github.com/micahtech1/)
