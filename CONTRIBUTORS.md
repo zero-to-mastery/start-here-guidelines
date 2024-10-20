@@ -425,6 +425,8 @@
 
 - [@Tejasnarkhede](https://github.com/TejasNarkhede)
 
+- [@Tenatic-X](https://github.com/Tenatic-X)
+
 - [@Thejonamreddy](https://github.com/thejonamreddy)
 
 - [@Tikihorea](https://github.com/tikihorea)
