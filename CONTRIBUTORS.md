@@ -467,6 +467,8 @@
 
 - [@Wicia92](https://github.com/Wicia92/)
 
+- [@sarahrosario](https://github.com/sarahrosario)
+
 - [@Yujieqiu0823712](https://github.com/YuJieQiu0823712)
 
 - [@Zandersoph](https://github.com/Zandersoph)
@@ -504,3 +506,5 @@
 - [@shrlaw](https://github.com/shrlaw/)
 
 - [@yash](https://github.com/yashpj)
+
+
