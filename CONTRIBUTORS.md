@@ -69,6 +69,8 @@
 
 - [@Bimataruna](https://github.com/bima-taruna)
 
+- [@mokkiebear](https://github.com/mokkiebear)
+
 - [@Bluemliarts](https://github.com/Bluemli-Arts)
 
 - [@Bmalvo](https://github.com/bmalvo)
