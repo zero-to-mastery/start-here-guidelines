@@ -520,3 +520,5 @@
 - [@parkkrrr](https://github.com/parkkrrr)
 
 - [@LiamHilton](https://github.com/LiamHilton)
+
+- [@Quasiich](https://github.com/Quasiich)
