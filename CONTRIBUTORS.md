@@ -249,6 +249,8 @@
 
 - [@Maparrar](https://github.com/maparrar)
 
+- [@LFelipeLopes](https://github.com/luizfelipelopes)
+
 - [@Marcgithub23](https://github.com/marcgithub23)
 
 - [@Marissaaragon](https://github.com/marissaaragon)
