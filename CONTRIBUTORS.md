@@ -531,6 +531,8 @@
 
 - [@Quasiich](https://github.com/Quasiich)
 
--[@too0th](https://github.com/too0th)
+- [@too0th](https://github.com/too0th)
 
--[@iyuvii7](https://github.com/iyuvii7)
+- [@iyuvii7](https://github.com/iyuvii7)
+
+- [@SidhantPandey](https://github.com/SidhnatPandey/)
