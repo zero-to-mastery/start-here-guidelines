@@ -493,6 +493,8 @@
 
 - [@AlaattinUysal](https://github.com/AlaattinUysal)
 
+- [@Dlory](https://github.com/Dlory)
+
 - [@AhmedAnwer](https://github.com/m-ahmed-anwer)
 
 - [@HossamGouda](https://github.com/HossamGouda)
