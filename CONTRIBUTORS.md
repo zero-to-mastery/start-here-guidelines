@@ -539,11 +539,13 @@
 
 - [@Quasiich](https://github.com/Quasiich)
 
--[@too0th](https://github.com/too0th)
+- [@too0th](https://github.com/too0th)
 
--[@iyuvii7](https://github.com/iyuvii7)
+- [@iyuvii7](https://github.com/iyuvii7)
 
--[@QianqianZhou1214](https://github.com/QianqianZhou1214)
+- [@SidhantPandey](https://github.com/SidhnatPandey/)
+
+- [@QianqianZhou1214](https://github.com/QianqianZhou1214)
 
 - [@buzzcosm](https://github.com/buzzcosm)
 
@@ -552,3 +554,4 @@
 - [@fabilier228](https://github.com/fabilier228)
 
 - [@User-Business](https://github.com/User-Business)
+
