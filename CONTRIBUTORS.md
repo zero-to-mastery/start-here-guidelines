@@ -79,6 +79,8 @@
 
 - [@Bren12](https://github.com/Bren12/)
 
+- [@Richard](https://github.com/samuelard7/)
+
 - [@Budur6655](https://github.com/Budur6655)
 
 - [@Bugzthebunny](https://github.com/BugzTheBunny)
@@ -473,6 +475,8 @@
 
 - [@Yashika9013](https://github.com/Yashika9013)
 
+- [@MeisAlpay](https://github.com/Meis01)
+
 - [@Wicia92](https://github.com/Wicia92/)
 
 - [@sarahrosario](https://github.com/sarahrosario)
@@ -485,6 +489,8 @@
 
 - [@Zhudai](https://github.com/zhudai)
 
+- [@alihussainzada](https://github.com/alihussainzada)
+
 - [@Zombiejoey55](https://github.com/ZombieJoey55/)
 
 - [@MutanPlex](https://github.com/MutanPlex/)
@@ -492,6 +498,8 @@
 - [@seliinneren](https://github.com/seliinneren/)
 
 - [@AlaattinUysal](https://github.com/AlaattinUysal)
+
+- [@Dlory](https://github.com/Dlory)
 
 - [@AhmedAnwer](https://github.com/m-ahmed-anwer)
 
@@ -536,3 +544,14 @@
 - [@iyuvii7](https://github.com/iyuvii7)
 
 - [@SidhantPandey](https://github.com/SidhnatPandey/)
+
+- [@QianqianZhou1214](https://github.com/QianqianZhou1214)
+
+- [@buzzcosm](https://github.com/buzzcosm)
+
+- [@TheZizu](https://github.com/TheZizu)
+
+- [@fabilier228](https://github.com/fabilier228)
+
+- [@User-Business](https://github.com/User-Business)
+
