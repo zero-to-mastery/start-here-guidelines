@@ -75,11 +75,17 @@ We don't care if you break things. This is a playground, and we encourage failin
 
     Read more about pull requests on the [GitHub help pages](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-11. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification and be required to resolve the conflict.
+   Link Your Pull Request to an Issue (if applicable)
+   If your contribution addresses a specific issue, mention it in your pull request description by referencing the issue number. This creates a direct connection between      your pull request and the issue, making it easier for maintainers to track progress
+         
 
-12. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
 
-13. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
+
+12. Wait until Zerobot or one of the maintainers merges your pull request. If there are any conflicts, you will get a notification and be required to resolve the conflict.
+
+13. Go join a project and start contributing or create your own group apps. Don't be shy and enjoy creating things together (We have over 20 projects for all levels of programmers)! [Check out this guide](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/Get_Started.md) for more information on selecting a project.
+
+14. To see the Zero to Mastery Icon in your GitHub profile, [follow these steps](https://help.github.com/articles/publicizing-or-hiding-organization-membership/) (you must complete steps 1 and 2 for this to work).
 
 ## Anatomy of an open-source project:
 
