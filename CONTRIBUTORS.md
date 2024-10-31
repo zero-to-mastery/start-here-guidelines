@@ -529,7 +529,7 @@
 
 - [@dowens91do](https://github.com/dowens91do)
 
-- [sFn-00] (https://github.com/sFn-00)
+- [@sFn-00] (https://github.com/sFn-00)
 
 - [@Yehoshua53](https://github.com/Yehoshua53)
 
