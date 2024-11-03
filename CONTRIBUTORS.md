@@ -307,6 +307,8 @@
 
 - [@Nomo5G](https://github.com/nomo5g/)
 
+- [@tahadnan](https://github.com/tahadnan)
+
 - [@Novusopus](https://github.com/NovusOpus)
 
 - [@Ohnivasasanka](https://github.com/ohnivasasanka)
