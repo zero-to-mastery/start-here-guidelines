@@ -97,6 +97,8 @@
 
 - [@Dadotcomcode](https://github.com/Da-dotcom-code)
 
+- [@dderyldowney](https://github.com/dderyldowney)
+
 - [@Daki15](https://github.com/Daki-15)
 
 - [@Dawnhajdu](https://github.com/dawnhajdu)
