@@ -566,3 +566,5 @@
 - [@tournas-ai](https://github.com/tournas-ai)
 
 - [@Han-Lynn-Aung](https://github.com/Han-Lynn-Aung)
+
+- [@parasbagri](https://github.com/parasbagri)
