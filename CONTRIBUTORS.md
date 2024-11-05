@@ -513,6 +513,8 @@
 
 - [@SharathDevadiga](https://github.com/Sharatdevadiga)
 
+- [@Doomw1ngs](https://github.com/Doomw1ngs)
+
 - [@Ovie-Eharisi-Ayomah](https://github.com/Ovie-Eharisi-Ayomah)
 
 - [@EngJasmine](https://github.com/EngJasmine)
