@@ -2,9 +2,14 @@
 
 - [@Sami-21](https://github.com/Sami-21/)
 
+<<<<<<< HEAD
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@anjiri1684](https://github.com/anjiri1684)
+=======
+- [@4Liyar](https://github.com/4liyar/)
+- [@anjiri1684](https://github.com/anjiri1684)
+>>>>>>> cf4bdd448 (Added myself to the contributors list)
 
 - [@8Morr](https://github.com/8morr)
 
@@ -514,9 +519,13 @@
 
 - [@SharathDevadiga](https://github.com/Sharatdevadiga)
 
+<<<<<<< HEAD
 - [@Doomw1ngs](https://github.com/Doomw1ngs)
 
 - [@Ovie-Eharisi-Ayomah](https://github.com/Ovie-Eharisi-Ayomah)
+=======
+- [@Ovie-Eharisi-Ayomah](https://github.com/Ovie-Eharisi-Ayomah)
+>>>>>>> cf4bdd448 (Added myself to the contributors list)
 
 - [@EngJasmine](https://github.com/EngJasmine)
 
@@ -538,7 +547,7 @@
 
 - [@dowens91do](https://github.com/dowens91do)
 
-- [@sFn-00](https://github.com/sFn-00)
+- [@sFn-00] (https://github.com/sFn-00)
 
 - [@Yehoshua53](https://github.com/Yehoshua53)
 
@@ -572,9 +581,10 @@
 
 - [@Han-Lynn-Aung](https://github.com/Han-Lynn-Aung)
 
-- [@parasbagri](https://github.com/parasbagri)
-
 - [@usamahklair](https://github.com/usamahklair)
 
 - [@surafel56](https://github.com/surafel56)
 
+- [@parasbagri](https://github.com/parasbagri)
+
+- [@Gidknight] (http://github.com/Gidknight)
