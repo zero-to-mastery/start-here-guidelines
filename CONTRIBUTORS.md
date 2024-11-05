@@ -278,7 +278,7 @@
 
 - [@Mlkinnear](https://github.com/MLKinnear)
 
-- [@Modernwebdeveloper](<https://github.com/modern-web-developer)
+- [@Modernwebdeveloper](https://github.com/modern-web-developer)
 
 - [@Aakashrao-Dev](http://github.com/aakashRao-dev)
 
@@ -288,7 +288,7 @@
 
 - [@Monicacoding](https://github.com/monicacoding)
 
-- [@Jibgittry] (https://github.com/jibgittry)
+- [@Jibgittry](https://github.com/jibgittry)
 
 - [@Mrrobin](https://github.com/MrRobiin)
 
