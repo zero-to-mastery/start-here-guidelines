@@ -3,6 +3,7 @@
 - [@Sami-21](https://github.com/Sami-21/)
 
 - [@4Liyar](https://github.com/4liyar/)
+
 - [@anjiri1684](https://github.com/anjiri1684)
 
 - [@8Morr](https://github.com/8morr)
@@ -513,6 +514,8 @@
 
 - [@SharathDevadiga](https://github.com/Sharatdevadiga)
 
+- [@Doomw1ngs](https://github.com/Doomw1ngs)
+
 - [@Ovie-Eharisi-Ayomah](https://github.com/Ovie-Eharisi-Ayomah)
 
 - [@EngJasmine](https://github.com/EngJasmine)
@@ -535,7 +538,7 @@
 
 - [@dowens91do](https://github.com/dowens91do)
 
-- [@sFn-00] (https://github.com/sFn-00)
+- [@sFn-00](https://github.com/sFn-00)
 
 - [@Yehoshua53](https://github.com/Yehoshua53)
 
@@ -572,3 +575,6 @@
 - [@parasbagri](https://github.com/parasbagri)
 
 - [@usamahklair](https://github.com/usamahklair)
+
+- [@surafel56](https://github.com/surafel56)
+
