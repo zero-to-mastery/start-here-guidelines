@@ -3,6 +3,7 @@
 - [@Sami-21](https://github.com/Sami-21/)
 
 - [@4Liyar](https://github.com/4liyar/)
+
 - [@anjiri1684](https://github.com/anjiri1684)
 
 - [@8Morr](https://github.com/8morr)
@@ -96,6 +97,8 @@
 - [@Codewithsupra](https://github.com/codewithsupra)
 
 - [@Dadotcomcode](https://github.com/Da-dotcom-code)
+
+- [@dderyldowney](https://github.com/dderyldowney)
 
 - [@Daki15](https://github.com/Daki-15)
 
@@ -277,6 +280,8 @@
 
 - [@Modernwebdeveloper](<https://github.com/modern-web-developer)
 
+- [@Aakashrao-Dev](http://github.com/aakashRao-dev)
+
 - [@Mohammadnd96](https://github.com/mohammad-nd96)
 
 - [@Mohsinwani15](https://github.com/mohsinwani15)
@@ -306,6 +311,8 @@
 - [@Nofaxking](https://github.com/NOFAXKING)
 
 - [@Nomo5G](https://github.com/nomo5g/)
+
+- [@tahadnan](https://github.com/tahadnan)
 
 - [@Novusopus](https://github.com/NovusOpus)
 
@@ -507,6 +514,8 @@
 
 - [@SharathDevadiga](https://github.com/Sharatdevadiga)
 
+- [@Doomw1ngs](https://github.com/Doomw1ngs)
+
 - [@Ovie-Eharisi-Ayomah](https://github.com/Ovie-Eharisi-Ayomah)
 
 - [@EngJasmine](https://github.com/EngJasmine)
@@ -528,6 +537,8 @@
 - [@yash](https://github.com/yashpj)
 
 - [@dowens91do](https://github.com/dowens91do)
+
+- [@sFn-00](https://github.com/sFn-00)
 
 - [@Yehoshua53](https://github.com/Yehoshua53)
 
@@ -558,3 +569,14 @@
 - [@User-Business](https://github.com/User-Business)
 - [@VedPawar](https://github.com/vedpawar2254)
 
+- [@tournas-ai](https://github.com/tournas-ai)
+
+- [@Han-Lynn-Aung](https://github.com/Han-Lynn-Aung)
+
+- [@parasbagri](https://github.com/parasbagri)
+
+- [@usamahklair](https://github.com/usamahklair)
+
+- [@surafel56](https://github.com/surafel56)
+
+- [@Lakojo](https://github.com/Lakojo)
