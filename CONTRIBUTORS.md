@@ -597,3 +597,5 @@
 - [@jadkinsgr](https://github.com/jadkinsgr)
 
 - [@devMarkoObradovic](https://github.com/devMarkoObradovic/)
+
+- [@Favskid](https://github.com/Favskid/)
