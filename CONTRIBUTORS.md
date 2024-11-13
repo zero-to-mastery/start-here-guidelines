@@ -598,5 +598,13 @@
 
 - [@devMarkoObradovic](https://github.com/devMarkoObradovic/)
 
+- [@nolazheng](https://github.com/nolazheng)
+
+- [@mAmineSouissi](https://github.com/mAmineSouissi)
+
+- [@Secvrivs](https://github.com/Secvrivs)
+
+- [@jaydeecodez](https://github.com/jaydeecodez)
+
 - [@Favskid](https://github.com/Favskid/)
 
