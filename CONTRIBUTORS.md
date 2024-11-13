@@ -45,6 +45,8 @@
 
 - [@Amoghjm](https://github.com/AmoghJM)
 
+- [@XiaoBeiAjie](https://github.com/XiaoBeiAjie)
+
 - [@Andreip91](https://github.com/AndreiP91)
 
 - [@Andrewvattuone](https://github.com/andrewvattuone)
