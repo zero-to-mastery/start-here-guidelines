@@ -131,6 +131,8 @@
 
 - [@Divyavernekar](https://github.com/Divya-Vernekar)
 
+- [@Zia6](https://github.com/Zia6)
+
 - [@E1000Son](https://github.com/e1000son/)
 
 - [@Eelopez515](https://github.com/eelopez515/)
