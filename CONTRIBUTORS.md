@@ -36,7 +36,8 @@
 
 - [@Ahuzail](https://github.com/AHuzail)
 
-- [@Akindex5427](https://github.com/Akindex5427/)
+- [@Akindex5427](https://github.com/Akindex5427)
+
 - [@Annapoornaaradhya](https://github.com/Annapoornaaradhya)
 
 - [@Sharath524](https://github.com/Sharath524)
@@ -132,6 +133,8 @@
 - [@Dipanshurdev](https://github.com/dipanshurdev/)
 
 - [@Divyavernekar](https://github.com/Divya-Vernekar)
+
+- [@Zia6](https://github.com/Zia6)
 
 - [@E1000Son](https://github.com/e1000son/)
 
@@ -602,6 +605,7 @@
 - [@sachitrazz](https://github.com/sachitrazz)
 
 - [@masri115](https://github.com/Masri115)
+
 - [@jadkinsgr](https://github.com/jadkinsgr)
 
 - [@devMarkoObradovic](https://github.com/devMarkoObradovic/)
@@ -615,3 +619,8 @@
 - [@Secvrivs](https://github.com/Secvrivs)
 
 - [@jaydeecodez](https://github.com/jaydeecodez)
+
+- [@prashantdang](https://github.com/prashantdang)
+
+- [@iamade](https://github.com/iamade)
+
