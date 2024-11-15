@@ -23,7 +23,9 @@
 - [@Abhisdroid](https://github.com/Abhis-droid)
 
 - [@Abhishekpanwarr](https://github.com/AbhishekPanwarr)
-
+  
+- [@Soulshri](https://github.com/Soulshri)
+  
 - [@Uk1124](https://github.com/uk1124)
 
 - [@Dom031](https://github.com/Dom031)
@@ -34,7 +36,8 @@
 
 - [@Ahuzail](https://github.com/AHuzail)
 
-- [@Akindex5427](https://github.com/Akindex5427/)
+- [@Akindex5427](https://github.com/Akindex5427)
+
 - [@Annapoornaaradhya](https://github.com/Annapoornaaradhya)
 
 - [@Sharath524](https://github.com/Sharath524)
@@ -602,6 +605,7 @@
 - [@sachitrazz](https://github.com/sachitrazz)
 
 - [@masri115](https://github.com/Masri115)
+
 - [@jadkinsgr](https://github.com/jadkinsgr)
 
 - [@devMarkoObradovic](https://github.com/devMarkoObradovic/)
@@ -619,3 +623,4 @@
 - [@prashantdang](https://github.com/prashantdang)
 
 - [@iamade](https://github.com/iamade)
+
