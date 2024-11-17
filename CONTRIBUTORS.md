@@ -80,6 +80,8 @@
 
 - [@mokkiebear](https://github.com/mokkiebear)
 
+- [@OthmanSmaili](https://github.com/othmansmaili)
+
 - [@Bluemliarts](https://github.com/Bluemli-Arts)
 
 - [@Bmalvo](https://github.com/bmalvo)
