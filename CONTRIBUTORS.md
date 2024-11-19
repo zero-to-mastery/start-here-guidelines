@@ -250,6 +250,8 @@
 
 - [@Lalaiii](https://github.com/lalaiii/)
 
+- [@SolAndrews](https://github.com/SolAndrews)
+
 - [@Logantolbert](https://github.com/logan-tolbert)
 
 - [@Lone4D7](https://github.com/lone4d7)
