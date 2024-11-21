@@ -25,14 +25,20 @@
 - [@Abhisdroid](https://github.com/Abhis-droid)
 
 - [@Abhishekpanwarr](https://github.com/AbhishekPanwarr)
+<<<<<<< HEAD
 
 - [@Soulshri](https://github.com/Soulshri)
 
+=======
+- [@Soulshri](https://github.com/Soulshri)
+>>>>>>> f3c89f709 (added my name to contributors - andreaferrari95)
 - [@Uk1124](https://github.com/uk1124)
 
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
+
+- [@andreaferrari95] (https://github.com/andreaferrari95)
 
 - [@Aceer121](https://github.com/Aceer121)
 
@@ -641,7 +647,6 @@
 - [@ckapsalis2710](https://github.com/ckapsalis2710)
 
 - [@rajkumarkanikireddy](https://github.com/rajkumarkanikireddy/portfo1)
-
 
 - [@JonathanStevens](https://github.com/JonathanStevens)
 
