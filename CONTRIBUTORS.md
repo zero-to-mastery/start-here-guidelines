@@ -653,3 +653,5 @@
 - [@anorme](https://github.com/anorme)
 
 - [@jpaulorbbr](https://github.com/jpaulorbbr)
+
+- [@chalmejd](https://github.com/chalmejd)
