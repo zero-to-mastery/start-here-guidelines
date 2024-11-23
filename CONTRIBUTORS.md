@@ -25,13 +25,9 @@
 - [@Abhisdroid](https://github.com/Abhis-droid)
 
 - [@Abhishekpanwarr](https://github.com/AbhishekPanwarr)
-<<<<<<< HEAD
 
 - [@Soulshri](https://github.com/Soulshri)
 
-=======
-- [@Soulshri](https://github.com/Soulshri)
->>>>>>> f3c89f709 (added my name to contributors - andreaferrari95)
 - [@Uk1124](https://github.com/uk1124)
 
 - [@Dom031](https://github.com/Dom031)
@@ -653,3 +649,5 @@
 - [@mohammedyahya7](https://github.com/mohammedyahya7)
 
 - [@anorme](https://github.com/anorme)
+
+- [@jpaulorbbr](https://github.com/jpaulorbbr)
