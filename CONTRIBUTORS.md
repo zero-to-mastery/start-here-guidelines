@@ -14,6 +14,8 @@
 
 - [@Abayvm](https://github.com/abayvm)
 
+- [@Aryan2727-debug](https://github.com/Aryan2727-debug)
+
 - [@Abdullahahadi](https://github.com/abdullahahadi)
 
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
