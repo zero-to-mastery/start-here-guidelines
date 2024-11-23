@@ -2,6 +2,8 @@
 
 - [@Sami-21](https://github.com/Sami-21/)
 
+- [@Vdanepalli](https://github.com/vdanepalli)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@anjiri1684](https://github.com/anjiri1684)
@@ -11,6 +13,8 @@
 - [@A.Do](https://github.com/Jrho-0)
 
 - [@Abayvm](https://github.com/abayvm)
+
+- [@Aryan2727-debug](https://github.com/Aryan2727-debug)
 
 - [@Abdullahahadi](https://github.com/abdullahahadi)
 
@@ -637,5 +641,9 @@
 - [@ckapsalis2710](https://github.com/ckapsalis2710)
 
 - [@rajkumarkanikireddy](https://github.com/rajkumarkanikireddy/portfo1)
+
+- [@JonathanStevens](https://github.com/JonathanStevens)
+
+-[@mohammedyahya7](https://github.com/mohammedyahya7)
 
 - [@jpaulorbbr](https://github.com/jpaulorbbr)
