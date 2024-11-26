@@ -27,14 +27,14 @@
 - [@Abhisdroid](https://github.com/Abhis-droid)
 
 - [@Abhishekpanwarr](https://github.com/AbhishekPanwarr)
-  
 - [@Soulshri](https://github.com/Soulshri)
-  
 - [@Uk1124](https://github.com/uk1124)
 
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
+
+- [@andreaferrari95] (https://github.com/andreaferrari95)
 
 - [@Aceer121](https://github.com/Aceer121)
 
@@ -598,7 +598,7 @@
 
 - [@parasbagri](https://github.com/parasbagri)
 
-- [@Gidknight] (http://github.com/Gidknight)
+- [@Gidknight](http://github.com/Gidknight)
 
 - [@usamahklair](https://github.com/usamahklair)
 
@@ -644,8 +644,9 @@
 
 - [@JonathanStevens](https://github.com/JonathanStevens)
 
--[@mohammedyahya7](https://github.com/mohammedyahya7)
+- [@mohammedyahya7](https://github.com/mohammedyahya7)
 
 - [@jpaulorbbr](https://github.com/jpaulorbbr)
 
 - [@chalmejd](https://github.com/chalmejd)
+
