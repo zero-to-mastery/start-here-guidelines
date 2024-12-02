@@ -16,6 +16,8 @@
 
 - [@Aryan2727-debug](https://github.com/Aryan2727-debug)
 
+- [@TechnoZain](https://github.com/TechnoZain)
+
 - [@aitwehrrg](https://github.com/aitwehrrg)
 
 - [@Advait2211](https://github.com/Advait2211)
