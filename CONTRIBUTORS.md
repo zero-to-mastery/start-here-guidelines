@@ -14,25 +14,37 @@
 
 - [@Abayvm](https://github.com/abayvm)
 
+- [@Aryan2727-debug](https://github.com/Aryan2727-debug)
+
+- [@TechnoZain](https://github.com/TechnoZain)
+
+- [@aitwehrrg](https://github.com/aitwehrrg)
+
+- [@Advait2211](https://github.com/Advait2211)
+
 - [@Abdullahahadi](https://github.com/abdullahahadi)
 
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
 
 - [@AustinBao](https://github.com/AustinBao)
 
+- [@andymartinez1](https://github.com/andymartinez1)
+
 - [@Abhinav0103](https://github.com/Abhinav-0103/)
 
 - [@Abhisdroid](https://github.com/Abhis-droid)
 
 - [@Abhishekpanwarr](https://github.com/AbhishekPanwarr)
-  
+
 - [@Soulshri](https://github.com/Soulshri)
-  
+
 - [@Uk1124](https://github.com/uk1124)
 
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
+
+- [@andreaferrari95](https://github.com/andreaferrari95)
 
 - [@Aceer121](https://github.com/Aceer121)
 
@@ -139,6 +151,8 @@
 - [@Divyavernekar](https://github.com/Divya-Vernekar)
 
 - [@Zia6](https://github.com/Zia6)
+
+- [@knightofelves](https://github.com/JoelBright)
 
 - [@E1000Son](https://github.com/e1000son/)
 
@@ -321,6 +335,8 @@
 - [@Nandagopalng](https://github.com/NANDAGOPALNG)
 
 - [@Neelshrimali](https://github.com/neelshrimali)
+
+- [@sademban](https://github.com/sademban)
 
 - [@Neetasawant](https://github.com/neetasawant/)
 
@@ -596,7 +612,7 @@
 
 - [@parasbagri](https://github.com/parasbagri)
 
-- [@Gidknight] (http://github.com/Gidknight)
+- [@Gidknight](http://github.com/Gidknight)
 
 - [@usamahklair](https://github.com/usamahklair)
 
@@ -642,4 +658,21 @@
 
 - [@JonathanStevens](https://github.com/JonathanStevens)
 
+- [@mohammedyahya7](https://github.com/mohammedyahya7)
+
+- [@anorme](https://github.com/anorme)
+
+- [@jpaulorbbr](https://github.com/jpaulorbbr)
+
+- [@chalmejd](https://github.com/chalmejd)
+
+- [@gintama32](https://github.com/Gintama32)
+
+- [@ddengSc](https://github.com/ddengSc/)
+
+- [@lilqyn](https://github.com/lilqyn/)
+
+-[@farzambb](https://github.com/Farzambb)
+
 - [@raonycavalcante](https://github.com/raonycavalcante)
+
