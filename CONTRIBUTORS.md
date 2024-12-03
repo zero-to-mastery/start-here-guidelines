@@ -693,3 +693,4 @@
 
 - [@eine86](https://github.com/eine86)
 - [@ssegevv](https://github.com/ssegevv)
+- [@raonycavalcante](https://github.com/raonycavalcante)
