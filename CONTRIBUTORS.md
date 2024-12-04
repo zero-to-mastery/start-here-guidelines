@@ -687,3 +687,6 @@
 
 - [@Simply_Dankay](https:github.com/Fodi-Daniel-Nyabade)
 - [@Jhuxtdankay](https:github.com/Jhuxtdankay)
+- [@Mayyyk](https://github.com/Mayyyk)
+
+- [@eine86](https://github.com/eine86)
