@@ -28,6 +28,8 @@
 
 - [@AustinBao](https://github.com/AustinBao)
 
+- [@dinak0103](https://github.com/dinak0103)
+
 - [@andymartinez1](https://github.com/andymartinez1)
 
 - [@Abhinav0103](https://github.com/Abhinav-0103/)
