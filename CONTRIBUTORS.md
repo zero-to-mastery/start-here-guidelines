@@ -670,8 +670,8 @@
 - [@ddengSc](https://github.com/ddengSc/)
 - [@lilqyn](https://github.com/lilqyn/)
 
--[@farzambb](https://github.com/Farzambb)
+- [@farzambb](https://github.com/Farzambb)
 
--[@Mayyyk](https://github.com/Mayyyk)
+- [@Mayyyk](https://github.com/Mayyyk)
 
 - [@eine86](https://github.com/eine86)
