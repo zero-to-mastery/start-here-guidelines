@@ -666,4 +666,4 @@
 
 - [@gintama32](https://github.com/Gintama32)
 - [@ddengSc](https://github.com/ddengSc/)
-- [@Simply_Dankay](https:github.com/Fodi-Daniel-Nyabade)
+- [@Jhuxtdankay](https:github.com/Jhuxtdankay)
