@@ -593,6 +593,8 @@
 
 - [@iyuvii7](https://github.com/iyuvii7)
 
+- [@RemovedChief11] (https://github.com/RemovedChief11)
+
 - [@SidhantPandey](https://github.com/SidhnatPandey/)
 
 - [@QianqianZhou1214](https://github.com/QianqianZhou1214)
