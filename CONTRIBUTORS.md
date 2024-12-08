@@ -674,10 +674,14 @@
 - [@ddengSc](https://github.com/ddengSc/)
 - [@lilqyn](https://github.com/lilqyn/)
 
--[@farzambb](https://github.com/Farzambb)
+- [@farzambb](https://github.com/Farzambb)
 
--[@Mayyyk](https://github.com/Mayyyk)
+- [@Mayyyk](https://github.com/Mayyyk)
 
--[@gamerboyelz](https://github.com/gamerboyelz)
+- [@gamerboyelz](https://github.com/gamerboyelz)
 
--[@nazurudeen23](https://github.com/nazurudeen23)
+- [@nazurudeen23](https://github.com/nazurudeen23)
+
+- [@jeep865](https://github.com/jeep865/)
+
+
