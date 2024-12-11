@@ -190,6 +190,8 @@
 
 - [@Faylina](https://github.com/Faylina/)
 
+- [@guilherme-aroliveira](https://github.com/guilherme-aroliveira)
+
 - [@mainu99](https://github.com/mainu99)
 
 - [@Franciserah](https://github.com/Franciserah)
