@@ -684,6 +684,8 @@
 
 - [@farzambb](https://github.com/Farzambb)
 
+- [@eine86](https://github.com/eine86)
+
 - [@raonycavalcante](https://github.com/raonycavalcante)
 
 - [@Mayyyk](https://github.com/Mayyyk)
