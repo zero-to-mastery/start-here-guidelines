@@ -706,4 +706,7 @@
 
 - [@gamerboyelz](https://github.com/gamerboyelz)
 
+- [@nazurudeen23](https://github.com/nazurudeen23)
+
 - [@jeep865](https://github.com/jeep865/)
+
