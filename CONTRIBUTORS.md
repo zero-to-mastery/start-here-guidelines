@@ -672,7 +672,7 @@
 
 - [@lilqyn](https://github.com/lilqyn/)
 
--[@farzambb](https://github.com/Farzambb)
+- [@farzambb](https://github.com/Farzambb)
 
 - [@raonycavalcante](https://github.com/raonycavalcante)
 
