@@ -678,6 +678,8 @@
 
 - [@gintama32](https://github.com/Gintama32)
 
+- [@Jhuxtdankay](https:github.com/Jhuxtdankay)
+
 - [@ddengSc](https://github.com/ddengSc/)
 
 - [@lilqyn](https://github.com/lilqyn/)
