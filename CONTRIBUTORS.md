@@ -20,6 +20,8 @@
 
 - [@aitwehrrg](https://github.com/aitwehrrg)
 
+- [@arian-fallahpour](https://github.com/arian-fallahpour)
+
 - [@Advait2211](https://github.com/Advait2211)
 
 - [@Abdullahahadi](https://github.com/abdullahahadi)
@@ -27,6 +29,8 @@
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
 
 - [@AustinBao](https://github.com/AustinBao)
+
+- [@dinak0103](https://github.com/dinak0103)
 
 - [@andymartinez1](https://github.com/andymartinez1)
 
@@ -185,6 +189,8 @@
 - [@Fareselsobky99](https://github.com/FaresElsobky99)
 
 - [@Faylina](https://github.com/Faylina/)
+
+- [@guilherme-aroliveira](https://github.com/guilherme-aroliveira)
 
 - [@mainu99](https://github.com/mainu99)
 
@@ -592,6 +598,8 @@
 
 - [@iyuvii7](https://github.com/iyuvii7)
 
+- [@RemovedChief11] (https://github.com/RemovedChief11)
+
 - [@SidhantPandey](https://github.com/SidhnatPandey/)
 
 - [@QianqianZhou1214](https://github.com/QianqianZhou1214)
@@ -621,6 +629,8 @@
 - [@Lakojo](https://github.com/Lakojo)
 
 - [@Raheesp](https://github.com/Raheesp)
+
+- [@wgeesey](https://github.com/wgeesey)
 
 - [@8130146](https://github.com/8130146)
 
@@ -674,6 +684,19 @@
 
 - [@farzambb](https://github.com/Farzambb)
 
+- [@raonycavalcante](https://github.com/raonycavalcante)
+
 - [@Mayyyk](https://github.com/Mayyyk)
 
-- [@ssegevv](https://github.com/ssegevv)
+- [@gamerboyelz](https://github.com/gamerboyelz)
+
+- [@Abdulrahman843](https://github.com/Abdulrahman843)
+
+- [@mckriel](https://github.com/mckriel)
+
+- [@alba221](https://github.com/alba221)
+
+- [@Imane-Iman](https://github.com/Imane-Iman)
+
+- [@IsahiahAL](https://github.com/IsahiahAL)
+
