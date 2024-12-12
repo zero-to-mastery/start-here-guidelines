@@ -704,3 +704,6 @@
 
 - [@IsahiahAL](https://github.com/IsahiahAL)
 
+- [@gamerboyelz](https://github.com/gamerboyelz)
+
+- [@jeep865](https://github.com/jeep865/)
