@@ -418,6 +418,8 @@
 
 - [@Samymigwi](https://github.com/samy-migwi)
 
+- [@St1gg3r6](https://github.com/St1gg3r6)
+
 - [@sagar2395](https://github.com/sagar2395)
 
 - [@Samyuktakarthikeyan](https://github.com/SamyuktaKarthikeyan)
