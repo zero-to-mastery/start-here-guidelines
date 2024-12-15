@@ -199,3 +199,5 @@
 - [@Aluisio-Matias](https://github.com/Aluisio-Matias)
 
 -[@izzybolts](https://github.com/aneagoie/)
+
+-[@osilama-lab](https://github.com/osilama-lab/)
