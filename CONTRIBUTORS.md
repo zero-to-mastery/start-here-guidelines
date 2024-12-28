@@ -743,3 +743,5 @@
 - [@IMANA47](https://github.com/IMANA47)
 
 - [@sks01dev](https://github.com/sks01dev/)
+
+- [@shico231](https://github.com/shico231/)
