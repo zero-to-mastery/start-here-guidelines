@@ -49,7 +49,6 @@
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
-  
 - [@Aspects19](https://github.com/@aspects19)
 
 - [@andreaferrari95](https://github.com/andreaferrari95)
@@ -377,6 +376,8 @@
 - [@Outathisworld3000](https://github.com/OuTaThIsWoRlD3000)
 
 - [@Oxxlucasxxo](https://github.com/oxXLucasXxo)
+
+- [@aathifzahir](https://github.com/AathifZahir)
 
 - [@Pardub](https://github.com/pardub)
 
@@ -722,7 +723,7 @@
 
 - [@AlainDLC](https://github.com/AlainDLC)
 
--[@Steveo1975](https://github.com/Steveo1975)  
+-[@Steveo1975](https://github.com/Steveo1975)
 
 -[@PeiQuan1011](https://github.com/PeiQuan1011)
 
@@ -745,3 +746,4 @@
 - [@sks01dev](https://github.com/sks01dev/)
 
 - [@shico231](https://github.com/shico231/)
+
