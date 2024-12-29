@@ -14,6 +14,8 @@
 
 - [@Abayvm](https://github.com/abayvm)
 
+- [@madhubabujanjanam](https://github.com/madhubabujanjanam)
+
 - [@Aryan2727-debug](https://github.com/Aryan2727-debug)
 
 - [@TechnoZain](https://github.com/TechnoZain)
@@ -737,6 +739,11 @@
 
 - [@al3shan33](https://github.com/al3shan33/)
 
+- [@quangnp0903](https://github.com/quangnp0903/)
+
 - [@IMANA47](https://github.com/IMANA47)
 
 - [@sks01dev](https://github.com/sks01dev/)
+
+- [@shico231](https://github.com/shico231/)
+
