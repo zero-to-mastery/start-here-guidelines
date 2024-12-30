@@ -4,6 +4,8 @@
 
 - [@Vdanepalli](https://github.com/vdanepalli)
 
+- [@Haroldraj](https://github.com/haroldraj)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@anjiri1684](https://github.com/anjiri1684)
