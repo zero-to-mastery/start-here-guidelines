@@ -783,9 +783,10 @@
 
 - [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
 
-- [DianaProca-afk] (https://github.com/DianaProca-afk/)
+- [DianaProca-afk](https://github.com/DianaProca-afk/)
 
 - [andy-tonks](http://github.com/andy-tonks/)
 
 - [@jean0t](https://github.com/jean0t)
->>>>>>> 6de75e4383eb6f2f63064532b1e50a824b14c6b3
+
+- [@johannesmamo](https://github.com/johannesmamo/) 
