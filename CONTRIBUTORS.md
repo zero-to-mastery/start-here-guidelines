@@ -751,6 +751,8 @@
 
 - [@quangnp0903](https://github.com/quangnp0903/)
 
+- [@Candelo-Zuluaga](https://github.com/Candelo-Zuluaga)
+
 - [@IMANA47](https://github.com/IMANA47)
 
 - [@Eniola1272](https://github.com/Eniola1272)
