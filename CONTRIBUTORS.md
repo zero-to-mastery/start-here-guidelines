@@ -744,11 +744,15 @@
 
 - [@mohammad0faqusa](https://github.com/mohammad0faqusa/)
 
+- [@mazbandago](https://github.com/mazbandago/)
+
 - [@ankurv37](https://github.com/ankurv37/)
 
 - [@al3shan33](https://github.com/al3shan33/)
 
 - [@quangnp0903](https://github.com/quangnp0903/)
+
+- [@Candelo-Zuluaga](https://github.com/Candelo-Zuluaga)
 
 - [@IMANA47](https://github.com/IMANA47)
 
@@ -765,3 +769,10 @@
 - [@priyanka-hemant-shah](https://github.com/priyanka-hemant-shah/)
 
 - [@johannesmamo](https://github.com/johannesmamo/) 
+
+- [@decipher-dan](https://github.com/decipher-dan/)
+
+- [@takacsri](https://github.com/takacsri/)
+
+- [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
+
