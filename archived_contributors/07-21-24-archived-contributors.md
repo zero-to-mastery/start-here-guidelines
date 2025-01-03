@@ -1372,8 +1372,6 @@
 
 - [@Carolinaqvargas](https://github.com/carolinaqvargas)
 
-- [@Carolinejoenson](https://github.com/carolinejoenson)
-
 - [@Carsonhaskell](https://github.com/Carson-Haskell)
 
 - [@Carter3838](https://github.com/carter3838)

@@ -1224,8 +1224,6 @@
 
 - [@Carolinaqvargas](https://github.com/carolinaqvargas)
 
-- [@Carolinejoenson](https://github.com/carolinejoenson)
-
 - [@Sahil21dev](https://github.com/Sahil21dev)
 
 - [@Carter3838](https://github.com/carter3838)
