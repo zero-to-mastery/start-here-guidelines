@@ -465,6 +465,8 @@
 
 - [@Sj209](https://github.com/SJ-209)
 
+-[@Firelord2345](https://github.com/Firelord2345)
+
 - [@Skohler16](https://github.com/skohler16)
 
 - [@Slegro97](https://github.com/slegro97)
@@ -737,6 +739,8 @@
 
 - [@TsiOnshime](https://github.com/TsiOnshime)
 
+[@Nikhila1003](https://github.com/Nikhila1003)
+
 - [@Osilama-lab](https://github.com/Osilama-lab)
 
 - [@Aditya-Karan](https://github.com/Aditya-Karan/)
@@ -774,5 +778,8 @@
 - [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
 
 - [DianaProca-afk] (https://github.com/DianaProca-afk/)
+
 - [andy-tonks](http://github.com/andy-tonks/)
-- [@Nikhila1003](https://github.com/Nikhila1003)
+
+- [@jean0t](https://github.com/jean0t)
+>>>>>>> 6de75e4383eb6f2f63064532b1e50a824b14c6b3
