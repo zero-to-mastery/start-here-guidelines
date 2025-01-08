@@ -775,6 +775,8 @@
 
 - [@Sai-charan87](https://github.com/Sai-charan87)
 
+- [@ganeshjangid](https://github.com/ganeshjangid)
+
 - [@takacsri](https://github.com/takacsri/)
 
 - [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
@@ -788,3 +790,4 @@
 - [@rl-mcvay](https://github.com/rl-mcvay)
 
 - [@ryekram](https://github.com/ryekram)
+
