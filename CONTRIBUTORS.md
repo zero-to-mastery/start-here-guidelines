@@ -798,4 +798,4 @@
 
 - [@ryekram](https://github.com/ryekram)
 
-- [@scledford] (https://github.com/scledford)
+- [@scledford](https://github.com/scledford)
