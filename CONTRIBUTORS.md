@@ -124,6 +124,8 @@
 
 - [@Charlomatic](https://github.com/charlomatic)
 
+- [@porfanid](https://github.com/porfanid)
+
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
 
 - [@Codewithian](https://github.com/Code-with-Ian)
@@ -466,6 +468,8 @@
 
 - [@Sj209](https://github.com/SJ-209)
 
+-[@Firelord2345](https://github.com/Firelord2345)
+
 - [@Skohler16](https://github.com/skohler16)
 
 - [@Slegro97](https://github.com/slegro97)
@@ -772,7 +776,20 @@
 
 - [@decipher-dan](https://github.com/decipher-dan/)
 
+- [@Sai-charan87](https://github.com/Sai-charan87)
+
+- [@ganeshjangid](https://github.com/ganeshjangid)
+
 - [@takacsri](https://github.com/takacsri/)
 
 - [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
 
+- [DianaProca-afk](https://github.com/DianaProca-afk/)
+
+- [andy-tonks](http://github.com/andy-tonks/)
+
+- [@jean0t](https://github.com/jean0t)
+
+- [@rl-mcvay](https://github.com/rl-mcvay)
+
+- [@ryekram](https://github.com/ryekram)
