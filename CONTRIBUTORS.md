@@ -51,6 +51,7 @@
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
+  
 - [@Aspects19](https://github.com/@aspects19)
 
 - [@andreaferrari95](https://github.com/andreaferrari95)
@@ -771,6 +772,8 @@
 
 - [@priyanka-hemant-shah](https://github.com/priyanka-hemant-shah/)
 
+- [@johannesmamo](https://github.com/johannesmamo/) 
+
 - [@decipher-dan](https://github.com/decipher-dan/)
 
 - [@Sai-charan87](https://github.com/Sai-charan87)
@@ -781,7 +784,7 @@
 
 - [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
 
-- [DianaProca-afk] (https://github.com/DianaProca-afk/)
+- [DianaProca-afk](https://github.com/DianaProca-afk/)
 
 - [andy-tonks](http://github.com/andy-tonks/)
 
@@ -790,4 +793,3 @@
 - [@rl-mcvay](https://github.com/rl-mcvay)
 
 - [@ryekram](https://github.com/ryekram)
-
