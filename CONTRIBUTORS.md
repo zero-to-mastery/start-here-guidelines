@@ -51,6 +51,7 @@
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
+  
 - [@Aspects19](https://github.com/@aspects19)
 
 - [@andreaferrari95](https://github.com/andreaferrari95)
@@ -122,6 +123,8 @@
 - [@Chaiwawtf](https://github.com/chaiwatf)
 
 - [@Charlomatic](https://github.com/charlomatic)
+
+- [@porfanid](https://github.com/porfanid)
 
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
 
@@ -739,7 +742,7 @@
 
 - [@TsiOnshime](https://github.com/TsiOnshime)
 
-[@Nikhila1003](https://github.com/Nikhila1003)
+- [@Nikhila1003](https://github.com/Nikhila1003)
 
 - [@Osilama-lab](https://github.com/Osilama-lab)
 
@@ -771,15 +774,25 @@
 
 - [@priyanka-hemant-shah](https://github.com/priyanka-hemant-shah/)
 
+- [@johannesmamo](https://github.com/johannesmamo/) 
+
 - [@decipher-dan](https://github.com/decipher-dan/)
+
+- [@Sai-charan87](https://github.com/Sai-charan87)
+
+- [@ganeshjangid](https://github.com/ganeshjangid)
 
 - [@takacsri](https://github.com/takacsri/)
 
 - [@AbdurRahmaneee](https://github.com/AbdurRahmaneee)
 
-- [DianaProca-afk] (https://github.com/DianaProca-afk/)
+- [DianaProca-afk](https://github.com/DianaProca-afk/)
 
 - [andy-tonks](http://github.com/andy-tonks/)
 
 - [@jean0t](https://github.com/jean0t)
->>>>>>> 6de75e4383eb6f2f63064532b1e50a824b14c6b3
+
+- [@rl-mcvay](https://github.com/rl-mcvay)
+
+- [@ryekram](https://github.com/ryekram)
+
