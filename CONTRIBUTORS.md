@@ -97,6 +97,8 @@
 
 - [@Banditman](https://github.com/Banditman00)
 
+- [@jdramirezu](https://github.com/jdramirezu)
+
 - [@Baswaakshay](https://github.com/baswa-akshay/)
 
 - [@Bimataruna](https://github.com/bima-taruna)
@@ -802,3 +804,6 @@
 - [@Arun](https://github.com/Arunkumar319)
 
 - [@PranayS1](https://github.com/PranayS1)
+
+- [@tanasen](https://github.com/tanasen)
+
