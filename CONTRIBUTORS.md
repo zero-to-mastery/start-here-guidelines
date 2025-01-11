@@ -98,6 +98,8 @@
 
 - [@Banditman](https://github.com/Banditman00)
 
+- [@jdramirezu](https://github.com/jdramirezu)
+
 - [@Baswaakshay](https://github.com/baswa-akshay/)
 
 - [@Bimataruna](https://github.com/bima-taruna)
