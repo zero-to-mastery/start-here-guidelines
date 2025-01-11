@@ -51,7 +51,6 @@
 - [@Dom031](https://github.com/Dom031)
 
 - [@Abrams0](https://github.com/abrams0)
-  
 - [@Aspects19](https://github.com/@aspects19)
 
 - [@andreaferrari95] (https://github.com/andreaferrari95)
@@ -782,7 +781,7 @@
 
 - [@rahulshrivastwa99](https://github.com/rahulshrivastwa99)
 
-- [@johannesmamo](https://github.com/johannesmamo/) 
+- [@johannesmamo](https://github.com/johannesmamo/)
 
 - [@decipher-dan](https://github.com/decipher-dan/)
 
@@ -808,3 +807,5 @@
 - [@scledford](https://github.com/scledford)
 
 - [@Arun](https://github.com/Arunkumar319)
+
+- [@PranayS1](https://github.com/PranayS1)
