@@ -701,6 +701,8 @@
 
 - [@chalmejd](https://github.com/chalmejd)
 
+- [@chalmejd-TEAM] (https://github.com/chalmejd-TEAM)
+
 - [@gintama32](https://github.com/Gintama32)
 
 - [@ddengSc](https://github.com/ddengSc/)
