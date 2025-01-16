@@ -819,7 +819,7 @@
 
 - [@tanasen](https://github.com/tanasen)
 
-- [@Akilshaik](https://github.com/Akilshaik) 
+- [@Akilshaik](https://github.com/Akilshaik)
 
 - [@derekjgreen](https://github.com/derekjgreen)
 
@@ -828,3 +828,5 @@
 - [@riodesierto](https://github.com/riodesierto)
 
 - [@axel-saredo](https://github.com/axel-saredo)
+
+- [@Anzzy07](https://github.com/Anzzy07)
