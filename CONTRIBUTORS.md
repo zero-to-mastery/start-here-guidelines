@@ -367,6 +367,8 @@
 
 - [@Nofaxking](https://github.com/NOFAXKING)
 
+- [@amaltscaria](https://github.com/amaltscaria)
+
 - [@Nomo5G](https://github.com/nomo5g/)
 
 - [@sd3u16](https://github.com/sd3u16/)
