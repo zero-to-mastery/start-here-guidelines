@@ -844,3 +844,5 @@
 - [@andrewnotermans](https://github.com/andrewnotermans)
 
 - [@davidanam44](https://github.com/davidanam44)
+
+- [@ebarr10](https://github.com/ebarr10)
