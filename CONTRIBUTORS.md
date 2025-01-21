@@ -707,6 +707,8 @@
 
 - [@chalmejd-TEAM] (https://github.com/chalmejd-TEAM)
 
+- [@Networkcaretaker] (https://github.com/Networkcaretaker)
+
 - [@gintama32](https://github.com/Gintama32)
 
 - [@Jhuxtdankay](https:github.com/Jhuxtdankay)
