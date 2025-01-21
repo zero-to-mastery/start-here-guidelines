@@ -357,6 +357,7 @@
 - [@jpaulorbbr](https://github.com/jpaulorbbr)
 - [@chalmejd](https://github.com/chalmejd)
 - [@chalmejd-TEAM] (https://github.com/chalmejd-TEAM)
+- [@Networkcaretaker](https://github.com/Networkcaretaker)
 - [@gintama32](https://github.com/Gintama32)
 - [@ddengSc](https://github.com/ddengSc/)
 - [@lilqyn](https://github.com/lilqyn/)
