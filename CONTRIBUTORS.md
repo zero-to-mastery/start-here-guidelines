@@ -828,6 +828,8 @@
 
 - [@axel-saredo](https://github.com/axel-saredo)
 
+- [@Zyringe](https://github.com/Zyringe)
+
 - [@Anzzy07](https://github.com/Anzzy07)
 
 - [@toor-4](https://github.com/toor-4)
