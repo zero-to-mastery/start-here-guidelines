@@ -844,7 +844,6 @@
 
 - [@ebarr10](https://github.com/ebarr10)
 
-<<<<<<< HEAD
 -[@flicky](https://github.com/flickyz)
 
 -[@nhbduy](https://github.com/nhbduy)
@@ -8741,5 +8740,7 @@
 
 - [@the-venkat](https://github.com/the-venkat)
 
+- [@the-venkat](https://github.com/the-venkat)
 
-
+- [@tracytray1](https://github.com/tracytray1)
+ 
