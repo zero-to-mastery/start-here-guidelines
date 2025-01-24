@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-
 - [@Sami-21](https://github.com/Sami-21/)
 - [@Vdanepalli](https://github.com/vdanepalli)
 - [@Haroldraj](https://github.com/haroldraj)
@@ -155,6 +154,7 @@
 - [@Madavidcoder](https://github.com/madavidcoder)
 - [@Mainaksil](https://github.com/MainakSil)
 - [@Maparrar](https://github.com/maparrar)
+- [@G-O-T-W](https://github.com/G-O-T-W)
 - [@LFelipeLopes](https://github.com/luizfelipelopes)
 - [@Marcgithub23](https://github.com/marcgithub23)
 - [@Marissaaragon](https://github.com/marissaaragon)
@@ -471,3 +471,4 @@
 - [@hasansarfraz](https://github.com/hasansarfraz)
 
 - [@ERROR244](https://github.com/ERROR244)
+
