@@ -360,7 +360,7 @@
 - [@Networkcaretaker] (https://github.com/Networkcaretaker)
 - [@gintama32](https://github.com/Gintama32)
 - [@Jhuxtdankay](https:github.com/Jhuxtdankay)
-- [@ddengSc](https://github.com/ddengSc/)
+- [@ddengSc](https://github.com/ddengSc/)  
 - [@lilqyn](https://github.com/lilqyn/)
 - [@farzambb](https://github.com/Farzambb)
 - [@eine86](https://github.com/eine86)
@@ -437,3 +437,4 @@
 - [@RavirajanV](https://github.com/RavirajanV)
 - [@Mattewww](https://github.com/Mattewww)
 - [@cydydev](https://github.com/cydydev)
+- [@mintesin](https://github.com/mintesin)
