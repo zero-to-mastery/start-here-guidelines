@@ -397,6 +397,7 @@
 - [@atwmarshall](https://github.com/atwmarshall/)
 - [@priyanka-hemant-shah](https://github.com/priyanka-hemant-shah/)
 - [@rahulshrivastwa99](https://github.com/rahulshrivastwa99)
+- [@andrea264](https://github.com/andrea264)
 - [@johannesmamo](https://github.com/johannesmamo/)
 - [@decipher-dan](https://github.com/decipher-dan/)
 - [@Sai-charan87](https://github.com/Sai-charan87)
