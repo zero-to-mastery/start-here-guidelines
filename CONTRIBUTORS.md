@@ -143,6 +143,7 @@
 - [@Knejzu](https://github.com/knejzu)
 - [@Kranjec023](https://github.com/Kranjec023)
 - [@Kvv1618](https://github.com/kvv1618)
+- [@L1lith666][https://github.com/L1lith666)
 - [@Lalaiii](https://github.com/lalaiii/)
 - [@SolAndrews](https://github.com/SolAndrews)
 - [@Logantolbert](https://github.com/logan-tolbert)
