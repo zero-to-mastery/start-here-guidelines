@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@Sami-21](https://github.com/Sami-21/)
 - [@Vdanepalli](https://github.com/vdanepalli)
 - [@Haroldraj](https://github.com/haroldraj)
@@ -143,7 +144,7 @@
 - [@Knejzu](https://github.com/knejzu)
 - [@Kranjec023](https://github.com/Kranjec023)
 - [@Kvv1618](https://github.com/kvv1618)
-- [@L1lith666][https://github.com/L1lith666)
+- [@L1lith666]https://github.com/L1lith666)
 - [@Lalaiii](https://github.com/lalaiii/)
 - [@SolAndrews](https://github.com/SolAndrews)
 - [@Logantolbert](https://github.com/logan-tolbert)
@@ -364,7 +365,7 @@
 - [@Networkcaretaker](https://github.com/Networkcaretaker)
 - [@gintama32](https://github.com/Gintama32)
 - [@Jhuxtdankay](https:github.com/Jhuxtdankay)
-- [@ddengSc](https://github.com/ddengSc/)  
+- [@ddengSc](https://github.com/ddengSc/)
 - [@lilqyn](https://github.com/lilqyn/)
 - [@farzambb](https://github.com/Farzambb)
 - [@eine86](https://github.com/eine86)
@@ -482,3 +483,4 @@
 - [@cydydev](https://github.com/cydydev)
 - [@mintesin](https://github.com/mintesin)
 - [@turtlemb](https://github.com/turtlemb)
+- [@bozyurt21](https://github.com/bozyurt21)
