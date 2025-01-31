@@ -414,6 +414,7 @@
 - [@Arun](https://github.com/Arunkumar319)
 - [@PranayS1](https://github.com/PranayS1)
 - [@tanasen](https://github.com/tanasen)
+- [@MarioSuperFui](https://github.com/MarioSuperFui)
 - [@Akilshaik](https://github.com/Akilshaik)
 - [@derekjgreen](https://github.com/derekjgreen)
 - [@mccanncm](https://github.com/mccanncm)
