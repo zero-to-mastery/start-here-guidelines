@@ -450,6 +450,7 @@
 - [@tanasen] (https://github.com/tanasen)
 
 - [@tanasen](https://github.com/tanasen)
+- [@MarioSuperFui](https://github.com/MarioSuperFui)
 - [@Akilshaik](https://github.com/Akilshaik)
 - [@derekjgreen](https://github.com/derekjgreen)
 - [@mccanncm](https://github.com/mccanncm)
