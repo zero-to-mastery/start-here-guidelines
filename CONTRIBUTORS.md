@@ -59,6 +59,7 @@
 - [@Bimataruna](https://github.com/bima-taruna)
 - [@mokkiebear](https://github.com/mokkiebear)
 - [@OthmanSmaili](https://github.com/othmansmaili)
+- [@MathieuBoko](https://github.com/MathieuBoko)
 - [@Bluemliarts](https://github.com/Bluemli-Arts)
 - [@Bmalvo](https://github.com/bmalvo)
 - [@Bosecodes](https://github.com/BOSE-git)
