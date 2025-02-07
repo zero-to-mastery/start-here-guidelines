@@ -265,6 +265,7 @@
 - [@Tamunapak](https://github.com/TamunaPak)
 - [@Tashenica](https://github.com/Tashenica)
 - [@Tdg7](https://github.com/tdg7/)
+- [@DanielJBox](https://github.com/DanielJBox)
 - [@Techreni](https://github.com/Tech-Reni)
 - [@Tejasnarkhede](https://github.com/TejasNarkhede)
 - [@Tenatic-X](https://github.com/Tenatic-X)
