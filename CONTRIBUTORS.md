@@ -9,6 +9,7 @@
 - [@8Morr](https://github.com/8morr)
 - [@A.Do](https://github.com/Jrho-0)
 - [@Abayvm](https://github.com/abayvm)
+- [@BrandtLIONLUX](https://github.com/BrandtLIONLUX)
 - [@madhubabujanjanam](https://github.com/madhubabujanjanam)
 - [@abdullah-shiwani](https://github.com/abdullah-shiwani)
 - [@Aryan2727-debug](https://github.com/Aryan2727-debug)
@@ -466,3 +467,5 @@
 - [@Sandsy09](https://github.com/Sandsy09)
 - [@SANATHKAMATH18](https://github.com/SANATHKAMATH18)
 - [@BROODHONEY](https://github.com/BROODHONEY)
+- [@Sree4Z](https://github.com/Sree4Z)
+- [@Sainy_Mishra](https://github.com/Sainy_Mishra)
