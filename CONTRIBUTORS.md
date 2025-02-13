@@ -97,6 +97,7 @@
 - [@Eelopez515](https://github.com/eelopez515/)
 - [@Ehabejjeh](https://github.com/ehabejjeh)
 - [@Ekecolin](https://github.com/ekecolin)
+- [@Elpis-alpha](https://github.com/Elpis-alpha)
 - [@Emmykeys101](https://github.com/Emmykeys101)
 - [@Eriksalascode](https://github.com/eriksalascode)
 - [@Ernestsilver](https://github.com/ErnestSilver)
