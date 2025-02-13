@@ -30,6 +30,7 @@
 - [@Soulshri](https://github.com/Soulshri)
 - [@Uk1124](https://github.com/uk1124)
 - [@Dom031](https://github.com/Dom031)
+- [@maxfedorov](https://github.com/maxfedorov)
 - [@Abrams0](https://github.com/abrams0)
 - [@Aspects19](https://github.com/@aspects19)
 - [@andreaferrari95](https://github.com/andreaferrari95)
