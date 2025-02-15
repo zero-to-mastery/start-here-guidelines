@@ -9,6 +9,7 @@
 - [@8Morr](https://github.com/8morr)
 - [@A.Do](https://github.com/Jrho-0)
 - [@Abayvm](https://github.com/abayvm)
+- [@germgallardo](https://github.com/germgallardo)
 - [@BrandtLIONLUX](https://github.com/BrandtLIONLUX)
 - [@madhubabujanjanam](https://github.com/madhubabujanjanam)
 - [@abdullah-shiwani](https://github.com/abdullah-shiwani)
