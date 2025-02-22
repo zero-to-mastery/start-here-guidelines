@@ -75,6 +75,7 @@
 - [@Chaiwawtf](https://github.com/chaiwatf)
 - [@Charlomatic](https://github.com/charlomatic)
 - [@porfanid](https://github.com/porfanid)
+- [@CleverLittleMaker](https://github.com/CleverLittleMaker)
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
 - [@Codewithian](https://github.com/Code-with-Ian)
 - [@Codewithsupra](https://github.com/codewithsupra)
