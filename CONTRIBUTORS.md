@@ -496,3 +496,4 @@
 - [@andreea369] (https://github.com/andreea369)
 - [@kasalehi] (https://github.com/kasalehi)
 - [@AlexB0ta] (https://github.com/AlexB0ta)
+- [@mnaimfaizy] (https://github.com/mnaimfaizy)
