@@ -222,6 +222,7 @@
 - [@Pauljd1](https://github.com/Pauljd1)
 - [@Pfistersimo](https://github.com/pfisterSimo)
 - [@Psierrajs](https://github.com/psierrajs)
+- [@chikinpie](https://github.com/chikinpie)
 - [@Qazipoor](https://github.com/qazipoor)
 - [@Rabit314](https://github.com/rabit314)
 - [@Rahulverma14061998](https://github.com/rahulverma14061998)
