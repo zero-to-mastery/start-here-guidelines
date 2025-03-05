@@ -505,3 +505,4 @@
 - [@Bunchflood](https://github.com/Bunchflood)
 - [@marcndo](https://github.com/marcndo)
 - [@Taygeta9](https://github.com/Taygeta9)
+- [@cameronwmax](https://github.com/cameronwmax)
