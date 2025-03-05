@@ -502,3 +502,4 @@
 - [@elijahgbeminiyi](https://https://github.com/elijahgbeminiyi/)
 - [@Bunchflood](https://github.com/Bunchflood)
 - [@marcndo](https://github.com/marcndo)
+- [@Taygeta9](https://github.com/Taygeta9)
