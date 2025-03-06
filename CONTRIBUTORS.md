@@ -507,3 +507,4 @@
 - [@Taygeta9](https://github.com/Taygeta9)
 - [@cameronwmax](https://github.com/cameronwmax)
 - [@asia-alchakouch](https://github.com/asia-alchakouch)
+- [@Evip88](https://github.com/Evip88)
