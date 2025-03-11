@@ -551,4 +551,5 @@
 - [@Evip88](https://github.com/Evip88)
 - [@nikolicsmilan](https://github.com/nikolicsmilan)
 - [@AlphaDebian](https://github.com/AlphaDebian)
--[@BranchAndVine](https://github.com/BranchAndVine/)
+- [@BranchAndVine](https://github.com/BranchAndVine/)
+- [@HelgJet](https://github.com/HelgJet/)
