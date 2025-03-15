@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 
 - [@Sami-21](https://github.com/Sami-21/)
+- [@navidcodes](https://github.com/navidcodes)
 - [@Vdanepalli](https://github.com/vdanepalli)
 - [@Haroldraj](https://github.com/haroldraj)
 - [@4Liyar](https://github.com/4liyar/)
