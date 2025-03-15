@@ -216,6 +216,7 @@
 - [@GauravGaur](https://github.com/MIGHTYgAur)
 - [@Okechukwuchinweitem](https://github.com/okechukwuchinweitem/)
 - [@Olegrom](https://github.com/oleg-rom)
+- [@kazbek-d](https://github.com/kazbek-d)
 - [@Ommdevgoswami](https://github.com/OmmDevgoswami)
 - [@Outathisworld3000](https://github.com/OuTaThIsWoRlD3000)
 - [@Oxxlucasxxo](https://github.com/oxXLucasXxo)
