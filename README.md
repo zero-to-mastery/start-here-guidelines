@@ -1,6 +1,6 @@
 ## One rule of this community:
 
-We don't care if you break things. This is a playground, and we encourage failing often. Use this as a practice ground, and enjoy contributing to projects you create with your fellow students. Many students have gained real-world experience "working in teams" by working on these projects.
+We don't care if you break things. This is a playground, and we encourage failing often. Use this as a practice ground and enjoy contributing to projects you create with your fellow students. Many students have gained real-world experience through "working in teams" by experimenting on these projects.
 
 ## A Guide to Get Started (used to be the 4 step guide)
 
@@ -39,7 +39,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
    If you run into a **merge conflict**, you have to resolve the conflict. There are a lot of guides online, or you can [watch this tutorial](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4).
 
-6. After adding the upstream and checking that all files are up to date, we now will create new branch before editing any files. There are two ways to do so:
+6. After adding the upstream and checking that all files are up to date, we now will create a new branch before editing any files. There are two ways to do so:
 
    ```bash
    git checkout -b <branch-name>
@@ -49,7 +49,7 @@ We don't care if you break things. This is a playground, and we encourage failin
    git switch -c <branch-name>
    ```
 
-7. On your computer, open your text editor, and add your name to the `CONTRIBUTORS.md` file.
+7. On your computer, open your text editor and add your name to the `CONTRIBUTORS.md` file.
 
 - ⚠️ **IMPORTANT NOTE #1:** Add your name somewhere in the middle. Not at the top or bottom in order to avoid the chance of you getting a [merge conflict](https://www.youtube.com/watch?v=9ZRb01WhuoE&list=PL2HX_yT71umC0SWrtpzaXt0QzwhWyNI4c&index=4)!
 - ⚠️ **IMPORTANT NOTE #2:** Please do **NOT** edit or remove other people from the list, even to fix their indentation etc. This will likely prevent your PR from being merged.
@@ -85,7 +85,7 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 Every open-source community is different.
 
-Spending years on one open-source project means you’ve gotten to know _one_ open-source project. Move to a different project, and you might find the vocabulary, norms, and communication styles are completely different.
+Spending years on one open-source project means you’ve gotten to know _one_ open-source project. If you move to a different project, you might find the vocabulary, norms, and communication styles are completely different.
 
 That being said, many open-source projects follow a similar organizational structure. Understanding the different community roles and overall process will help you get quickly oriented to any new project.
 
