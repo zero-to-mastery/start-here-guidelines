@@ -263,6 +263,7 @@
 - [@Shubhamkourav](https://github.com/shubhamkourav)
 - [@Shvvvansh](https://github.com/shvvvansh/)
 - [@Siddharthsinghverma](https://github.com/Siddharth-Singh-Verma)
+- [@OCR-tech](https://github.com/OCR-tech)
 - [@Sj209](https://github.com/SJ-209)
 - [@Firelord2345](https://github.com/Firelord2345)
 - [@Skohler16](https://github.com/skohler16)
@@ -526,4 +527,3 @@
 - [@Nealjai](https://github.com/Nealjai)
 - [@ChamikaraM](https://github.com/ChamikaraM)
 - [@charlemagnet](https://github.com/charlemagnet)
-- [@OCR-tech](https://github.com/OCR-tech)
