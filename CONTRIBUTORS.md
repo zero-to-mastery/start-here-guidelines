@@ -7,6 +7,7 @@
 - [@4Liyar](https://github.com/4liyar/)
 - [@anjiri1684](https://github.com/anjiri1684)
 - [@EstherKal](https://github.com/EstherKal)
+- [@jisnoo123](https://github.com/jisnoo123)
 - [@8Morr](https://github.com/8morr)
 - [@A.Do](https://github.com/Jrho-0)
 - [@Abayvm](https://github.com/abayvm)
