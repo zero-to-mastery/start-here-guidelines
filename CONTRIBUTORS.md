@@ -55,6 +55,7 @@
 - [@Andrewvattuone](https://github.com/andrewvattuone)
 - [@Anisashabbani](https://github.com/anisashabbani)
 - [@Anuragsingh](https://github.com/dev-anurag-singh)
+- [@NanoCimen](https://github.com/NanoCimen)
 - [@Askaryabbas](https://github.com/askaryabbas/)
 - [@awodesigns-github](https://github.com/awodesigns-github)
 - [@Aybread](https://github.com/AY-BREAD/)
