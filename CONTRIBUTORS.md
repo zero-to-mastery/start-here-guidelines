@@ -168,6 +168,7 @@
 - [@JovinMtl](https://github.com/JovinMtl)
 - [@Logantolbert](https://github.com/logan-tolbert)
 - [@Lone4D7](https://github.com/lone4d7)
+- [@larissaporto](https://github.com/larissaporto)
 - [@Lonewolf159951](https://github.com/lonewolf159951)
 - [@Louis23412](https://github.com/louis23412)
 - [@Lwhite](https://github.com/l-white)
