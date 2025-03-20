@@ -532,3 +532,4 @@
 - [@charlemagnet](https://github.com/charlemagnet)
 - [@olonisakindavid](https://github.com/olonisakindavid)
 - [@its-me-mhd](https://github.com/its-me-mhd)
+- [TheMan-Umar](https://github.com/TheMan-Umar)
