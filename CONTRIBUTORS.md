@@ -533,3 +533,4 @@
 - [@olonisakindavid](https://github.com/olonisakindavid)
 - [@its-me-mhd](https://github.com/its-me-mhd)
 - [TheMan-Umar](https://github.com/TheMan-Umar)
+- [@devindi2001](https://github.com/devindi2001)
