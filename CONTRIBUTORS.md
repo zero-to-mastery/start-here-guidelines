@@ -541,3 +541,4 @@
 - [@AndrisBern](https://github.com/AndrisBer)
 - [@RuslanG18] (https://github.com/RuslanG18)
 - [@Zdenno](https://github.com/Zdenno)
+- [@SamadKhanDev](https://github.com/SamadKhanDev)
