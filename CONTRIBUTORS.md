@@ -470,6 +470,7 @@
 - [@hasansarfraz](https://github.com/hasansarfraz)
 - [@ERROR244](https://github.com/ERROR244)
 - [@sznsgthb](https://github.com/sznsgthb/)
+- [@taratip](https://github.com/taratip)
 - [@RavirajanV](https://github.com/RavirajanV)
 - [@Mattewww](https://github.com/Mattewww)
 - [@cydydev](https://github.com/cydydev)
