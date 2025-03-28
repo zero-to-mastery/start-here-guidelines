@@ -585,3 +585,5 @@
 - [@Zdenno](https://github.com/Zdenno)
 - [@SamadKhanDev](https://github.com/SamadKhanDev)
 - [@manishtulabandu](https://github.com/manishtulabandu)
+- [@Dajeel](https://github.com/Dajeel)
+
