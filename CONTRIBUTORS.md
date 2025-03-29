@@ -549,6 +549,7 @@
 - [@gregory-nguekam](https://github.com/gregory-nguekam)
 - [@mktahmasbi99] (https://github.com/mktahmasbi99)
 - [@pythock84] (https://github.com/Pythock84)
+- [@dnarimot](https://github.com/dnarimot)
 - [@DerrickVericho] (https://github.com/DerrickVericho)
 - [@KavenWo] (https://github.com/KavenWo)
 - [@ifeanyiukiwe] (https://github.com/ifeanyiukiwe)
