@@ -549,3 +549,5 @@
 - [@Dajeel](https://github.com/Dajeel)
 - [@mwilson777](https://github.com/mwilson777)
 - [@LizzieChall](https://github.com/LizzieChall)
+- [@ithankz](https://github.com/ithankz)
+
