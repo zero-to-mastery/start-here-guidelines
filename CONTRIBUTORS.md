@@ -13,6 +13,7 @@
 - [@A.Do](https://github.com/Jrho-0)
 - [@Abayvm](https://github.com/abayvm)
 - [@gautamshivany](https://github.com/gautamshivany)
+- [@nigina23](https://github.com/nigina23)
 - [@germgallardo](https://github.com/germgallardo)
 - [@BrandtLIONLUX](https://github.com/BrandtLIONLUX)
 - [@madhubabujanjanam](https://github.com/madhubabujanjanam)
