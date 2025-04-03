@@ -77,6 +77,7 @@
 - [@Bmalvo](https://github.com/bmalvo)
 - [@Bosecodes](https://github.com/BOSE-git)
 - [@Bren12](https://github.com/Bren12/)
+- [@jaytintran](https://github.com/jaytintran)
 - [@Richard](https://github.com/samuelard7/)
 - [@Budur6655](https://github.com/Budur6655)
 - [@Bugzthebunny](https://github.com/BugzTheBunny)
