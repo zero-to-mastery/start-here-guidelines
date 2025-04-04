@@ -278,6 +278,7 @@
 - [@Slegro97](https://github.com/slegro97)
 - [abhinavan00](https://github.com/abhinavan00)
 - [@Spencer555](https://github.com/Spencer555)
+- [@faradilshodov] (https://github.com/faradilshodov)
 - [@Stanleyedegwa](https://github.com/stanleyedegwa/)
 - [@Starphillips](https://github.com/starphillips)
 - [@Strykefreedom08](https://github.com/strykeFreedom08)
