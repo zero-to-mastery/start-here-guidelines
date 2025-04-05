@@ -251,6 +251,7 @@
 - [@Rvupmo33](https://github.com/rvupmo33)
 - [@Ryiuzahn](https://github.com/ryiuzahn/)
 - [@Ryo873](https://github.com/ryo873)
+- [@MMal87](https://github.com/MMal87)
 - [@quiet-ghost](https://github.com/quiet-ghost)
 - [@Sachin](https://github.com/ksachin7)
 - [@Sakethyalamanchili](https://github.com/sakethyalamanchili)
