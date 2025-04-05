@@ -200,7 +200,7 @@
 - [@Mohammadnd96](https://github.com/mohammad-nd96)
 - [@Mohsinwani15](https://github.com/mohsinwani15)
 - [@Monicacoding](https://github.com/monicacoding)
-- [@nahom-zenebe]( https://github.com/nahom-zenebe)
+- [@nahom-zenebe](https://github.com/nahom-zenebe)
 - [@Munyiwamwangi](https://github.com/Munyiwamwangi)
 - [@Jibgittry](https://github.com/jibgittry)
 - [@Mrrobin](https://github.com/MrRobiin)
@@ -562,3 +562,4 @@
 - [@Violet-1029](https://github.com/Violet-1029)
 - [@Ahrin-Yuan](https://github.com/Ahrin-Yuan)
 - [@Duvindu](https://github.com/duvindu60)
+- [@long3888](https://github.com/long3888)
