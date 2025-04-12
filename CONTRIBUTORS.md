@@ -576,3 +576,4 @@
 - [@Ian-Warugongo](https://github.com/Ian-Warugongo/)
 - [@LinearG](https://github.com/LinearG)
 - [@DewaldFourie](https://github.com/DewaldFourie)
+- [@HaziqAmiruddin](https://github.com/HaziqAmiruddin)
