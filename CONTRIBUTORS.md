@@ -620,3 +620,4 @@
 - [@DewaldFourie](https://github.com/DewaldFourie)
 - [@HaziqAmiruddin](https://github.com/HaziqAmiruddin)
 - [@ptobarra](https://github.com/ptobarra)
+- [@kailittlefair](https://github.com/kailittlefair)
