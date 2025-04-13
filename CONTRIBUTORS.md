@@ -51,6 +51,7 @@
 - [@Sharath524](https://github.com/Sharath524)
 - [@Alexc83](https://github.com/alexc83)
 - [@giorgidzebisashvili4](https://github.com/giorgidzebisashvili4)
+- [@edchav](https://github.com/edchav)
 - [@Amoghjm](https://github.com/AmoghJM)
 - [@XiaoBeiAjie](https://github.com/XiaoBeiAjie)
 - [@Andreip91](https://github.com/AndreiP91)
