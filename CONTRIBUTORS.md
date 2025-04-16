@@ -601,6 +601,7 @@
 - [@Dajeel](https://github.com/Dajeel)
 - [@mwilson777](https://github.com/mwilson777)
 - [@LizzieChall](https://github.com/LizzieChall)
+- [@TolaOgunniyi](https://github.com/TolaOgunniyi)
 - [@ithankz](https://github.com/ithankz)
 - [@sirbolu](https://github.com/sirbolu)
 - [@massibia](https://github.com/massibia)
