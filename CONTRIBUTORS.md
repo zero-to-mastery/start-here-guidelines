@@ -126,6 +126,7 @@
 - [@Faizanliaqat](https://github.com/FaizanLiaqat)
 - [@Fareselsobky99](https://github.com/FaresElsobky99)
 - [@Faylina](https://github.com/Faylina/)
+- [@SidneyMuriuki](https://github.com/mathncode-sid/)
 - [@guilherme-aroliveira](https://github.com/guilherme-aroliveira)
 - [@mainu99](https://github.com/mainu99)
 - [@Franciserah](https://github.com/Franciserah)
