@@ -593,3 +593,4 @@
 - [@odinrule](https://github.com/odinrule)
 - [@AutumnFawcett] (https://github.com/AutumnFawcett)
 - [@NandithaKumar](https://github.com/NandithaKumar)
+- [@Jerry3048](https://github.com/Jerry3048/)
