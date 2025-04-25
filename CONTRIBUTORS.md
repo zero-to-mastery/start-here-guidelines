@@ -52,6 +52,7 @@
 - [@Sharath524](https://github.com/Sharath524)
 - [@Alexc83](https://github.com/alexc83)
 - [@giorgidzebisashvili4](https://github.com/giorgidzebisashvili4)
+- [@HassanKhan123](https://github.com/HassanKhan123)
 - [@edchav](https://github.com/edchav)
 - [@Amoghjm](https://github.com/AmoghJM)
 - [@XiaoBeiAjie](https://github.com/XiaoBeiAjie)
@@ -599,3 +600,4 @@
 - [@Jerry3048](https://github.com/Jerry3048/)
 - [@TomK02](https://github.com/TomK02/)
 - [@Mariana-GG] (https://github.com/Mariana-GG)
+- [@francisyoung13] (https://github.com/francisyoung13)
