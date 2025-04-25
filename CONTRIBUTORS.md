@@ -307,6 +307,7 @@
 - [@Tenatic-X](https://github.com/Tenatic-X)
 - [@Thejonamreddy](https://github.com/thejonamreddy)
 - [@Tikihorea](https://github.com/tikihorea)
+- [@IrynaSydorenko](https://github.com/IrynaSydorenko)
 - [@Tintinguy01](https://github.com/tintinguy01/)
 - [@Tjegbert](https://github.com/TJEgbert)
 - [@hoseinho](https://github.com/hoseinho)
