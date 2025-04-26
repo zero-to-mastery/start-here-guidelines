@@ -91,6 +91,7 @@
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
 - [@Codewithian](https://github.com/Code-with-Ian)
 - [@Codewithsupra](https://github.com/codewithsupra)
+- [@Adityasinghvats](https://github.com/Adityasinghvats)
 - [@CreepyMemes](https://github.com/CreepyMemes)
 - [@Dadotcomcode](https://github.com/Da-dotcom-code)
 - [@dderyldowney](https://github.com/dderyldowney)
