@@ -648,3 +648,4 @@
 - [@jeremycabrera1] (https://github.com/jeremycabrera1)
 - [@kaif-khan-md] (https://github.com/kaif-khan-md)
 - [@official-paras-bhandari] (https://github.com/official-paras-bhandari)
+- [@bekezela-pangenyama] (https://github.com/bekezela)
