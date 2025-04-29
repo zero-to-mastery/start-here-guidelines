@@ -45,6 +45,7 @@
 - [@adebayopeter](https://github.com/adebayopeter)
 - [@andreaferrari95](https://github.com/andreaferrari95)
 - [@Aceer121](https://github.com/Aceer121)
+- [@ShraddhaS1112](https://github.com/ShraddhaS1112)
 - [@Ahuzail](https://github.com/AHuzail)
 - [@Shravan250](https://github.com/shravan250)
 - [@Akindex5427](https://github.com/Akindex5427)
