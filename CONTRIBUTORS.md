@@ -338,6 +338,7 @@
 - [@Zandersoph](https://github.com/Zandersoph)
 - [@JavidVeg](https://github.com/javidVeg)
 - [@Zhudai](https://github.com/zhudai)
+- [@tiborhajszan](https://github.com/tiborhajszan)
 - [@alihussainzada](https://github.com/alihussainzada)
 - [@Zombiejoey55](https://github.com/ZombieJoey55/)
 - [@MutanPlex](https://github.com/MutanPlex/)
