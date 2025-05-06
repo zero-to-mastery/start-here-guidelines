@@ -168,6 +168,7 @@
 - [@Kemaxx](https://github.com/kemaxx/)
 - [@Kendiprog](https://github.com/kendi-prog)
 - [@Klhaug](https://github.com/klhaug/)
+- [@Andrej0110](https://github.com/Andrej0110)
 - [@Klnewton](https://github.com/KLNewton)
 - [@Knejzu](https://github.com/knejzu)
 - [@Kranjec023](https://github.com/Kranjec023)
