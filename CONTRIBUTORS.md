@@ -623,6 +623,7 @@
 - [PujaAmmineni](https://github.com/PujaAmmineni)
 - [@Ahrin-Yuan](https://github.com/Ahrin-Yuan)
 - [@Duvindu](https://github.com/duvindu60)
+- [@jayde-u](https://github.com/jayde-u)
 - [@long3888](https://github.com/long3888)
 - [@Locanto1](https://github.com/Locanto1)
 - [@yash-goyal-0910](https://github.com/yash-goyal-0910)
