@@ -53,6 +53,7 @@
 - [@Sharath524](https://github.com/Sharath524)
 - [@Alexc83](https://github.com/alexc83)
 - [@giorgidzebisashvili4](https://github.com/giorgidzebisashvili4)
+- [@DalaScript](https://github.com/DalaScript)
 - [@HassanKhan123](https://github.com/HassanKhan123)
 - [@edchav](https://github.com/edchav)
 - [@Amoghjm](https://github.com/AmoghJM)
