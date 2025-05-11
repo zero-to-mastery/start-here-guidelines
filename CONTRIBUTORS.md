@@ -213,6 +213,7 @@
 - [@nahom-zenebe](https://github.com/nahom-zenebe)
 - [@Munyiwamwangi](https://github.com/Munyiwamwangi)
 - [@Jibgittry](https://github.com/jibgittry)
+- [@vikaspalakurthi](https://github.com/vikaspalakurthi)
 - [@Mrrobin](https://github.com/MrRobiin)
 - [@Muhammadmehar](https://github.com/muhammad-mehar)
 - [@Mukidev](https://github.com/Muki-Dev)
