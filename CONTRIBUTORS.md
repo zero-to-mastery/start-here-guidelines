@@ -665,6 +665,7 @@
 - [@bekezela-pangenyama] (https://github.com/bekezela)
 - [@Kalindu-Konara](https://github.com/Sanka-47)
 - [@Fortfel](https://github.com/Fortfel)
+- [@singh6098](https://github.com/singh6098)
 - [@sushantDev](https://github.com/sushantDev)
 - [@sohamroy12](https://github.com/sohamroy12)
 - [@Nas-Tech-Hive](https://github.com/Nas-Tech-Hive)
