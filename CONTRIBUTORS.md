@@ -83,6 +83,7 @@
 - [@Bmalvo](https://github.com/bmalvo)
 - [@Bosecodes](https://github.com/BOSE-git)
 - [@Bren12](https://github.com/Bren12/)
+- [@Botiy](https://github.com/Botiy)
 - [@jaytintran](https://github.com/jaytintran)
 - [@Richard](https://github.com/samuelard7/)
 - [@Budur6655](https://github.com/Budur6655)
