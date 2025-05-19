@@ -26,6 +26,7 @@
 - [@aitwehrrg](https://github.com/aitwehrrg)
 - [@arian-fallahpour](https://github.com/arian-fallahpour)
 - [@yinka8380](https://github.com/yinka8380)
+- [@Thorn29](https://github.com/Thorn29)
 - [@Advait2211](https://github.com/Advait2211)
 - [@Abdullahahadi](https://github.com/abdullahahadi)
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
