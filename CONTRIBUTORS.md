@@ -203,6 +203,7 @@
 - [@Michelleivan](https://github.com/Michelleivan)
 - [@Mihnatco](https://github.com/MIhnatco)
 - [@Miltoncwhite](https://github.com/MiltonCWhite)
+- [@amyfisticuffs](https://amyfisticuffs.github.io)
 - [@tanksleye](https://github.com/tanksleye)
 - [@Mirikanner](https://github.com/MiriKanner)
 - [@Mlkinnear](https://github.com/MLKinnear)
@@ -637,3 +638,5 @@
 - [@Rub4ik](https://github.com/Rub4ik)
 - [@SultanMehmood](https://github.com/SultanMehmoodRubnawaz)
 - [@DrGreekenstein](https://github.com/DrGreekenstein)
+-[@Savithree](https://github.com/Savithree)
+-[@maljay](https://github.com/maljay)
