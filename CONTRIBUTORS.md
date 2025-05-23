@@ -341,6 +341,7 @@
 - [@Mohamadagag](https://github.com/Mohamadagag)
 - [@Willex13](https://github.com/willex13)
 - [@Xj4V1X](https://github.com/xj4v1x)
+- [@DhruvTheDev1](https://github.com/DhruvTheDev1)
 - [@Yashika9013](https://github.com/Yashika9013)
 - [@MeisAlpay](https://github.com/Meis01)
 - [@Wicia92](https://github.com/Wicia92/)
