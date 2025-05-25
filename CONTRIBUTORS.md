@@ -118,6 +118,7 @@
 - [@Zia6](https://github.com/Zia6)
 - [@knightofelves](https://github.com/JoelBright)
 - [@E1000Son](https://github.com/e1000son/)
+- [@marily77](https://github.com/marily77)
 - [@Eelopez515](https://github.com/eelopez515/)
 - [@Ehabejjeh](https://github.com/ehabejjeh)
 - [@Ekecolin](https://github.com/ekecolin)
