@@ -596,6 +596,7 @@
 - [@sirbolu](https://github.com/sirbolu)
 - [@massibia](https://github.com/massibia)
 - [@Violet-1029](https://github.com/Violet-1029)
+- [@RohitMugalya](https://github.com/RohitMugalya)
 - [PujaAmmineni](https://github.com/PujaAmmineni)
 - [@Ahrin-Yuan](https://github.com/Ahrin-Yuan)
 - [@Duvindu](https://github.com/duvindu60)
