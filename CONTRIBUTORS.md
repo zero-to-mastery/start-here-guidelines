@@ -621,6 +621,7 @@
 - [@Mulinga](https://github.com/Mulinga)
 - [@Subham-SR](https://github.com/Subham-SR)
 - [@mrjahsan](https://github.com/mrjahsan)
+- [@Zoniso](https://github.com/Zoniso)
 - [@mamanb99I](https://github.com/mamanb99I)
 - [@Igusman](https://github.com/Igusman)
 - [@MoaadAme](https://github.com/MoaadAmer)
