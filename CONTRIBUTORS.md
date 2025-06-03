@@ -487,7 +487,6 @@
 - [@Arun](https://github.com/Arunkumar319)
 - [@PranayS1](https://github.com/PranayS1)
 - [@tanasen](https://github.com/tanasen)
-- [@BishalGiri](https://github.com/vishalgiri1122)
 - [@MarioSuperFui](https://github.com/MarioSuperFui)
 - [wardayan](https://github.com/wardayan)
 - [@Akilshaik](https://github.com/Akilshaik)
@@ -662,3 +661,4 @@
 -[@wairan](https://github.com/wairan)
 - [@ArcotSaikiran](https://github.com/Arcotsaikiran)
 - [@punkysuen](https://github.com/punkysuen)
+- [@BishalGiri](https://github.com/vishalgiri1122)
