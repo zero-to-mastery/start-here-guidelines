@@ -129,6 +129,7 @@
 - [@Elpis-alpha](https://github.com/Elpis-alpha)
 - [@Emmykeys101](https://github.com/Emmykeys101)
 - [@Eriksalascode](https://github.com/eriksalascode)
+- [@Symon9](https://github.com/symon9)
 - [@Ernestsilver](https://github.com/ErnestSilver)
 - [@gunwixor](https://github.com/gunwixor)
 - [@Esamhadi](https://github.com/ESAMHADI/)
