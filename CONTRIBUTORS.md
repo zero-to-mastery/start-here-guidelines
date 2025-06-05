@@ -298,6 +298,7 @@
 - [@Shrutipanchal](https://github.com/Shruti-panchal)
 - [@Shubhamkourav](https://github.com/shubhamkourav)
 - [@Shvvvansh](https://github.com/shvvvansh/)
+- [@tshekar9](https://github.com/tshekar9)
 - [@Siddharthsinghverma](https://github.com/Siddharth-Singh-Verma)
 - [@username121546434](https://github.com/username121546434)
 - [@OCR-tech](https://github.com/OCR-tech)
