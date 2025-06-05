@@ -663,4 +663,4 @@
 - [@ArcotSaikiran](https://github.com/Arcotsaikiran)
 - [@punkysuen](https://github.com/punkysuen)
 - [@BishalGiri](https://github.com/vishalgiri1122)
-- [@otaku95](https://github.com/otaku95)
+- [@Otaku95](https://github.com/otaku95)
