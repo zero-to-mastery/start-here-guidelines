@@ -668,6 +668,7 @@
 -[@wairan](https://github.com/wairan)
 - [@ArcotSaikiran](https://github.com/Arcotsaikiran)
 - [@punkysuen](https://github.com/punkysuen)
+- [@DessieRose](https://github.com/DessieRose)
 - [@BishalGiri](https://github.com/vishalgiri1122)
 - [@Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola)
 - [@y0ooo0gesh](https://github.com/y0ooo0gesh)
