@@ -97,6 +97,7 @@
 - [@Bugzthebunny](https://github.com/BugzTheBunny)
 - [@Chaiwawtf](https://github.com/chaiwatf)
 - [@Charlomatic](https://github.com/charlomatic)
+- [@tacesept](https://github.com/tacesept)
 - [@porfanid](https://github.com/porfanid)
 - [@CleverLittleMaker](https://github.com/CleverLittleMaker)
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
