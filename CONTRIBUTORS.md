@@ -677,5 +677,6 @@
 - [@y0ooo0gesh](https://github.com/y0ooo0gesh)
 - [@vihangamalinda](https://github.com/vihangamalinda/)
 - [@afmnasiruddin01](https://github.com/afmnasiruddin01/)
+- [@sangal-kanishk](https://github.com/sangal-kanishk)
 
-- [@JamieShortz](https://github.com/JamieShortz)
+
