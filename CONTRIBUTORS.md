@@ -241,6 +241,7 @@
 - [@Neetasawant](https://github.com/neetasawant/)
 - [@Niltonpimentel02](https://github.com/niltonpimentel02)
 - [@Nislam2023](https://github.com/nislam2023)
+- [@HDarius90](https://github.com/HDarius90)
 - [@Nofaxking](https://github.com/NOFAXKING)
 - [@amaltscaria](https://github.com/amaltscaria)
 - [@Nomo5G](https://github.com/nomo5g/)
