@@ -4,27 +4,27 @@ Getting started with open-source can be a difficult task, not only because we ar
 
 It may appear to be a very challenging and overwhelming task at first, but it is, in fact, a fun and rewarding experience.
 
-# Community Led Collaboration Projects
+## Community Led Collaboration Projects
 
 Providing the opportunity for you to flex your developer muscles whilst working within a team of developers. You can gain valuable skills that employers are always seeking, such as:
 
--   **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
--   **Github and source control** - In these projects you will have the opportunity to understand why branching is important, along with other key github skills
--   **New stacks and technologies** - Each project is likely to use slightly different stacks, providing the opportunity to jump into something new
+- **Communication and collaboration** - Being able to work in a team and communicating effectively is a very important skill
+- **Github and source control** - In these projects you will have the opportunity to understand why branching is important, along with other key github skills
+- **New stacks and technologies** - Each project is likely to use slightly different stacks, providing the opportunity to jump into something new
 
-# How You Benefit
+## How You Benefit
 
 Along with learning new skills, you will also gain experience on projects you can start to list on your resume/CV. In addition, you will build out your commit history on Github, which employers love! But most importantly, you will learn to work in teams which is one of the most important skills to be a top developer.
 
-# You have 2 options: Join an existing project or Create a new project:
+## You have 2 options: Join an existing project or Create a new project
 
-## Option 1: Join a project
+### Option 1: Join a project
 
 Joining a project is pretty simple, checkout the [current projects](https://github.com/zero-to-mastery) and find one you would like to participate in. Check out the project README in its repo as it will have a guide on how to get started!
 
 **Please note:** Whilst working on any project in the Zero To Mastery community, you must adhere to our code of conduct, which can be found [here](https://github.com/zero-to-mastery/CodeofConduct)
 
-## Option 2: Create a project
+### Option 2: Create a project
 
 We are always on the lookout for new and exciting projects to add to Zero to Mastery for you all to collaborate on! If you think you have a new and exciting project/idea the community would love to get involved in Reach out to a member of the Management Team on our Discord server, with a detailed project brief.
 
@@ -32,9 +32,9 @@ We are always on the lookout for new and exciting projects to add to Zero to Mas
 
 In order to ensure that students hard work and time are not exploited, there are a couple of rules that will need to be followed for any project:
 
--   The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
--   The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
--   The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
+- The project repo and discussion channels, will be hosted under the Zero To Mastery Github organization/Discord Server
+- The project must use the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/)
+- The project must contain and adhere to the `code of conduct` guide found [here](https://github.com/zero-to-mastery/CodeofConduct)
 
 ## Projects
 
