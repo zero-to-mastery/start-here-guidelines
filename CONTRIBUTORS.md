@@ -1,4 +1,4 @@
- # CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@Sami-21](https://github.com/Sami-21/)
 - [@navidcodes](https://github.com/navidcodes)
@@ -6,6 +6,7 @@
 - [@Haroldraj](https://github.com/haroldraj)
 - [@SawyerLau](https://github.com/ccasJay)
 - [@fizhassolsamor](https://github.com/fizhassolsamor)
+- [@AmartyaVishwakarma](https://github.com/Amartya-007)
 - [@corneliusSW20](https://github.com/corneliusSW20)
 - [@nilesh-shewale](https://github.com/nilesh-shewale)
 - [@4Liyar](https://github.com/4liyar/)
