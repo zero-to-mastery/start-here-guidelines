@@ -532,6 +532,7 @@
 - [@cydydev](https://github.com/cydydev)
 - [@mintesin](https://github.com/mintesin)
 - [@turtlemb](https://github.com/turtlemb)
+- [@dogukan-polat](https://github.com/dogukan-polat)
 - [@bozyurt21](https://github.com/bozyurt21)
 - [@IlyasJSztm](https://github.com/IlyasJSztm)
 - [@Phoenix-070](https://github.com/Phoenix-070)
