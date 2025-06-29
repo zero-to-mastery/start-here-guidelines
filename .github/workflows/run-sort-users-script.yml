@@ -1,18 +1,45 @@
-- name: Check if PR is from a fork
-  id: fork-check
-  run: |
-    echo "is_fork=$([[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]] && echo true || echo false)" >> $GITHUB_OUTPUT
+name: Run Sort Users Script
 
-- name: Commit and push changes
-  if: steps.fork-check.outputs.is_fork == 'false'
-  run: |
-    git config --global user.name github-actions
-    git config --global user.email github-actions@github.com
-    git checkout ${{ github.event.pull_request.head.ref }}
-    git add CONTRIBUTORS.md
-    git commit -m "(CI) format code" || echo "No changes to commit"
-    git push origin HEAD:${{ github.event.pull_request.head.ref }}
+on:
+  pull_request:
+    types: [opened, synchronize]
 
-- name: Skip push (forked PR)
-  if: steps.fork-check.outputs.is_fork == 'true'
-  run: echo "🔒 Cannot push changes — PR is from a fork. GitHub blocks this."
+jobs:
+  sort-users:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Run sort-users script
+        run: python sort-users.py
+      
+      - name: Check if PR is from a fork
+        id: fork-check
+        run: |
+          echo "is_fork=$([[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]] && echo true || echo false)" >> $GITHUB_OUTPUT
+      
+      - name: Commit and push changes
+        if: steps.fork-check.outputs.is_fork == 'false'
+        run: |
+          git config --global user.name github-actions
+          git config --global user.email github-actions@github.com
+          git checkout ${{ github.event.pull_request.head.ref }}
+          git add CONTRIBUTORS.md
+          git commit -m "(CI) format code" || echo "No changes to commit"
+          git push origin HEAD:${{ github.event.pull_request.head.ref }}
+      
+      - name: Skip push (forked PR)
+        if: steps.fork-check.outputs.is_fork == 'true'
+        run: echo "🔒 Cannot push changes — PR is from a fork. GitHub blocks this."
