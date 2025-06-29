@@ -5,6 +5,7 @@
 - [@Vdanepalli](https://github.com/vdanepalli)
 - [@Haroldraj](https://github.com/haroldraj)
 - [@SawyerLau](https://github.com/ccasJay)
+-[@pratyushkr](https://github.com/pratyushkr9420)
 - [@fizhassolsamor](https://github.com/fizhassolsamor)
 - [@corneliusSW20](https://github.com/corneliusSW20)
 - [@nilesh-shewale](https://github.com/nilesh-shewale)
