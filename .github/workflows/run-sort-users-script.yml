@@ -1,44 +1,41 @@
 name: run-python-sort-script
+
 on:
-  pull_request_target
+  pull_request:
+    branches: [master]
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
+
 jobs:
-  build:
-    name: Run sort-users.py
+  sort-and-check:
     runs-on: ubuntu-latest
+    name: Run sort-users.py on all PRs
+
     steps:
-    - name: Checkout PR
-      uses: actions/checkout@v4
-      with:
-        ref: ${{ github.event.pull_request.head.sha }}
-        fetch-depth: 0
-    - name: Install Python 3
-      uses: actions/setup-python@v4
-      with:
-        python-version: 3.9
-    - name: Sort users
-      run: python3 sort-users.py
-    - name: Change CONTRIBUTORS file
-      run: |
-        echo "Changed" > CONTRIBUTORS.md 
-    - name: Check for changes
-      uses: tj-actions/verify-changed-files@v17
-      id: changed_files
-      with: 
-        files: |
-           CONTRIBUTORS.md
-    - name: Display changes to CONTRIBUTORS file
-      if: steps.changed_files.outputs.files_changed == 'true'
-      run: |
-        echo "Changed files: ${{ steps.changed_files.outputs.changed_files }}"
-    - name: Commit changes
-      if: steps.changed_files.outputs.files_changed == 'true'
-      run: |
-        git config --global user.name github-actions
-        git config --global user.email github-actions@github.com
-        git checkout -B ${{ github.event.pull_request.head.ref }}
-        git commit -a -m "(CI) format code"
-        git push origin ${{ github.event.pull_request.head.ref }}
+      - name: Checkout PR code
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Run sort-users.py
+        run: |
+          echo "Running sort-users.py..."
+          python3 sort-users.py
+          echo "Script finished running."
+
+      - name: Check if CONTRIBUTORS.md changed
+        run: |
+          if ! git diff --quiet CONTRIBUTORS.md; then
+            echo "❌ CONTRIBUTORS.md is not sorted properly."
+            echo "Please run \`python3 sort-users.py\` and commit the result."
+            exit 1
+          else
+            echo "✅ CONTRIBUTORS.md is properly sorted."
+          fi
