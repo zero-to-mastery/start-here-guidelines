@@ -1,41 +1,18 @@
-name: run-python-sort-script
+- name: Check if PR is from a fork
+  id: fork-check
+  run: |
+    echo "is_fork=$([[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]] && echo true || echo false)" >> $GITHUB_OUTPUT
 
-on:
-  pull_request:
-    branches: [master]
+- name: Commit and push changes
+  if: steps.fork-check.outputs.is_fork == 'false'
+  run: |
+    git config --global user.name github-actions
+    git config --global user.email github-actions@github.com
+    git checkout ${{ github.event.pull_request.head.ref }}
+    git add CONTRIBUTORS.md
+    git commit -m "(CI) format code" || echo "No changes to commit"
+    git push origin HEAD:${{ github.event.pull_request.head.ref }}
 
-permissions:
-  contents: read
-
-jobs:
-  sort-and-check:
-    runs-on: ubuntu-latest
-    name: Run sort-users.py on all PRs
-
-    steps:
-      - name: Checkout PR code
-        uses: actions/checkout@v4
-        with:
-          ref: ${{ github.event.pull_request.head.sha }}
-          fetch-depth: 0
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9
-
-      - name: Run sort-users.py
-        run: |
-          echo "Running sort-users.py..."
-          python3 sort-users.py
-          echo "Script finished running."
-
-      - name: Check if CONTRIBUTORS.md changed
-        run: |
-          if ! git diff --quiet CONTRIBUTORS.md; then
-            echo "❌ CONTRIBUTORS.md is not sorted properly."
-            echo "Please run \`python3 sort-users.py\` and commit the result."
-            exit 1
-          else
-            echo "✅ CONTRIBUTORS.md is properly sorted."
-          fi
+- name: Skip push (forked PR)
+  if: steps.fork-check.outputs.is_fork == 'true'
+  run: echo "🔒 Cannot push changes — PR is from a fork. GitHub blocks this."
