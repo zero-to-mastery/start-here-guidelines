@@ -1700,6 +1700,9 @@
 - [@Fortfel](https://github.com/Fortfel)
 - [@singh6098](https://github.com/singh6098)
 - [@sushantDev](https://github.com/sushantDev)
+
+- [@msruthi90](https://github.com/msruthi90)
+
 - [@sohamroy12](https://github.com/sohamroy12)
 - [@Nas-Tech-Hive](https://github.com/Nas-Tech-Hive)
 - [@namalrizwan](https://github.com/namalrizwan)
