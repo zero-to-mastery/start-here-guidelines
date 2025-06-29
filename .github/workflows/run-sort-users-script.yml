@@ -1,47 +1,27 @@
-name: Run Sort Users Script
+name: Sort Users Script
 
 on:
   pull_request:
+    types: [opened, synchronize]
 
 jobs:
   sort-users:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+      - name: Checkout repository
+        uses: actions/checkout@v4
       
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
       
-      - name: Checkout PR branch
-        run: |
-          git fetch origin ${{ github.event.pull_request.head.ref }}
-          git checkout ${{ github.event.pull_request.head.ref }}
+      - name: Run sort_users.py
+        run: python sort_users.py
       
-      - name: Run sort-users script
-        run: python sort-users.py
-      
-      - name: Check if PR is from fork and commit changes
+      - name: Show changes (if any)
         run: |
-          if [[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]]; then
-            echo "🔒 PR from fork - cannot push changes"
-            exit 0
-          fi
-          
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          if git diff --quiet CONTRIBUTORS.md; then
-            echo "No changes to commit"
-          else
-            git add CONTRIBUTORS.md
-            git commit -m "🤖 Auto-format CONTRIBUTORS.md"
-            git push origin ${{ github.event.pull_request.head.ref }}
-          fi
+          echo "=== Changes made by sort_users.py ==="
+          git diff
+          echo "=================================="
