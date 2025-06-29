@@ -2,20 +2,18 @@ name: Run Sort Users Script
 
 on:
   pull_request:
-    types: [opened, synchronize]
 
 jobs:
   sort-users:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     
     steps:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          fetch-depth: 0
+          ref: ${{ github.event.pull_request.head.ref }}
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,21 +23,20 @@ jobs:
       - name: Run sort-users script
         run: python sort-users.py
       
-      - name: Check if PR is from a fork
-        id: fork-check
+      - name: Check if PR is from fork and commit changes
         run: |
-          echo "is_fork=$([[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]] && echo true || echo false)" >> $GITHUB_OUTPUT
-      
-      - name: Commit and push changes
-        if: steps.fork-check.outputs.is_fork == 'false'
-        run: |
-          git config --global user.name github-actions
-          git config --global user.email github-actions@github.com
-          git checkout ${{ github.event.pull_request.head.ref }}
-          git add CONTRIBUTORS.md
-          git commit -m "(CI) format code" || echo "No changes to commit"
-          git push origin HEAD:${{ github.event.pull_request.head.ref }}
-      
-      - name: Skip push (forked PR)
-        if: steps.fork-check.outputs.is_fork == 'true'
-        run: echo "🔒 Cannot push changes — PR is from a fork. GitHub blocks this."
+          if [[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]]; then
+            echo "🔒 PR from fork - cannot push changes"
+            exit 0
+          fi
+          
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          if git diff --quiet CONTRIBUTORS.md; then
+            echo "No changes to commit"
+          else
+            git add CONTRIBUTORS.md
+            git commit -m "🤖 Auto-format CONTRIBUTORS.md"
+            git push origin HEAD:${{ github.event.pull_request.head.ref }}
+          fi
