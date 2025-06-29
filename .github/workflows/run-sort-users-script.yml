@@ -15,7 +15,7 @@ jobs:
       with:
         python-version: 3.9
     - name: Sort users
-      run: python sort-users.py
+      run: python3 sort-users.py
     - name: Change CONTRIBUTORS file
       run: |
         echo "Changed" > CONTRIBUTORS.md 
