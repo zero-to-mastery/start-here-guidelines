@@ -12,7 +12,7 @@
 
 - [@A.Do](https://github.com/Jrho-0)
 
--[@th3-pr3d1t0r](https://github.com/th3-pr3d1t0r)
+- [@th3-pr3d1t0r](https://github.com/th3-pr3d1t0r)
 
 - [@Aakashraodev](http://github.com/aakashRao-dev)
 
