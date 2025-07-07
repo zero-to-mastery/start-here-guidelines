@@ -6113,9 +6113,6 @@
 
 - [@david-borja](https://github.com/david-borja)
 
-<<<<<<< HEAD
-- [@Jamlick126](https://github.com/Jamlick126)
-=======
 - [@Jamlick126](https://github.com/Jamlick126)
 
->>>>>>> 4d65282cc45e02c2290ae02319b808cef8a5a9d0
+
