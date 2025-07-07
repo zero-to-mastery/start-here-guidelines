@@ -1,0 +1,11 @@
+
+name: Sort Users
+
+on: pull_request
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python sort-users.py
