@@ -458,7 +458,6 @@
 - [@Hatchingideas](https://github.com/hatchingideas)
 - [@Havvaguler](https://github.com/havvaguler)
 
-
 - [@Gabe_Marques](https://github.com/gabe-marques)
 
 - [@Gamerboyelz](https://github.com/gamerboyelz)
@@ -690,7 +689,7 @@
 - [@Kranjec023](https://github.com/Kranjec023)
 
 - [@Kvv1618](https://github.com/kvv1618)
-- 
+-
 - [@L1lith666](https://github.com/L1lith666)
 
 - [@Lakojo](https://github.com/Lakojo)
@@ -1206,9 +1205,9 @@
 - [@Soulshri](https://github.com/Soulshri)
 
 - [@Spencer555](https://github.com/Spencer555)
-- 
+-
 - [@faradilshodov](https://github.com/faradilshodov)
-- 
+-
 - [@HerbertNtim](https://github.com/HerbertNtim)
 
 - [@Sree4Z](https://github.com/Sree4Z)
@@ -1714,8 +1713,8 @@
 - [@namalrizwan](https://github.com/namalrizwan)
 - [@Rambabu-Akkapolu](https://github.com/Rambabu-Akkapolu)
 
-- [@namalrizwan](https://github.com/namalrizwan) 
-- [@Rambabu-Akkapolu](https://github.com/Rambabu-Akkapolu) 
+- [@namalrizwan](https://github.com/namalrizwan)
+- [@Rambabu-Akkapolu](https://github.com/Rambabu-Akkapolu)
 
 - [@Hozaifa7](https://github.com/Hozaifa7)
 - [@HarshalG07](https://github.com/HarshalG07)
@@ -1730,16 +1729,13 @@
 - [@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@udeshvirk](https://github.com/udeshvirk)
-- [@dev-anvith](https://github.com/dev-anvith)
--[@Savithree](https://github.com/Savithree)
--[@maljay](https://github.com/maljay)
+- [@dev-anvith](https://github.com/dev-anvith) -[@Savithree](https://github.com/Savithree) -[@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@mihai54321] (https://github.com/mihai54321)
 - [@harshavardhan] (https://github.com/HarshaVardhan108)
 - [@Ayomzy96] (https://github.com/Ayomzy96)
 - [@bassemr] (https://github.com/bassemr)
-- [@huijustin] (https://github.com/huijustin)
--[@wairan](https://github.com/wairan)
+- [@huijustin] (https://github.com/huijustin) -[@wairan](https://github.com/wairan)
 - [@ArcotSaikiran](https://github.com/Arcotsaikiran)
 - [@punkysuen](https://github.com/punkysuen)
 - [@DessieRose](https://github.com/DessieRose)
@@ -1768,3 +1764,4 @@
 - [@aimlfsd](https://github.com/aimlfsd)
 
 - [@Jayesh-S-Patil](https://github.com/Jayesh-S-Patil)
+- [@Joshf225](https://github.com/Joshf225)
