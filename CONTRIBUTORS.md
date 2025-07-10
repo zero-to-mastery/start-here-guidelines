@@ -1759,11 +1759,11 @@
 
 - [@Zyringe](https://github.com/Zyringe)
 
--[@rrtorbi](https://github.com/rrtorbi)
+- [@rrtorbi](https://github.com/rrtorbi)
 
--[@Rakmo5](https://github.com/Rakmo5)
+- [@Rakmo5](https://github.com/Rakmo5)
 
--[@hanslaya](https://github.com/hanslaya)
+- [@hanslaya](https://github.com/hanslaya)
 
 - [@aimlfsd](https://github.com/aimlfsd)
 
