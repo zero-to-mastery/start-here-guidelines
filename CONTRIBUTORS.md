@@ -1229,7 +1229,6 @@
 
 - [@HerbertNtim](https://github.com/HerbertNtim)
 
-
 - [@Sree4Z](https://github.com/Sree4Z)
 
 - [@Sri007Vasan](https://github.com/sri007vasan)
@@ -1725,12 +1724,12 @@
 - [@Jerry3048](https://github.com/Jerry3048/)
 - [@abdulaziz-mukhitdinov](https://github.com/abdulaziz-mukhitdinov)
 - [@TomK02](https://github.com/TomK02/)
-- [@Mariana-GG] (https://github.com/Mariana-GG)
-- [@francisyoung13] (https://github.com/francisyoung13)
-- [@jeremycabrera1] (https://github.com/jeremycabrera1)
-- [@kaif-khan-md] (https://github.com/kaif-khan-md)
-- [@official-paras-bhandari] (https://github.com/official-paras-bhandari)
-- [@bekezela-pangenyama] (https://github.com/bekezela)
+- [@Mariana-GG](https://github.com/Mariana-GG)
+- [@francisyoung13](https://github.com/francisyoung13)
+- [@jeremycabrera1](https://github.com/jeremycabrera1)
+- [@kaif-khan-md](https://github.com/kaif-khan-md)
+- [@official-paras-bhandari](https://github.com/official-paras-bhandari)
+- [@bekezela-pangenyama](https://github.com/bekezela)
 - [@Kalindu-Konara](https://github.com/Sanka-47)
 - [@Fortfel](https://github.com/Fortfel)
 - [@singh6098](https://github.com/singh6098)
@@ -1759,6 +1758,17 @@
 - [@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@udeshvirk](https://github.com/udeshvirk)
+
+- [@dev-anvith](https://github.com/dev-anvith)
+- [@Savithree](https://github.com/Savithree)
+- [@maljay](https://github.com/maljay)
+- [@charlesuzodike](https://github.com/charlesuzodike)
+- [@mihai54321](https://github.com/mihai54321)
+- [@harshavardhan](https://github.com/HarshaVardhan108)
+- [@Ayomzy96](https://github.com/Ayomzy96)
+- [@bassemr](https://github.com/bassemr)
+- [@huijustin](https://github.com/huijustin)
+- [@wairan](https://github.com/wairan)
 - [@dev-anvith](https://github.com/dev-anvith) -[@Savithree](https://github.com/Savithree) -[@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@mihai54321] (https://github.com/mihai54321)
@@ -1785,3 +1795,16 @@
 
 - [@Zyringe](https://github.com/Zyringe)
 
+- [@rrtorbi](https://github.com/rrtorbi)
+
+- [@Rakmo5](https://github.com/Rakmo5)
+
+- [@hanslaya](https://github.com/hanslaya)
+
+- [@aimlfsd](https://github.com/aimlfsd)
+
+- [@Jayesh-S-Patil](https://github.com/Jayesh-S-Patil)
+
+- [@abraham1229](https://github.com/abraham1229)
+
+- [@ken-027](https://github.com/ken-027)
