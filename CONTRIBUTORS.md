@@ -1,9 +1,5 @@
 # CONTRIBUTORS
 
-- [@]()
-
-- [@#Contributors]()
-
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@8130146](https://github.com/8130146)
@@ -79,6 +75,8 @@
 - [@Akilshaik](https://github.com/Akilshaik)
 
 - [@Akindex5427](https://github.com/Akindex5427)
+
+- [@Akramfdk](https://github.com/akramfdk)
 
 - [@Al3Shan33](https://github.com/al3shan33/)
 
@@ -434,6 +432,10 @@
 
 - [@Faylina](https://github.com/Faylina/)
 
+- [@Firelord2345](https://github.com/Firelord2345)
+
+- [@Fortfel](https://github.com/Fortfel)
+
 - [@Feangapegamedev](https://github.com/FeangapeGamedev)
 
 - [@Firelord2345](https://github.com/Firelord2345)
@@ -515,6 +517,8 @@
 - [@Havvaguler](https://github.com/havvaguler)
 
 - [@Haziqamiruddin](https://github.com/HaziqAmiruddin)
+
+- [@Helgjet](https://github.com/HelgJet/)
 
 - [@Hdarius90](https://github.com/HDarius90)
 
@@ -1060,6 +1064,8 @@
 
 - [@Robelkasahun](https://github.com/RobelKasahun)
 
+- [@Rojin025](https://github.com/rojin025)
+
 - [@Rohitmugalya](https://github.com/RohitMugalya)
 
 - [@Rojin025](https://github.com/rojin025)
@@ -1245,6 +1251,8 @@
 - [@Sushantdev](https://github.com/sushantDev)
 
 - [@Swojti](https://github.com/SWojti)
+
+- [@Sznsgthb](https://github.com/sznsgthb/)
 
 - [@Symon9](https://github.com/symon9)
 
