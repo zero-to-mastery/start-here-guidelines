@@ -1,4 +1,4 @@
-#CONTRIBUTORS
+# CONTRIBUTORS
 
 - [@Sami-21](https://github.com/Sami-21/)
 - [@navidcodes](https://github.com/navidcodes)
