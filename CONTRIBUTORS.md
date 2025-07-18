@@ -259,6 +259,8 @@
 
 - [@Chikinpie](https://github.com/chikinpie)
 
+- [@Chones17](https://github.com/chones17)
+
 - [@Christopherjames](https://github.com/ChristopherJamesL)
 
 - [@Ckapsalis2710](https://github.com/ckapsalis2710)
