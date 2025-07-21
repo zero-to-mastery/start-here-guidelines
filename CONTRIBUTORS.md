@@ -894,6 +894,8 @@
 
 - [@Namalrizwan](https://github.com/namalrizwan)
 
+- [@NamishM7](https://github.com/NamishM7)
+
 - [@Namratharenjal](https://github.com/namratha-renjal)
 
 - [@Nandagopalng](https://github.com/NANDAGOPALNG)
