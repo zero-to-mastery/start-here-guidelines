@@ -1769,8 +1769,7 @@
 - [@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@udeshvirk](https://github.com/udeshvirk)
-- [@mihai54321](https://github.com/mihai54321)
-- [@dev-anvith](https://github.com/dev-anvith) -[@Savithree](https://github.com/Savithree) -[@maljay](https://github.com/maljay)
+- [@dev-anvith](https://github.com/dev-anvith)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@mihai54321](https://github.com/mihai54321)
 - [@harshavardhan](https://github.com/HarshaVardhan108)
@@ -1804,6 +1803,8 @@
 - [@hanslaya](https://github.com/hanslaya)
 
 - [@aimlfsd](https://github.com/aimlfsd)
+
+- [@DevGoyal07](https://github.com/DevGoyal07)
 
 - [@Jayesh-S-Patil](https://github.com/Jayesh-S-Patil)
 
