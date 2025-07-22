@@ -1823,6 +1823,7 @@
 - [@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@udeshvirk](https://github.com/udeshvirk)
+
 - [@dev-anvith](https://github.com/dev-anvith)
 - [@charlesuzodike](https://github.com/charlesuzodike)
 - [@mihai54321](https://github.com/mihai54321)
@@ -1831,6 +1832,7 @@
 - [@bassemr](https://github.com/bassemr)
 - [@huijustin](https://github.com/huijustin)
 - [@wairan](https://github.com/wairan)
+
 - [@ArcotSaikiran](https://github.com/Arcotsaikiran)
 - [@punkysuen](https://github.com/punkysuen)
 - [@DessieRose](https://github.com/DessieRose)
@@ -1858,6 +1860,8 @@
 
 - [@aimlfsd](https://github.com/aimlfsd)
 
+- [@TheMShahid](https://github.com/TheMShahid)
+
 - [@DevGoyal07](https://github.com/DevGoyal07)
 
 - [@Jayesh-S-Patil](https://github.com/Jayesh-S-Patil)
@@ -1875,7 +1879,9 @@
 - [@ethanchbat](https://github.com/ethanchbat)
 
 - [@Seif-waell](https://github.com/Seif-waell)
+
 - [@Shashanka](https://github.com/ShashankaShekharSharma)
 
- -[@Ralph-arch4](https://github.com/Ralph-arch4/)
+- [@Ralph-arch4](https://github.com/Ralph-arch4/)
+
 
