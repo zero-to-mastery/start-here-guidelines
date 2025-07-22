@@ -1,42 +1,11 @@
-name: Run Sort Users Script
 
-on:
-  pull_request:
+name: Sort Users
+
+on: pull_request
 
 jobs:
-  sort-users:
+  sort:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
     steps:
       - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ref: ${{ github.event.pull_request.head.ref }}
-      
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-      
-      - name: Run sort-users script
-        run: python sort-users.py
-      
-      - name: Check if PR is from fork and commit changes
-        run: |
-          if [[ '${{ github.event.pull_request.head.repo.full_name }}' != '${{ github.repository }}' ]]; then
-            echo "🔒 PR from fork - cannot push changes"
-            exit 0
-          fi
-          
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          if git diff --quiet CONTRIBUTORS.md; then
-            echo "No changes to commit"
-          else
-            git add CONTRIBUTORS.md
-            git commit -m "🤖 Auto-format CONTRIBUTORS.md"
-            git push origin HEAD:${{ github.event.pull_request.head.ref }}
-          fi
+      - run: python sort-users.py
