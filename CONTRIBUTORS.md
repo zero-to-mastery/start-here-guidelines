@@ -1834,6 +1834,11 @@
 - [@SultanMehmood](https://github.com/SultanMehmoodRubnawaz)
 
 - [@DrGreekenstein](https://github.com/DrGreekenstein)
+
+-[@Savithree](https://github.com/Savithree)
+-[@maljay](https://github.com/maljay)
+-[@lucapantis](https://github.com/lucapantis)
+
 - [@Savithree](https://github.com/Savithree)
 - [@maljay](https://github.com/maljay)
 - [@charlesuzodike](https://github.com/charlesuzodike)
