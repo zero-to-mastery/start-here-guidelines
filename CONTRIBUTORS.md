@@ -1,5 +1,15 @@
 # CONTRIBUTORS
 
+- [@Sami-21](https://github.com/Sami-21/)
+- [@navidcodes](https://github.com/navidcodes)
+- [@Vdanepalli](https://github.com/vdanepalli)
+- [@Haroldraj](https://github.com/haroldraj)
+- [@SawyerLau](https://github.com/ccasJay)
+- [@pratyushkr](https://github.com/pratyushkr9420)
+- [@fizhassolsamor](https://github.com/fizhassolsamor)
+- [@corneliusSW20](https://github.com/corneliusSW20)
+- [@nilesh-shewale](https://github.com/nilesh-shewale)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@8130146](https://github.com/8130146)
