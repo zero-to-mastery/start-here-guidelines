@@ -172,6 +172,8 @@
 
 - [@Davidanam44](https://github.com/davidanam44)
 
+- [@tailornp](https://github.com/tailornp)
+
 - [@Dawnhajdu](https://github.com/dawnhajdu)
 
 - [@Dbarbanakov](https://github.com/Dbarbanakov)
