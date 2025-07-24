@@ -356,6 +356,8 @@
 
 - [@Jonatng](https://github.com/jonatng)
 
+- [@daingan2612](https://github.com/daingan2612)
+
 - [@Jonreapsome](https://github.com/jonreapsome)
 
 - [@Jordanboller](https://github.com/JordanBoller)
