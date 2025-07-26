@@ -110,6 +110,8 @@
 
 - [@Bimataruna](https://github.com/bima-taruna)
 
+- [@BindushreeBade](https://github.com/bindushreebade)
+
 - [@Bluemliarts](https://github.com/Bluemli-Arts)
 
 - [@Bmalvo](https://github.com/bmalvo)
