@@ -440,6 +440,8 @@
 
 - [@Lwhite](https://github.com/l-white)
 
+- [@lennardj](https://github.com/Lennardj/)
+
 - [@M00Nk0D3](https://github.com/m00nk0d3)
 
 - [@How-Tin](https://github.com/How-Tin)
