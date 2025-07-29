@@ -108,7 +108,7 @@
 
 - [@Baswaakshay](https://github.com/baswa-akshay/)
 
-- [@bpmdevr](https://github.com/bpmdevr)
+- [@Bilal](https://github.com/bpmdevr)
 
 - [@Bimataruna](https://github.com/bima-taruna)
 
