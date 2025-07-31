@@ -92,6 +92,8 @@
 
 - [@Anuragsingh](https://github.com/dev-anurag-singh)
 
+- [@Arpowe11](https://github.com/arpowe11/)
+
 - [@Askaryabbas](https://github.com/askaryabbas/)
 
 - [@Aybread](https://github.com/AY-BREAD/)
