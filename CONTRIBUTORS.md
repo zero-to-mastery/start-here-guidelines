@@ -386,6 +386,8 @@
 
 - [@Kailittlefair](https://github.com/kailittlefair)
 
+- [@adykrgupta](https://github.com/adykrgupta)
+
 - [@Kalindukonara](https://github.com/Sanka-47)
 
 - [@Kasalehi](https://github.com/kasalehi)
@@ -920,4 +922,3 @@
 
 -[@chisommm](https://github.com/chisommm)
 
--[@adykrgupta](https://github.com/adykrgupta)
