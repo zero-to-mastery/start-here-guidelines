@@ -656,6 +656,8 @@
 
 - [@Rabit314](https://github.com/rabit314)
 
+- [@rafaelzolt](https://github.com/rafaelzolt)
+
 - [@Raheesp](https://github.com/Raheesp)
 
 - [@Rahulshrivastwa99](https://github.com/rahulshrivastwa99)
