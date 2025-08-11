@@ -4592,6 +4592,8 @@
 
 -[@amitsaroj001](https://github.com/amitsaroj001)
 
+-[@ChinoZanotti](https://github.com/ChinoZanotti/)
+
 -[@mscchapagain](https://github.com/mscchapagain)
 
 -[@jarredcole](https://github.com/jarredcole)
