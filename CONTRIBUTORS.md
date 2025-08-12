@@ -152,6 +152,8 @@
 
 - [@HarshYadav152](https://github.com/HarshYadav152)
 
+- [@vinayboss9669](https://github.com/vinayboss9669)
+
 - [@Cameronwmax](https://github.com/cameronwmax)
 
 - [@Candelozuluaga](https://github.com/Candelo-Zuluaga)
