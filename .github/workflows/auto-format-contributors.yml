@@ -1,0 +1,40 @@
+name: Sort Users
+
+on:
+  pull_request:
+    paths:
+      - 'CONTRIBUTORS.md'
+
+jobs:
+  sort:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout PR Branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run sorting script
+        run: python sort-users.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add CONTRIBUTORS.md
+          # This command exits with 0 if no changes, or 1 if there are changes.
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: format CONTRIBUTORS.md [skip ci]"
+            git push
+            echo "Committed and pushed changes."
+          fi
