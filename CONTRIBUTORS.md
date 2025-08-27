@@ -288,6 +288,8 @@
 
 - [@Fullspeccoder](https://githu.com/fullspeccoder)
 
+- [@furqonarif](https://github.com/furqonarif)
+
 - [@Gabe_Marques](https://github.com/gabe-marques)
 
 - [@Gidknight](http://github.com/Gidknight)
