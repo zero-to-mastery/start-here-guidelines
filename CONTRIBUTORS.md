@@ -366,6 +366,8 @@
 
 - [@Janardhanjayanth](https://github.com/JanardhanJayanthxhd)
 
+- [@ChrisMerinoDev] (https://github.com/ChrisMerinoDev)
+
 - [@Javidveg](https://github.com/javidVeg)
 
 - [@Jeffwiatt](https://github.com/jeffwiatt)
