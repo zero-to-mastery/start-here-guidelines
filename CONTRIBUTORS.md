@@ -374,6 +374,8 @@
 
 - [@Jonatng](https://github.com/jonatng)
 
+- [@DalaScript](https://github.com/DalaScript)
+
 - [@daingan2612](https://github.com/daingan2612)
 
 - [@Jonreapsome](https://github.com/jonreapsome)
