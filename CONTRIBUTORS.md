@@ -374,6 +374,8 @@
 
 - [@Jonatng](https://github.com/jonatng)
 
+- [@DalaScript](https://github.com/DalaScript)
+
 - [@daingan2612](https://github.com/daingan2612)
 
 - [@Jonreapsome](https://github.com/jonreapsome)
@@ -4902,5 +4904,3 @@
 - [@williamlee2503](https://github.com/williamlee2503)
 
 - [@Unbrokencivilization](https://github.com/Unbrokencivilization)
-
-- [@DalaScript](https://github.com/DalaScript)
