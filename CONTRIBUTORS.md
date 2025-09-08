@@ -4916,3 +4916,13 @@
 - [daarwinmendez](https://github.com/Daarwinmendez)
 
 - [@mitch7553-ctrl](https://github.com/mitch7553-ctrl)
+
+-[@akramfdk](https://github.com/akramfdk)
+
+-[@Olajummy-12](https://github.com/Olajummy-12)
+
+-[@isabelgaldamez](https://github.com/isabelgaldamez/)
+
+-[@RohitJaiswalNyc](https://github.com/RohitJaiswalNyc/)
+
+- [Rohit Kumbhar](https://github.com/Rohitt29)
