@@ -374,6 +374,8 @@
 
 - [@Jonatng](https://github.com/jonatng)
 
+- [@DalaScript](https://github.com/DalaScript)
+
 - [@daingan2612](https://github.com/daingan2612)
 
 - [@Jonreapsome](https://github.com/jonreapsome)
@@ -2295,6 +2297,8 @@
 -[@AkonTeeJay](https://github.com/AkonTeeJay)
 
 -[@eldaar](https://github.com/eldaar)
+
+-[@nryee2005](https://github.com/nryee2005)
 
 -[@nilsfromhamburg](https://github.com/NilsFromHamburg)
 
