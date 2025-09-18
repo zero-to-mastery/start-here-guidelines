@@ -4940,6 +4940,8 @@
 
 - [Jhoan Montes](https://github.com/JhoanMontes)
 
+-[@katiesolokhina] (https://github.com/katiesolokhina)
+
 - [@Johnnymuoneke](https://github.com/Johnnymuoneke)
 
 - [@AVDer](https://github.com/AVDer)
