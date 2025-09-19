@@ -52,6 +52,8 @@
 
 - [@Alaattinuysal](https://github.com/AlaattinUysal)
 
+-[@Edoxx96edo](https://github.com/Edoxx96edo)
+
 - [@Alexc83](https://github.com/alexc83)
 
 - [@Alihussainzada](https://github.com/alihussainzada)
@@ -4940,8 +4942,12 @@
 
 - [Jhoan Montes](https://github.com/JhoanMontes)
 
+-[@katiesolokhina] (https://github.com/katiesolokhina)
+
 - [@Johnnymuoneke](https://github.com/Johnnymuoneke)
 
 - [@AVDer](https://github.com/AVDer)
 
 - [@alexBCN84](https://github.com/alexBCN84)
+
+- [@visheshind](https://github.com/visheshind)
