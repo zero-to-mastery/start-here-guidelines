@@ -44,6 +44,8 @@
 
 - [@Ahmedanwer](https://github.com/m-ahmed-anwer)
 
+- [@Waseem-Khan-Dawar](https://github.com/Waseem-Khan-Dawar)
+
 - [@Ahseneremmouche](https://github.com/AhseneRemmouche)
 
 - [@Ahuzail](https://github.com/AHuzail)
