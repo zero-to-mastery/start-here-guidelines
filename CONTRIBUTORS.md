@@ -44,6 +44,8 @@
 
 - [@Ahmedanwer](https://github.com/m-ahmed-anwer)
 
+- [@Waseem-Khan-Dawar](https://github.com/Waseem-Khan-Dawar)
+
 - [@Ahseneremmouche](https://github.com/AhseneRemmouche)
 
 - [@Ahuzail](https://github.com/AHuzail)
@@ -51,6 +53,8 @@
 - [@Akindex5427](https://github.com/Akindex5427/)
 
 - [@Alaattinuysal](https://github.com/AlaattinUysal)
+
+-[@Edoxx96edo](https://github.com/Edoxx96edo)
 
 - [@Alexc83](https://github.com/alexc83)
 
@@ -2193,6 +2197,8 @@
 - [@gezginrocker](https://github.com/gezginrocker)
 
 - [@kashishkohli20](https://github.com/kashishkohli20)
+
+- [@dtl-max](https://github.com/dtl-max)
 
 - [@Bnday01](https://github.com/bnday01)
 
@@ -4940,8 +4946,29 @@
 
 - [Jhoan Montes](https://github.com/JhoanMontes)
 
+-[@katiesolokhina] (https://github.com/katiesolokhina)
+
 - [@Johnnymuoneke](https://github.com/Johnnymuoneke)
 
 - [@AVDer](https://github.com/AVDer)
 
 - [@Codersclaim] (https://github.com/Codersclaim)
+
+- [@alexBCN84](https://github.com/alexBCN84)
+
+- [@visheshind](https://github.com/visheshind)
+
+- [@kmckinneyii](https://github.com/kmckinneyii)
+
+- [@hafiz](https://github.com/hafizullahrahim)
+
+- [@DRGGamble](https://github.com/DRGGamble/)
+
+- [@ahoroufi](https://github.com/ahoroufi/)
+
+- [@anja-ui](https://github.com/anja-ui/)
+
+- [@mohsinkhan60](https://github.com/mohsinkhan60/)
+
+- [@sourcecode71](https://github.com/sourcecode71/)
+
