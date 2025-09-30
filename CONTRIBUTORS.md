@@ -166,6 +166,8 @@
 
 - [@Candelozuluaga](https://github.com/Candelo-Zuluaga)
 
+- [@cibele-souza](https://github.com/cibele-souza)
+
 - [@Chaiwawtf](https://github.com/chaiwatf)
 
 - [@Charlomatic](https://github.com/charlomatic)
