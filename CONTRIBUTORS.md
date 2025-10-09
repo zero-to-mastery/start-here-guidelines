@@ -4992,6 +4992,8 @@
 
 - [@Solynixx](https://github.com/Solynixx)
 
+- [@OmSonawane-360](https://github.com/OmSonawane-360)
+
 - [@davebeloved](https://github.com/davebeloved)
 
 - [@HolyAbol](https://github.com/HolyAbol/)
@@ -5000,6 +5002,7 @@
 
 - [@Ihvin](https://github.com/Ihvin)
 
--[@himukumar14](https://github.com/himukumar14/)
+- [@himukumar14](https://github.com/himukumar14/)
 
 - [@Jrrene7](https://github.com/jrrene7)
+
