@@ -666,6 +666,8 @@
 
 - [@Pfistersimo](https://github.com/pfisterSimo)
 
+- [@planeta05](https://github.com/planeta05)
+
 - [@Psierrajs](https://github.com/psierrajs)
 
 - [@Qazipoor](https://github.com/qazipoor)
@@ -767,6 +769,8 @@
 - [@Seliinneren](https://github.com/seliinneren/)
 
 - [@Sentinel1909](https://github.com/sentinel1909)
+
+- [@muratovicnijaz](https://github.com/muratovicnijaz)
 
 - [@Sfblumenberg](https://github.com/sfblumenberg)
 
@@ -4995,4 +4999,10 @@
 - [@HolyAbol](https://github.com/HolyAbol/)
 
 - [@SilverioZ](https://github.com/SilverioZ/)
+
+- [@Ihvin](https://github.com/Ihvin)
+
+- [@himukumar14](https://github.com/himukumar14/)
+
+- [@Jrrene7](https://github.com/jrrene7)
 
