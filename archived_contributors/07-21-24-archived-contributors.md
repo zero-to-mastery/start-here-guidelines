@@ -424,8 +424,6 @@
 
 - [Victor Nkire](https://github.com/ObinnaVic)
 
-
-
 - [@ayushrakesh](https://github.com/ayushrakesh)
 
 - [Shaikh Aman](https://github.com/ShaikhAman01)
@@ -12166,8 +12164,8 @@
 
 - [@Farzan-Ullah](https://github.com/Farzan-Ullah)
 
-
 -[@HackingMarcel](https://github.com/HackingMarcel/)
 
-
 -[@lone4d7](https://github.com/lone4d7)
+
+-[@nordam312](https://github.com/nordam312)
