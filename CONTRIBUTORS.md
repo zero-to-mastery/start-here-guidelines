@@ -54,7 +54,7 @@
 
 - [@Alaattinuysal](https://github.com/AlaattinUysal)
 
--[@Edoxx96edo](https://github.com/Edoxx96edo)
+- [@Edoxx96edo](https://github.com/Edoxx96edo)
 
 - [@Alexc83](https://github.com/alexc83)
 
