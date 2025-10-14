@@ -2876,7 +2876,7 @@
 
 - [@AlinaStasyachek](https://github.com/AlinaStasyachek)
 
-- [Sathsara Karunarathne](https://github.com/SathsaraK08)
+- [@Sathsara Karunarathne](https://github.com/SathsaraK08)
 
 - [@kamirake](https://github.com//kamirake)
 
