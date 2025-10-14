@@ -2476,6 +2476,8 @@
 
 - [@ajnega](https://github.com/Ajnega)
 
+- [@captainslow](https://github.com/captainslow)
+
 - [@macrunning](https://github.com/macrunning)
 
 - [@rgavinc](https://github.com/rgavinc)
@@ -5021,3 +5023,4 @@
 - [@afran-asif](https://github.com/afran-asif/)
 
 - [@Blurry-Shady](https://github.com/BlurryShady)
+
