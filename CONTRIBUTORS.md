@@ -382,6 +382,8 @@
 
 - [@Jonatng](https://github.com/jonatng)
 
+- [@jonathanraxa](https://github.com/jonathanraxa)
+
 - [@DalaScript](https://github.com/DalaScript)
 
 - [@daingan2612](https://github.com/daingan2612)
