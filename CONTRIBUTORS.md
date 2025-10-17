@@ -336,6 +336,8 @@
 
 - [@Imhossain](https://github.com/i-m-hossain)
 
+- [@cristiano-borsato](https://github.com/cristiano-borsato)
+
 - [@Insightvigil](https://github.com/insightvigil)
 
 - [@Invamalusudhakaran](https://github.com/inv-amalusudhakaran)
