@@ -33,7 +33,7 @@ jobs:
           python-version: 3.9
 
 
-      - name: Fecth branch
+      - name: Fetch branch
         run: git fetch origin ${{ github.event.pull_request.base.ref }}
 
       - name: Collect information
@@ -108,7 +108,6 @@ jobs:
         env:
           CHANGED_FILES: ${{ env.CHANGED_FILES }}
           CONTRIBUTOR: ${{ env.CONTRIBUTOR }}
-          PR_NUMBERS: ${{ env.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   remove-awaiting-on-merge:
