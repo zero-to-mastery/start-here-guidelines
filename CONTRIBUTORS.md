@@ -54,7 +54,7 @@
 
 - [@Alaattinuysal](https://github.com/AlaattinUysal)
 
--[@Edoxx96edo](https://github.com/Edoxx96edo)
+- [@Edoxx96edo](https://github.com/Edoxx96edo)
 
 - [@Alexc83](https://github.com/alexc83)
 
@@ -336,6 +336,8 @@
 
 - [@Imhossain](https://github.com/i-m-hossain)
 
+- [@cristiano-borsato](https://github.com/cristiano-borsato)
+
 - [@Insightvigil](https://github.com/insightvigil)
 
 - [@Invamalusudhakaran](https://github.com/inv-amalusudhakaran)
@@ -382,6 +384,8 @@
 
 - [@Jonatng](https://github.com/jonatng)
 
+- [@jonathanraxa](https://github.com/jonathanraxa)
+
 - [@DalaScript](https://github.com/DalaScript)
 
 - [@daingan2612](https://github.com/daingan2612)
@@ -403,6 +407,8 @@
 - [@Jstran97](https://github.com/jstran97)
 
 - [@Jtor8](https://github.com/jtor8)
+
+- [@ryanstokes21](https://github.com/ryanstokes21)
 
 - [@Kaifkhanmd](https://github.com/kaif-khan-md)
 
@@ -2476,6 +2482,8 @@
 
 - [@ajnega](https://github.com/Ajnega)
 
+- [@captainslow](https://github.com/captainslow)
+
 - [@macrunning](https://github.com/macrunning)
 
 - [@rgavinc](https://github.com/rgavinc)
@@ -2875,6 +2883,8 @@
 - [@pmurph0305](https://github.com/pmurph0305)
 
 - [@AlinaStasyachek](https://github.com/AlinaStasyachek)
+
+- [@SathsaraKarunarathne](https://github.com/SathsaraK08)
 
 - [@kamirake](https://github.com//kamirake)
 
@@ -3852,6 +3862,8 @@
 
 - [@Andrei-Ionita](https://github.com/Andrei-Ionita)
 
+- [@Abhishek88788](https://github.com/Abhishek88788)
+
 - [@stathisR](https://github.com/stathisR)
 
 - [@ktaulman](https://github.com/ktaulman)
@@ -4414,6 +4426,8 @@
 
 - [@Henri](https://github.com/MrHenryA)
 
+- [@hussaindev94](https://github.com/hussaindev94)
+
 - [@kemborah](https://github.com/kemborah)
 
 - [@mehrdad9119](https://github.com/mehrdad9119)
@@ -4930,6 +4944,8 @@
 
 - [@williamlee2503](https://github.com/williamlee2503)
 
+- [@chimmuanyaeze](https://github.com/chimmuanyaeze/)
+
 - [@Unbrokencivilization](https://github.com/Unbrokencivilization)
 
 - [@febinpaulit](https://github.com/febinpaulit)
@@ -4949,6 +4965,8 @@
 - [@RohitJaiswalNyc](https://github.com/RohitJaiswalNyc/)
 
 - [Rohit Kumbhar](https://github.com/Rohitt29)
+
+- [@jmy787](https://github.com/jmy787/)
 
 - [@ Ahsan Ayub](https://github.com/Ahsan144-tech)
 
@@ -5015,3 +5033,13 @@
 - [@AlHamid-dev](https://github.com/AlHamid-dev)
 
 - [@afran-asif](https://github.com/afran-asif/)
+
+- [@Blurry-Shady](https://github.com/BlurryShady)
+
+- [@Pranay-opsraga](https://github.com/Pranay-opsraga)
+
+- [@Rami-Issa](https://github.com/RamiIssa1974)
+
+- [@Cardinal117](https://github.com/Cardinal117)
+
+- [@cyberDeeJay](https://github.com/cyberDeeJay)
