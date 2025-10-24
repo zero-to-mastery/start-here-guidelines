@@ -23,40 +23,29 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          repository: ${{ github.event.pull_request.head.repo.full_name }}
-          ref: ${{ github.event.pull_request.head.ref }}
+          repository: ${{ github.event.pull_request.base.repo.full_name }}
+          ref: ${{ github.event.pull_request.base.ref }}
           fetch-depth: 50
 
       - uses: actions/setup-python@v4
         with:
           python-version: 3.9
 
-      - run: git fetch origin master
-
-      - run: |
-          if [ -n "$GITHUB_TOKEN" ]; then
-              echo "✅ GitHub token available"
-          else
-              echo "❌ No GitHub token found"
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: git fetch origin ${{ github.event.pull_request.head.ref }}
 
       - run: |
           setEnv() { echo "$1=${!1}" >> $GITHUB_ENV; }
 
           CONTRIBUTOR=${{ github.event.pull_request.user.login }}
           setEnv "CONTRIBUTOR"
-          
+
           BASE_REPO=${{ github.event.pull_request.base.repo.full_name }}
           setEnv "BASE_REPO"
 
           HEAD_REF=${{ github.event.pull_request.head.ref }}
           setEnv "HEAD_REF"
 
-          git fetch origin $HEAD_REF
-
-          MERGE_BASE=$(git merge-base origin/${{ github.event.pull_request.base.ref }} HEAD)
+          MERGE_BASE=$(git merge-base origin/${{ github.event.pull_request.base.ref }} origin/$HEAD_REF)
           setEnv "MERGE_BASE"
 
           CHANGED_FILES=$(git diff --name-only $MERGE_BASE origin/$HEAD_REF)
@@ -72,7 +61,9 @@ jobs:
           echo "$REVIEW_MESSAGE" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
-          gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
-        env: 
+          if [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
+              gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
+          fi
+        env:
           CHANGED_FILES: ${{ env.CHANGED_FILES }}
           CONTRIBUTOR: ${{ env.CONTRIBUTOR }}
