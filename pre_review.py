@@ -159,7 +159,7 @@ def review_contributors_file( changed_files, contributor ):
 
     if reviews:
         reviews = [
-            '## `Contributors.md` addition feedback',
+            '## `CONTRIBUTORS.md` addition feedback',
             '> [!TIP]',
             '> Check how others set their links to adjust yours if needed',
             *reviews
