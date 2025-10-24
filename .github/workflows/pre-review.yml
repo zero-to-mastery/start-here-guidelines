@@ -61,9 +61,21 @@ jobs:
           echo "$REVIEW_MESSAGE" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
 
+          # Save to env
+          echo "REVIEW_MESSAGE<<EOF" >> $GITHUB_ENV
+          echo "$REVIEW_MESSAGE" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+          
+          # Print to log explicitly
+          echo "===== REVIEW_MESSAGE ====="
+          echo "$REVIEW_MESSAGE"
+          echo "=========================="
+          
+          # Attempt to comment (will skip for forks)
           if [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
               gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
           fi
+
         env:
           CHANGED_FILES: ${{ env.CHANGED_FILES }}
           CONTRIBUTOR: ${{ env.CONTRIBUTOR }}
