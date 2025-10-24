@@ -48,7 +48,7 @@ jobs:
           MERGE_BASE=$(git merge-base origin/${{ github.event.pull_request.base.ref }} HEAD)
           setEnv "MERGE_BASE"
 
-          CHANGED_FILES=$(git diff --name-only $MERGE_BASE HEAD)
+          CHANGED_FILES=$(gh pr view $PR_NUMBER -R "$BASE_REPO" --json files -q '.files[].path' | paste -sd '\\n' -)
           echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
           printf '%s\n' "$CHANGED_FILES" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
