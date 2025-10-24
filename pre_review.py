@@ -123,7 +123,7 @@ def review_overall_contribution( changed_files ):
     for file in changed_files:
         # other file than CONTRIBUTORS.md touched
         base_message = "Incorrect changes"
-        action_message = f"remove any changes in the `{file}` file."
+        action_message = f"remove any changes in the `{file}` file"
 
         # "archived file touched"
         if ERROR_FILE_WORD in file:
@@ -137,7 +137,7 @@ def review_overall_contribution( changed_files ):
     # Title list of review
     if messages:
         messages = [
-            f"> [!TIP] \n> _You can refer to ${README_LINK_MD} for additional guidance._",
+            f"> [!TIP] \n> _You can refer to {README_LINK_MD} for additional guidance._",
             "\n ## Overall feedback",
             *messages
         ]
