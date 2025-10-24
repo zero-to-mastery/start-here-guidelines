@@ -82,24 +82,44 @@ jobs:
           # Attempt to comment (will skip for forks)
           gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
 
-          # Handle labels
-
-          if echo "$REVIEW_MESSAGE" | grep -Eqi 'missing contribution|extra files'; then
-            gh pr edit "$PR_NUMBER" --add-label "invalid" -R "${{ github.event.pull_request.base.repo.full_name }}"
-            gh pr edit "$PR_NUMBER" --remove-label "Awaiting Maintainer Validation" -R "${{ github.event.pull_request.base.repo.full_name }}"
-            gh pr edit "$PR_NUMBER" --remove-label "changes requested" -R "${{ github.event.pull_request.base.repo.full_name }}"
-          elif echo "$REVIEW_MESSAGE" | grep -Eqi 'Contributors.md'; then
-            gh pr edit "$PR_NUMBER" --add-label "changes requested" -R "${{ github.event.pull_request.base.repo.full_name }}"
-            gh pr edit "$PR_NUMBER" --remove-label "invalid" -R "${{ github.event.pull_request.base.repo.full_name }}"
-            gh pr edit "$PR_NUMBER" --remove-label "Awaiting Maintainer Validation" -R "${{ github.event.pull_request.base.repo.full_name }}"
+          # Assign invalid label
+          if echo "$REVIEW_MESSAGE" | grep -Eqi 'Missing required contribution:|Incorrect changes:'; then
+              gh pr edit "$PR_NUMBER" --add-label "invalid" -R "$BASE_REPO"
           else
-            gh pr edit "$PR_NUMBER" --add-label "Awaiting Maintainer Validation" -R "${{ github.event.pull_request.base.repo.full_name }}"
-            gh pr edit "$PR_NUMBER" --remove-label "invalid" -R "${{ github.event.pull_request.base.repo.full_name }}"
-            gh pr edit "$PR_NUMBER" --remove-label "changes requested" -R "${{ github.event.pull_request.base.repo.full_name }}"
+              gh pr edit "$PR_NUMBER" --remove-label "invalid" -R "$BASE_REPO"
+          fi
+
+          # Assign changes requested label
+          if echo "$REVIEW_MESSAGE" | grep -Eqi 'Contributors.md'; then
+              gh pr edit "$PR_NUMBER" --add-label "changes requested" -R "$BASE_REPO"
+          else
+              gh pr edit "$PR_NUMBER" --remove-label "changes requested" -R "$BASE_REPO"
+          fi
+
+          # Assign Awaiting Maintainer Validation if there are checkboxes
+          if echo "$REVIEW_MESSAGE" | grep -q '\- \[ \]'; then
+              gh pr edit "$PR_NUMBER" --add-label "Awaiting Maintainer Validation" -R "$BASE_REPO"
+          else
+              gh pr edit "$PR_NUMBER" --remove-label "Awaiting Maintainer Validation" -R "$BASE_REPO"
           fi
 
         env:
           CHANGED_FILES: ${{ env.CHANGED_FILES }}
           CONTRIBUTOR: ${{ env.CONTRIBUTOR }}
           PR_NUMBERS: ${{ env.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  remove-awaiting-on-merge:
+    if: github.event_name == 'pull_request_target' && github.event.action == 'closed'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Remove 'Awaiting Maintainer Validation' on merged PR
+        run: |
+          if [ "${{ github.event.pull_request.merged }}" == "true" ]; then
+            echo "PR merged — removing 'Awaiting Maintainer Validation' label"
+            gh pr edit ${{ github.event.pull_request.number }} --remove-label "Awaiting Maintainer Validation" -R "${{ github.event.pull_request.base.repo.full_name }}"
+          else
+            echo "PR closed but not merged — skipping label removal"
+          fi
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
