@@ -31,7 +31,7 @@ jobs:
         with:
           python-version: 3.9
 
-      - run: git fetch origin ${{ github.event.pull_request.head.ref }}
+      - run: git fetch origin ${{ github.event.pull_request.base.ref }}
 
       - run: |
           setEnv() { echo "$1=${!1}" >> $GITHUB_ENV; }
@@ -45,10 +45,10 @@ jobs:
           HEAD_REF=${{ github.event.pull_request.head.ref }}
           setEnv "HEAD_REF"
 
-          MERGE_BASE=$(git merge-base origin/${{ github.event.pull_request.base.ref }} origin/$HEAD_REF)
+          MERGE_BASE=$(git merge-base origin/${{ github.event.pull_request.base.ref }} HEAD)
           setEnv "MERGE_BASE"
 
-          CHANGED_FILES=$(git diff --name-only $MERGE_BASE origin/$HEAD_REF)
+          CHANGED_FILES=$(git diff --name-only $MERGE_BASE HEAD)
           echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
           printf '%s\n' "$CHANGED_FILES" >> $GITHUB_ENV
           echo "EOF" >> $GITHUB_ENV
