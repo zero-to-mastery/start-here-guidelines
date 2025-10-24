@@ -1,0 +1,93 @@
+name: Pre-review
+
+on:
+  pull_request:
+  pull_request_target:
+    branches: [ master ]
+    types: [opened, synchronize, reopened, closed]
+  pull_request_review:
+    types: [submitted]
+
+permissions:
+  contents: read
+  pull-requests: write
+  issues: write
+
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+jobs:
+
+  # -------------------------------
+  # 2️⃣ Real PR info collection
+  # -------------------------------
+  pre_review:
+    if: github.event_name == 'pull_request'  || github.event_name == 'pull_request_target'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
+          fetch-depth: 0
+
+      - name: Install Python 3
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+
+      - name: Fecth branch
+        run: git fetch origin ${{ github.event.pull_request.base.ref }}
+
+      - name: Collect information
+        run: |
+          setEnv() { echo "$1=${!1}" >> $GITHUB_ENV; }
+      
+          CONTRIBUTOR=${{ github.event.pull_request.user.login }}
+          setEnv "CONTRIBUTOR"
+      
+          BASE_REPO=${{ github.event.pull_request.base.repo.full_name }}
+          setEnv "BASE_REPO"
+      
+          HEAD_REF=${{ github.event.pull_request.head.ref }}
+          setEnv "HEAD_REF"
+      
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          setEnv "PR_NUMBER"
+          echo "PR_NUMBER: $PR_NUMBER"
+      
+          MERGE_BASE=$(git merge-base origin/${{ github.event.pull_request.base.ref }} HEAD)
+          setEnv "MERGE_BASE"
+      
+          CHANGED_FILES=$(gh pr view $PR_NUMBER -R "$BASE_REPO" --json files -q '.files[].path' | paste -sd '\\n' -)
+          echo "CHANGED_FILES<<EOF" >> $GITHUB_ENV
+          printf '%s\n' "$CHANGED_FILES" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+      - name: Run "preReview" script
+        run: |
+          PR_NUMBER=${{ github.event.pull_request.number }}
+          REVIEW_MESSAGE=$(python pre_review.py "$CHANGED_FILES" "$CONTRIBUTOR")
+          echo "REVIEW_MESSAGE<<EOF" >> $GITHUB_ENV
+          echo "$REVIEW_MESSAGE" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+
+          # Save to env
+          echo "REVIEW_MESSAGE<<EOF" >> $GITHUB_ENV
+          echo "$REVIEW_MESSAGE" >> $GITHUB_ENV
+          echo "EOF" >> $GITHUB_ENV
+          
+          # Print to log explicitly
+          echo "===== REVIEW_MESSAGE ====="
+          echo "$REVIEW_MESSAGE"
+          echo "=========================="
+          
+          # Attempt to comment (will skip for forks)
+          #if [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
+          gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
+          #fi
+
+        env:
+          CHANGED_FILES: ${{ env.CHANGED_FILES }}
+          CONTRIBUTOR: ${{ env.CONTRIBUTOR }}
