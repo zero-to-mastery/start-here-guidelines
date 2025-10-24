@@ -31,9 +31,12 @@ jobs:
         with:
           python-version: 3.9
 
-      - run: git fetch origin ${{ github.event.pull_request.base.ref }}
 
-      - run: |
+      - name: Fecth branch
+        run: git fetch origin ${{ github.event.pull_request.base.ref }}
+
+      - name: Collect information
+        run: |
           setEnv() { echo "$1=${!1}" >> $GITHUB_ENV; }
 
           CONTRIBUTOR=${{ github.event.pull_request.user.login }}
@@ -54,7 +57,8 @@ jobs:
           echo "EOF" >> $GITHUB_ENV
         shell: bash
 
-      - run: |
+      - name: Run "preReview" script
+        run: |
           REVIEW_MESSAGE=$(python pre_review.py "$CHANGED_FILES" "$CONTRIBUTOR")
           PR_NUMBER=${{ github.event.pull_request.number }}
           echo "REVIEW_MESSAGE<<EOF" >> $GITHUB_ENV
@@ -72,9 +76,9 @@ jobs:
           echo "=========================="
           
           # Attempt to comment (will skip for forks)
-          if [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
-              gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
-          fi
+          #if [ "${{ github.event.pull_request.head.repo.full_name }}" = "${{ github.repository }}" ]; then
+          gh pr comment "$PR_NUMBER" --body "$REVIEW_MESSAGE" -R "${{ github.event.pull_request.base.repo.full_name }}"
+          #fi
 
         env:
           CHANGED_FILES: ${{ env.CHANGED_FILES }}
