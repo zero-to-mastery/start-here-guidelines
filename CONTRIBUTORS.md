@@ -58,6 +58,8 @@
 
 - [@Alexc83](https://github.com/alexc83)
 
+- [@Ramya-Annadurai](https://rwsedfgc.github.io/quote-generator/)
+
 - [@Alihussainzada](https://github.com/alihussainzada)
 
 - [@Alphadebian](https://github.com/AlphaDebian)
