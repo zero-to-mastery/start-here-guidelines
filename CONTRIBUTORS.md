@@ -41,6 +41,8 @@
 - [@Acazmaj](https://github.com/acazmaj)
 
 - [@Aceer121](https://github.com/Aceer121)
+ 
+- [@AditiTripathi](https://github.com/Aditi-Tripathii)
 
 - [@Ahmedanwer](https://github.com/m-ahmed-anwer)
 
