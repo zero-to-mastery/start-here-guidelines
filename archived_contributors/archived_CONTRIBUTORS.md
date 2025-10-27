@@ -6,6 +6,8 @@
 
 -[@subutian](https://github.com/subutian)
 
+- [@anshumanjadiya1102](https://github.com/anshumanjadiya1102)
+
 - [@kotharii](https://github.com/kotharii)
 
 - [@aqibkhan20](https://github.com/aqibkhan20)
