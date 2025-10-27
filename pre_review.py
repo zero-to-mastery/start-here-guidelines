@@ -1,6 +1,7 @@
 """Pre review script: provides review on Pull Requests"""
 
-import sys, json, re
+import sys
+import re
 
 
 EXPECTED_FILE_CHANGED = 'CONTRIBUTORS.md'
@@ -8,11 +9,14 @@ ERROR_FILE_WORD = "archived"
 README_LINK_MD = '[README.md](https://github.com/zero-to-mastery/start-here-guidelines/blob/master/README.md)'
 
 # ---------------------------------- HELPERS --------------------------------- #
+
+
 def get_pr_info():
     """Gets changed files into the correct format"""
     _, changed_files, contributor = sys.argv
     changed_files = changed_files.split("\\n")
     return changed_files, contributor
+
 
 def get_check_patterns(contributor):
     """Provides patterns criterions"""
@@ -27,12 +31,10 @@ def get_check_patterns(contributor):
     # Strict link pattern: matches only clean profile link
     strict_link_md_pattern = rf"\[\s*@{re.escape(contributor)}\s*\]\(\s*{re.escape(expected_url)}\/?\s*\)"
 
-
     # List item and full line contexts
     list_item_link_md_pattern = rf"^\s*-\s*\[\s*@?{re.escape(contributor)}\s*\]\(\s*{re.escape(expected_url)}(?:/[^\s\)]*)?\s*\)\s*$"
 
     strict_line_md_pattern = rf"^\s*-\s*{strict_link_md_pattern}\s*$"
-
 
     return {
         "strict": strict_link_md_pattern,
@@ -42,18 +44,23 @@ def get_check_patterns(contributor):
         "strict_line": strict_line_md_pattern,
     }
 
-def match_pattern( pattern, content ):
+
+def match_pattern(pattern, content):
     """Regexp search operation"""
     return re.search(pattern, content, re.IGNORECASE | re.MULTILINE)
 
-def push_feedback(base_message, action_message, review_list, is_inline = False):
+
+def push_feedback(base_message, action_message, review_list, is_inline=False):
     """Format message and push to the provided list"""
     message_separator = "\n\t - " if not is_inline else ' '
-    review_list.append(f'- [ ] {base_message}:{message_separator}{action_message}.')
+    review_list.append(
+        f'- [ ] {base_message}:{message_separator}{action_message}.'
+    )
 
 # -------------------------------- LOGIC UTILS ------------------------------- #
 
-def review_insertion( file_content, contributor ):
+
+def review_insertion(file_content, contributor):
     """Review CONTRIBUTORS.md for the github author"""
     # Format contributor to lowercase for checks
     contributor = contributor.lower()
@@ -66,8 +73,7 @@ def review_insertion( file_content, contributor ):
     list_item_link_md_pattern = patterns["list_item"]
     strict_line_md_pattern = patterns["strict_line"]
 
-
-    # Loosest to stricter match check 
+    # Loosest to stricter match check
     has_link_param          = match_pattern( link_with_param, file_content )
     has_md_loose_link       = match_pattern( loose_link_md_pattern, file_content )
     has_md_list_item_link   = match_pattern( list_item_link_md_pattern, file_content )
@@ -105,7 +111,8 @@ def review_insertion( file_content, contributor ):
 
     return reviews
 
-def review_overall_contribution( changed_files ):
+
+def review_overall_contribution(changed_files):
     """Checks PR requirements"""
 
     messages = []
@@ -118,7 +125,6 @@ def review_overall_contribution( changed_files ):
             messages
         )
 
-
     # [ CASES ] Incorrect changes detected in other file(s)
     for file in changed_files:
         # other file than CONTRIBUTORS.md touched
@@ -127,12 +133,11 @@ def review_overall_contribution( changed_files ):
 
         # "archived file touched"
         if ERROR_FILE_WORD in file:
-            push_feedback(base_message, f"archived file:{action_message}", messages)
+            push_feedback(
+                base_message, f"archived file:{action_message}", messages)
             break
         elif file != EXPECTED_FILE_CHANGED and file not in messages:
             push_feedback(base_message, action_message, messages)
-
-
 
     # Title list of review
     if messages:
@@ -144,18 +149,18 @@ def review_overall_contribution( changed_files ):
 
     return messages or []
 
-def review_contributors_file( changed_files, contributor ):
+
+def review_contributors_file(changed_files, contributor):
     """Reads CONTRIBUTORS.md file and checks insertion in CONTRIBUTORS.md"""
     if EXPECTED_FILE_CHANGED not in changed_files:
         return []
 
-
     # Gets file content
     content = ''
-    with open(EXPECTED_FILE_CHANGED, 'r', encoding = 'utf-8') as f:
-        content =  f.read()
-    
-    reviews = review_insertion( content, contributor )
+    with open(EXPECTED_FILE_CHANGED, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    reviews = review_insertion(content, contributor)
 
     if reviews:
         reviews = [
@@ -168,19 +173,21 @@ def review_contributors_file( changed_files, contributor ):
     return reviews or []
 
 # -------------------------------- MAIN LOGIC -------------------------------- #
+
+
 def run():
     """Main code"""
     changed_files, contributor = get_pr_info()
 
     # Feedback for other files changes
     overall_reviews = review_overall_contribution(changed_files)
- 
+
     # Feedback regarding the expected line insertion
     insertion_reviews = review_contributors_file(changed_files, contributor)
 
     reviews = [*overall_reviews, *insertion_reviews]
     if reviews:
-        reviews =  [
+        reviews = [
             "\nBefore we can merge your PR, address the bellow feedback.",
             '\n'.join([*overall_reviews, *insertion_reviews])
         ]
@@ -197,5 +204,6 @@ def run():
     ]
     message = '\n'.join(messages)
     print(message)
+
 
 run()
