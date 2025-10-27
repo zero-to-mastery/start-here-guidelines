@@ -1,6 +1,8 @@
 """Pre review script: provides review on Pull Requests"""
 
-import sys, json, re
+import sys
+import json
+import re
 
 
 EXPECTED_FILE_CHANGED = 'CONTRIBUTORS.md'
