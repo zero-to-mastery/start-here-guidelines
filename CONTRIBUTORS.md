@@ -88,6 +88,8 @@
 
 - [@Anisashabbani](https://github.com/anisashabbani)
 
+- [@anshumanjadiya1102](https://github.com/anshumanjadiya1102)
+
 - [@Anjiri1684](https://github.com/anjiri1684)
 
 - [@Ankurv37](https://github.com/ankurv37/)
