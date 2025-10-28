@@ -4934,11 +4934,11 @@
 
 - [@jeevan-miranda](https://github.com/jeevan-miranda)
 
-- [@sreeparna] (https://github.com/sreeparnadas)
+- [@sreeparna](https://github.com/sreeparnadas)
 
-- [@MartinMuellerBerlin] (https://github.com/MartinMuellerBerlin/)
+- [@MartinMuellerBerlin](https://github.com/MartinMuellerBerlin/)
 
-- [@rodrigoPinta] (https://github.com/rodrigoPinta)
+- [@rodrigoPinta](https://github.com/rodrigoPinta)
 
 - [@tobiasaquiles](https://github.com/TobiasAquiles)
 
@@ -5008,6 +5008,10 @@
 
 - [@NathanNieh1](https://github.com/NathanNieh1)
 
+- [@rylew0925](https://github.com/rylew0925)
+
+- [@soh3illl](https://github.com/soh3illl)
+
 - [AndrewSo13](https://github.com/AndrewSo13)
 
 - [@Dendroculus](https://github.com/Dendroculus)
@@ -5026,7 +5030,7 @@
 
 - [@Ihvin](https://github.com/Ihvin)
 
--[@himukumar14](https://github.com/himukumar14/)
+- [@himukumar14](https://github.com/himukumar14/)
 
 - [@Jrrene7](https://github.com/jrrene7)
 
@@ -5045,6 +5049,8 @@
 - [@Cardinal117](https://github.com/Cardinal117)
 
 - [@cyberDeeJay](https://github.com/cyberDeeJay)
+
+- [@DRidleyS](https://github.com/DRidleyS)
 
 - [@nordam312](https://github.com/nordam312/)
 
