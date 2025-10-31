@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@AniketKumarRaj](https://github.com/aniket-kumar-raj)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@8130146](https://github.com/8130146)
