@@ -14,8 +14,6 @@
 
 - [@akshith30388](https://github.com/akshith30388)
 
-
-
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
@@ -652,6 +650,8 @@
 - [@Olonisakindavid](https://github.com/olonisakindavid)
 
 - [@Ommdevgoswami](https://github.com/OmmDevgoswami)
+
+- [@OmPrakash](https://github.com/omprakash970)
 
 - [@Outathisworld3000](https://github.com/OuTaThIsWoRlD3000)
 
