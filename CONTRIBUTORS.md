@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@2400030303](https://github.com/2400030303)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@8130146](https://github.com/8130146)
@@ -5063,6 +5065,7 @@
 - [@Sourabhyadav09](https://github.com/Sourabhyadav09)
 
 - [@mxl434case-prog](https://github.com/mxl434case-prog)
+  
 - [@donidony](https://github.com/donidony)
 
 - [@prashanttekriwal](https://github.com/prashanttekriwal)
@@ -5071,4 +5074,4 @@
 
 - [@Dalizovic](https://github.com/Dalizovic/)
 
-- [@IsahiahAL] (https://github.com/IsahiahAL)
+- [@IsahiahAL](https://github.com/IsahiahAL)
