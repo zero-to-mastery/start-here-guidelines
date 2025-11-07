@@ -2590,6 +2590,8 @@
 
 - [@SumeetJoshi](https://github.com/joshi365)
 
+- [@EzequielPL](https://github.com/EzequielPL)
+
 - [@PanosCS](https://github.com/PanosCS)
 
 - [@BarricNL](https://github.com/BarricNL)
