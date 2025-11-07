@@ -10,7 +10,8 @@
 
 - [@Aakashraodev](http://github.com/aakashRao-dev)
 
-- [@Akshith](https://github.com/akshith30388)
+- [akshith30388](https://github.com/akshith30388)
+
 
 
 - [@Paaleee](https://github.com/YG-paaleee)
