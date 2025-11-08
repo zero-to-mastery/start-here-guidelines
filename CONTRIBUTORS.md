@@ -651,7 +651,7 @@
 
 - [@Ommdevgoswami](https://github.com/OmmDevgoswami)
 
-- [@OmPrakash](https://github.com/omprakash970)
+- [@OmPrakash970](https://github.com/omprakash970)
 
 - [@Outathisworld3000](https://github.com/OuTaThIsWoRlD3000)
 
