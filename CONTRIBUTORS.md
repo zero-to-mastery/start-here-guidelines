@@ -120,6 +120,8 @@
 
 - [@Baswaakshay](https://github.com/baswa-akshay/)
 
+- [@farianbr](https://github.com/farianbr)
+
 - [@Bilal](https://github.com/bpmdevr)
 
 - [@Bimataruna](https://github.com/bima-taruna)
