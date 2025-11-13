@@ -13,7 +13,9 @@
 - [@Aakashraodev](http://github.com/aakashRao-dev)
 
 - [@akshith30388](https://github.com/akshith30388)
-[@yeshuawm999](https://github.com/yeshuawm999)
+
+- [@yeshuawm999](https://github.com/yeshuawm999)
+
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
