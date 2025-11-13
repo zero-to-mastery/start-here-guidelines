@@ -120,7 +120,7 @@
 
 - [@Baswaakshay](https://github.com/baswa-akshay/)
 
-- [@StevenEvans](https://github.com/Evans-Steven)
+- [@Evans-Steven](https://github.com/Evans-Steven)
 
 - [@farianbr](https://github.com/farianbr)
 
