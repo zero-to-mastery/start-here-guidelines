@@ -182,6 +182,8 @@
 
 - [@Charlomatic](https://github.com/charlomatic)
 
+- [@chicacode](https://github.com/chicacode)
+
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
 
 - [@Codewithdhruba01](https://github.com/codewithdhruba01)
