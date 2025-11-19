@@ -56,6 +56,8 @@
 
 - [@Ahuzail](https://github.com/AHuzail)
 
+- [@Vedavyasa21](https://github.com/Vedavyasa21)
+
 - [@Akindex5427](https://github.com/Akindex5427/)
 
 - [@Alaattinuysal](https://github.com/AlaattinUysal)
