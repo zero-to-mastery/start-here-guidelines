@@ -798,7 +798,6 @@
 
 - [@Secvrivs](https://github.com/Secvrivs)
 
-- [@0NIKHIL0](https://github.com/0NIKHIL0)
 
 - [@Seliinneren](https://github.com/seliinneren/)
 
@@ -937,6 +936,8 @@
 - [@Usamahklair](https://github.com/usamahklair)
 
 - [@Userbusiness](https://github.com/User-Business)
+
+- [@0NIKHIL0](https://github.com/0NIKHIL0)
 
 - [@Vaishaliisingh](https://github.com/vaishaliisingh)
 
