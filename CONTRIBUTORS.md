@@ -2471,6 +2471,8 @@
 
 - [@sebastiancwk](https://github.com/sebastiancwk)
 
+- [@Jlp06](https://github.com/Jlp06)
+
 - [@ijshd7](https://github.com/ijshd7)
 
 - [@Ryansk18](https://github.com/Ryansk18)
@@ -5111,8 +5113,15 @@
 
 - [@jamisiveshkumar](https://github.com/jamisiveshkumar)
 
--[@yeshuawm999](https://github.com/yeshuawm999)
+- [@yeshuawm999](https://github.com/yeshuawm999)
 
 - [@arshiyamaishara](https://github.com/arshiyamaishara)
 
+- [@adrianlazarpop](https://github.com/adrianlazarpop)
+
+- [@jzepedaa](https://github.com/jzepedaa)
+
 - [@alkanawiy81](https://github.com/alkanawiy81)
+
+- [@Ranganathan-J](https://github.com/Ranganathan-J)
+
