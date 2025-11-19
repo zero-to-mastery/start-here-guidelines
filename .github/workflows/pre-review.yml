@@ -1,4 +1,4 @@
-git name: Pre-review
+name: Pre-review
 
 on:
   pull_request_target:
