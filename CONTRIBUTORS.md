@@ -1615,6 +1615,8 @@
 
 - [@thiagolucas90](https://github.com/thiagolucas90)
 
+- [@hmaness1999-dev](https://github.com/hmaness1999-dev)
+
 - [@blankcry](https://github.com/blankcry)
 
 - [@Dabbyd123](https://github.com/Dabbyd123)
