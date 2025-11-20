@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@2400030303](https://github.com/2400030303)
+
 - [@4Liyar](https://github.com/4liyar/)
 
 - [@8130146](https://github.com/8130146)
@@ -10,6 +12,11 @@
 
 - [@Aakashraodev](http://github.com/aakashRao-dev)
 
+- [@akshith30388](https://github.com/akshith30388)
+
+- [@yeshuawm999](https://github.com/yeshuawm9990)
+
+- [@0NIKHIL0](https://github.com/0NIKHIL0) 
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
@@ -49,6 +56,8 @@
 - [@Ahseneremmouche](https://github.com/AhseneRemmouche)
 
 - [@Ahuzail](https://github.com/AHuzail)
+
+- [@Vedavyasa21](https://github.com/Vedavyasa21)
 
 - [@Akindex5427](https://github.com/Akindex5427/)
 
@@ -118,6 +127,10 @@
 
 - [@Baswaakshay](https://github.com/baswa-akshay/)
 
+- [@Evans-Steven](https://github.com/Evans-Steven)
+
+- [@farianbr](https://github.com/farianbr)
+
 - [@Bilal](https://github.com/bpmdevr)
 
 - [@Bimataruna](https://github.com/bima-taruna)
@@ -173,6 +186,8 @@
 - [@Chaiwawtf](https://github.com/chaiwatf)
 
 - [@Charlomatic](https://github.com/charlomatic)
+
+- [@chicacode](https://github.com/chicacode)
 
 - [@Codeswitchstudio](https://github.com/codeswitchstudio)
 
@@ -446,6 +461,8 @@
 
 - [@Kranjec023](https://github.com/Kranjec023)
 
+- [@krishna-medapati](https://github.com/krishna-medapati)
+
 - [@Kvv1618](https://github.com/kvv1618)
 
 - [@Lakojo](https://github.com/Lakojo)
@@ -646,6 +663,8 @@
 
 - [@Ommdevgoswami](https://github.com/OmmDevgoswami)
 
+- [@OmPrakash970](https://github.com/omprakash970)
+
 - [@Outathisworld3000](https://github.com/OuTaThIsWoRlD3000)
 
 - [@Ovieeharisiayomah](https://github.com/Ovie-Eharisi-Ayomah)
@@ -672,6 +691,8 @@
 
 - [@Pepepg03](https://github.com/Pepepg03)
 
+- [@mahi-korrapati](https://github.com/mahi-korrapati)
+
 - [@Pfistersimo](https://github.com/pfisterSimo)
 
 - [@planeta05](https://github.com/planeta05)
@@ -679,6 +700,9 @@
 - [@pragyamv](https://github.com/pragyamv)
 
 - [@Psierrajs](https://github.com/psierrajs)
+
+- [@PuvvadaBhaskar](https://github.com/PuvvadaBhaskar)
+- [2400032703kotinijeswanth](https://github.com/2400032703kotinijeswanth)
 
 - [@Qazipoor](https://github.com/qazipoor)
 
@@ -775,6 +799,7 @@
 - [@Sd3U16](https://github.com/sd3u16/)
 
 - [@Secvrivs](https://github.com/Secvrivs)
+
 
 - [@Seliinneren](https://github.com/seliinneren/)
 
@@ -913,6 +938,8 @@
 - [@Usamahklair](https://github.com/usamahklair)
 
 - [@Userbusiness](https://github.com/User-Business)
+
+- [@0NIKHIL0](https://github.com/0NIKHIL0)
 
 - [@Vaishaliisingh](https://github.com/vaishaliisingh)
 
@@ -2454,6 +2481,8 @@
 
 - [@sebastiancwk](https://github.com/sebastiancwk)
 
+- [@Jlp06](https://github.com/Jlp06)
+
 - [@ijshd7](https://github.com/ijshd7)
 
 - [@Ryansk18](https://github.com/Ryansk18)
@@ -2591,6 +2620,8 @@
 - [@gjames5355](https://github.com/gjames5355)
 
 - [@SumeetJoshi](https://github.com/joshi365)
+
+- [@EzequielPL](https://github.com/EzequielPL)
 
 - [@PanosCS](https://github.com/PanosCS)
 
@@ -5065,6 +5096,7 @@
 - [@Sourabhyadav09](https://github.com/Sourabhyadav09)
 
 - [@mxl434case-prog](https://github.com/mxl434case-prog)
+
 - [@donidony](https://github.com/donidony)
 
 - [@prashanttekriwal](https://github.com/prashanttekriwal)
@@ -5073,4 +5105,33 @@
 
 - [@Dalizovic](https://github.com/Dalizovic/)
 
-- [@IsahiahAL] (https://github.com/IsahiahAL)
+- [@sai-30624](https://github.com/sai-30624)
+
+- [@prasanth-30011](https://github.com/prasanth-30011)
+
+- [@vardhan30016](https://github.com/vardhan30016)
+
+- [@IsahiahAL](https://github.com/IsahiahAL)
+
+- [@dayib77](https://github.com/dayib77)
+
+- [@eduarda-freitass](https://github.com/eduarda-freitass)
+
+- [@2400030343SameerReddy](https://github.com/2400030343SameerReddy)
+
+- [@Madhu696969](https://github.com/Madhu696969)
+
+- [@jamisiveshkumar](https://github.com/jamisiveshkumar)
+
+- [@yeshuawm999](https://github.com/yeshuawm999)
+
+- [@arshiyamaishara](https://github.com/arshiyamaishara)
+
+- [@adrianlazarpop](https://github.com/adrianlazarpop)
+
+- [@jzepedaa](https://github.com/jzepedaa)
+
+- [@alkanawiy81](https://github.com/alkanawiy81)
+
+- [@Ranganathan-J](https://github.com/Ranganathan-J)
+
