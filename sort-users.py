@@ -1,3 +1,6 @@
+from urllib.parse import urlparse
+
+
 PATH = 'CONTRIBUTORS.md'
 
 def get_contents(path):
@@ -5,6 +8,20 @@ def get_contents(path):
         contents = f.read().splitlines()
     return contents
 
+
+def validate_entry(username, url):
+    username = username.strip()
+    if not username:
+        raise ValueError("Le pseudo est vide.")
+
+    parsed = urlparse(url.strip())
+    if not (parsed.scheme and parsed.netloc):
+        raise ValueError(f"URL invalide pour {username} : {url}")
+
+    if parsed.scheme not in ("http", "https"):
+        raise ValueError(f"Schéma non supporté pour {username} : {parsed.scheme}")
+
+    return username, url
 
 def get_contributor_lines(contents):
     lines = []
