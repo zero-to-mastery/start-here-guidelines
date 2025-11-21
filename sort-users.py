@@ -47,6 +47,8 @@ def get_url_list(lines):
     return url_list
 
 
+
+
 def create_user_dict(user_list, url_list):
     user_info = {}
     for i in range(len(user_list)):
