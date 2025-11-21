@@ -54,12 +54,6 @@ def create_user_dict(user_list, url_list):
     return user_info
 
 
-def create_user_dict(user_list, url_list):
-    user_info = {}
-    for i in range(len(user_list)):
-        user_info[user_list[i]] = url_list[i]
-    return user_info
-    
 def sort_users(user_dict):
     with open(PATH, 'w') as f:
         f.write('# CONTRIBUTORS\n\n')
