@@ -111,6 +111,8 @@
 
 - [@Askaryabbas](https://github.com/askaryabbas/)
 
+- [Komali Reddy](https://github.com/Komali0706)
+
 - [@Aybread](https://github.com/AY-BREAD/)
 
 - [@Ayeshamuskan2114](https://github.com/Ayesha-Muskan-2114)
