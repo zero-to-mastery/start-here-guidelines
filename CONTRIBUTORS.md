@@ -21,6 +21,8 @@
 
 - [@Aathifzahir](https://github.com/AathifZahir)
 
+- [Kandula Komali Reddy](https://github.com/Komali0706)
+
 - [@Abayvm](https://github.com/abayvm)
 
 - [@Abdullahahadi](https://github.com/abdullahahadi)
