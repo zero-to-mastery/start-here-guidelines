@@ -57,6 +57,8 @@
 
 - [@Ahuzail](https://github.com/AHuzail)
 
+- [Komali Reddy](https://github.com/Komali0706)
+
 - [@Vedavyasa21](https://github.com/Vedavyasa21)
 
 - [@Akindex5427](https://github.com/Akindex5427/)
