@@ -1,3 +1,4 @@
+- [Kandula Komali Reddy](https://github.com/Komali0706)
 # CONTRIBUTORS
 
 - [@2400030303](https://github.com/2400030303)
