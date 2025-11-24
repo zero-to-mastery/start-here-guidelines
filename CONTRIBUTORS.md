@@ -15,9 +15,12 @@
 
 - [@akshith30388](https://github.com/akshith30388)
 
+- [@niveshpadamata1218](https://github.com/niveshpadamata1218)
+
 - [@yeshuawm999](https://github.com/yeshuawm9990)
 
-- [@0NIKHIL0](https://github.com/0NIKHIL0) 
+- [@0NIKHIL0](https://github.com/0NIKHIL0)
+
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
@@ -91,6 +94,8 @@
 - [@Andrewvattuone](https://github.com/andrewvattuone)
 
 - [@Andrisbern](https://github.com/AndrisBer)
+
+- [@Raghu0703](https://github.com/Raghu0703)
 
 - [@Andymartinez1](https://github.com/andymartinez1)
 
@@ -1615,6 +1620,8 @@
 - [@raymonddev0](https://github.com/raymonddev0)
 
 - [@thiagolucas90](https://github.com/thiagolucas90)
+
+- [@hmaness1999-dev](https://github.com/hmaness1999-dev)
 
 - [@blankcry](https://github.com/blankcry)
 
@@ -5133,4 +5140,14 @@
 - [@alkanawiy81](https://github.com/alkanawiy81)
 
 - [@Ranganathan-J](https://github.com/Ranganathan-J)
+
+- [@manmeet-codes](https://github.com/manmeet-codes)
+
+- [@samhitasari05](https://github.com/samhitasari05)
+
+- [@palomanzeyang](https://github.com/palomanzeyang)
+
+- [@DoralieKAMDOUM](https://github.com/DoralieKAMDOUM)
+
+- [@Tokomichel](https://github.com/Tokomichel)
 
