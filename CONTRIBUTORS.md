@@ -14,9 +14,12 @@
 
 - [@akshith30388](https://github.com/akshith30388)
 
+- [@niveshpadamata1218](https://github.com/niveshpadamata1218)
+
 - [@yeshuawm999](https://github.com/yeshuawm9990)
 
-- [@0NIKHIL0](https://github.com/0NIKHIL0) 
+- [@0NIKHIL0](https://github.com/0NIKHIL0)
+
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
@@ -45,6 +48,8 @@
 
 - [@Abrams0](https://github.com/abrams0)
 
+- [@das970](https://github.com/das970)
+
 - [@Acazmaj](https://github.com/acazmaj)
 
 - [@Aceer121](https://github.com/Aceer121)
@@ -52,6 +57,8 @@
 - [@Ahmedanwer](https://github.com/m-ahmed-anwer)
 
 - [@Waseem-Khan-Dawar](https://github.com/Waseem-Khan-Dawar)
+
+- [@Gunashekar31742](https://github.com/Gunashekar31742)
 
 - [@Ahseneremmouche](https://github.com/AhseneRemmouche)
 
@@ -91,11 +98,15 @@
 
 - [@Andrisbern](https://github.com/AndrisBer)
 
+- [@Raghu0703](https://github.com/Raghu0703)
+
 - [@Andymartinez1](https://github.com/andymartinez1)
 
 - [@Andytonks](http://github.com/andy-tonks/)
 
 - [@Anisashabbani](https://github.com/anisashabbani)
+
+- [@eubielaraujo](https://github.com/eubielaraujo)
 
 - [@Anjiri1684](https://github.com/anjiri1684)
 
@@ -1614,6 +1625,8 @@
 - [@raymonddev0](https://github.com/raymonddev0)
 
 - [@thiagolucas90](https://github.com/thiagolucas90)
+
+- [@hmaness1999-dev](https://github.com/hmaness1999-dev)
 
 - [@blankcry](https://github.com/blankcry)
 
@@ -5133,3 +5146,24 @@
 
 - [@Ranganathan-J](https://github.com/Ranganathan-J)
 
+- [@gellikeerthi](https://github.com/gellikeerthi)
+
+- [@manmeet-codes](https://github.com/manmeet-codes)
+
+- [@samhitasari05](https://github.com/samhitasari05)
+
+- [@palomanzeyang](https://github.com/palomanzeyang)
+
+- [@DoralieKAMDOUM](https://github.com/DoralieKAMDOUM)
+
+- [@Tokomichel](https://github.com/Tokomichel)
+
+- [@Rahul2322-P](https://github.com/Rahul2322-P)
+
+- [@saitejx08](https://github.com/saitejx08)
+
+- [@peddinenisusmitha](https://github.com/peddinenisusmitha)
+
+- [@BurramsettyAkshayaPranathi](https://github.com/BurramsettyAkshayaPranathi)
+
+- [@akersarlington](https://github.com/akersarlington)
