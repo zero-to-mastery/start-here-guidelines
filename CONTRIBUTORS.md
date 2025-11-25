@@ -104,6 +104,8 @@
 
 - [@Anisashabbani](https://github.com/anisashabbani)
 
+- [@eubielaraujo](https://github.com/eubielaraujo)
+
 - [@Anjiri1684](https://github.com/anjiri1684)
 
 - [@Ankurv37](https://github.com/ankurv37/)
