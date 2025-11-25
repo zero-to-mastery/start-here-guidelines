@@ -20,6 +20,8 @@
 
 - [@0NIKHIL0](https://github.com/0NIKHIL0)
 
+-[@Ashish-coder-gif] (https://github.com/Ashish-coder-gif)
+
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
