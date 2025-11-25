@@ -32,6 +32,8 @@
 
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
 
+- [@Ashish](https://github.com/Ashish-coder-gif)
+
 - [@Abdullahshiwani](https://github.com/abdullah-shiwani)
 
 - [@Abdulrahman843](https://github.com/Abdulrahman843)
