@@ -104,6 +104,8 @@
 
 - [@Anisashabbani](https://github.com/anisashabbani)
 
+- [@eubielaraujo](https://github.com/eubielaraujo)
+
 - [@Anjiri1684](https://github.com/anjiri1684)
 
 - [@Ankurv37](https://github.com/ankurv37/)
@@ -5155,3 +5157,7 @@
 - [@Tokomichel](https://github.com/Tokomichel)
 
 - [@peddinenisusmitha](https://github.com/peddinenisusmitha)
+
+- [@BurramsettyAkshayaPranathi](https://github.com/BurramsettyAkshayaPranathi)
+
+- [@akersarlington](https://github.com/akersarlington)
