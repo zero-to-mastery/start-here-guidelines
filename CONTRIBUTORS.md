@@ -112,7 +112,7 @@
 
 - [@Ankurv37](https://github.com/ankurv37/)
 
-- [@lokesh2007](https://github.com/lokesh2004king)
+- [KL2400040448](https://github.com/KL2400040448)
 
 - [@Annapoornaaradhya](https://github.com/Annapoornaaradhya)
 
