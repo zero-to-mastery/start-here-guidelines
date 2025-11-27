@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-
 - [@2400030303](https://github.com/2400030303)
 
 - [@4Liyar](https://github.com/4liyar/)
@@ -14,17 +13,23 @@
 
 - [@akshith30388](https://github.com/akshith30388)
 
+- [@niveshpadamata1218](https://github.com/niveshpadamata1218)
+
 - [@yeshuawm999](https://github.com/yeshuawm9990)
 
-- [@0NIKHIL0](https://github.com/0NIKHIL0) 
+- [@0NIKHIL0](https://github.com/0NIKHIL0)
+
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
+- [@MUNJETIJAYANTHKRISHNA](https://github.com/MUNJETIJAYANTHKRISHNA)
+
+- [@enavid](https://github.com/enavid)
 
 - [@Abayvm](https://github.com/abayvm)
 
 - [@Abdullahahadi](https://github.com/abdullahahadi)
-
+- [@vincetoves-hub](https://github.com/vincetoves-hub)
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
 
 - [@Abdullahshiwani](https://github.com/abdullah-shiwani)
@@ -45,6 +50,8 @@
 
 - [@Abrams0](https://github.com/abrams0)
 
+- [@das970](https://github.com/das970)
+
 - [@Acazmaj](https://github.com/acazmaj)
 
 - [@Aceer121](https://github.com/Aceer121)
@@ -52,6 +59,8 @@
 - [@Ahmedanwer](https://github.com/m-ahmed-anwer)
 
 - [@Waseem-Khan-Dawar](https://github.com/Waseem-Khan-Dawar)
+
+- [@Gunashekar31742](https://github.com/Gunashekar31742)
 
 - [@Ahseneremmouche](https://github.com/AhseneRemmouche)
 
@@ -91,15 +100,21 @@
 
 - [@Andrisbern](https://github.com/AndrisBer)
 
+- [@Raghu0703](https://github.com/Raghu0703)
+
 - [@Andymartinez1](https://github.com/andymartinez1)
 
 - [@Andytonks](http://github.com/andy-tonks/)
 
 - [@Anisashabbani](https://github.com/anisashabbani)
 
+- [@eubielaraujo](https://github.com/eubielaraujo)
+
 - [@Anjiri1684](https://github.com/anjiri1684)
 
 - [@Ankurv37](https://github.com/ankurv37/)
+
+- [@KL2400040448](https://github.com/KL2400040448)
 
 - [@Annapoornaaradhya](https://github.com/Annapoornaaradhya)
 
@@ -700,6 +715,7 @@
 - [@Psierrajs](https://github.com/psierrajs)
 
 - [@PuvvadaBhaskar](https://github.com/PuvvadaBhaskar)
+
 - [2400032703kotinijeswanth](https://github.com/2400032703kotinijeswanth)
 
 - [@Qazipoor](https://github.com/qazipoor)
@@ -797,7 +813,6 @@
 - [@Sd3U16](https://github.com/sd3u16/)
 
 - [@Secvrivs](https://github.com/Secvrivs)
-
 
 - [@Seliinneren](https://github.com/seliinneren/)
 
@@ -1615,6 +1630,8 @@
 
 - [@thiagolucas90](https://github.com/thiagolucas90)
 
+- [@hmaness1999-dev](https://github.com/hmaness1999-dev)
+
 - [@blankcry](https://github.com/blankcry)
 
 - [@Dabbyd123](https://github.com/Dabbyd123)
@@ -2105,7 +2122,8 @@
 
 - [@dkida](https://github.com/dkida)
 
--[@Swrzy505](https://github.com/Swrzy505)
+
+- [@Swrzy505](https://github.com/Swrzy505)
 
 - [@katcode](https://github.com/katcode)
 
@@ -2616,6 +2634,8 @@
 - [@KritikaSharmaKS](https://github.com/KritikaSharmaKS)
 
 - [@gjames5355](https://github.com/gjames5355)
+
+- [@JacobCaesar](https://github.com/JacobCaesar)
 
 - [@SumeetJoshi](https://github.com/joshi365)
 
@@ -5013,7 +5033,7 @@
 
 - [Jhoan Montes](https://github.com/JhoanMontes)
 
--[@katiesolokhina] (https://github.com/katiesolokhina)
+- [@katiesolokhina] (https://github.com/katiesolokhina)
 
 - [@Johnnymuoneke](https://github.com/Johnnymuoneke)
 
@@ -5133,3 +5153,40 @@
 
 - [@Ranganathan-J](https://github.com/Ranganathan-J)
 
+- [@gellikeerthi](https://github.com/gellikeerthi)
+
+- [@manmeet-codes](https://github.com/manmeet-codes)
+
+- [@samhitasari05](https://github.com/samhitasari05)
+
+- [@palomanzeyang](https://github.com/palomanzeyang)
+
+- [@DoralieKAMDOUM](https://github.com/DoralieKAMDOUM)
+
+- [@Tokomichel](https://github.com/Tokomichel)
+
+- [@Rahul2322-P](https://github.com/Rahul2322-P)
+
+- [@saitejx08](https://github.com/saitejx08)
+
+- [@peddinenisusmitha](https://github.com/peddinenisusmitha)
+
+- [@BurramsettyAkshayaPranathi](https://github.com/BurramsettyAkshayaPranathi)
+
+- [@akersarlington](https://github.com/akersarlington)
+
+- [@SiddardhReddy-999](https://github.com/SiddardhReddy-999)
+
+- [@DariesTL](https://github.com/DariesTL)
+
+- [@akersarlington](https://github.com/akersarlington)
+
+- [@polasisubash](https://github.com/polasisubash)
+
+- [@abhirammanikantareddymallidi](https://github.com/abhirammanikantareddymallidi)
+
+- [@Kodurikeerthana07](https://github.com/Kodurikeerthana07)
+  
+- [@DharaniReddy-02](https://github.com/DharaniReddy-02)
+
+- [@2400032275](https://github.com/2400032275)
