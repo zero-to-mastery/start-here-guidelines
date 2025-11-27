@@ -1,5 +1,4 @@
 # CONTRIBUTORS
-
 - [@2400030303](https://github.com/2400030303)
 
 - [@4Liyar](https://github.com/4liyar/)
@@ -24,6 +23,8 @@
 
 - [@Aathifzahir](https://github.com/AathifZahir)
 - [@MUNJETIJAYANTHKRISHNA](https://github.com/MUNJETIJAYANTHKRISHNA)
+
+- [@enavid](https://github.com/enavid)
 
 - [@Abayvm](https://github.com/abayvm)
 
@@ -714,6 +715,7 @@
 - [@Psierrajs](https://github.com/psierrajs)
 
 - [@PuvvadaBhaskar](https://github.com/PuvvadaBhaskar)
+
 - [2400032703kotinijeswanth](https://github.com/2400032703kotinijeswanth)
 
 - [@Qazipoor](https://github.com/qazipoor)
@@ -811,7 +813,6 @@
 - [@Sd3U16](https://github.com/sd3u16/)
 
 - [@Secvrivs](https://github.com/Secvrivs)
-
 
 - [@Seliinneren](https://github.com/seliinneren/)
 
@@ -2120,6 +2121,7 @@
 - [@tholidays](https://github.com/tholidays)
 
 - [@dkida](https://github.com/dkida)
+
 
 -[@Swrzy505](https://github.com/Swrzy505)
 
