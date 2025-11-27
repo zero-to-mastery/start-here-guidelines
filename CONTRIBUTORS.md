@@ -2123,7 +2123,7 @@
 - [@dkida](https://github.com/dkida)
 
 
--[@Swrzy505](https://github.com/Swrzy505)
+- [@Swrzy505](https://github.com/Swrzy505)
 
 - [@katcode](https://github.com/katcode)
 
@@ -5033,7 +5033,7 @@
 
 - [Jhoan Montes](https://github.com/JhoanMontes)
 
--[@katiesolokhina] (https://github.com/katiesolokhina)
+- [@katiesolokhina] (https://github.com/katiesolokhina)
 
 - [@Johnnymuoneke](https://github.com/Johnnymuoneke)
 
