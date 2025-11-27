@@ -27,7 +27,7 @@
 - [@Abayvm](https://github.com/abayvm)
 
 - [@Abdullahahadi](https://github.com/abdullahahadi)
-
+- [@vincetoves-hub](https://github.com/vincetoves-hub)
 - [@Abdullahhmurad](https://github.com/AbdullahhMurad)
 
 - [@Abdullahshiwani](https://github.com/abdullah-shiwani)
@@ -5169,5 +5169,3 @@
 - [@BurramsettyAkshayaPranathi](https://github.com/BurramsettyAkshayaPranathi)
 
 - [@akersarlington](https://github.com/akersarlington)
-
--[@vincetoves-hub](https://github.com/vincetoves-hub)
