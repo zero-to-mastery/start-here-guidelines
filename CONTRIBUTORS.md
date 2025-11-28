@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+
 - [@2400030303](https://github.com/2400030303)
 
 - [@4Liyar](https://github.com/4liyar/)
@@ -2121,7 +2122,6 @@
 - [@tholidays](https://github.com/tholidays)
 
 - [@dkida](https://github.com/dkida)
-
 
 - [@Swrzy505](https://github.com/Swrzy505)
 
@@ -5186,7 +5186,8 @@
 - [@abhirammanikantareddymallidi](https://github.com/abhirammanikantareddymallidi)
 
 - [@Kodurikeerthana07](https://github.com/Kodurikeerthana07)
-  
 - [@DharaniReddy-02](https://github.com/DharaniReddy-02)
 
 - [@2400032275](https://github.com/2400032275)
+
+- [@vitohuangdev](https://github.com/vitohuangdev)
