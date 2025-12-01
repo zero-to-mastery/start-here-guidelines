@@ -409,6 +409,8 @@
 
 - [@Javidveg](https://github.com/javidVeg)
 
+- [@john-carlo-flores](https://github.com/john-carlo-flores)
+
 - [@Jeffwiatt](https://github.com/jeffwiatt)
 
 - [@JenniferEVolk](https://github.com/jenniferevolk)
@@ -5195,7 +5197,6 @@
 - [@2400032275](https://github.com/2400032275)
 
 - [@vitohuangdev](https://github.com/vitohuangdev)
-
 
 - [@firestarnc](https://github.com/firestarnc)
 
