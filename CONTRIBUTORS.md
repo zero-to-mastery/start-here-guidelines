@@ -1,4 +1,5 @@
 # CONTRIBUTORS
+- [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 
 - [@2400030303](https://github.com/2400030303)
 
@@ -454,6 +455,7 @@
 - [@Kasalehi](https://github.com/kasalehi)
 
 - [@Kasunjayasanka](https://github.com/kasunjayasanka)
+- [@optimusprimeleader345](https://github.com/optimusprimeleader345)
 
 - [@Kavenwo](https://github.com/KavenWo)
 
@@ -1110,6 +1112,8 @@
 - [@FoolishWayne](https://github.com/FoolishWayne)
 
 - [@Manvi-Agrawal](https://github.com/Manvi-Agrawal)
+
+- [@JoeBreidinger](https://github.com/JoeBreidinger)
 
 - [@lperanni](https://github.com/lperanni)
 
@@ -5205,3 +5209,5 @@
 - [@jonathanw82](https://github.com/jonathanw82)
 
 - [@Ritchee92](https://github.com/Ritchee92)
+
+- [@Mr-Frank1212](https://github.com/Mr-Frank1212)
