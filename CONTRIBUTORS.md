@@ -453,6 +453,7 @@
 - [@Kasalehi](https://github.com/kasalehi)
 
 - [@Kasunjayasanka](https://github.com/kasunjayasanka)
+- [@optimusprimeleader345](https://github.com/optimusprimeleader345)
 
 - [@Kavenwo](https://github.com/KavenWo)
 
@@ -1109,6 +1110,8 @@
 - [@FoolishWayne](https://github.com/FoolishWayne)
 
 - [@Manvi-Agrawal](https://github.com/Manvi-Agrawal)
+
+- [@JoeBreidinger](https://github.com/JoeBreidinger)
 
 - [@lperanni](https://github.com/lperanni)
 
