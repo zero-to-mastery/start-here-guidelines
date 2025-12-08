@@ -5215,4 +5215,4 @@
 
 - [@Mr-Frank1212](https://github.com/Mr-Frank1212)
 
-- [@krarlos] (https://github.com/krarlos)
+- [@krarlos](https://github.com/krarlos)
