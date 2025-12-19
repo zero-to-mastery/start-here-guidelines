@@ -29,6 +29,7 @@
 - [@Paaleee](https://github.com/YG-paaleee)
 
 - [@Aathifzahir](https://github.com/AathifZahir)
+- [@Cima9642](https://github.com/Cima9642)
 - [@MUNJETIJAYANTHKRISHNA](https://github.com/MUNJETIJAYANTHKRISHNA)
 
 - [@enavid](https://github.com/enavid)
@@ -2549,6 +2550,8 @@
 - [@macrunning](https://github.com/macrunning)
 
 - [@rgavinc](https://github.com/rgavinc)
+
+- [@ChrisAhearn](https://github.com/ChrisAhearn)
 
 - [@greenloadra](https://github.com/greenloadra)
 
@@ -5219,10 +5222,20 @@
 - [@Mr-Frank1212](https://github.com/Mr-Frank1212)
 
 - [@krarlos](https://github.com/krarlos)
--
+
 - [@Gabriel200377](https://github.com/Gabriel200377)
 
 - [@KEVMENEA](https://github.com/KEVMENEA)
+
+- [@t-fahim](https://github.com/t-fahim)
+
+- [@n-hendrix1990](https://github.com/n-hendrix1990)
+
+- [@Meltem-karazor](https://github.com/Meltem-karazor/)
+
+- [@thomasjuma](https://github.com/thomasjuma)
+
+- [@vipransh4](https://github.com/vipransh4)
 
 - [@Qwadjou-dan](https://github.com/Qwadjou-dan)
 
