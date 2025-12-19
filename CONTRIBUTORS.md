@@ -2550,6 +2550,8 @@
 
 - [@rgavinc](https://github.com/rgavinc)
 
+- [@ChrisAhearn](https://github.com/ChrisAhearn)
+
 - [@greenloadra](https://github.com/greenloadra)
 
 - [@X-ManStan](https://github.com/X-ManStan)
