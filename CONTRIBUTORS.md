@@ -2550,6 +2550,8 @@
 
 - [@rgavinc](https://github.com/rgavinc)
 
+- [@ChrisAhearn](https://github.com/ChrisAhearn)
+
 - [@greenloadra](https://github.com/greenloadra)
 
 - [@X-ManStan](https://github.com/X-ManStan)
@@ -5203,7 +5205,7 @@
 - [@abhirammanikantareddymallidi](https://github.com/abhirammanikantareddymallidi)
 
 - [@Kodurikeerthana07](https://github.com/Kodurikeerthana07)
-- 
+-
 - [@DharaniReddy-02](https://github.com/DharaniReddy-02)
 
 - [@2400032275](https://github.com/2400032275)
@@ -5219,10 +5221,13 @@
 - [@Mr-Frank1212](https://github.com/Mr-Frank1212)
 
 - [@krarlos](https://github.com/krarlos)
-- 
+
 - [@Gabriel200377](https://github.com/Gabriel200377)
 
 - [@KEVMENEA](https://github.com/KEVMENEA)
 
 - [@Meltem-karazor](https://github.com/Meltem-karazor/)
 
+- [@vipransh4](https://github.com/vipransh4)
+
+- [@Qwadjou-dan](https://github.com/Qwadjou-dan)
