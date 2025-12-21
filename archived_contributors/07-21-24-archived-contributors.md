@@ -12162,6 +12162,8 @@
 
 - [@shepherd-astro-flexer](https://github.com/shepherd-astro-flexer)
 
+- [@jacyee](https://github.com/jacyee)
+
 - [@astro](https://github.com/astro)
 
 - [@Farzan-Ullah](https://github.com/Farzan-Ullah)
