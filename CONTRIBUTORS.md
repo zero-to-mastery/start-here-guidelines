@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+- [@Siddu Kuchula](https://github.com/SidduKutchula)
+
 - [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 
 - [@2400030303](https://github.com/2400030303)
@@ -5206,7 +5208,7 @@
 - [@abhirammanikantareddymallidi](https://github.com/abhirammanikantareddymallidi)
 
 - [@Kodurikeerthana07](https://github.com/Kodurikeerthana07)
--
+
 - [@DharaniReddy-02](https://github.com/DharaniReddy-02)
 
 - [@2400032275](https://github.com/2400032275)
@@ -5239,6 +5241,8 @@
 
 - [@Qwadjou-dan](https://github.com/Qwadjou-dan)
 
+- [@cian-ps](https://github.com/cian-ps)
+
 - [@phaamdeen](https://github.com/Phaamdeen)
 
 - [@jacyee](https://github.com/jacyee)
@@ -5246,3 +5250,7 @@
 - [@misterrbill](https://github.com/misterrbill)
 
 - [@Kelmi24](https://github.com/Kelmi24)
+
+- [@CMeert9](https://github.com/CMeert9)
+
+- [@NikitaShivale](https://github.com/NikitaShivale)
