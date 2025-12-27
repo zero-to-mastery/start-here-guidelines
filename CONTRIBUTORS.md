@@ -104,6 +104,8 @@
 
 - [@Andreip91](https://github.com/AndreiP91)
 
+- [@soulfisher](https://github.com/soulfisher)
+
 - [@Andrescontreras1034](https://github.com/AndresContreras1034)
 
 - [@Andrewvattuone](https://github.com/andrewvattuone)
