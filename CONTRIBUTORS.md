@@ -54,6 +54,7 @@
 - [@Andreaferrari95](https://github.com/andreaferrari95)
 - [@Andreea369](https://github.com/andreea369)
 - [@Andreip91](https://github.com/AndreiP91)
+- [@soulfisher](https://github.com/soulfisher)
 - [@Andrescontreras1034](https://github.com/AndresContreras1034)
 - [@Andrewvattuone](https://github.com/andrewvattuone)
 - [@Andrisbern](https://github.com/AndrisBer)
