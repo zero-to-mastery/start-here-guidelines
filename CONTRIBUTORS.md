@@ -1984,6 +1984,7 @@
 - [@jtrcarlos](https://github.com/jtrcarlos)
 - [@ZooYo](https://github.com/ZooYo)
 - [@jiochoa](https://github.com/jiochoa)
+- [@DavCarH](https://github.com/DavCarH)
 - [@VoidChips](https://github.com/VoidChips)
 - [@hightower86](https://github.com/hightower86)
 - [@halilguler](https://github.com/halilguler)
