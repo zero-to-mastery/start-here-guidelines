@@ -1984,6 +1984,7 @@
 - [@jtrcarlos](https://github.com/jtrcarlos)
 - [@ZooYo](https://github.com/ZooYo)
 - [@jiochoa](https://github.com/jiochoa)
+- [@DavCarH](https://github.com/DavCarH)
 - [@VoidChips](https://github.com/VoidChips)
 - [@hightower86](https://github.com/hightower86)
 - [@halilguler](https://github.com/halilguler)
@@ -2634,4 +2635,3 @@
 - [@NikitaShivale](https://github.com/NikitaShivale)
 - [@anetov](https://github.com/anetov)
 - [@DeRomuald](https://github.com/DeRomuald)
-- [@goleamit9](https://github.com/goleamit9)
