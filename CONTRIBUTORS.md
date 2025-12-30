@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+-[@MSanjanaa](https://github.com/MSanjanaa)
 - [@Siddu Kuchula](https://github.com/SidduKutchula)
 - [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 - [@2400030303](https://github.com/2400030303)
@@ -1984,6 +1984,7 @@
 - [@jtrcarlos](https://github.com/jtrcarlos)
 - [@ZooYo](https://github.com/ZooYo)
 - [@jiochoa](https://github.com/jiochoa)
+- [@DavCarH](https://github.com/DavCarH)
 - [@VoidChips](https://github.com/VoidChips)
 - [@hightower86](https://github.com/hightower86)
 - [@halilguler](https://github.com/halilguler)
@@ -2635,4 +2636,3 @@
 - [@anetov](https://github.com/anetov)
 - [@DeRomuald](https://github.com/DeRomuald)
 - [@sprucain](https://github.com/sprucain)
-
