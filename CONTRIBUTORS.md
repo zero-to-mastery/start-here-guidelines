@@ -1,5 +1,5 @@
 # CONTRIBUTORS
-
+-[@MSanjanaa](https://github.com/MSanjanaa)
 - [@Siddu Kuchula](https://github.com/SidduKutchula)
 - [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 - [@2400030303](https://github.com/2400030303)
@@ -12,6 +12,7 @@
 - [@akshith30388](https://github.com/akshith30388)
 - [@hamidreza-hezari](https://github.com/hamidreza-hezari)
 - [@niveshpadamata1218](https://github.com/niveshpadamata1218)
+- [@JasonBalayev](https://github.com/JasonBalayev)
 - [@yeshuawm999](https://github.com/yeshuawm9990)
 - [@0NIKHIL0](https://github.com/0NIKHIL0)
 - [@Paaleee](https://github.com/YG-paaleee)
@@ -1983,6 +1984,7 @@
 - [@jtrcarlos](https://github.com/jtrcarlos)
 - [@ZooYo](https://github.com/ZooYo)
 - [@jiochoa](https://github.com/jiochoa)
+- [@DavCarH](https://github.com/DavCarH)
 - [@VoidChips](https://github.com/VoidChips)
 - [@hightower86](https://github.com/hightower86)
 - [@halilguler](https://github.com/halilguler)
@@ -2632,3 +2634,5 @@
 - [@CMeert9](https://github.com/CMeert9)
 - [@NikitaShivale](https://github.com/NikitaShivale)
 - [@anetov](https://github.com/anetov)
+- [@DeRomuald](https://github.com/DeRomuald)
+- [@sprucain](https://github.com/sprucain)
