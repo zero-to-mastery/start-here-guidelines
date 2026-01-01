@@ -1,5 +1,7 @@
 # CONTRIBUTORS
+
 -[@MSanjanaa](https://github.com/MSanjanaa)
+
 - [@Siddu Kuchula](https://github.com/SidduKutchula)
 - [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 - [@2400030303](https://github.com/2400030303)
@@ -1598,6 +1600,7 @@
 - [@Imhest](https://github.com/Imhest)
 - [@Anderson1218](https://github.com/Anderson1218)
 - [@ugozeal](https://github.com/ugozeal)
+- [@LaurisMiziss](https://github.com/LaurisMiziss)
 - [@shaikshafi98](https://github.com/shaikshafi98)
 - [@matko-antunovic](https://github.com/matko-antunovic)
 - [@rezzco](https://github.com/rezzco)
