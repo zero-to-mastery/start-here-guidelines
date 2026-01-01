@@ -1,0 +1,20 @@
+public class Calculator {
+
+    // Method to add two numbers
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
+    // Method to subtract two numbers
+    public static int subtract(int a, int b) {
+        return a - b;
+    }
+
+    public static void main(String[] args) {
+        int x = 10;
+        int y = 5;
+
+        System.out.println("Addition: " + add(x, y));
+        System.out.println("Subtraction: " + subtract(x, y));
+    }
+}
