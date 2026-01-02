@@ -1,5 +1,7 @@
 # CONTRIBUTORS
+
 -[@MSanjanaa](https://github.com/MSanjanaa)
+
 - [@Siddu Kuchula](https://github.com/SidduKutchula)
 - [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 - [@2400030303](https://github.com/2400030303)
@@ -32,6 +34,7 @@
 - [@Abhinavan00](https://github.com/abhinavan00)
 - [@Abhisdroid](https://github.com/Abhis-droid)
 - [@Abhishekpanwarr](https://github.com/AbhishekPanwarr)
+- [@dagraan](https://github.com/dagraan/)
 - [@Abrams0](https://github.com/abrams0)
 - [@das970](https://github.com/das970)
 - [@Acazmaj](https://github.com/acazmaj)
@@ -1669,6 +1672,7 @@
 - [@AlexGithubbb](https://github.com/AlexGithubbb)
 - [@andreycs](https://github.com/AndreyCS)
 - [@boxulavm](https://github.com/boxulavm)
+- [@LaurisMiziss](https://github.com/LaurisMiziss)
 - [@mrawhani](https://github.com/mrawhani)
 - [@razvancir96](https://github.com/razvancir96)
 - [@rubayth](https://github.com/rubayth)
@@ -2636,4 +2640,4 @@
 - [@anetov](https://github.com/anetov)
 - [@DeRomuald](https://github.com/DeRomuald)
 - [@sprucain](https://github.com/sprucain)
--[@Amanmourya09](https://github.com/Amanmourya09)
+- [@Amanmourya09](https://github.com/Amanmourya09)
