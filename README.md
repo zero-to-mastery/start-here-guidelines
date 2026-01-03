@@ -4,6 +4,22 @@ We don't care if you break things. This is a playground, and we encourage failin
 
 ## A Guide to Get Started (used to be the 4 step guide)
 
+### Quick Overview: Fork → Clone → Commit → Pull Request (PR)
+
+Before diving into the detailed steps below, here’s a high-level overview of the standard open-source contribution workflow:
+
+1. **Fork** – Create your own copy of the repository on GitHub.
+2. **Clone** – Download your fork to your local machine.
+3. **Create a branch** – Work on a new branch instead of `main` or `master`.
+4. **Make changes** – Edit files or improve documentation locally.
+5. **Commit** – Save your changes with a clear commit message.
+6. **Push** – Upload your branch to your fork on GitHub.
+7. **Pull Request (PR)** – Open a PR to propose your changes to the original repository.
+
+
+The sections below walk through each step in detail.
+
+
 1. Check out [Andrei's videos on GitHub](https://www.youtube.com/watch?v=JN63v_czZqI) if you haven't watched it already.
 
 2. On the [GitHub page for this repository](https://github.com/zero-to-mastery/start-here-guidelines), click on the button "Fork."
