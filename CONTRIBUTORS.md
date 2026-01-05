@@ -2644,4 +2644,7 @@
 - [@sprucain](https://github.com/sprucain)
 - [@Amanmourya09](https://github.com/Amanmourya09)
 - [@intransic](https://github.com/intransic)
-- [@KoutantouEm](https://github.com/KoutantouEm) -[@AimiliosV](https://github.com/AimiliosV)
+- [@KoutantouEm](https://github.com/KoutantouEm)
+- [@AimiliosV](https://github.com/AimiliosV)
+- [@PappySerge](https://github.com/PappySerge)
+- [@AimiliosV](https://github.com/AimiliosV)
