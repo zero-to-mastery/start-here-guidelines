@@ -1868,6 +1868,7 @@
 - [@JeremyCurtis](https://github.com/jcurtis808)
 - [@mbhup](https://github.com/mbhup)
 - [@Thermiee](https://github.com/thermiee)
+- [@therbta](https://github.com/therbta)
 - [@Krunal1997patel](https://github.com/Krunal1997patel)
 - [@kondzio6312](https://github.com/kondzio6312)
 - [@ssenyondobashir](https://github.com/ssenyondobashir/)
