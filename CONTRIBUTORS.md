@@ -928,6 +928,7 @@
 - [@The24thDS](https://github.com/The24thDS)
 - [@pnelderup](https://github.com/pnelderup)
 - [@AlfredoMarrero](https://github.com/AlfredoMarrero)
+- [@Eakempreet](https://github.com/Eakempreet)
 - [@scooch1](https://github.com/scooch1)
 - [@useramrit](https://github.com/useramrit)
 - [@AlexFil1983](https://github.com/AlexFil1983)
@@ -1105,7 +1106,7 @@
 - [@huy23tran11](https://github.com/huy23tran11)
 - [@RakshaKashyap](https://github.com/kashyap-raksha)
 - [@AubreyDDD](https://github.com/AubreyDDD)
-- [@FocusPocus29](https://github.com/focuspocus29)
+- [@FocusPocus29](https://github.com/focuspocus29
 - [@DylanGnatz](https://github.com/dylangnatz)
 - [@sudprojects](https://github.com/sudprojects)
 - [@garylyq1212](https://github.com/garylyq1212)
