@@ -2653,3 +2653,4 @@
 - [@hijaz10](https://github.com/hijaz10)
 - [@Xev2c](https://github.com/Xev2c)
 - [@mister2fresh](https://github.com/mister2fresh)
+- [@brandonmay-dev](https://github.com/brandonmay-dev)
