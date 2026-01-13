@@ -1,7 +1,6 @@
 # CONTRIBUTORS
 
--[@MSanjanaa](https://github.com/MSanjanaa)
-
+- [@MSanjanaa](https://github.com/MSanjanaa)
 - [@Siddu Kuchula](https://github.com/SidduKutchula)
 - [@vaibhavpal7549](https://github.com/vaibhavpal7549)
 - [@2400030303](https://github.com/2400030303)
@@ -1107,7 +1106,7 @@
 - [@huy23tran11](https://github.com/huy23tran11)
 - [@RakshaKashyap](https://github.com/kashyap-raksha)
 - [@AubreyDDD](https://github.com/AubreyDDD)
-- [@FocusPocus29](https://github.com/focuspocus29
+- [@FocusPocus29](https://github.com/focuspocus29)
 - [@DylanGnatz](https://github.com/dylangnatz)
 - [@sudprojects](https://github.com/sudprojects)
 - [@garylyq1212](https://github.com/garylyq1212)
@@ -1389,7 +1388,7 @@
 - [@marcosandri-dev](https://github.com/marcosandri-dev)
 - [@saiadarsh](https://github.com/saiadarsh)
 - [@xiaoouwang](https://github.com/xiaoouwang)
-- [@zyanng] (https://github.com/ZyanNg)
+- [@zyanng](https://github.com/ZyanNg)
 - [@aishaoyegunle](https://github.com/aishaoyegunle)
 - [@madelinejones](https://github.com/madelinejones)
 - [@sonle](https://github.com/leson238)
@@ -2541,10 +2540,10 @@
 - [@Szymx0504](https://github.com/Szymx0504)
 - [@Keymeow1](https://github.com/KhiapK/)
 - [Jhoan Montes](https://github.com/JhoanMontes)
-- [@katiesolokhina] (https://github.com/katiesolokhina)
+- [@katiesolokhina](https://github.com/katiesolokhina)
 - [@Johnnymuoneke](https://github.com/Johnnymuoneke)
 - [@AVDer](https://github.com/AVDer)
-- [@Codersclaim] (https://github.com/Codersclaim)
+- [@Codersclaim](https://github.com/Codersclaim)
 - [@alexBCN84](https://github.com/alexBCN84)
 - [@visheshind](https://github.com/visheshind)
 - [@kmckinneyii](https://github.com/kmckinneyii)
@@ -2613,6 +2612,7 @@
 - [@BurramsettyAkshayaPranathi](https://github.com/BurramsettyAkshayaPranathi)
 - [@akersarlington](https://github.com/akersarlington)
 - [@SiddardhReddy-999](https://github.com/SiddardhReddy-999)
+- [@srtenginamath](https://github.com/srtenginamath)
 - [@DariesTL](https://github.com/DariesTL)
 - [@akersarlington](https://github.com/akersarlington)
 - [@polasisubash](https://github.com/polasisubash)
@@ -2654,3 +2654,4 @@
 - [@Xev2c](https://github.com/Xev2c)
 - [@mister2fresh](https://github.com/mister2fresh)
 - [@brandonmay-dev](https://github.com/brandonmay-dev)
+- [@jasonjun1221](https://github.com/jasonjun1221)
