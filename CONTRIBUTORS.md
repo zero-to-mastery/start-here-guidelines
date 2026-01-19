@@ -248,6 +248,7 @@
 - [@Klhaug](https://github.com/klhaug/)
 - [@Klnewton](https://github.com/KLNewton)
 - [@Kmosallanejad](https://github.com/kmosallanejad)
+- [@shellsri](https://github.com/shellsri)
 - [@Knejzu](https://github.com/knejzu)
 - [@Knightofelves](https://github.com/JoelBright)
 - [@Kranjec023](https://github.com/Kranjec023)
