@@ -1644,6 +1644,7 @@
 - [@mariah](https://github.com/MariahFarnsworth)
 - [@UnselfconsciousLux](https://github.com/UnselfconsciousLux)
 - [@umarsajjad1992](https://github.com/umarsajjad1992)
+- [@smesi36](https://github.com/smesi36)
 - [@spydermarven](https://github.com/spydermarven)
 - [@nnuch](https://github.com/nnuch)
 - [@Zafarustad](https://github.com/Zafarustad)
