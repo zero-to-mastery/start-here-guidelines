@@ -2660,3 +2660,4 @@
 - [@brandonmay-dev](https://github.com/brandonmay-dev)
 - [@jasonjun1221](https://github.com/jasonjun1221)
 - [@addistjan](https://github.com/addistjan)
+- [@kouconnell](https://github.com/kouconnell)
