@@ -2667,5 +2667,6 @@
 - [@akhyars-it](https://github.com/akhyars-it)
 - [@pratapsinghb007-droid](https://github.com/pratapsinghb007-droid)
 - [@kouconnell](https://github.com/kouconnell)
+- [@Ziora](https://github.com/ziora)
 - [@leon0027](https://github.com/Leon0027)
 - [@AdityaTharunJ](https://github.com/AdityaTharunJ)
