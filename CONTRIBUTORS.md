@@ -663,6 +663,7 @@
 - [@amj358](https://github.com/amj358)
 - [@itmegabby](https://github.com/itmegabby)
 - [@salkenov1](https://github.com/salkenov1)
+- [@GeorgeRachiotis](https://github.com/GeorgeRachiotis)
 - [@etopeojo](https://github.com/etopeojo)
 - [@db12797](https://github.com/db12797)
 - [@Mabedallah](https://github.com/Mabedallah)
@@ -2667,3 +2668,5 @@
 - [@pratapsinghb007-droid](https://github.com/pratapsinghb007-droid)
 - [@kouconnell](https://github.com/kouconnell)
 - [@Ziora](https://github.com/ziora)
+- [@leon0027](https://github.com/Leon0027)
+- [@AdityaTharunJ](https://github.com/AdityaTharunJ)
