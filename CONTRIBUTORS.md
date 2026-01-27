@@ -2670,3 +2670,4 @@
 - [@Ziora](https://github.com/ziora)
 - [@leon0027](https://github.com/Leon0027)
 - [@AdityaTharunJ](https://github.com/AdityaTharunJ)
+- [@linox2000](https://github.com/@linox2000)
