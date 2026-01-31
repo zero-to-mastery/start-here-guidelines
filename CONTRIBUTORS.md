@@ -5233,6 +5233,8 @@
 
 - [@Meltem-karazor](https://github.com/Meltem-karazor/)
 
+- [@Dev_TheoDora](https://github.com/oselokaoduahtheodora-tech/)
+
 - [@thomasjuma](https://github.com/thomasjuma)
 
 - [@vipransh4](https://github.com/vipransh4)
@@ -5240,3 +5242,5 @@
 - [@Qwadjou-dan](https://github.com/Qwadjou-dan)
 
 - [@misterrbill](https://github.com/misterrbill)
+
+- [@Dev-theodora](https://github.com/Dev-theodora)
