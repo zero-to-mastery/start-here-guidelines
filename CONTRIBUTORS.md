@@ -92,6 +92,7 @@
 - [@Dimoudis](https://github.com/Dimoudis)
 - [@Bosecodes](https://github.com/BOSE-git)
 - [@Botiy](https://github.com/Botiy)
+- [@Mon711](https://github.com/Mon711)
 - [@Bozyurt21](https://github.com/bozyurt21)
 - [@Branchandvine](https://github.com/BranchAndVine/)
 - [@Brandtlionlux](https://github.com/BrandtLIONLUX)
