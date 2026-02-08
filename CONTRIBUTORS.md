@@ -1338,6 +1338,7 @@
 - [@ceyescoder](https://github.com/ceyescoder)
 - [@yonis9](https://github.com/yonis9)
 - [@aagjalpankaj](https://github.com/aagjalpankaj)
+- [@omendez930](https://github.com/omendez930)
 - [@swapdroid](https://github.com/swapdroid)
 - [@anniebelkin](https://github.com/anniebelkin)
 - [@peacethekuma](https://github.com/peacethekuma)
