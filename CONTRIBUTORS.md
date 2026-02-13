@@ -270,7 +270,6 @@
 - [@Lone4D7](https://github.com/lone4d7)
 - [@Lonewolf159951](https://github.com/lonewolf159951)
 - [@Lukas2485](https://github.com/lukas2485)
-- [@Lwhite](https://github.com/l-white)
 - [@lennardj](https://github.com/Lennardj/)
 - [@M00Nk0D3](https://github.com/m00nk0d3)
 - [@How-Tin](https://github.com/How-Tin)
