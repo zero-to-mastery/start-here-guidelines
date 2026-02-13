@@ -1097,6 +1097,7 @@
 - [@ProtocolGhostNull](https://github.com/ProtocolGhostNull)
 - [@DevRayHE](https://github.com/DevRayHE)
 - [@NathanAntebi](https://github.com/NathanAntebi)
+- [@rifat328](https://github.com/rifat328)
 - [@K-Atnip](https://github.com/K-Atnip)
 - [@Hivini](https://github.com/Hivini)
 - [@elindjuren](https://github.com/elindjuren)
