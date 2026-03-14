@@ -1193,6 +1193,7 @@
 - [@nharri23](https://github.com/nharri23)
 - [@AnonProgrammer007](https://github.com/AnonProgrammer007)
 - [@Vyper248](https://github.com/Vyper248)
+- [@Teejsh](https://github.com/Teejsh/)
 - [@sherrybayor](https://github.com/sherrybayor)
 - [@may-a](https://github.com/may-a)
 - [@nkleene](https://github.com/nkleene)
