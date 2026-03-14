@@ -98,6 +98,7 @@
 - [@Bozyurt21](https://github.com/bozyurt21)
 - [@Branchandvine](https://github.com/BranchAndVine/)
 - [@Brandtlionlux](https://github.com/BrandtLIONLUX)
+- [@Mahnoor-Zaffar](https://github.com/Mahnoor-Zaffar)
 - [@Bren12](https://github.com/Bren12/)
 - [@Broodhoney](https://github.com/BROODHONEY)
 - [@Bryansoftware](https://github.com/bryansoftware)
@@ -2708,3 +2709,5 @@
 - [@elegbedeyusuf33-debug](https://github.com/elegbedeyusuf33-debug)
 - [@CamFinnie](https://github.com/CamFinnie)
 - [@SamuelOluyemi](https://github.com/SamuelOluyemi)
+- [@AlivasGR](https://github.com/AlivasGR)
+- [@F-Blaze](https://github.com/F-Blaze)
