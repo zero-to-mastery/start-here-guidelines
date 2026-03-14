@@ -2706,5 +2706,6 @@
 - [@Blake01z](https://github.com/Blake01z)
 - [@elegbedeyusuf33-debug](https://github.com/elegbedeyusuf33-debug)
 - [@CamFinnie](https://github.com/CamFinnie)
-- [@F-Blaze](https://github.com/F-Blaze)
 - [@SamuelOluyemi](https://github.com/SamuelOluyemi)
+- [@AlivasGR](https://github.com/AlivasGR)
+- [@F-Blaze](https://github.com/F-Blaze)
