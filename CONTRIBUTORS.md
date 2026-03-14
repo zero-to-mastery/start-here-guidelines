@@ -98,6 +98,7 @@
 - [@Bozyurt21](https://github.com/bozyurt21)
 - [@Branchandvine](https://github.com/BranchAndVine/)
 - [@Brandtlionlux](https://github.com/BrandtLIONLUX)
+- [@Mahnoor-Zaffar](https://github.com/Mahnoor-Zaffar)
 - [@Bren12](https://github.com/Bren12/)
 - [@Broodhoney](https://github.com/BROODHONEY)
 - [@Bryansoftware](https://github.com/bryansoftware)
