@@ -2307,6 +2307,7 @@
 - [@carlpadilla](https://github.com/carlpadilla)
 - [@Tuvalnik12](https://github.com/Tuvalnik12)
 - [@507cardoze](https://github.com/507cardoze)
+- [@dzamoragz](https://github.com/dzamoragz)
 - [@NandiniR77](https://github.com/NandiniR77)
 - [@Marcoswrc2](https://github.com/Marcoswrc2)
 - [@gokalpfirat](https://github.com/gokalpfirat)
@@ -2712,4 +2713,3 @@
 - [@SamuelOluyemi](https://github.com/SamuelOluyemi)
 - [@AlivasGR](https://github.com/AlivasGR)
 - [@F-Blaze](https://github.com/F-Blaze)
-- [@dzamoragz](https://github.com/dzamoragz)
