@@ -1387,6 +1387,7 @@
 - [@StanleyXisco](https://github.com/StanleyXisco)
 - [@rishabbakshi](https://github.com/rishabbakshi)
 - [@waffleflopper](https://github.com/waffleflopper)
+- [@shokry-suleiman](https://github.com/shokry-suleiman)
 - [@sberbom](https://github.com/sberbom)
 - [@A-Dolah](https://github.com/A-Dolah)
 - [@miczuk](https://github.com/miczuk)
