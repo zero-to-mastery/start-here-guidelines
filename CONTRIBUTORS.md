@@ -1387,6 +1387,7 @@
 - [@StanleyXisco](https://github.com/StanleyXisco)
 - [@rishabbakshi](https://github.com/rishabbakshi)
 - [@waffleflopper](https://github.com/waffleflopper)
+- [@shokry-suleiman](https://github.com/shokry-suleiman)
 - [@sberbom](https://github.com/sberbom)
 - [@A-Dolah](https://github.com/A-Dolah)
 - [@miczuk](https://github.com/miczuk)
@@ -2718,3 +2719,4 @@
 - [@JonathanPutra134](https://github.com/JonathanPutra134)
 - [@Sheldon715](https://github.com/Sheldon715)
 - [@BenedictaAlade](https://github.com/BenedictaAlade/)
+- [@vishalalewar](https://github.com/vishalalewar)
