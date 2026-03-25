@@ -2723,3 +2723,4 @@
 - [@Sheldon715](https://github.com/Sheldon715)
 - [@BenedictaAlade](https://github.com/BenedictaAlade/)
 - [@vishalalewar](https://github.com/vishalalewar)
+- [@diego-vega-centeno](https://github.com/diego-vega-centeno)
