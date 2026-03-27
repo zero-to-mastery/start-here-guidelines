@@ -187,6 +187,7 @@
 - [@Gmakes](https://github.com/G-makes)
 - [@Gops26](https://github.com/gops26)
 - [@Gt0Srt](https://github.com/GT0SRT)
+- [@hacrex](https://github.com/hacrex)
 - [@Hameedok](https://github.com/Hameed-ok/)
 - [@Hanlynnaung](https://github.com/Han-Lynn-Aung)
 - [@Harshavardhan2099](https://github.com/Harshavardhan2099)
