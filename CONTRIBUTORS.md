@@ -78,6 +78,7 @@
 - [@Arpowe11](https://github.com/arpowe11/)
 - [@Askaryabbas](https://github.com/askaryabbas/)
 - [@Aybread](https://github.com/AY-BREAD/)
+- [@Akansrodger](https://github.com/Akansrodger)
 - [@Ayeshamuskan2114](https://github.com/Ayesha-Muskan-2114)
 - [@Ayyamagauri](https://github.com/AyyamAgauri)
 - [@Bageorge1976](https://github.com/bageorge1976)
