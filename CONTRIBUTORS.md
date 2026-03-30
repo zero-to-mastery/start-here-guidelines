@@ -1362,6 +1362,7 @@
 - [@PanosCS](https://github.com/PanosCS)
 - [@inoovador](https://github.com/inoovador)
 - [@BarricNL](https://github.com/BarricNL)
+- [@yanas-logs](https://github.com/yanas-logs)
 - [@orpartz](https://github.com/orpartz)
 - [@ArtiSah](https://github.com/artisah)
 - [@WarrenJack](https://github.com/WarrenJack)
