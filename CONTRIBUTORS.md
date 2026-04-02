@@ -2730,4 +2730,5 @@
 - [@diego-vega-centeno](https://github.com/diego-vega-centeno)
 - [@mia-meru](https://github.com/mia-meru)
 - [@Ravas7](https://github.com/Ravas7)
+- [@4ztl4N](https://github.com/4ztl4N)
 - [@CamilaSpace](https://github.com/CamilaSpace)
