@@ -1367,6 +1367,7 @@
 - [@orpartz](https://github.com/orpartz)
 - [@ArtiSah](https://github.com/artisah)
 - [@WarrenJack](https://github.com/WarrenJack)
+- [@Divinedew](https://github.com/Divinedew)
 - [@zdahmed93](https://github.com/zdahmed93)
 - [@calabaza91](https://github.com/calabaza91)
 - [@jhtfan](https://github.com/jhtfan)
