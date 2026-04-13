@@ -1448,6 +1448,7 @@
 - [@kalimad924](https://github.com/kalimad924)
 - [@miyazh](https://github.com/miyazh)
 - [@darklordace](https://github.com/darklordace)
+- [@zhaibin213](https://github.com/zhaibin213)
 - [@jbenderdev](https://github.com/jbenderdev)
 - [@sshifty](https://github.com/sshifty)
 - [@crux-in-lan](https://github.com/crux-in-lan)
