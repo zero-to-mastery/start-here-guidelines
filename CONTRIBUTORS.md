@@ -10,6 +10,7 @@
 - [@8Morr](https://github.com/8morr)
 - [@5marvv](https://github.com/5marvv)
 - [@A.Do](https://github.com/Jrho-0)
+- [@gaurav4707](https://github.com/gaurav4707)
 - [@Aakashraodev](http://github.com/aakashRao-dev)
 - [@tekwok](https://github.com/tekwok)
 - [@akshith30388](https://github.com/akshith30388)
