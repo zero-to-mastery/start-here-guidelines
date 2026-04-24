@@ -2908,8 +2908,6 @@
 
 - [@Luxumbra](https://github.com/luxumbra)
 
-- [@Lwhite](https://github.com/l-white)
-
 - [@Lylemallette](https://github.com/lyleMallette)
 
 - [@Lysuvorova](https://github.com/lysuvorova)
