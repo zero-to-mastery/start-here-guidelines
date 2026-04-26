@@ -2910,8 +2910,6 @@
 
 - [@Luxumbra](https://github.com/luxumbra)
 
-- [@Lwhite](https://github.com/l-white)
-
 - [@Lylemallette](https://github.com/lyleMallette)
 
 - [@Lysuvorova](https://github.com/lysuvorova)
@@ -4356,6 +4354,8 @@
 - [@Savithree](https://github.com/Savithree)
 
 - [@Sawyerlau](https://github.com/ccasJay)
+
+- [@Sayantan-B-dev](https://github.com/Sayantan-B-dev)
 
 - [@Sayyidmarvanvt](https://github.com/sayyidmarvanvt)
 
@@ -6525,3 +6525,16 @@
 - [@Zvosab](https://github.com/Zvosab)
 
 - [@Zyanng](https://github.com/ZyanNg)
+- [@Zyanng](https://github.com/ZyanNg)
+
+- [@dindrawii](https://github.com/dindrawii)
+
+- [@AmmarYasserSaad](https://github.com/AmmarYasserSaad)
+
+- [@Fathy-Ahmed](https://github.com/Fathy-Ahmed)
+
+- [@muhmdramah](https://github.com/muhmdramah)
+
+- [@dindrawii](https://github.com/dindrawii)
+
+- [@caap14](https://github.com/caap14)
