@@ -502,6 +502,8 @@
 
 - [@Archit171192](https://github.com/archit171192)
 
+- [@Anosh1000](https://github.com/anosh1000)
+
 - [@Arduino731](https://github.com/arduino731)
 
 - [@Arelixdev](https://github.com/arelixdev)
