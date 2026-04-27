@@ -2908,8 +2908,6 @@
 
 - [@Luxumbra](https://github.com/luxumbra)
 
-- [@Lwhite](https://github.com/l-white)
-
 - [@Lylemallette](https://github.com/lyleMallette)
 
 - [@Lysuvorova](https://github.com/lysuvorova)
@@ -6537,3 +6535,5 @@
 - [@muhmdramah](https://github.com/muhmdramah)
 
 - [@dindrawii](https://github.com/dindrawii)
+
+- [@caap14](https://github.com/caap14)
