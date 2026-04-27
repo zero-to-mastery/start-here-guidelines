@@ -2908,8 +2908,6 @@
 
 - [@Luxumbra](https://github.com/luxumbra)
 
-- [@Lwhite](https://github.com/l-white)
-
 - [@Lylemallette](https://github.com/lyleMallette)
 
 - [@Lysuvorova](https://github.com/lysuvorova)
@@ -4084,6 +4082,8 @@
 - [@Rjquindoza](https://github.com/rjquindoza)
 
 - [@Rmckays](https://github.com/Rmckays)
+
+- [@RMSH0410] (https://github.com/RMSH0410)
 
 - [@Rmf2Pt](https://github.com/RMF2PT)
 
