@@ -6545,3 +6545,5 @@
 - [@bilalhalici](https://github.com/bilalhalici)
 
 - [@chloemays](https://github.com/chloemays)
+- [@greghahn](https://github.com/greg-hahn)
+- [@fatstinkypanda](https://github.com/fatstinkypanda)
