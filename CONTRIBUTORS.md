@@ -42,6 +42,8 @@
 
 - [@A.Do](https://github.com/Jrho-0)
 
+- [@vinicius-goulart](https://github.com/vinicius-goulart)
+
 - [@A510102](https://github.com/a510102)
 
 - [@Aabrockk](https://github.com/Aabrockk)
