@@ -6579,7 +6579,14 @@
 - [@xavierassad](https://github.com/xavierassad)
 
 - [@pmbfsa](https://github.com/pmbfsa)
+
 - [@ogajajames1](https://github.com/ogajajames1)
--[@BertaRyan](https://github.com/BertaRyan)
+
+- [@BertaRyan](https://github.com/BertaRyan)
+
+- [@Rvvshid04](https://github.com/Rvvshid04)
+
+- [@BertaRyan](https://github.com/BertaRyan)
 
 - [@gajendrachary](https://github.com/gajendrachary)
+
