@@ -6600,3 +6600,4 @@
 - [@Inc0nsist3nt] (https://github.com/Inc0nsist3nt)
 
 - [@mohamedRamadan16](https://github.com/mohamedRamadan16)
+- [@frarangel3](https://github.com/frarangel3)
