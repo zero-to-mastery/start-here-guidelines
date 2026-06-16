@@ -3034,6 +3034,8 @@
 
 - [@Marcosandridev](https://github.com/marcosandri-dev)
 
+- [@CodenameVe](https://github.com/CodenameVe)
+
 - [@Marcoswrc2](https://github.com/Marcoswrc2)
 
 - [@Marevh](https://github.com/marevh)
