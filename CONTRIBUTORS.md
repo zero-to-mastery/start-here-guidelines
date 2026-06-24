@@ -14,6 +14,8 @@
 
 - [@2400030343Sameerreddy](https://github.com/2400030343SameerReddy)
 
+- [lazyKid64](https://github.com/lazyKid64)
+
 - [@2400032275](https://github.com/2400032275)
 
 - [@2400032703Kotinijeswanth](https://github.com/2400032703kotinijeswanth)
