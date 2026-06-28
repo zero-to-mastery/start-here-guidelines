@@ -9,7 +9,6 @@
 - [@1Shrijeetlap1](https://github.com/1-shrijeetlap-1)
 
 - [Summy Kumari](https://github.com/summykumari567)
-  
 - [@2400030303](https://github.com/2400030303)
 
 - [@2400030343Sameerreddy](https://github.com/2400030343SameerReddy)
@@ -2439,6 +2438,8 @@
 - [@Jonathanw82](https://github.com/jonathanw82)
 
 - [@Jonatng](https://github.com/jonatng)
+
+- [@Brav3Trav3l3r](https://github.com/Brav3Trav3l3r)
 
 - [@Jonhill24](https://github.com/JonHill24)
 
