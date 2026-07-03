@@ -6622,4 +6622,5 @@
 
 - [@curios-guy](https://github.com/curios-guy)
 
+- [Palvendra Choudhary](https://github.com/palvendrachoudhary)
 - [@sahil29roy](https://github.com/sahil29roy)
