@@ -7763,6 +7763,8 @@
 
 - [@sahil29roy](https://github.com/sahil29roy)
 
+- [@KalpitaMandal](https://github.com/KalpitaMandal)
+
 - [Ankit Shrestha](https://github.com/ankitdevlabs)
 
 - [@medhassii](https://github.com/medhassii/)
