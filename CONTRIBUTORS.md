@@ -3626,7 +3626,7 @@
 
 - [@Oisinq](https://github.com/oisinq)
 
-- [vaibhavmodi45] (https://github.com/vaibhavmodi45)
+- [@vaibhavmodi45](https://github.com/vaibhavmodi45)
 
 - [@Ojasgulati](https://github.com/ojasgulati)
 
