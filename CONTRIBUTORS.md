@@ -522,6 +522,8 @@
 
 - [@Arelixdev](https://github.com/arelixdev)
 
+- [@Minato95-ayu](https://github.com/Minato95-ayu)
+
 - [@Arellanoluis](https://github.com/arellanoluis)
 
 - [@Arichylton](https://github.com/arichylton)
