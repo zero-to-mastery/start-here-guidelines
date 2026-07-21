@@ -5245,6 +5245,8 @@
 
 - [@Wannabeatree](https://github.com/WannaBeATree)
 
+- [@ShaineTsou](https://github.com/ShaineTsou)
+
 - [@Warrenjack](https://github.com/WarrenJack)
 
 - [@Waseemkhandawar](https://github.com/Waseem-Khan-Dawar)
