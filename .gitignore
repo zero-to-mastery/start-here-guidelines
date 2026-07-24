@@ -1,6 +1,7 @@
 # IDE files
 .DS_Store
 .vscode
+.vs
 .idea
 .iml
 .history
