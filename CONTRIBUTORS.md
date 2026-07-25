@@ -3672,7 +3672,9 @@
 
 - [@Omsonawane360](https://github.com/OmSonawane-360)
 
-- [@Omvanya](https://github.com/OmVanya) -[@OmYewale](https://github.com/OMEE-Y)
+- [@Omvanya](https://github.com/OmVanya)
+
+- [@OmYewale](https://github.com/OMEE-Y)
 
 - [@Ongkw](https://github.com/Ong-KW)
 
