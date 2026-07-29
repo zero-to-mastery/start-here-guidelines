@@ -24,6 +24,8 @@
 
 - [@2Ndrunner](https://github.com/2nd-Runner)
 
+- [@Biruh-Tesfa](https://github.com/Biruh-Tesfa)
+
 - [@3Ntlip](https://github.com/3NtliP)
 
 - [@4Liyar](https://github.com/4liyar/)
