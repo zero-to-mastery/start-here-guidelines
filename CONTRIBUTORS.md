@@ -2,6 +2,8 @@
 
 - [@0Dkhalid](https://github.com/0DKhalid)
 
+- [@Biruh-Tesfa](https://github.com/Biruh-Tesfa)
+
 - [@0Nikhil0](https://github.com/0NIKHIL0)
 
 - [@18Ucs096](https://github.com/18ucs096)
