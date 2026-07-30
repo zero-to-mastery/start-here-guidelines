@@ -4039,6 +4039,8 @@
 
 - [@Rbabatunde](https://github.com/rbabatunde)
 
+- [@Ryan-W-Dev](https://github.com/Ryan-W-Dev)
+
 - [@Rbmanez](https://github.com/rbmanez)
 
 - [@Rcarvalhodan](https://github.com/RCarvalhoDan)
