@@ -1672,6 +1672,8 @@
 
 - [@Ezzu](https://github.com/Ezziu)
 
+- [@EsraaBakkar](https://github.com/EsraaBakkar)
+
 - [@F2015537](https://github.com/f2015537)
 
 - [@Fabilier228](https://github.com/fabilier228)
