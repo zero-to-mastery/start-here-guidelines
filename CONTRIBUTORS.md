@@ -7816,5 +7816,3 @@
 - [@chamroeun](https://github.com/ChamroeunUON)
 
 - [@AlaaHassanAshour](https://github.com/AlaaHassanAshour)
-
-- [@vladdyz](https://github.com/vladdyz)
