@@ -7821,9 +7821,6 @@
 
 - [@AlaaHassanAshour](https://github.com/AlaaHassanAshour)
 
-<<<<<<< HEAD
 - [@CACF99](https://github.com/CACF99)
 
-=======
->>>>>>> 304be5e02 (Update CONTRIBUTORS.md)
 - [@3bdalrahman33](https://github.com/3bdalrahman33)
