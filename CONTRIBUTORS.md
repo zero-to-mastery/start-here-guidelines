@@ -181,7 +181,7 @@
 
 - [@Afraz](https://github.com/afrazz)
 
-- [@All-Tadayoni](https://github.com/Ali-Tadayoni)
+- [@Ali-Tadayoni](https://github.com/Ali-Tadayoni)
 
 - [@Afreekamode](https://github.com/afreekamode)
 
