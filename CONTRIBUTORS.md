@@ -4,8 +4,9 @@
 - [@0Dkhalid](https://github.com/0DKhalid)
 
 - [@0Nikhil0](https://github.com/0NIKHIL0)
-
 - [@18Ucs096](https://github.com/18ucs096)
+
+- [@GBoykov29](https://github.com/GBoykov29)
 
 - [@1Shrijeetlap1](https://github.com/1-shrijeetlap-1)
 
