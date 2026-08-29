@@ -1,5 +1,7 @@
 # CONTRIBUTORS
 
+ - [@Darkness00132](https://github.com/Darkness00132)
+
 - [@@hosseinghorbani0](https://github.com/hosseinghorbani0)
 
 - [@0Dkhalid](https://github.com/0DKhalid)
