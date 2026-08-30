@@ -1,0 +1,48 @@
+name: 'Generate Contributors Jobs'
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  if_merged:
+    if: github.event.pull_request.merged == true
+    runs-on: ubuntu-latest
+
+    steps:
+      - run: |
+          echo "merging"
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.pull_request.base.ref }}
+
+      - name: Install Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.13' 
+
+
+      - name: Generate conrtibutors page
+        run: python generate_page.py
+
+
+      - name: Check generated index.html
+        run: |
+          ls -la
+          test -f index.html
+          cat index.html
+
+      - name: Install tidy & Format index.html
+        run: |
+          sudo apt-get update
+          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y tidy
+          tidy -q -modify -ashtml index.html || true
+
+      - name: Commit generated page
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f index.html
+          git diff --cached --quiet || git commit -m "Generate contributors page"
+          git push

@@ -1,3 +1,8 @@
+"""
+Generate an Contributors Page
+- reading CONTRIBUTORS.md to generate html blocks
+"""
+
 import re
 
 CONTRIBUTORS_PATH = './CONTRIBUTORS.md'
@@ -56,11 +61,18 @@ def create_list_items(contributors):
             f"bg-[{MAIN_COLOR}]/10  inset-ring inset-ring-gray-400/20"
         )
 
-        li = '<li class="relative isolate flex justify-around bg-white h-20 w-80 rounded-lg shadow hover:scale-102 duration-100 ease-in-out">'
-        li +=   f'<a href="{contributor["link"]}" target="_blank" class="flex w-full rounded-md justify-around bg-white">'
+        li = '<li class="relative isolate flex justify-around bg-white h-20 w-80 min-w-80 '
+        li +=   'rounded-lg shadow hover:scale-102 duration-100 ease-in-out">'
+
+        li +=   f'<a href="{contributor["link"]}" target="_blank" class="flex w-full '
+        li +=    'rounded-md justify-around bg-white">'
+
         li +=     '<div class="flex w-full items-center gap-5 p-4">'
         li +=       '<div class="flex w-full gap-4">'
-        li +=           f'<img class="brightness-110 rounded-full h-12 w-12" src="{contributor["avatar"]}" loading="lazy"/>'
+
+        li +=           '<img class="brightness-110 rounded-full h-12 w-12" '
+        li +=           f' src="{contributor["avatar"]}" loading="lazy" alt="Member profile"/>'
+
         li +=           '<div class="flex flex-col justify-center">'
         li +=               '<h2 class="capitalize text-x1 font-bold">'
         li +=                   f'{contributor["handler"]}'
@@ -101,8 +113,12 @@ def create_html_content():
     contributor_count = len(contributor_list_items)
 
     # HTML list content ( ul + li )
-    html_content = f'<span title="Currently {contributor_count} contributors" class="text-sm mb-6 flex justify-center italic text-[{SECONDARY_COLOR}]">({contributor_count})</span>'
-    html_content += '<ul loading="lazy" class="flex flex-wrap gap-1.5 w-fill justify-center">'
+    html_content = (
+        f'<span title="Currently {contributor_count} contributors" '
+        f'class="text-sm mb-6 flex justify-center italic text-[{SECONDARY_COLOR}]"> '
+        f'({contributor_count})</span> '
+        '<ul loading="lazy" class="flex flex-wrap gap-1.5 w-fill justify-center"> '
+    )
     for li in contributor_list_items:
         html_content += li
     html_content += '</ul>'
@@ -125,29 +141,32 @@ def generate_page(index_path = INDEX_PATH):
         ")]"
     )
     base = (
-    '<!DOCTYPE html>'
-    '<html lang="en">'
-    '<head>'
+    '<!DOCTYPE html> '
+    '<html lang="en"> '
+    '<head> '
         '<meta charset="UTF-8">'
-        '<meta name="viewport" content="width=device-width, initial-scale=1.0">'
-        '<link rel="preconnect" href="https://fonts.googleapis.com">'
-        '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>'
-        '<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">'
-        '<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>'
-        '<title>Contributors</title>'
-    '</head>'
-    f'<body style="font-family: Nunito" class="text-[{MAIN_COLOR}]">'
-        f'<main class="flex flex-col justify-center {bg_css} max-w-screen px-20 py-50">'
-        f'<h1 class="relative flex justify-center text-6xl font-extrabold text-[{SECONDARY_COLOR}] text-shadow-md" style="font-family: Montserrat">• Contributors •</h1>'
-            '[__CONTENT__]'
-        '</main>'
-    '</body>'
+        '<meta name="viewport" content="width=device-width, initial-scale=1.0"> '
+        '<link rel="preconnect" href="https://fonts.googleapis.com"> '
+        '<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> '
+        '<link href="https://fonts.googleapis.com/css2'
+        '?family=Montserrat:ital,wght@0,100..900;1,100..900'
+        '&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet"> '
+        '<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script> '
+        '<title>Contributors</title> '
+    '</head> '
+    f'<body style="font-family: Nunito" class="text-[{MAIN_COLOR}]"> '
+        f'<main class="flex flex-col justify-center {bg_css} max-w-screen px-20 py-50"> '
+        f'<h1 class="relative flex justify-center text-6xl font-extrabold text-[{SECONDARY_COLOR}] '
+         'text-shadow-md" style="font-family: Montserrat">• Contributors •</h1> '
+            '[__CONTENT__] '
+        '</main> '
+    '</body> '
     )
 
     contributor_ul = create_html_content()
     base = base.replace(REPLACER, contributor_ul)
 
-    with open(index_path, 'w') as f:
+    with open(index_path, 'w', encoding='utf-8') as f:
         f.write(base)
         f.close()
 
