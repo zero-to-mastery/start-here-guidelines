@@ -1,21 +1,21 @@
 name: 'Generate Contributors Jobs'
 
 on:
-  pull_request:
-    types:
-      - closed
+  push:
+    branches: [master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
-  if_merged:
-    if: github.event.pull_request.merged == true
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - run: |
-          echo "merging"
-      - uses: actions/checkout@v7
-        with:
-          ref: ${{ github.event.pull_request.base.ref }}
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Install Python
         uses: actions/setup-python@v7
@@ -23,26 +23,33 @@ jobs:
           python-version: '3.13' 
 
 
-      - name: Generate conrtibutors page
+      - name: Generate contributors page
         run: python generate_page.py
 
 
       - name: Check generated index.html
         run: |
           ls -la
-          test -f index.html
-          cat index.html
+          test -f ./dist/index.html
 
-      - name: Install tidy & Format index.html
-        run: |
-          sudo apt-get update
-          sudo DEBIAN_FRONTEND=noninteractive apt-get install -y tidy
-          tidy -q -modify -ashtml index.html || true
 
-      - name: Commit generated page
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -f index.html
-          git diff --cached --quiet || git commit -m "Generate contributors page"
-          git push
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload static file
+        id: statics
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+  deploy:
+    environment:
+          name: github-pages
+          url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

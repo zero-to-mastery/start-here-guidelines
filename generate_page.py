@@ -4,9 +4,10 @@ Generate an Contributors Page
 """
 
 import re
+import os
 
 CONTRIBUTORS_PATH = './CONTRIBUTORS.md'
-INDEX_PATH = './index.html'
+INDEX_PATH = './dist/index.html'
 REPLACER = '[__CONTENT__]'
 
 MAIN_COLOR = '#4c0ffb'
@@ -89,15 +90,6 @@ def create_list_items(contributors):
     return list_items
 
 
-def read_index(index_path=INDEX_PATH):
-    '''
-    Reads index file
-    :param index_path: index.html path
-    '''
-    with open(index_path, encoding="utf-8") as f:
-        html = f.read()
-    return html
-
 # Generates content to replace [__CONTENT__] ( with ul, li )
 def create_html_content():
     '''
@@ -172,4 +164,5 @@ def generate_page(index_path = INDEX_PATH):
 
 
 if __name__ == '__main__':
+    os.makedirs(os.path.dirname(INDEX_PATH), exist_ok=True)
     generate_page()

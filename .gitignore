@@ -30,6 +30,7 @@ target
 out
 out
 gen
+dist
 __
 
 index.html
