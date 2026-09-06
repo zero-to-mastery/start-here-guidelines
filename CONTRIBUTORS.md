@@ -1,6 +1,6 @@
 # CONTRIBUTORS
 
-- [@abbasg-dev] (https://github.com/abbasg-dev)
+- [@abbasg-dev](https://github.com/abbasg-dev)
 
 - [@Darkness00132](https://github.com/Darkness00132)
 
