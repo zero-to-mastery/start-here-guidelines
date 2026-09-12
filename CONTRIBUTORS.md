@@ -7880,4 +7880,5 @@
 
 - [@MahmoudZarad](https://github.com/MahmoudZarad)
 
+- [@canhtrong26-dev](https://github.com/canhtrong26-dev)
 
