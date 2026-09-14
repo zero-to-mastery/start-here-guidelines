@@ -8,6 +8,8 @@
 
 - [@mmaksi](https://github.com/mmaksi)
 
+- [@KristoferFangrat](https://github.com/KristoferFangrat)
+
 - [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
 
 - [@0Samamirza](https://github.com/0sama-Mirza)
