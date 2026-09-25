@@ -8,6 +8,11 @@
 
 - [@0Dkhalid](https://github.com/0DKhalid)
 
+
+- [@KristoferFangrat](https://github.com/KristoferFangrat)
+
+- [@Akash_Jambulkar](https://github.com/Akash-Jambulkar)
+- 
 - [@0Nikhil0](https://github.com/0NIKHIL0)
 
 - [@18Ucs096](https://github.com/18ucs096)
