@@ -3951,6 +3951,8 @@
 
 - [@Protocolghostnull](https://github.com/ProtocolGhostNull)
 
+- [@mrjw717](https://github.com/mrjw717)
+
 - [@Psdcode](https://github.com/psdcode)
 
 - [@Abdul-Aziz](https://github.com/mukhitdinov-abd)
@@ -7911,3 +7913,6 @@
 - [@DanniSan](https://github.com/DanniSan)
 
 - [@samai827036-wq](https://github.com/samai827036-wq)
+
+- [@osamadel](https://github.com/0samadel)
+
