@@ -48,8 +48,6 @@
 
 - [@milekv](https://github.com/milekv)
 
-- [@MohamedRF](https://github.com/MohamedRF)
-
 - [@8130146](https://github.com/8130146)
 
 - [@8Morr](https://github.com/8morr)
@@ -2985,6 +2983,8 @@
 - [@M.Developer01](https://github.com/MDeveloper001/)
 
 - [@M00Nk0D3](https://github.com/m00nk0d3)
+
+- [@MohammedAmrDev](https://github.com/MohammedAmrDev)
 
 - [@Maaikehaak](https://github.com/MaaikeHaak)
 
