@@ -998,6 +998,8 @@
 
 - [@Chinozanotti](https://github.com/ChinoZanotti/)
 
+- [@ayuuXploits](https://github.com/ayuuXploits)
+
 - [@Chisishis](https://github.com/chisishis)
 
 - [@Chisommm](https://github.com/chisommm)
