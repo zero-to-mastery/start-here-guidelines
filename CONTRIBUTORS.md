@@ -36,6 +36,8 @@
 
 - [@4Liyar](https://github.com/4liyar/)
 
+- [@derichcoder](https://github.com/derichcoder/)
+
 - [@4Ru](https://github.com/4RU)
 
 - [@4Ztl4N](https://github.com/4ztl4N)
