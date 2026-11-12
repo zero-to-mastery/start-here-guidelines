@@ -3959,7 +3959,7 @@
 
 - [@Psergiogps](https://github.com/psergiogps)
 
-- [Aaryan Patel](https://github.com/asp53826)
+- [@Aaryan Patel](https://github.com/asp53826)
 
 - [@Psierrajs](https://github.com/psierrajs)
 
