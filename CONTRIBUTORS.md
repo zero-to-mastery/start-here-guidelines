@@ -3959,6 +3959,8 @@
 
 - [@Psergiogps](https://github.com/psergiogps)
 
+- [@Aaryan Patel](https://github.com/asp53826)
+
 - [@Psierrajs](https://github.com/psierrajs)
 
 - [@Psixta](https://github.com/psixta)
@@ -7912,8 +7914,19 @@
 
 - [@DanniSan](https://github.com/DanniSan)
 
+- [@osamadel](https://github.com/0samadel)
+
+- [Arshad Ansari](https://github.com/05unique-dotcom)
+
 - [@samai827036-wq](https://github.com/samai827036-wq)
 
 - [@osamadel](https://github.com/0samadel)
 
 - [@Youssful](https://github.com/Youssful)
+
+- [@gayathrimgau2008-gayathri-m](https://github.com/gayathrimgau2008-gayathri-m)
+
+- [@Tolawak6](https://github.com/Tolawak6)
+
+- [@Toffeeek](https://github.com/Toffeeek)
+
