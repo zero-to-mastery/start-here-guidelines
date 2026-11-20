@@ -2208,7 +2208,7 @@
 
 - [@Iskomt](https://github.com/iskomt)
 
-- [@IshantMorghade] (https://github.com/IshantMorghade)
+- [@IshantMorghade] (<https://github.com/IshantMorghade>)
 
 - [@Itailevi420](https://github.com/Itailevi420)
 
@@ -3996,6 +3996,8 @@
 - [@Quasiich](https://github.com/Quasiich)
 
 - [@Quietghost](https://github.com/quiet-ghost)
+
+- [@SebZG](https://github.com/SebZG)
 
 - [@Qwadjoudan](https://github.com/Qwadjou-dan)
 
@@ -7910,7 +7912,7 @@
 
 - [@skandermd1](https://github.com/skandermd1)
 
-- [@Mariam-Babi](https://github.com/Mariam-Babi) 
+- [@Mariam-Babi](https://github.com/Mariam-Babi)
 
 - [@suntexyy](https://github.com/suntexyy)
 
@@ -7931,4 +7933,3 @@
 - [@Tolawak6](https://github.com/Tolawak6)
 
 - [@Toffeeek](https://github.com/Toffeeek)
-
