@@ -2506,6 +2506,8 @@
 
 - [@Josahty](https://github.com/josahty)
 
+- [@Joshuajiles](https://github.com/joshuajiles)
+
 - [@Josepaya](https://github.com/JosePaya)
 
 - [@Josephmanriquez](https://github.com/JosephManriquez)
@@ -3958,6 +3960,8 @@
 - [@Abdul-Aziz](https://github.com/mukhitdinov-abd)
 
 - [@Psergiogps](https://github.com/psergiogps)
+
+- [@Aaryan Patel](https://github.com/asp53826)
 
 - [@Psierrajs](https://github.com/psierrajs)
 
@@ -7920,8 +7924,20 @@
 
 - [@osamadel](https://github.com/0samadel)
 
+- [@Youssful](https://github.com/Youssful)
+
+- [@gayathrimgau2008-gayathri-m](https://github.com/gayathrimgau2008-gayathri-m)
+
 - [@Tolawak6](https://github.com/Tolawak6)
 
 - [@Toffeeek](https://github.com/Toffeeek)
 
 - [@pdcampus](https://github.com/pdcampus)
+
+- [@Ali-Ragab](https://github.com/Ali-Ragab214)
+
+- [@jeevi29-tech](https://github.com/jeevi29-tech)
+
+- [@iamazadak](https://github.com/iamazadak) 
+
+- [@mahilet16](https://github.com/mahilet16/)
