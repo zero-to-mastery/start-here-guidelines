@@ -7916,7 +7916,7 @@
 
 - [@skandermd1](https://github.com/skandermd1)
 
-- [@Mariam-Babi](https://github.com/Mariam-Babi) 
+- [@Mariam-Babi](https://github.com/Mariam-Babi)
 
 - [@suntexyy](https://github.com/suntexyy)
 
@@ -7939,6 +7939,8 @@
 - [@Tolawak6](https://github.com/Tolawak6)
 
 - [@Toffeeek](https://github.com/Toffeeek)
+
+- [@boeice](https://github.com/boeice)
 
 - [@safwanmetwally](https://github.com/safwanmetwally)
 
