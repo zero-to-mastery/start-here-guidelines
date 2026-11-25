@@ -7786,7 +7786,7 @@
 
 - [@chloemays](https://github.com/chloemays)
 
-- [priscillaomole] (https://github.com/Priscilla-Omole)
+- [@Priscilla-Omole] (https://github.com/Priscilla-Omole)
 
 - [@greghahn](https://github.com/greg-hahn)
 
