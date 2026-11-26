@@ -2210,7 +2210,7 @@
 
 - [@Iskomt](https://github.com/iskomt)
 
-- [@IshantMorghade] (https://github.com/IshantMorghade)
+- [@IshantMorghade] (<https://github.com/IshantMorghade>)
 
 - [@Itailevi420](https://github.com/Itailevi420)
 
@@ -3998,6 +3998,8 @@
 - [@Quasiich](https://github.com/Quasiich)
 
 - [@Quietghost](https://github.com/quiet-ghost)
+
+- [@SebZG](https://github.com/SebZG)
 
 - [@Qwadjoudan](https://github.com/Qwadjou-dan)
 
